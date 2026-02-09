@@ -2,7 +2,8 @@ name: Telegram News Bot
 
 "on":
   schedule:
-    - cron: '*/5 * * * *'
+    # Every 10 minutes. Also "touching" schedule helps re-enable it if GitHub had paused scheduled runs.
+    - cron: '*/10 * * * *'
   workflow_dispatch:
 
 permissions:
@@ -26,6 +27,21 @@ jobs:
         uses: actions/setup-python@v5
         with:
           python-version: '3.11'
+
+      - name: Restore state from bot-state branch (best-effort)
+        env:
+          STATE_BRANCH: bot-state
+        run: |
+          set -e
+          # If main is protected / pushes are blocked, we keep the state in a dedicated branch.
+          # This branch contains only `.state.cloud.json`.
+          git fetch origin "${STATE_BRANCH}:${STATE_BRANCH}" || true
+          if git show "${STATE_BRANCH}:.state.cloud.json" >/dev/null 2>&1; then
+            git show "${STATE_BRANCH}:.state.cloud.json" > .state.cloud.json
+            echo "restored .state.cloud.json from ${STATE_BRANCH}"
+          else
+            echo "no prior state found in ${STATE_BRANCH} (will initialize)"
+          fi
 
       - name: Ensure state file exists
         run: |
@@ -68,6 +84,7 @@ jobs:
       - name: Commit state
         env:
           GITHUB_TOKEN: ${{ github.token }}
+          STATE_BRANCH: bot-state
         run: |
           if ! git diff --quiet -- .state.cloud.json; then
             git config user.name "github-actions[bot]"
@@ -75,5 +92,7 @@ jobs:
             git add .state.cloud.json
             git commit -m "chore: update bot state"
             git remote set-url origin https://x-access-token:${GITHUB_TOKEN}@github.com/${{ github.repository }}.git
-            git push origin HEAD:main
+            # Push state to a dedicated branch so `main` can stay clean and/or protected.
+            git checkout -B "${STATE_BRANCH}"
+            git push origin "HEAD:${STATE_BRANCH}"
           fi
