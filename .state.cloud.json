@@ -54,7 +54,9 @@
     "https://nypost.com/?post_type=article&p=38438798": 1770674852,
     "https://www.scmp.com/news/china/diplomacy/article/3342892/will-new-high-seas-treaty-open-fresh-front-line-south-china-sea-disputes?utm_source=rss_feed": 1770674852,
     "https://nypost.com/?post_type=article&p=38439758": 1770677737,
-    "https://nypost.com/?post_type=article&p=38437190": 1770677737
+    "https://nypost.com/?post_type=article&p=38437190": 1770677737,
+    "https://www.reuters.com/world/asia-pacific/australias-treasury-wine-settles-us-distributor-dispute-raises-hy-earnings-2026-02-09/": 1770679882,
+    "https://www.scmp.com/economy/china-economy/article/3342960/china-japan-dispute-what-next-businesses-after-takaichis-election-sweep?utm_source=rss_feed": 1770679882
   },
   "night_buffer": [
     {
@@ -205,6 +207,26 @@
         "link": "https://nypost.com/2026/02/09/us-news/california-high-speed-rail-faces-537m-bill-for-work-delays/",
         "published": "Mon, 09 Feb 2026 17:10:54 -0500",
         "image_url": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F02%2F120803086.jpg?quality%3D90%26strip%3Dall"
+      }
+    },
+    {
+      "source": "Reuters",
+      "entry": {
+        "id": "https://www.reuters.com/world/asia-pacific/australias-treasury-wine-settles-us-distributor-dispute-raises-hy-earnings-2026-02-09/",
+        "title": "Australia's Treasury Wine settles US distributor dispute, raises HY earnings outlook",
+        "link": "https://www.reuters.com/world/asia-pacific/australias-treasury-wine-settles-us-distributor-dispute-raises-hy-earnings-2026-02-09/",
+        "published": "Mon, 09 Feb 2026 13:55:00 GMT",
+        "image_url": ""
+      }
+    },
+    {
+      "source": "SCMP",
+      "entry": {
+        "id": "https://www.scmp.com/economy/china-economy/article/3342960/china-japan-dispute-what-next-businesses-after-takaichis-election-sweep?utm_source=rss_feed",
+        "title": "China, Japan dispute: what next for businesses after Takaichi’s election sweep?",
+        "link": "https://www.scmp.com/economy/china-economy/article/3342960/china-japan-dispute-what-next-businesses-after-takaichis-election-sweep?utm_source=rss_feed",
+        "published": "Mon, 09 Feb 2026 23:30:10 +0000",
+        "image_url": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/02/09/219f8bd1-7239-4c33-a920-d8a656f88fb4_6010a6ab.jpg?itok=pfAqeyou&v=1770643236"
       }
     }
   ],
