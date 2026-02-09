@@ -41,7 +41,9 @@
     "https://www.scmp.com/news/china/diplomacy/article/3342964/why-china-worried-japan-election-may-prompt-change-pacifist-constitution?utm_source=rss_feed": 1770646724,
     "https://www.scmp.com/news/asia/south-asia/article/3342959/indias-oil-imports-russia-snared-trump-order-tariff-threat?utm_source=rss_feed": 1770646724,
     "https://nypost.com/2026/02/09/business/eddie-bauer-operator-files-for-bankruptcy-with-hundreds-of-stores-at-risk-of-closing/": 1770653658,
-    "https://www.reuters.com/business/ny-fed-survey-january-near-term-expected-inflation-lower-amid-better-job-market-2026-02-09/": 1770653658
+    "https://www.reuters.com/business/ny-fed-survey-january-near-term-expected-inflation-lower-amid-better-job-market-2026-02-09/": 1770653658,
+    "https://www.economist.com/europe/2026/02/09/the-war-room-newsletter-putins-generals-keep-being-hunted": 1770657212,
+    "https://www.economist.com/middle-east-and-africa/2026/02/05/how-regional-powers-are-thinking-about-a-war-in-iran": 1770657212
   },
   "night_buffer": [
     {
@@ -62,6 +64,26 @@
         "link": "https://www.reuters.com/business/ny-fed-survey-january-near-term-expected-inflation-lower-amid-better-job-market-2026-02-09/",
         "published": "Mon, 09 Feb 2026 07:02:00 GMT",
         "image_url": "https://www.bing.com/th?id=OVFT.NmfYXU2ulM64kQsTM0u05i&pid=News&w=1600&h=900&c=14&rs=1"
+      }
+    },
+    {
+      "source": "Economist",
+      "entry": {
+        "id": "https://www.economist.com/europe/2026/02/09/the-war-room-newsletter-putins-generals-keep-being-hunted",
+        "title": "The War Room newsletter: Putin’s generals keep being hunted",
+        "link": "https://www.economist.com/europe/2026/02/09/the-war-room-newsletter-putins-generals-keep-being-hunted",
+        "published": "Mon, 09 Feb 2026 08:59:00 GMT",
+        "image_url": "https://www.bing.com/th?id=OVFT.y7VSZ5XPz9aVo-IyKjAydC&pid=News&w=1600&h=900&c=14&rs=1"
+      }
+    },
+    {
+      "source": "Economist",
+      "entry": {
+        "id": "https://www.economist.com/middle-east-and-africa/2026/02/05/how-regional-powers-are-thinking-about-a-war-in-iran",
+        "title": "How regional powers are thinking about a war in Iran",
+        "link": "https://www.economist.com/middle-east-and-africa/2026/02/05/how-regional-powers-are-thinking-about-a-war-in-iran",
+        "published": "Wed, 04 Feb 2026 16:01:00 GMT",
+        "image_url": "https://www.bing.com/th?id=OVFT.p5mGndyVmpXf1Xd6GCzGzy&pid=News&w=1600&h=900&c=14&rs=1"
       }
     }
   ],
