@@ -39,8 +39,31 @@
     "https://www.reuters.com/sports/us-skiing-great-vonn-had-two-operations-after-leg-fracture-2026-02-09/": 1770641937,
     "https://www.scmp.com/news/hong-kong/law-and-crime/article/3342954/man-found-dead-suspicious-head-wound-hong-kong-flat?utm_source=rss_feed": 1770641937,
     "https://www.scmp.com/news/china/diplomacy/article/3342964/why-china-worried-japan-election-may-prompt-change-pacifist-constitution?utm_source=rss_feed": 1770646724,
-    "https://www.scmp.com/news/asia/south-asia/article/3342959/indias-oil-imports-russia-snared-trump-order-tariff-threat?utm_source=rss_feed": 1770646724
+    "https://www.scmp.com/news/asia/south-asia/article/3342959/indias-oil-imports-russia-snared-trump-order-tariff-threat?utm_source=rss_feed": 1770646724,
+    "https://nypost.com/2026/02/09/business/eddie-bauer-operator-files-for-bankruptcy-with-hundreds-of-stores-at-risk-of-closing/": 1770653658,
+    "https://www.reuters.com/business/ny-fed-survey-january-near-term-expected-inflation-lower-amid-better-job-market-2026-02-09/": 1770653658
   },
-  "night_buffer": [],
+  "night_buffer": [
+    {
+      "source": "NYP",
+      "entry": {
+        "id": "https://nypost.com/2026/02/09/business/eddie-bauer-operator-files-for-bankruptcy-with-hundreds-of-stores-at-risk-of-closing/",
+        "title": "Eddie Bauer operator files for bankruptcy —  with hundreds of stores at risk of closing",
+        "link": "https://nypost.com/2026/02/09/business/eddie-bauer-operator-files-for-bankruptcy-with-hundreds-of-stores-at-risk-of-closing/",
+        "published": "Mon, 09 Feb 2026 11:09:16 -0500",
+        "image_url": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F02%2Fnewspress-collage-6qoqe8y7o-1770653322171.jpg?quality%3D90%26strip%3Dall%261770635330"
+      }
+    },
+    {
+      "source": "Reuters",
+      "entry": {
+        "id": "https://www.reuters.com/business/ny-fed-survey-january-near-term-expected-inflation-lower-amid-better-job-market-2026-02-09/",
+        "title": "NY Fed survey: January near-term expected inflation lower amid better job market views",
+        "link": "https://www.reuters.com/business/ny-fed-survey-january-near-term-expected-inflation-lower-amid-better-job-market-2026-02-09/",
+        "published": "Mon, 09 Feb 2026 07:02:00 GMT",
+        "image_url": "https://www.bing.com/th?id=OVFT.NmfYXU2ulM64kQsTM0u05i&pid=News&w=1600&h=900&c=14&rs=1"
+      }
+    }
+  ],
   "last_digest_date": ""
 }
