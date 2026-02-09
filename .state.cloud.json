@@ -52,7 +52,9 @@
     "https://www.reuters.com/sustainability/boards-policy-regulation/feds-miran-says-weaker-dollar-not-affecting-monetary-policy-choices-2026-02-09/": 1770670616,
     "https://www.scmp.com/news/world/americas/article/3342978/3-kidnapped-miners-found-dead-mexico-countrys-mining-chamber-says?utm_source=rss_feed": 1770673024,
     "https://nypost.com/?post_type=article&p=38438798": 1770674852,
-    "https://www.scmp.com/news/china/diplomacy/article/3342892/will-new-high-seas-treaty-open-fresh-front-line-south-china-sea-disputes?utm_source=rss_feed": 1770674852
+    "https://www.scmp.com/news/china/diplomacy/article/3342892/will-new-high-seas-treaty-open-fresh-front-line-south-china-sea-disputes?utm_source=rss_feed": 1770674852,
+    "https://nypost.com/?post_type=article&p=38439758": 1770677737,
+    "https://nypost.com/?post_type=article&p=38437190": 1770677737
   },
   "night_buffer": [
     {
@@ -183,6 +185,26 @@
         "link": "https://www.scmp.com/news/china/diplomacy/article/3342892/will-new-high-seas-treaty-open-fresh-front-line-south-china-sea-disputes?utm_source=rss_feed",
         "published": "Mon, 09 Feb 2026 22:00:09 +0000",
         "image_url": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/02/09/fd33ea2b-0ecd-49ce-a774-2c87706af6da_45efa652.jpg?itok=SqX-Ymgg&v=1770617941"
+      }
+    },
+    {
+      "source": "NYP",
+      "entry": {
+        "id": "https://nypost.com/?post_type=article&p=38439758",
+        "title": "Ray Handley, ex-Giants head coach who won two Super Bowls as assistant, dead at 81",
+        "link": "https://nypost.com/2026/02/09/sports/ray-handley-former-giants-head-coach-dead-at-81/",
+        "published": "Mon, 09 Feb 2026 17:30:39 -0500",
+        "image_url": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F02%2Fcrop-38439803.jpg?quality%3D90%26strip%3Dall"
+      }
+    },
+    {
+      "source": "NYP",
+      "entry": {
+        "id": "https://nypost.com/?post_type=article&p=38437190",
+        "title": "California High-Speed Rail hit with new record-breaking delay bill as Gavin Newsom moves to bury records",
+        "link": "https://nypost.com/2026/02/09/us-news/california-high-speed-rail-faces-537m-bill-for-work-delays/",
+        "published": "Mon, 09 Feb 2026 17:10:54 -0500",
+        "image_url": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F02%2F120803086.jpg?quality%3D90%26strip%3Dall"
       }
     }
   ],
