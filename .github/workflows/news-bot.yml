@@ -98,9 +98,11 @@ jobs:
           # Rebase state updates on top of the existing state branch to avoid non-fast-forward pushes.
           git fetch origin "${STATE_BRANCH}" || true
           if git show "origin/${STATE_BRANCH}" >/dev/null 2>&1; then
-            git checkout -B "${STATE_BRANCH}" "origin/${STATE_BRANCH}"
+            # Force checkout: `.state.cloud.json` is tracked on `main` and will be modified by the bot.
+            # We already copied it to /tmp, so it's safe to discard working tree changes.
+            git checkout -f -B "${STATE_BRANCH}" "origin/${STATE_BRANCH}"
           else
-            git checkout --orphan "${STATE_BRANCH}"
+            git checkout -f --orphan "${STATE_BRANCH}"
             git rm -rf . >/dev/null 2>&1 || true
           fi
 
