@@ -47,7 +47,9 @@
     "https://www.economist.com/business/2026/02/09/china-is-waging-war-on-stolen-ideas": 1770660329,
     "https://www.reuters.com/world/asia-pacific/bangladesh-secures-19-us-tariff-exemption-some-apparel-made-with-us-material-2026-02-09/": 1770660329,
     "https://nypost.com/?post_type=article&p=38436117": 1770665833,
-    "https://apnews.com/article/bad-bunny-super-bowl-halftime-show-symbols-4252e3495e2b716b1be9064d5821b61e": 1770665833
+    "https://apnews.com/article/bad-bunny-super-bowl-halftime-show-symbols-4252e3495e2b716b1be9064d5821b61e": 1770665833,
+    "https://apnews.com/article/eddie-bauer-bankruptcy-retail-1f4168dca0060353b3766f0924d9c7da": 1770670616,
+    "https://www.reuters.com/sustainability/boards-policy-regulation/feds-miran-says-weaker-dollar-not-affecting-monetary-policy-choices-2026-02-09/": 1770670616
   },
   "night_buffer": [
     {
@@ -128,6 +130,26 @@
         "link": "https://apnews.com/article/bad-bunny-super-bowl-halftime-show-symbols-4252e3495e2b716b1be9064d5821b61e",
         "published": "Mon, 09 Feb 2026 10:44:00 GMT",
         "image_url": "https://www.bing.com/th?id=OVFT.DaeuiWo4yznASEyUp9l56y&pid=News&w=1600&h=900&c=14&rs=1"
+      }
+    },
+    {
+      "source": "AP NEWS",
+      "entry": {
+        "id": "https://apnews.com/article/eddie-bauer-bankruptcy-retail-1f4168dca0060353b3766f0924d9c7da",
+        "title": "Retail operator of outdoor sportswear pioneer Eddie Bauer files for bankruptcy",
+        "link": "https://apnews.com/article/eddie-bauer-bankruptcy-retail-1f4168dca0060353b3766f0924d9c7da",
+        "published": "Mon, 09 Feb 2026 12:23:00 GMT",
+        "image_url": "https://www.bing.com/th?id=OVFT.zfwOBcGOgdkfNNv7lHcsry&pid=News&w=1600&h=900&c=14&rs=1"
+      }
+    },
+    {
+      "source": "Reuters",
+      "entry": {
+        "id": "https://www.reuters.com/sustainability/boards-policy-regulation/feds-miran-says-weaker-dollar-not-affecting-monetary-policy-choices-2026-02-09/",
+        "title": "Fed's Miran says weaker dollar not affecting monetary policy choices",
+        "link": "https://www.reuters.com/sustainability/boards-policy-regulation/feds-miran-says-weaker-dollar-not-affecting-monetary-policy-choices-2026-02-09/",
+        "published": "Mon, 09 Feb 2026 11:19:00 GMT",
+        "image_url": ""
       }
     }
   ],
