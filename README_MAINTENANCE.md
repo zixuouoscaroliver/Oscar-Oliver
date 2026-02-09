@@ -77,6 +77,9 @@ Variables：
 ## 本地维护与推送更新（不需要输入密码）
 本机已配置 Git 凭据缓存到 macOS Keychain，后续只需要：
 
+建议每次修改前先做一次本地备份（便于回滚排查）：\
+运行 `./backup_version.sh`，会把关键文件拷贝到 `_backups/<时间戳>/`。
+
 ```bash
 cd /Users/oliverou/telegram-news-pusher
 # 修改代码...

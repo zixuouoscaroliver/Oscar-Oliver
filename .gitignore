@@ -7,3 +7,4 @@ notifier.log
 notifier.pid
 launchd.out.log
 launchd.err.log
+_backups/
