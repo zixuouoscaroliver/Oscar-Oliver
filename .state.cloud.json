@@ -43,7 +43,9 @@
     "https://nypost.com/2026/02/09/business/eddie-bauer-operator-files-for-bankruptcy-with-hundreds-of-stores-at-risk-of-closing/": 1770653658,
     "https://www.reuters.com/business/ny-fed-survey-january-near-term-expected-inflation-lower-amid-better-job-market-2026-02-09/": 1770653658,
     "https://www.economist.com/europe/2026/02/09/the-war-room-newsletter-putins-generals-keep-being-hunted": 1770657212,
-    "https://www.economist.com/middle-east-and-africa/2026/02/05/how-regional-powers-are-thinking-about-a-war-in-iran": 1770657212
+    "https://www.economist.com/middle-east-and-africa/2026/02/05/how-regional-powers-are-thinking-about-a-war-in-iran": 1770657212,
+    "https://www.economist.com/business/2026/02/09/china-is-waging-war-on-stolen-ideas": 1770660329,
+    "https://www.reuters.com/world/asia-pacific/bangladesh-secures-19-us-tariff-exemption-some-apparel-made-with-us-material-2026-02-09/": 1770660329
   },
   "night_buffer": [
     {
@@ -84,6 +86,26 @@
         "link": "https://www.economist.com/middle-east-and-africa/2026/02/05/how-regional-powers-are-thinking-about-a-war-in-iran",
         "published": "Wed, 04 Feb 2026 16:01:00 GMT",
         "image_url": "https://www.bing.com/th?id=OVFT.p5mGndyVmpXf1Xd6GCzGzy&pid=News&w=1600&h=900&c=14&rs=1"
+      }
+    },
+    {
+      "source": "Economist",
+      "entry": {
+        "id": "https://www.economist.com/business/2026/02/09/china-is-waging-war-on-stolen-ideas",
+        "title": "China is waging war on stolen ideas",
+        "link": "https://www.economist.com/business/2026/02/09/china-is-waging-war-on-stolen-ideas",
+        "published": "Mon, 09 Feb 2026 09:26:00 GMT",
+        "image_url": "https://www.bing.com/th?id=OVFT.EfvX_ZqHpUM6ld0SaAemUy&pid=News&w=1600&h=900&c=14&rs=1"
+      }
+    },
+    {
+      "source": "Reuters",
+      "entry": {
+        "id": "https://www.reuters.com/world/asia-pacific/bangladesh-secures-19-us-tariff-exemption-some-apparel-made-with-us-material-2026-02-09/",
+        "title": "Bangladesh secures 19% US tariff and exemption for some apparel made with US material",
+        "link": "https://www.reuters.com/world/asia-pacific/bangladesh-secures-19-us-tariff-exemption-some-apparel-made-with-us-material-2026-02-09/",
+        "published": "Mon, 09 Feb 2026 09:02:00 GMT",
+        "image_url": "https://www.bing.com/th?id=OVFT.QDACml5LNQ81JRwO-XPa5y&pid=News&w=1600&h=900&c=14&rs=1"
       }
     }
   ],
