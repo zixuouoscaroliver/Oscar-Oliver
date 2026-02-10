@@ -164,7 +164,13 @@
     "https://apnews.com/video/white-house-quizzed-on-epstein-fallout-from-potential-maxwell-pardon-to-backing-secretary-lutnick-cd526ce80c5b4f35a485656cfba3696d": 1770755495,
     "https://www.reuters.com/world/us/republican-us-senator-susan-collins-announces-bid-re-election-2026-02-10/": 1770755495,
     "https://www.reuters.com/legal/government/top-us-immigration-officials-testify-before-lawmakers-following-killings-2026-02-10/": 1770755495,
-    "https://www.scmp.com/news/china/article/3343116/china-could-overtake-us-economically-and-still-risk-war-taiwan-strait-survey?utm_source=rss_feed": 1770755495
+    "https://www.scmp.com/news/china/article/3343116/china-could-overtake-us-economically-and-still-risk-war-taiwan-strait-survey?utm_source=rss_feed": 1770755495,
+    "https://nypost.com/?post_type=article&p=38449242": 1770758673,
+    "https://pagesix.com/?post_type=article&p=8742520": 1770758673,
+    "https://pagesix.com/2026/02/10/entertainment/how-jutta-leerdam-celebrated-her-olympic-gold-medal-with-jake-paul/": 1770758673,
+    "https://www.reuters.com/world/us/trump-told-police-chief-everyone-knew-about-epstein-fbi-document-says-2026-02-10/": 1770758673,
+    "https://www.reuters.com/business/finance/commonwealth-bank-australia-reports-6-rise-first-half-cash-earnings-2026-02-10/": 1770758673,
+    "https://www.scmp.com/news/world/middle-east/article/3343117/trump-hints-sending-second-aircraft-carrier-us-and-iran-plan-next-talks?utm_source=rss_feed": 1770758673
   },
   "night_buffer": [
     {
@@ -446,34 +452,94 @@
         "published": "Tue, 10 Feb 2026 20:02:32 +0000",
         "image_url": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/02/11/04db13c2-0ca0-47a2-9bfa-8d1af3a5a5f5_deb031f7.jpg?itok=UzSpCAQx&v=1770753747"
       }
+    },
+    {
+      "source": "NYP",
+      "entry": {
+        "id": "https://nypost.com/?post_type=article&p=38449242",
+        "title": "2 skiers dead as avalanche rocks Italian alps site near 2026 Winter Olympics",
+        "link": "https://nypost.com/2026/02/10/sports/2-skiers-dead-as-avalanche-rocks-italian-alps-site-near-2026-winter-olympics/",
+        "published": "Tue, 10 Feb 2026 16:07:38 -0500",
+        "image_url": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F02%2F120896496.jpg?quality%3D90%26strip%3Dall"
+      }
+    },
+    {
+      "source": "NYP",
+      "entry": {
+        "id": "https://pagesix.com/?post_type=article&p=8742520",
+        "title": "How Jutta Leerdam privately celebrated her record-breaking Olympic gold medal before joining fiancé Jake Paul",
+        "link": "https://pagesix.com/2026/02/10/entertainment/how-jutta-leerdam-celebrated-her-olympic-gold-medal-with-jake-paul/",
+        "published": "Tue, 10 Feb 2026 16:03:44 -0500",
+        "image_url": "https://pagesix.com/wp-content%2Fuploads%2Fsites%2F3%2F2026%2F02%2F120888196.jpg?quality%3D90%26strip%3Dall"
+      }
+    },
+    {
+      "source": "NYP",
+      "entry": {
+        "id": "https://pagesix.com/2026/02/10/entertainment/how-jutta-leerdam-celebrated-her-olympic-gold-medal-with-jake-paul/",
+        "title": "How Jutta Leerdam privately celebrated her record-breaking Olympic gold medal before joining fiancé Jake Paul",
+        "link": "https://pagesix.com/2026/02/10/entertainment/how-jutta-leerdam-celebrated-her-olympic-gold-medal-with-jake-paul/",
+        "published": "Tue, 10 Feb 2026 16:03:44 -0500",
+        "image_url": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F02%2F120888196.jpg?quality%3D90%26strip%3Dall"
+      }
+    },
+    {
+      "source": "Reuters",
+      "entry": {
+        "id": "https://www.reuters.com/world/us/trump-told-police-chief-everyone-knew-about-epstein-fbi-document-says-2026-02-10/",
+        "title": "Trump told police chief 'everyone' knew about Epstein, FBI document says",
+        "link": "https://www.reuters.com/world/us/trump-told-police-chief-everyone-knew-about-epstein-fbi-document-says-2026-02-10/",
+        "published": "Tue, 10 Feb 2026 11:35:00 GMT",
+        "image_url": "https://www.bing.com/th?id=OVFT.UNI6JEwlQxgs8MByLUbi8y&pid=News&w=1600&h=900&c=14&rs=1"
+      }
+    },
+    {
+      "source": "Reuters",
+      "entry": {
+        "id": "https://www.reuters.com/business/finance/commonwealth-bank-australia-reports-6-rise-first-half-cash-earnings-2026-02-10/",
+        "title": "Australian bank CBA posts record first-half cash earnings on lending growth",
+        "link": "https://www.reuters.com/business/finance/commonwealth-bank-australia-reports-6-rise-first-half-cash-earnings-2026-02-10/",
+        "published": "Tue, 10 Feb 2026 11:38:00 GMT",
+        "image_url": "https://www.bing.com/th?id=OVFT.kBxD6ZOtRrffJarRrmuz4i&pid=News&w=1600&h=900&c=14&rs=1"
+      }
+    },
+    {
+      "source": "SCMP",
+      "entry": {
+        "id": "https://www.scmp.com/news/world/middle-east/article/3343117/trump-hints-sending-second-aircraft-carrier-us-and-iran-plan-next-talks?utm_source=rss_feed",
+        "title": "Trump hints at sending second aircraft carrier, as US and Iran plan next talks",
+        "link": "https://www.scmp.com/news/world/middle-east/article/3343117/trump-hints-sending-second-aircraft-carrier-us-and-iran-plan-next-talks?utm_source=rss_feed",
+        "published": "Tue, 10 Feb 2026 20:50:17 +0000",
+        "image_url": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/02/11/ad7ce577-d025-496a-9726-5d57cbb29cc8_d49917ac.jpg?itok=DkIhtFgY&v=1770756613"
+      }
     }
   ],
   "last_digest_date": "2026-02-10",
   "last_run": {
-    "utc": "2026-02-10T20:31:48Z",
-    "local": "2026-02-11T04:31:35+08:00",
+    "utc": "2026-02-10T21:24:47Z",
+    "local": "2026-02-11T05:24:33+08:00",
     "tz": "Asia/Shanghai",
-    "local_hour": 4,
+    "local_hour": 5,
     "quiet": true,
     "sources_ok": 9,
     "sources_fail": 0,
-    "entries_total": 187,
-    "new": 5,
+    "entries_total": 188,
+    "new": 6,
     "pushed_ok": 0,
     "pushed_fail": 0,
-    "skipped_seen": 58,
-    "skipped_major": 124,
-    "buffered_total": 28,
-    "buffered_added": 5,
-    "seen_size": 164,
+    "skipped_seen": 56,
+    "skipped_major": 114,
+    "buffered_total": 34,
+    "buffered_added": 6,
+    "seen_size": 170,
     "github": {
       "repo": "zixuouoscaroliver/Oscar-Oliver",
       "workflow": "Telegram News Bot",
-      "run_id": "21881337174",
-      "run_number": "48",
+      "run_id": "21882948490",
+      "run_number": "49",
       "sha": "4f3dfd71e3782371c09853800463db2dc0045ca8",
       "ref": "refs/heads/main",
-      "run_url": "https://github.com/zixuouoscaroliver/Oscar-Oliver/actions/runs/21881337174"
+      "run_url": "https://github.com/zixuouoscaroliver/Oscar-Oliver/actions/runs/21882948490"
     },
     "checkout": {
       "ref": "bot-stable",
