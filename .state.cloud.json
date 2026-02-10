@@ -139,7 +139,15 @@
     "https://www.scmp.com/economy/global-economy/article/3343081/next-us-china-trade-talks-tipped-advance-trump-xi-summit-fragile-truce-holds?utm_source=rss_feed": 1770734800,
     "https://www.scmp.com/week-asia/economics/article/3343107/envoy-urges-shared-prosperity-china-asean-ties-amid-growing-protectionism?utm_source=rss_feed": 1770738603,
     "https://www.scmp.com/tech/article/3343091/indonesia-telco-chief-warns-digital-colonisation-backs-chinas-open-source-ai?utm_source=rss_feed": 1770738603,
-    "https://www.scmp.com/economy/global-economy/article/3343090/indonesia-turns-digital-finance-reach-unbanked-population?utm_source=rss_feed": 1770738603
+    "https://www.scmp.com/economy/global-economy/article/3343090/indonesia-turns-digital-finance-reach-unbanked-population?utm_source=rss_feed": 1770738603,
+    "https://nypost.com/?post_type=article&p=38445793": 1770742125,
+    "https://nypost.com/?post_type=article&p=38444852": 1770742125,
+    "https://nypost.com/?post_type=article&p=38444413": 1770742125,
+    "https://www.reuters.com/business/finance/eu-parliament-backs-digital-euro-aligns-with-council-online-offlineready-2026-02-10/": 1770742125,
+    "https://www.reuters.com/world/canadas-carney-says-issue-bridge-that-trump-threatened-will-be-settled-2026-02-10/": 1770742125,
+    "https://www.reuters.com/world/asia-pacific/leader-myanmar-armed-group-says-world-is-ignoring-juntas-deadly-airstrikes-2026-02-10/": 1770742125,
+    "https://www.scmp.com/news/world/europe/article/3343108/trumps-cheeky-dance-statue-liberty-headline-german-carnival?utm_source=rss_feed": 1770742125,
+    "https://www.scmp.com/economy/global-economy/article/3343084/indonesia-eyes-china-partnerships-build-industry-and-tech-better-eu-standard?utm_source=rss_feed": 1770742125
   },
   "night_buffer": [
     {
@@ -171,34 +179,114 @@
         "published": "Tue, 10 Feb 2026 12:44:27 +0000",
         "image_url": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/02/10/18aaf01c-4888-4d3c-bb33-6dabec9d7aea_c425072d.jpg?itok=ZfN2P4SQ&v=1770727466"
       }
+    },
+    {
+      "source": "NYP",
+      "entry": {
+        "id": "https://nypost.com/?post_type=article&p=38445793",
+        "title": "Wannabe rapper busted for throwing acid in Long Island college student’s face, boasted about attack in song: officials",
+        "link": "https://nypost.com/2026/02/10/us-news/wannabe-rapper-busted-for-throwing-acid-in-long-island-college-students-face-boasted-about-attack-in-song-officials/",
+        "published": "Tue, 10 Feb 2026 11:43:52 -0500",
+        "image_url": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F02%2Fcrop-38445872.jpg?quality%3D90%26strip%3Dall"
+      }
+    },
+    {
+      "source": "NYP",
+      "entry": {
+        "id": "https://nypost.com/?post_type=article&p=38444852",
+        "title": "Israel hits Hamas terrorists in Gaza after ceasefire violation",
+        "link": "https://nypost.com/2026/02/10/world-news/israel-hits-hamas-terrorists-in-gaza-after-ceasefire-violation/",
+        "published": "Tue, 10 Feb 2026 11:29:41 -0500",
+        "image_url": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F02%2Fcrop-38445385.jpg?quality%3D90%26strip%3Dall"
+      }
+    },
+    {
+      "source": "NYP",
+      "entry": {
+        "id": "https://nypost.com/?post_type=article&p=38444413",
+        "title": "Gavin Newsom ripped by LA’s top fed  prosecutor for claiming win in ICE anti-mask ruling: ‘Stop lying’",
+        "link": "https://nypost.com/2026/02/10/us-news/gavin-newsom-ripped-by-las-top-fed-prosecutor-for-claiming-win-in-ice-anti-mask-ruling-stop-lying/",
+        "published": "Tue, 10 Feb 2026 11:15:01 -0500",
+        "image_url": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F02%2F120878054.jpg?quality%3D90%26strip%3Dall"
+      }
+    },
+    {
+      "source": "Reuters",
+      "entry": {
+        "id": "https://www.reuters.com/business/finance/eu-parliament-backs-digital-euro-aligns-with-council-online-offlineready-2026-02-10/",
+        "title": "EU Parliament backs digital euro, aligns with Council on online‑ and offline‑ready currency",
+        "link": "https://www.reuters.com/business/finance/eu-parliament-backs-digital-euro-aligns-with-council-online-offlineready-2026-02-10/",
+        "published": "Tue, 10 Feb 2026 07:23:00 GMT",
+        "image_url": "https://www.bing.com/th?id=OVFT.loGcO8oeY6tMEJa_2hV7kC&pid=News&w=1600&h=900&c=14&rs=1"
+      }
+    },
+    {
+      "source": "Reuters",
+      "entry": {
+        "id": "https://www.reuters.com/world/canadas-carney-says-issue-bridge-that-trump-threatened-will-be-settled-2026-02-10/",
+        "title": "Canada's Carney says issue of bridge that Trump threatened will be settled",
+        "link": "https://www.reuters.com/world/canadas-carney-says-issue-bridge-that-trump-threatened-will-be-settled-2026-02-10/",
+        "published": "Tue, 10 Feb 2026 06:07:00 GMT",
+        "image_url": "https://www.bing.com/th?id=OVFT.CxwMgfB2tnmi1q0duuK29S&pid=News&w=1600&h=900&c=14&rs=1"
+      }
+    },
+    {
+      "source": "Reuters",
+      "entry": {
+        "id": "https://www.reuters.com/world/asia-pacific/leader-myanmar-armed-group-says-world-is-ignoring-juntas-deadly-airstrikes-2026-02-10/",
+        "title": "Exclusive: Leader of Myanmar armed group says world is ignoring junta's deadly airstrikes",
+        "link": "https://www.reuters.com/world/asia-pacific/leader-myanmar-armed-group-says-world-is-ignoring-juntas-deadly-airstrikes-2026-02-10/",
+        "published": "Tue, 10 Feb 2026 07:05:00 GMT",
+        "image_url": ""
+      }
+    },
+    {
+      "source": "SCMP",
+      "entry": {
+        "id": "https://www.scmp.com/news/world/europe/article/3343108/trumps-cheeky-dance-statue-liberty-headline-german-carnival?utm_source=rss_feed",
+        "title": "Trump’s cheeky dance with Statue of Liberty to headline German carnival",
+        "link": "https://www.scmp.com/news/world/europe/article/3343108/trumps-cheeky-dance-statue-liberty-headline-german-carnival?utm_source=rss_feed",
+        "published": "Tue, 10 Feb 2026 16:04:14 +0000",
+        "image_url": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/02/10/8387df05-73f3-4ca3-bae5-47fdfb5abc5e_c0de0caa.jpg?itok=6cDGPLdJ&v=1770738256"
+      }
+    },
+    {
+      "source": "SCMP",
+      "entry": {
+        "id": "https://www.scmp.com/economy/global-economy/article/3343084/indonesia-eyes-china-partnerships-build-industry-and-tech-better-eu-standard?utm_source=rss_feed",
+        "title": "Indonesia eyes China partnerships to build industry and tech ‘better than the EU standard’",
+        "link": "https://www.scmp.com/economy/global-economy/article/3343084/indonesia-eyes-china-partnerships-build-industry-and-tech-better-eu-standard?utm_source=rss_feed",
+        "published": "Tue, 10 Feb 2026 12:10:19 +0000",
+        "image_url": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/02/10/c63e7db9-99e6-482d-a52d-7f473bf800f2_9e60406e.jpg?itok=UayCmtwV&v=1770725417"
+      }
     }
   ],
   "last_digest_date": "2026-02-10",
   "last_run": {
-    "utc": "2026-02-10T15:50:16Z",
-    "local": "2026-02-10T23:50:03+08:00",
+    "utc": "2026-02-10T16:48:56Z",
+    "local": "2026-02-11T00:48:45+08:00",
     "tz": "Asia/Shanghai",
-    "local_hour": 23,
+    "local_hour": 0,
     "quiet": true,
     "sources_ok": 9,
     "sources_fail": 0,
-    "entries_total": 188,
-    "new": 3,
+    "entries_total": 189,
+    "new": 8,
     "pushed_ok": 0,
     "pushed_fail": 0,
-    "skipped_seen": 45,
-    "skipped_major": 106,
-    "buffered_total": 3,
-    "buffered_added": 3,
-    "seen_size": 139,
+    "skipped_seen": 53,
+    "skipped_major": 123,
+    "buffered_total": 11,
+    "buffered_added": 8,
+    "seen_size": 147,
     "github": {
       "repo": "zixuouoscaroliver/Oscar-Oliver",
       "workflow": "Telegram News Bot",
-      "run_id": "21871907815",
-      "run_number": "43",
+      "run_id": "21874052289",
+      "run_number": "44",
       "sha": "4f3dfd71e3782371c09853800463db2dc0045ca8",
       "ref": "refs/heads/main",
-      "run_url": "https://github.com/zixuouoscaroliver/Oscar-Oliver/actions/runs/21871907815"
+      "run_url": "https://github.com/zixuouoscaroliver/Oscar-Oliver/actions/runs/21874052289"
     },
     "checkout": {
       "ref": "bot-stable",
