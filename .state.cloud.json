@@ -56,7 +56,10 @@
     "https://nypost.com/?post_type=article&p=38439758": 1770677737,
     "https://nypost.com/?post_type=article&p=38437190": 1770677737,
     "https://www.reuters.com/world/asia-pacific/australias-treasury-wine-settles-us-distributor-dispute-raises-hy-earnings-2026-02-09/": 1770679882,
-    "https://www.scmp.com/economy/china-economy/article/3342960/china-japan-dispute-what-next-businesses-after-takaichis-election-sweep?utm_source=rss_feed": 1770679882
+    "https://www.scmp.com/economy/china-economy/article/3342960/china-japan-dispute-what-next-businesses-after-takaichis-election-sweep?utm_source=rss_feed": 1770679882,
+    "https://nypost.com/?post_type=article&p=38437579": 1770681841,
+    "https://apnews.com/article/government-shutdown-homeland-security-ice-funding-0a22618791cb6d0aac4d763a87fc1d4f": 1770681841,
+    "https://www.reuters.com/sustainability/boards-policy-regulation/feds-miran-says-data-suggests-americans-arent-shouldering-tariff-hit-2026-02-09/": 1770681841
   },
   "night_buffer": [
     {
@@ -227,6 +230,36 @@
         "link": "https://www.scmp.com/economy/china-economy/article/3342960/china-japan-dispute-what-next-businesses-after-takaichis-election-sweep?utm_source=rss_feed",
         "published": "Mon, 09 Feb 2026 23:30:10 +0000",
         "image_url": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/02/09/219f8bd1-7239-4c33-a920-d8a656f88fb4_6010a6ab.jpg?itok=pfAqeyou&v=1770643236"
+      }
+    },
+    {
+      "source": "NYP",
+      "entry": {
+        "id": "https://nypost.com/?post_type=article&p=38437579",
+        "title": "Zohran Mamdani disses Catholics by breaking decades of tradition and skipping archbishop ceremony",
+        "link": "https://nypost.com/2026/02/09/us-news/nyc-mayor-zohran-mamdani-a-no-show-at-installation-of-archbishop-ronald-hicks/",
+        "published": "Mon, 09 Feb 2026 18:38:37 -0500",
+        "image_url": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F02%2F120816882.jpg?quality%3D90%26strip%3Dall"
+      }
+    },
+    {
+      "source": "AP NEWS",
+      "entry": {
+        "id": "https://apnews.com/article/government-shutdown-homeland-security-ice-funding-0a22618791cb6d0aac4d763a87fc1d4f",
+        "title": "Democrats and White House trade offers as shutdown of Homeland Security looms",
+        "link": "https://apnews.com/article/government-shutdown-homeland-security-ice-funding-0a22618791cb6d0aac4d763a87fc1d4f",
+        "published": "Mon, 09 Feb 2026 15:43:00 GMT",
+        "image_url": "https://www.bing.com/th?id=OVFT.IYdTzXpd2jp3PGkUfis6mi&pid=News&w=1600&h=900&c=14&rs=1"
+      }
+    },
+    {
+      "source": "Reuters",
+      "entry": {
+        "id": "https://www.reuters.com/sustainability/boards-policy-regulation/feds-miran-says-data-suggests-americans-arent-shouldering-tariff-hit-2026-02-09/",
+        "title": "Fed's Miran says data suggests Americans aren't shouldering tariff hit",
+        "link": "https://www.reuters.com/sustainability/boards-policy-regulation/feds-miran-says-data-suggests-americans-arent-shouldering-tariff-hit-2026-02-09/",
+        "published": "Mon, 09 Feb 2026 13:28:00 GMT",
+        "image_url": ""
       }
     }
   ],
