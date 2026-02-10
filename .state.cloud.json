@@ -170,7 +170,13 @@
     "https://pagesix.com/2026/02/10/entertainment/how-jutta-leerdam-celebrated-her-olympic-gold-medal-with-jake-paul/": 1770758673,
     "https://www.reuters.com/world/us/trump-told-police-chief-everyone-knew-about-epstein-fbi-document-says-2026-02-10/": 1770758673,
     "https://www.reuters.com/business/finance/commonwealth-bank-australia-reports-6-rise-first-half-cash-earnings-2026-02-10/": 1770758673,
-    "https://www.scmp.com/news/world/middle-east/article/3343117/trump-hints-sending-second-aircraft-carrier-us-and-iran-plan-next-talks?utm_source=rss_feed": 1770758673
+    "https://www.scmp.com/news/world/middle-east/article/3343117/trump-hints-sending-second-aircraft-carrier-us-and-iran-plan-next-talks?utm_source=rss_feed": 1770758673,
+    "https://www.washingtonpost.com/national-security/2026/02/10/trump-iran-aircraft-carrier-netanyahu-gaza/": 1770761099,
+    "0000019c-497d-d647-addc-ebff108a0000": 1770761099,
+    "https://apnews.com/article/stonewall-monument-rainbow-flag-removed-e58b12c1c9482e4b2cf02fef55e0f775": 1770761099,
+    "https://www.reuters.com/business/energy/australias-agl-energy-narrows-full-year-earnings-outlook-first-half-profit-falls-2026-02-10/": 1770761099,
+    "https://www.reuters.com/sports/us-olympians-rally-around-skier-after-trump-jab-fuels-free-speech-row-2026-02-10/": 1770761099,
+    "https://www.reuters.com/business/autos-transportation/fords-quarterly-earnings-miss-forecasts-ceo-sees-stronger-year-2026-2026-02-10/": 1770761099
   },
   "night_buffer": [
     {
@@ -512,34 +518,94 @@
         "published": "Tue, 10 Feb 2026 20:50:17 +0000",
         "image_url": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/02/11/ad7ce577-d025-496a-9726-5d57cbb29cc8_d49917ac.jpg?itok=DkIhtFgY&v=1770756613"
       }
+    },
+    {
+      "source": "WaPo",
+      "entry": {
+        "id": "https://www.washingtonpost.com/national-security/2026/02/10/trump-iran-aircraft-carrier-netanyahu-gaza/",
+        "title": "Trump mulls second aircraft carrier off Iran, as Netanyahu flies to D.C. for talks",
+        "link": "https://www.washingtonpost.com/national-security/2026/02/10/trump-iran-aircraft-carrier-netanyahu-gaza/",
+        "published": "Tue, 10 Feb 2026 21:21:00 +0000",
+        "image_url": ""
+      }
+    },
+    {
+      "source": "Politico",
+      "entry": {
+        "id": "0000019c-497d-d647-addc-ebff108a0000",
+        "title": "Democratic governors pledge to boycott White House events after a Trump snub",
+        "link": "https://www.politico.com/news/2026/02/10/democratic-governors-trump-meeting-00774814",
+        "published": "Tue, 10 Feb 2026 16:53:24 EST",
+        "image_url": "https://static.politico.com/34/85/eb2f23e94cc2b3abb8e4169e5dda/https-delivery-gettyimages.com/downloads/2260412462"
+      }
+    },
+    {
+      "source": "AP NEWS",
+      "entry": {
+        "id": "https://apnews.com/article/stonewall-monument-rainbow-flag-removed-e58b12c1c9482e4b2cf02fef55e0f775",
+        "title": "Trump administration takes down a rainbow flag at the Stonewall National Monument",
+        "link": "https://apnews.com/article/stonewall-monument-rainbow-flag-removed-e58b12c1c9482e4b2cf02fef55e0f775",
+        "published": "Tue, 10 Feb 2026 13:17:00 GMT",
+        "image_url": "https://www.bing.com/th?id=OVFT.45PQXwk2oaHKPfCecFyqAy&pid=News&w=1600&h=900&c=14&rs=1"
+      }
+    },
+    {
+      "source": "Reuters",
+      "entry": {
+        "id": "https://www.reuters.com/business/energy/australias-agl-energy-narrows-full-year-earnings-outlook-first-half-profit-falls-2026-02-10/",
+        "title": "Australia's AGL Energy narrows full-year earnings outlook, first-half profit falls 6%",
+        "link": "https://www.reuters.com/business/energy/australias-agl-energy-narrows-full-year-earnings-outlook-first-half-profit-falls-2026-02-10/",
+        "published": "Tue, 10 Feb 2026 12:40:00 GMT",
+        "image_url": "https://www.bing.com/th?id=OVFT._4t_JAqS14gb3HcrzcsVTi&pid=News&w=1600&h=900&c=14&rs=1"
+      }
+    },
+    {
+      "source": "Reuters",
+      "entry": {
+        "id": "https://www.reuters.com/sports/us-olympians-rally-around-skier-after-trump-jab-fuels-free-speech-row-2026-02-10/",
+        "title": "US Olympians rally around skier after Trump jab fuels free-speech spat",
+        "link": "https://www.reuters.com/sports/us-olympians-rally-around-skier-after-trump-jab-fuels-free-speech-row-2026-02-10/",
+        "published": "Tue, 10 Feb 2026 11:05:00 GMT",
+        "image_url": "https://www.bing.com/th?id=OVFT.PyDGczjvgXVSMzBmw1daCC&pid=News&w=1600&h=900&c=14&rs=1"
+      }
+    },
+    {
+      "source": "Reuters",
+      "entry": {
+        "id": "https://www.reuters.com/business/autos-transportation/fords-quarterly-earnings-miss-forecasts-ceo-sees-stronger-year-2026-2026-02-10/",
+        "title": "Ford's quarterly earnings miss forecasts, CEO sees stronger year in 2026",
+        "link": "https://www.reuters.com/business/autos-transportation/fords-quarterly-earnings-miss-forecasts-ceo-sees-stronger-year-2026-2026-02-10/",
+        "published": "Tue, 10 Feb 2026 12:08:00 GMT",
+        "image_url": "https://www.bing.com/th?id=OVFT.SzQCntvNIL-W73UiuGjmWC&pid=News&w=1600&h=900&c=14&rs=1"
+      }
     }
   ],
   "last_digest_date": "2026-02-10",
   "last_run": {
-    "utc": "2026-02-10T21:24:47Z",
-    "local": "2026-02-11T05:24:33+08:00",
+    "utc": "2026-02-10T22:05:12Z",
+    "local": "2026-02-11T06:04:59+08:00",
     "tz": "Asia/Shanghai",
-    "local_hour": 5,
+    "local_hour": 6,
     "quiet": true,
     "sources_ok": 9,
     "sources_fail": 0,
-    "entries_total": 188,
-    "new": 6,
+    "entries_total": 187,
+    "new": 7,
     "pushed_ok": 0,
     "pushed_fail": 0,
-    "skipped_seen": 56,
-    "skipped_major": 114,
-    "buffered_total": 34,
+    "skipped_seen": 58,
+    "skipped_major": 118,
+    "buffered_total": 40,
     "buffered_added": 6,
-    "seen_size": 170,
+    "seen_size": 176,
     "github": {
       "repo": "zixuouoscaroliver/Oscar-Oliver",
       "workflow": "Telegram News Bot",
-      "run_id": "21882948490",
-      "run_number": "49",
+      "run_id": "21884161645",
+      "run_number": "50",
       "sha": "4f3dfd71e3782371c09853800463db2dc0045ca8",
       "ref": "refs/heads/main",
-      "run_url": "https://github.com/zixuouoscaroliver/Oscar-Oliver/actions/runs/21882948490"
+      "run_url": "https://github.com/zixuouoscaroliver/Oscar-Oliver/actions/runs/21884161645"
     },
     "checkout": {
       "ref": "bot-stable",
