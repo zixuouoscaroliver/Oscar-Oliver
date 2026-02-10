@@ -9,9 +9,10 @@ import html
 import urllib.parse
 import urllib.request
 import xml.etree.ElementTree as ET
-from datetime import datetime, timezone
+from datetime import datetime, timezone, tzinfo
 from pathlib import Path
 from typing import Dict, List
+from zoneinfo import ZoneInfo, ZoneInfoNotFoundError
 
 SOURCE_DOMAINS = {
     "NYP": "nypost.com",
@@ -70,6 +71,18 @@ DEFAULT_MAJOR_KEYWORDS = [
 ]
 
 DEFAULT_FALLBACK_IMAGE = "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_available.svg/512px-No_image_available.svg.png"
+
+
+def resolve_news_timezone() -> tuple[str, tzinfo]:
+    tz_name = (os.getenv("NEWS_TZ") or os.getenv("TZ") or "").strip()
+    if tz_name:
+        try:
+            return tz_name, ZoneInfo(tz_name)
+        except ZoneInfoNotFoundError:
+            logging.warning("未知时区: %s，将回退到UTC", tz_name)
+        except Exception:
+            logging.exception("解析时区失败: %s，将回退到UTC", tz_name)
+    return "UTC", timezone.utc
 
 
 def source_logo_url(source: str) -> str:
@@ -526,6 +539,7 @@ def run(run_once: bool = False) -> None:
     quiet_end = int(os.getenv("QUIET_HOUR_END", "9"))
     night_digest_max = int(os.getenv("NIGHT_DIGEST_MAX", "40"))
     fetch_article_image_enabled = os.getenv("FETCH_ARTICLE_IMAGE", "true").strip().lower() == "true"
+    tz_name, news_tz = resolve_news_timezone()
 
     if not token or not chat_id:
         raise RuntimeError("请先配置 TELEGRAM_BOT_TOKEN 和 TELEGRAM_CHAT_ID")
@@ -534,11 +548,18 @@ def run(run_once: bool = False) -> None:
     state = load_state(state_file)
     state["seen"] = prune_seen(state.get("seen", {}), seen_ttl_hours)
 
-    logging.info("开始运行，轮询间隔=%s秒，来源数量=%s", poll_seconds, len(source_feeds))
+    logging.info(
+        "开始运行，轮询间隔=%s秒，来源数量=%s，时区=%s quiet=%02d-%02d",
+        poll_seconds,
+        len(source_feeds),
+        tz_name,
+        quiet_start,
+        quiet_end,
+    )
 
     while True:
         try:
-            now_local = datetime.now()
+            now_local = datetime.now(tz=news_tz)
             cycle_ts = now_ts()
             today_str = now_local.strftime("%Y-%m-%d")
             quiet_now = is_quiet_time(now_local, quiet_start, quiet_end)
@@ -646,7 +667,9 @@ def run(run_once: bool = False) -> None:
 
             save_state(state_file, state)
             logging.info(
-                "summary quiet=%s sources_ok=%s sources_fail=%s entries_total=%s new=%s pushed_ok=%s pushed_fail=%s skipped_seen=%s skipped_major=%s buffered=%s buffered_added=%s",
+                "summary tz=%s local_hour=%s quiet=%s sources_ok=%s sources_fail=%s entries_total=%s new=%s pushed_ok=%s pushed_fail=%s skipped_seen=%s skipped_major=%s buffered=%s buffered_added=%s",
+                tz_name,
+                now_local.hour,
                 quiet_now,
                 sources_ok,
                 sources_fail,

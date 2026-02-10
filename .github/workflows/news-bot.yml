@@ -64,7 +64,8 @@ jobs:
 
       - name: Run bot once
         env:
-          TZ: "Asia/Shanghai"
+          NEWS_TZ: ${{ vars.NEWS_TZ || 'Asia/Shanghai' }}
+          TZ: ${{ vars.NEWS_TZ || 'Asia/Shanghai' }}
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
           STATE_FILE: ".state.cloud.json"
