@@ -2,8 +2,9 @@ name: Telegram News Bot
 
 "on":
   schedule:
-    # Every 10 minutes. Also "touching" schedule helps re-enable it if GitHub had paused scheduled runs.
-    - cron: '*/10 * * * *'
+    # Every 10 minutes, offset away from minute 0 to reduce schedule delays/dropped runs.
+    # (GitHub Actions schedule is best-effort; the start of each hour is usually the busiest.)
+    - cron: '7-59/10 * * * *'
   workflow_dispatch:
     inputs:
       ref:
