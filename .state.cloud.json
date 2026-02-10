@@ -65,13 +65,15 @@
     "https://apnews.com/article/democrats-ice-white-house-homeland-security-funding-84d4b2e5a7123f2b316cca4857b7762a": 1770700525,
     "https://www.scmp.com/news/asia/article/3343003/japans-takaichi-sweeps-election-kuala-lumpur-mayoral-ethnicity-debate-7-asia-highlights?utm_source=rss_feed": 1770700525,
     "https://www.reuters.com/world/asia-pacific/main-issues-bangladeshs-february-12-election-2026-02-10/": 1770705301,
-    "https://www.reuters.com/world/asia-pacific/main-parties-bangladesh-election-2026-02-10/": 1770705301
+    "https://www.reuters.com/world/asia-pacific/main-parties-bangladesh-election-2026-02-10/": 1770705301,
+    "https://apnews.com/video/palestinian-committee-charged-with-gaza-operations-under-ceasefire-deal-visits-rafah-crossing-306aed1facc94e0cbf7c0b8d79f2faa6": 1770706578,
+    "https://www.scmp.com/week-asia/politics/article/3343027/malaysias-missile-upgrades-target-south-china-sea-deterrence-boost?utm_source=rss_feed": 1770706578
   },
   "night_buffer": [],
   "last_digest_date": "2026-02-10",
   "last_run": {
-    "utc": "2026-02-10T06:35:17Z",
-    "local": "2026-02-10T14:35:01+08:00",
+    "utc": "2026-02-10T06:56:35Z",
+    "local": "2026-02-10T14:56:18+08:00",
     "tz": "Asia/Shanghai",
     "local_hour": 14,
     "quiet": false,
@@ -81,19 +83,19 @@
     "new": 2,
     "pushed_ok": 2,
     "pushed_fail": 0,
-    "skipped_seen": 16,
-    "skipped_major": 169,
+    "skipped_seen": 18,
+    "skipped_major": 167,
     "buffered_total": 0,
     "buffered_added": 0,
-    "seen_size": 65,
+    "seen_size": 67,
     "github": {
       "repo": "zixuouoscaroliver/Oscar-Oliver",
       "workflow": "Telegram News Bot",
-      "run_id": "21854430215",
-      "run_number": "34",
+      "run_id": "21854930107",
+      "run_number": "35",
       "sha": "04cd97befcc5ea42e6cbe62f61800e1aeae11d8f",
       "ref": "refs/heads/main",
-      "run_url": "https://github.com/zixuouoscaroliver/Oscar-Oliver/actions/runs/21854430215"
+      "run_url": "https://github.com/zixuouoscaroliver/Oscar-Oliver/actions/runs/21854930107"
     },
     "checkout": {
       "ref": "bot-stable",
