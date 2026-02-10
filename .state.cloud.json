@@ -154,7 +154,12 @@
     "https://www.scmp.com/news/world/united-states-canada/article/3343111/trump-commerce-chief-admits-travelling-epstein-island-faces-calls-resign?utm_source=rss_feed": 1770745859,
     "https://pagesix.com/?post_type=article&p=8742699": 1770749183,
     "https://pagesix.com/2026/02/10/celebrity-news/watch-disturbing-video-of-armed-nancy-guthrie-suspect-breaking-in/": 1770749183,
-    "https://www.scmp.com/news/world/united-states-canada/article/3343112/carny-speaks-trump-after-he-demands-half-bridge-canada-paid?utm_source=rss_feed": 1770749183
+    "https://www.scmp.com/news/world/united-states-canada/article/3343112/carny-speaks-trump-after-he-demands-half-bridge-canada-paid?utm_source=rss_feed": 1770749183,
+    "0000019c-48cf-d3b5-addf-e8cf66990000": 1770752971,
+    "https://www.economist.com/finance-and-economics/2026/02/10/who-wrangled-the-best-trade-deal-from-donald-trump": 1770752971,
+    "https://www.reuters.com/sustainability/cop/white-house-says-trump-plans-formalize-regulatory-rollback-greenhouse-gases-2026-02-10/": 1770752971,
+    "https://www.reuters.com/world/us/governors-skip-trump-meeting-after-white-house-invited-only-republicans-source-2026-02-10/": 1770752971,
+    "https://www.scmp.com/news/world/united-states-canada/article/3343115/yaoning-sun-gets-4-years-prison-acting-beijings-agent-california-election?utm_source=rss_feed": 1770752971
   },
   "night_buffer": [
     {
@@ -336,34 +341,84 @@
         "published": "Tue, 10 Feb 2026 18:12:21 +0000",
         "image_url": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/02/11/0158309f-a029-4989-a4ff-94be3e41f224_7c38a646.jpg?itok=rVhjEzGo&v=1770747132"
       }
+    },
+    {
+      "source": "Politico",
+      "entry": {
+        "id": "0000019c-48cf-d3b5-addf-e8cf66990000",
+        "title": "NYC officials plan to reraise pride flag at Manhattan’s Stonewall monument after Trump administration removed it",
+        "link": "https://www.politico.com/news/2026/02/10/stonewall-pride-flag-trump-nyc-00774020",
+        "published": "Tue, 10 Feb 2026 13:59:06 EST",
+        "image_url": "https://static.politico.com/e2/ab/b210df3247a6b297ba2cb5f013f2/https-delivery-gettyimages.com/downloads/2222304167"
+      }
+    },
+    {
+      "source": "Economist",
+      "entry": {
+        "id": "https://www.economist.com/finance-and-economics/2026/02/10/who-wrangled-the-best-trade-deal-from-donald-trump",
+        "title": "Who wrangled the best trade deal from Donald Trump?",
+        "link": "https://www.economist.com/finance-and-economics/2026/02/10/who-wrangled-the-best-trade-deal-from-donald-trump",
+        "published": "Tue, 10 Feb 2026 11:31:00 GMT",
+        "image_url": "https://www.bing.com/th?id=OVFT.c1sZ7X92GcO1X7uxShxR0C&pid=News&w=1600&h=900&c=14&rs=1"
+      }
+    },
+    {
+      "source": "Reuters",
+      "entry": {
+        "id": "https://www.reuters.com/sustainability/cop/white-house-says-trump-plans-formalize-regulatory-rollback-greenhouse-gases-2026-02-10/",
+        "title": "White House says Trump plans to formalize regulatory rollback on greenhouse gases",
+        "link": "https://www.reuters.com/sustainability/cop/white-house-says-trump-plans-formalize-regulatory-rollback-greenhouse-gases-2026-02-10/",
+        "published": "Tue, 10 Feb 2026 10:21:00 GMT",
+        "image_url": "https://www.bing.com/th?id=OVFT.mzoIOVaShGll8BGam_KaEi&pid=News&w=1600&h=900&c=14&rs=1"
+      }
+    },
+    {
+      "source": "Reuters",
+      "entry": {
+        "id": "https://www.reuters.com/world/us/governors-skip-trump-meeting-after-white-house-invited-only-republicans-source-2026-02-10/",
+        "title": "Governors to skip Trump meeting after White House invited only Republicans, source says",
+        "link": "https://www.reuters.com/world/us/governors-skip-trump-meeting-after-white-house-invited-only-republicans-source-2026-02-10/",
+        "published": "Tue, 10 Feb 2026 09:50:00 GMT",
+        "image_url": "https://www.bing.com/th?id=OVFT.hX0tSBsTsmcpRqK0ytzhNC&pid=News&w=1600&h=900&c=14&rs=1"
+      }
+    },
+    {
+      "source": "SCMP",
+      "entry": {
+        "id": "https://www.scmp.com/news/world/united-states-canada/article/3343115/yaoning-sun-gets-4-years-prison-acting-beijings-agent-california-election?utm_source=rss_feed",
+        "title": "Yaoning Sun gets 4 years in prison for acting as Beijing’s agent in California election",
+        "link": "https://www.scmp.com/news/world/united-states-canada/article/3343115/yaoning-sun-gets-4-years-prison-acting-beijings-agent-california-election?utm_source=rss_feed",
+        "published": "Tue, 10 Feb 2026 19:14:31 +0000",
+        "image_url": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/02/11/22ab0410-f309-4b5b-9efa-2e62b892834b_f930ace2.jpg?itok=guGokJl6&v=1770750866"
+      }
     }
   ],
   "last_digest_date": "2026-02-10",
   "last_run": {
-    "utc": "2026-02-10T18:46:36Z",
-    "local": "2026-02-11T02:46:23+08:00",
+    "utc": "2026-02-10T19:49:44Z",
+    "local": "2026-02-11T03:49:31+08:00",
     "tz": "Asia/Shanghai",
-    "local_hour": 2,
+    "local_hour": 3,
     "quiet": true,
     "sources_ok": 9,
     "sources_fail": 0,
-    "entries_total": 188,
-    "new": 3,
+    "entries_total": 189,
+    "new": 5,
     "pushed_ok": 0,
     "pushed_fail": 0,
-    "skipped_seen": 57,
-    "skipped_major": 128,
-    "buffered_total": 18,
-    "buffered_added": 3,
-    "seen_size": 154,
+    "skipped_seen": 53,
+    "skipped_major": 131,
+    "buffered_total": 23,
+    "buffered_added": 5,
+    "seen_size": 159,
     "github": {
       "repo": "zixuouoscaroliver/Oscar-Oliver",
       "workflow": "Telegram News Bot",
-      "run_id": "21878003676",
-      "run_number": "46",
+      "run_id": "21880017696",
+      "run_number": "47",
       "sha": "4f3dfd71e3782371c09853800463db2dc0045ca8",
       "ref": "refs/heads/main",
-      "run_url": "https://github.com/zixuouoscaroliver/Oscar-Oliver/actions/runs/21878003676"
+      "run_url": "https://github.com/zixuouoscaroliver/Oscar-Oliver/actions/runs/21880017696"
     },
     "checkout": {
       "ref": "bot-stable",
