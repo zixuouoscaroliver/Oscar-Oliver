@@ -136,35 +136,69 @@
     "https://www.scmp.com/week-asia/economics/article/3343092/indonesias-economy-tipped-gain-deeper-mainland-china-hong-kong-ties?utm_source=rss_feed": 1770731171,
     "https://www.scmp.com/week-asia/economics/article/3343102/indonesia-track-10-growth-2029-energy-envoy-hashim-says?utm_source=rss_feed": 1770734800,
     "https://www.scmp.com/news/china/diplomacy/article/3343087/trumps-vacillating-china-policy-leads-allies-crisis-confidence-security-report?utm_source=rss_feed": 1770734800,
-    "https://www.scmp.com/economy/global-economy/article/3343081/next-us-china-trade-talks-tipped-advance-trump-xi-summit-fragile-truce-holds?utm_source=rss_feed": 1770734800
+    "https://www.scmp.com/economy/global-economy/article/3343081/next-us-china-trade-talks-tipped-advance-trump-xi-summit-fragile-truce-holds?utm_source=rss_feed": 1770734800,
+    "https://www.scmp.com/week-asia/economics/article/3343107/envoy-urges-shared-prosperity-china-asean-ties-amid-growing-protectionism?utm_source=rss_feed": 1770738603,
+    "https://www.scmp.com/tech/article/3343091/indonesia-telco-chief-warns-digital-colonisation-backs-chinas-open-source-ai?utm_source=rss_feed": 1770738603,
+    "https://www.scmp.com/economy/global-economy/article/3343090/indonesia-turns-digital-finance-reach-unbanked-population?utm_source=rss_feed": 1770738603
   },
-  "night_buffer": [],
+  "night_buffer": [
+    {
+      "source": "SCMP",
+      "entry": {
+        "id": "https://www.scmp.com/week-asia/economics/article/3343107/envoy-urges-shared-prosperity-china-asean-ties-amid-growing-protectionism?utm_source=rss_feed",
+        "title": "Envoy urges ‘shared prosperity’ in China-Asean ties amid growing protectionism",
+        "link": "https://www.scmp.com/week-asia/economics/article/3343107/envoy-urges-shared-prosperity-china-asean-ties-amid-growing-protectionism?utm_source=rss_feed",
+        "published": "Tue, 10 Feb 2026 15:22:05 +0000",
+        "image_url": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/02/10/92f29fd7-713a-42ed-866e-200dc9f7d8f1_a969a4f0.jpg?itok=pJzxQn0f&v=1770736922"
+      }
+    },
+    {
+      "source": "SCMP",
+      "entry": {
+        "id": "https://www.scmp.com/tech/article/3343091/indonesia-telco-chief-warns-digital-colonisation-backs-chinas-open-source-ai?utm_source=rss_feed",
+        "title": "Indonesia telco chief warns of ‘digital colonisation’, backs China’s open-source AI",
+        "link": "https://www.scmp.com/tech/article/3343091/indonesia-telco-chief-warns-digital-colonisation-backs-chinas-open-source-ai?utm_source=rss_feed",
+        "published": "Tue, 10 Feb 2026 15:00:09 +0000",
+        "image_url": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/02/10/a57e61af-9a29-4d0f-a93e-9046f9edacd8_fda90f37.jpg?itok=eKPtUGse&v=1770728242"
+      }
+    },
+    {
+      "source": "SCMP",
+      "entry": {
+        "id": "https://www.scmp.com/economy/global-economy/article/3343090/indonesia-turns-digital-finance-reach-unbanked-population?utm_source=rss_feed",
+        "title": "Indonesia turns to digital finance to reach unbanked population",
+        "link": "https://www.scmp.com/economy/global-economy/article/3343090/indonesia-turns-digital-finance-reach-unbanked-population?utm_source=rss_feed",
+        "published": "Tue, 10 Feb 2026 12:44:27 +0000",
+        "image_url": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/02/10/18aaf01c-4888-4d3c-bb33-6dabec9d7aea_c425072d.jpg?itok=ZfN2P4SQ&v=1770727466"
+      }
+    }
+  ],
   "last_digest_date": "2026-02-10",
   "last_run": {
-    "utc": "2026-02-10T14:47:16Z",
-    "local": "2026-02-10T22:46:40+08:00",
+    "utc": "2026-02-10T15:50:16Z",
+    "local": "2026-02-10T23:50:03+08:00",
     "tz": "Asia/Shanghai",
-    "local_hour": 22,
-    "quiet": false,
+    "local_hour": 23,
+    "quiet": true,
     "sources_ok": 9,
     "sources_fail": 0,
-    "entries_total": 189,
+    "entries_total": 188,
     "new": 3,
-    "pushed_ok": 3,
+    "pushed_ok": 0,
     "pushed_fail": 0,
-    "skipped_seen": 42,
-    "skipped_major": 104,
-    "buffered_total": 0,
-    "buffered_added": 0,
-    "seen_size": 136,
+    "skipped_seen": 45,
+    "skipped_major": 106,
+    "buffered_total": 3,
+    "buffered_added": 3,
+    "seen_size": 139,
     "github": {
       "repo": "zixuouoscaroliver/Oscar-Oliver",
       "workflow": "Telegram News Bot",
-      "run_id": "21869544144",
-      "run_number": "42",
+      "run_id": "21871907815",
+      "run_number": "43",
       "sha": "4f3dfd71e3782371c09853800463db2dc0045ca8",
       "ref": "refs/heads/main",
-      "run_url": "https://github.com/zixuouoscaroliver/Oscar-Oliver/actions/runs/21869544144"
+      "run_url": "https://github.com/zixuouoscaroliver/Oscar-Oliver/actions/runs/21871907815"
     },
     "checkout": {
       "ref": "bot-stable",
