@@ -151,7 +151,10 @@
     "https://nypost.com/?post_type=article&p=38445350": 1770745859,
     "https://nypost.com/?post_type=article&p=38445936": 1770745859,
     "https://apnews.com/article/trump-kevin-stitt-governors-meeting-washington-ee4e696534082638795e1804d71f4966": 1770745859,
-    "https://www.scmp.com/news/world/united-states-canada/article/3343111/trump-commerce-chief-admits-travelling-epstein-island-faces-calls-resign?utm_source=rss_feed": 1770745859
+    "https://www.scmp.com/news/world/united-states-canada/article/3343111/trump-commerce-chief-admits-travelling-epstein-island-faces-calls-resign?utm_source=rss_feed": 1770745859,
+    "https://pagesix.com/?post_type=article&p=8742699": 1770749183,
+    "https://pagesix.com/2026/02/10/celebrity-news/watch-disturbing-video-of-armed-nancy-guthrie-suspect-breaking-in/": 1770749183,
+    "https://www.scmp.com/news/world/united-states-canada/article/3343112/carny-speaks-trump-after-he-demands-half-bridge-canada-paid?utm_source=rss_feed": 1770749183
   },
   "night_buffer": [
     {
@@ -303,34 +306,64 @@
         "published": "Tue, 10 Feb 2026 17:34:50 +0000",
         "image_url": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/02/11/7cd248fb-a75c-4247-98f1-5de1be9c7d24_993317cc.jpg?itok=FMo4Lm4D&v=1770744886"
       }
+    },
+    {
+      "source": "NYP",
+      "entry": {
+        "id": "https://pagesix.com/?post_type=article&p=8742699",
+        "title": "Watch disturbing video of armed Nancy Guthrie suspect breaking in on night of kidnapping",
+        "link": "https://pagesix.com/2026/02/10/celebrity-news/watch-disturbing-video-of-armed-nancy-guthrie-suspect-breaking-in/",
+        "published": "Tue, 10 Feb 2026 13:24:34 -0500",
+        "image_url": "https://pagesix.com/wp-content%2Fuploads%2Fsites%2F3%2F2026%2F02%2Fnancy-guthrie-intruder.jpg?quality%3D90%26strip%3Dall"
+      }
+    },
+    {
+      "source": "NYP",
+      "entry": {
+        "id": "https://pagesix.com/2026/02/10/celebrity-news/watch-disturbing-video-of-armed-nancy-guthrie-suspect-breaking-in/",
+        "title": "Watch disturbing video of armed Nancy Guthrie suspect breaking in",
+        "link": "https://pagesix.com/2026/02/10/celebrity-news/watch-disturbing-video-of-armed-nancy-guthrie-suspect-breaking-in/",
+        "published": "Tue, 10 Feb 2026 13:24:34 -0500",
+        "image_url": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F02%2Fnancy-guthrie-intruder.jpg?quality%3D90%26strip%3Dall"
+      }
+    },
+    {
+      "source": "SCMP",
+      "entry": {
+        "id": "https://www.scmp.com/news/world/united-states-canada/article/3343112/carny-speaks-trump-after-he-demands-half-bridge-canada-paid?utm_source=rss_feed",
+        "title": "Carny speaks to Trump after he demands half of bridge that Canada paid for",
+        "link": "https://www.scmp.com/news/world/united-states-canada/article/3343112/carny-speaks-trump-after-he-demands-half-bridge-canada-paid?utm_source=rss_feed",
+        "published": "Tue, 10 Feb 2026 18:12:21 +0000",
+        "image_url": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/02/11/0158309f-a029-4989-a4ff-94be3e41f224_7c38a646.jpg?itok=rVhjEzGo&v=1770747132"
+      }
     }
   ],
   "last_digest_date": "2026-02-10",
   "last_run": {
-    "utc": "2026-02-10T17:51:10Z",
-    "local": "2026-02-11T01:50:59+08:00",
+    "utc": "2026-02-10T18:46:36Z",
+    "local": "2026-02-11T02:46:23+08:00",
     "tz": "Asia/Shanghai",
-    "local_hour": 1,
+    "local_hour": 2,
     "quiet": true,
     "sources_ok": 9,
     "sources_fail": 0,
-    "entries_total": 189,
-    "new": 4,
+    "entries_total": 188,
+    "new": 3,
     "pushed_ok": 0,
     "pushed_fail": 0,
-    "skipped_seen": 58,
-    "skipped_major": 127,
-    "buffered_total": 15,
-    "buffered_added": 4,
-    "seen_size": 151,
+    "skipped_seen": 57,
+    "skipped_major": 128,
+    "buffered_total": 18,
+    "buffered_added": 3,
+    "seen_size": 154,
     "github": {
       "repo": "zixuouoscaroliver/Oscar-Oliver",
       "workflow": "Telegram News Bot",
-      "run_id": "21876190613",
-      "run_number": "45",
+      "run_id": "21878003676",
+      "run_number": "46",
       "sha": "4f3dfd71e3782371c09853800463db2dc0045ca8",
       "ref": "refs/heads/main",
-      "run_url": "https://github.com/zixuouoscaroliver/Oscar-Oliver/actions/runs/21876190613"
+      "run_url": "https://github.com/zixuouoscaroliver/Oscar-Oliver/actions/runs/21878003676"
     },
     "checkout": {
       "ref": "bot-stable",
