@@ -278,7 +278,8 @@
     "https://nypost.com/?post_type=article&p=38458259": 1770846170,
     "https://nypost.com/?post_type=article&p=38460009": 1770846170,
     "https://apnews.com/article/trump-governors-meeting-democrats-white-house-invitation-a6078ac03332b55ccf8622fe261dd8bd": 1770846170,
-    "https://www.reuters.com/world/us/us-lawmakers-learned-trump-wanted-indict-them-through-press-2026-02-11/": 1770846170
+    "https://www.reuters.com/world/us/us-lawmakers-learned-trump-wanted-indict-them-through-press-2026-02-11/": 1770846170,
+    "https://nypost.com/?post_type=article&p=38457122": 1770847408
   },
   "night_buffer": [
     {
@@ -670,34 +671,44 @@
         "published": "Wed, 11 Feb 2026 11:47:00 GMT",
         "image_url": "https://www.bing.com/th?id=OVFT.dctDwTsXD55NSCDqDswzfy&pid=News&w=1600&h=900&c=14&rs=1"
       }
+    },
+    {
+      "source": "NYP",
+      "entry": {
+        "id": "https://nypost.com/?post_type=article&p=38457122",
+        "title": "WH Religious Freedom commissioner gets axed after ranting against Israel, defense of Candace Owens",
+        "link": "https://nypost.com/2026/02/11/us-news/wh-religious-freedom-commissioner-gets-axed-after-wild-screed-against-israel-defense-of-candace-owens/",
+        "published": "Wed, 11 Feb 2026 16:55:01 -0500",
+        "image_url": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F02%2F120970775.jpg?quality%3D90%26strip%3Dall"
+      }
     }
   ],
   "last_digest_date": "2026-02-11",
   "last_run": {
-    "utc": "2026-02-11T21:43:02Z",
-    "local": "2026-02-12T05:42:50+08:00",
+    "utc": "2026-02-11T22:03:42Z",
+    "local": "2026-02-12T06:03:28+08:00",
     "tz": "Asia/Shanghai",
-    "local_hour": 5,
+    "local_hour": 6,
     "quiet": true,
     "sources_ok": 9,
     "sources_fail": 0,
-    "entries_total": 193,
-    "new": 5,
+    "entries_total": 191,
+    "new": 3,
     "pushed_ok": 0,
     "pushed_fail": 0,
-    "skipped_seen": 55,
+    "skipped_seen": 58,
     "skipped_major": 130,
-    "buffered_total": 39,
-    "buffered_added": 5,
-    "seen_size": 278,
+    "buffered_total": 40,
+    "buffered_added": 1,
+    "seen_size": 279,
     "github": {
       "repo": "zixuouoscaroliver/Oscar-Oliver",
       "workflow": "Telegram News Bot",
-      "run_id": "21924180524",
-      "run_number": "73",
+      "run_id": "21924800771",
+      "run_number": "74",
       "sha": "4f3dfd71e3782371c09853800463db2dc0045ca8",
       "ref": "refs/heads/main",
-      "run_url": "https://github.com/zixuouoscaroliver/Oscar-Oliver/actions/runs/21924180524"
+      "run_url": "https://github.com/zixuouoscaroliver/Oscar-Oliver/actions/runs/21924800771"
     },
     "checkout": {
       "ref": "bot-stable",
