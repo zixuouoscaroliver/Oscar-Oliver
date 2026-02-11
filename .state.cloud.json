@@ -268,7 +268,9 @@
     "https://www.economist.com/europe/2026/02/11/a-european-fighter-jet-partnership-is-verging-on-a-break-up": 1770838926,
     "https://apnews.com/article/cruise-ship-carnival-florida-crime-d9db466ea85f4b55e2f0ddce24b6e267": 1770838926,
     "https://apnews.com/video/bondi-responds-to-democrats-video-of-trump-and-epstein-with-ridicule-be536b3ab0354699ae35fea434107093": 1770838926,
-    "https://www.reuters.com/legal/government/us-house-consider-new-election-restrictions-ahead-november-midterms-2026-02-11/": 1770838926
+    "https://www.reuters.com/legal/government/us-house-consider-new-election-restrictions-ahead-november-midterms-2026-02-11/": 1770838926,
+    "https://nypost.com/?post_type=article&p=38459519": 1770841235,
+    "https://www.scmp.com/news/world/middle-east/article/3343238/trump-insists-netanyahu-he-will-continue-talks-iran-seek-nuclear-deal?utm_source=rss_feed": 1770841235
   },
   "night_buffer": [
     {
@@ -560,34 +562,54 @@
         "published": "Wed, 11 Feb 2026 05:21:00 GMT",
         "image_url": "https://www.bing.com/th?id=OVFT.VHv18JzYANrRG3oLeDkVPS&pid=News&w=1600&h=900&c=14&rs=1"
       }
+    },
+    {
+      "source": "NYP",
+      "entry": {
+        "id": "https://nypost.com/?post_type=article&p=38459519",
+        "title": "Thug who allegedly pulled fake gun on fed agents has extensive record, works for Uber Eats and Caltrans",
+        "link": "https://nypost.com/2026/02/11/us-news/convicted-felon-peter-escalante-hernandez-works-for-uber-eats-and-caltrans-attorney/",
+        "published": "Wed, 11 Feb 2026 15:06:07 -0500",
+        "image_url": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F02%2F120970979.jpg?quality%3D90%26strip%3Dall"
+      }
+    },
+    {
+      "source": "SCMP",
+      "entry": {
+        "id": "https://www.scmp.com/news/world/middle-east/article/3343238/trump-insists-netanyahu-he-will-continue-talks-iran-seek-nuclear-deal?utm_source=rss_feed",
+        "title": "Trump ‘insists’ to Netanyahu that he will continue talks with Iran to seek nuclear deal",
+        "link": "https://www.scmp.com/news/world/middle-east/article/3343238/trump-insists-netanyahu-he-will-continue-talks-iran-seek-nuclear-deal?utm_source=rss_feed",
+        "published": "Wed, 11 Feb 2026 19:59:20 +0000",
+        "image_url": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/02/12/924b0fac-c14b-4e91-9962-2d82cc66e537_9f472037.jpg?itok=JrlS-xms&v=1770839958"
+      }
     }
   ],
   "last_digest_date": "2026-02-11",
   "last_run": {
-    "utc": "2026-02-11T19:42:18Z",
-    "local": "2026-02-12T03:42:06+08:00",
+    "utc": "2026-02-11T20:20:47Z",
+    "local": "2026-02-12T04:20:35+08:00",
     "tz": "Asia/Shanghai",
-    "local_hour": 3,
+    "local_hour": 4,
     "quiet": true,
     "sources_ok": 9,
     "sources_fail": 0,
     "entries_total": 191,
-    "new": 7,
+    "new": 2,
     "pushed_ok": 0,
     "pushed_fail": 0,
     "skipped_seen": 57,
-    "skipped_major": 107,
-    "buffered_total": 29,
-    "buffered_added": 7,
-    "seen_size": 268,
+    "skipped_major": 132,
+    "buffered_total": 31,
+    "buffered_added": 2,
+    "seen_size": 270,
     "github": {
       "repo": "zixuouoscaroliver/Oscar-Oliver",
       "workflow": "Telegram News Bot",
-      "run_id": "21920332245",
-      "run_number": "70",
+      "run_id": "21921616094",
+      "run_number": "71",
       "sha": "4f3dfd71e3782371c09853800463db2dc0045ca8",
       "ref": "refs/heads/main",
-      "run_url": "https://github.com/zixuouoscaroliver/Oscar-Oliver/actions/runs/21920332245"
+      "run_url": "https://github.com/zixuouoscaroliver/Oscar-Oliver/actions/runs/21921616094"
     },
     "checkout": {
       "ref": "bot-stable",
