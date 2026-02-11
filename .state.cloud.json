@@ -257,7 +257,11 @@
     "https://nypost.com/?post_type=article&p=38457505": 1770831679,
     "https://nypost.com/?post_type=article&p=38457407": 1770831679,
     "https://decider.com/2026/02/11/celeste-hughey-the-burbs/": 1770831679,
-    "https://www.scmp.com/news/world/europe/article/3343235/nato-launches-arctic-sentry-mission-bid-ease-greenland-tensions-trump?utm_source=rss_feed": 1770831679
+    "https://www.scmp.com/news/world/europe/article/3343235/nato-launches-arctic-sentry-mission-bid-ease-greenland-tensions-trump?utm_source=rss_feed": 1770831679,
+    "https://apnews.com/article/canada-school-shooting-british-columbia-e577eb5689d1af42f6077a56368d4170": 1770835162,
+    "https://www.reuters.com/world/us/georgia-2020-election-probe-began-with-referral-trump-appointed-official-court-2026-02-10/": 1770835162,
+    "https://www.reuters.com/business/us-budget-deficit-grow-1853-trillion-fy2026-cbo-says-2026-02-11/": 1770835162,
+    "https://www.reuters.com/business/healthcare-pharmaceuticals/un-agency-begins-clearing-huge-gaza-city-waste-dump-health-risks-mount-2026-02-11/": 1770835162
   },
   "night_buffer": [
     {
@@ -439,34 +443,74 @@
         "published": "Wed, 11 Feb 2026 16:44:52 +0000",
         "image_url": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/02/12/f4c8b03d-9f9f-45a8-bdd5-7ea0379811e3_4e77ff1a.jpg?itok=yXF5lhgA&v=1770828285"
       }
+    },
+    {
+      "source": "AP NEWS",
+      "entry": {
+        "id": "https://apnews.com/article/canada-school-shooting-british-columbia-e577eb5689d1af42f6077a56368d4170",
+        "title": "Canada reels after 9 are killed in mass shooting at a school and a home in remote British Columbia",
+        "link": "https://apnews.com/article/canada-school-shooting-british-columbia-e577eb5689d1af42f6077a56368d4170",
+        "published": "Wed, 11 Feb 2026 10:02:00 GMT",
+        "image_url": "https://www.bing.com/th?id=OVFT.2jbndU0lk0TrK4nhrdMWDy&pid=News&w=1600&h=900&c=14&rs=1"
+      }
+    },
+    {
+      "source": "Reuters",
+      "entry": {
+        "id": "https://www.reuters.com/world/us/georgia-2020-election-probe-began-with-referral-trump-appointed-official-court-2026-02-10/",
+        "title": "Georgia 2020 probe began with referral from Trump election official, court documents show",
+        "link": "https://www.reuters.com/world/us/georgia-2020-election-probe-began-with-referral-trump-appointed-official-court-2026-02-10/",
+        "published": "Tue, 10 Feb 2026 10:59:00 GMT",
+        "image_url": ""
+      }
+    },
+    {
+      "source": "Reuters",
+      "entry": {
+        "id": "https://www.reuters.com/business/us-budget-deficit-grow-1853-trillion-fy2026-cbo-says-2026-02-11/",
+        "title": "US budget deficit to keep growing amid Trump tax cuts, tariffs, CBO forecasts show",
+        "link": "https://www.reuters.com/business/us-budget-deficit-grow-1853-trillion-fy2026-cbo-says-2026-02-11/",
+        "published": "Wed, 11 Feb 2026 06:33:00 GMT",
+        "image_url": ""
+      }
+    },
+    {
+      "source": "Reuters",
+      "entry": {
+        "id": "https://www.reuters.com/business/healthcare-pharmaceuticals/un-agency-begins-clearing-huge-gaza-city-waste-dump-health-risks-mount-2026-02-11/",
+        "title": "UN agency begins clearing huge Gaza City waste dump as health risks mount",
+        "link": "https://www.reuters.com/business/healthcare-pharmaceuticals/un-agency-begins-clearing-huge-gaza-city-waste-dump-health-risks-mount-2026-02-11/",
+        "published": "Wed, 11 Feb 2026 07:36:00 GMT",
+        "image_url": ""
+      }
     }
   ],
   "last_digest_date": "2026-02-11",
   "last_run": {
-    "utc": "2026-02-11T17:41:31Z",
-    "local": "2026-02-12T01:41:19+08:00",
+    "utc": "2026-02-11T18:39:36Z",
+    "local": "2026-02-12T02:39:22+08:00",
     "tz": "Asia/Shanghai",
-    "local_hour": 1,
+    "local_hour": 2,
     "quiet": true,
     "sources_ok": 9,
     "sources_fail": 0,
-    "entries_total": 189,
+    "entries_total": 188,
     "new": 4,
     "pushed_ok": 0,
     "pushed_fail": 0,
-    "skipped_seen": 57,
-    "skipped_major": 126,
-    "buffered_total": 18,
+    "skipped_seen": 56,
+    "skipped_major": 125,
+    "buffered_total": 22,
     "buffered_added": 4,
-    "seen_size": 257,
+    "seen_size": 261,
     "github": {
       "repo": "zixuouoscaroliver/Oscar-Oliver",
       "workflow": "Telegram News Bot",
-      "run_id": "21916114511",
-      "run_number": "68",
+      "run_id": "21918165467",
+      "run_number": "69",
       "sha": "4f3dfd71e3782371c09853800463db2dc0045ca8",
       "ref": "refs/heads/main",
-      "run_url": "https://github.com/zixuouoscaroliver/Oscar-Oliver/actions/runs/21916114511"
+      "run_url": "https://github.com/zixuouoscaroliver/Oscar-Oliver/actions/runs/21918165467"
     },
     "checkout": {
       "ref": "bot-stable",
