@@ -248,7 +248,12 @@
     "https://www.reuters.com/business/feds-schmid-says-too-soon-expect-productivity-fix-still-elevated-inflation-2026-02-11/": 1770824428,
     "https://www.scmp.com/news/china/diplomacy/article/3343223/what-will-headline-xi-trump-summit-former-us-envoy-weighs?utm_source=rss_feed": 1770824428,
     "https://www.scmp.com/news/world/united-states-canada/article/3343229/us-adds-130000-jobs-january-amid-trump-policy-fallout-and-fed-rate-freeze?utm_source=rss_feed": 1770824428,
-    "https://www.scmp.com/news/world/united-states-canada/article/3343217/el-paso-texas-airport-grounds-all-flights-due-special-security-reasons-10-days?utm_source=rss_feed": 1770824428
+    "https://www.scmp.com/news/world/united-states-canada/article/3343217/el-paso-texas-airport-grounds-all-flights-due-special-security-reasons-10-days?utm_source=rss_feed": 1770824428,
+    "https://decider.com/2026/02/11/the-view-trumps-howard-lutnick-kids-jeffrey-epsteins-island/": 1770828192,
+    "https://nypost.com/?post_type=article&p=38456742": 1770828192,
+    "https://nypost.com/?post_type=video&p=38457230": 1770828192,
+    "https://apnews.com/article/faa-el-paso-texas-air-space-closed-1f774bdfd46f5986ff0e7003df709caa": 1770828192,
+    "https://www.reuters.com/world/live-trump-netanyahu-meeting-focus-iran-talks-gaza-2026-02-11/": 1770828192
   },
   "night_buffer": [
     {
@@ -340,34 +345,84 @@
         "published": "Wed, 11 Feb 2026 12:35:42 +0000",
         "image_url": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/02/11/ef3c8c80-18bc-4739-9612-3f84a73688fc_368d8f4b.jpg?itok=oLiJxHGi&v=1770813262"
       }
+    },
+    {
+      "source": "NYP",
+      "entry": {
+        "id": "https://decider.com/2026/02/11/the-view-trumps-howard-lutnick-kids-jeffrey-epsteins-island/",
+        "title": "‘The View’ Hosts Slam Trump’s Secretary of Commerce Howard Lutnick For Admitting He Took His Kids To Jeffrey Epstein’s Island: “You’re Going To Visit Pedo Island With Your Kids?”",
+        "link": "https://decider.com/2026/02/11/the-view-trumps-howard-lutnick-kids-jeffrey-epsteins-island/",
+        "published": "Wed, 11 Feb 2026 11:41:43 -0500",
+        "image_url": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F02%2Fsunny-hostin-howard-lutnick-ana-navarro.jpg?quality%3D90%26strip%3Dall"
+      }
+    },
+    {
+      "source": "NYP",
+      "entry": {
+        "id": "https://nypost.com/?post_type=article&p=38456742",
+        "title": "IOC threatens to ban Ukrainian Olympian over helmet he refuses to take off",
+        "link": "https://nypost.com/2026/02/11/sports/ioc-threatens-to-ban-olympian-over-helmet-he-refuses-to-take-off/",
+        "published": "Wed, 11 Feb 2026 11:23:08 -0500",
+        "image_url": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F02%2Fnewspress-collage-1pnc5dwo4-1770823836926.jpg?quality%3D90%26strip%3Dall%261770805862"
+      }
+    },
+    {
+      "source": "NYP",
+      "entry": {
+        "id": "https://nypost.com/?post_type=video&p=38457230",
+        "title": "10 dead in British Columbia school shooting; suspect described as woman in dress",
+        "link": "https://nypost.com/video/10-dead-in-british-columbia-school-shooting-suspect-described-as-woman-in-dress/",
+        "published": "Wed, 11 Feb 2026 11:22:33 -0500",
+        "image_url": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F02%2FWP_SHOOTING_THUMB.jpg?quality%3D90%26strip%3Dall"
+      }
+    },
+    {
+      "source": "AP NEWS",
+      "entry": {
+        "id": "https://apnews.com/article/faa-el-paso-texas-air-space-closed-1f774bdfd46f5986ff0e7003df709caa",
+        "title": "Trump administration briefly closes El Paso airspace, blames Mexican cartel drone incursion",
+        "link": "https://apnews.com/article/faa-el-paso-texas-air-space-closed-1f774bdfd46f5986ff0e7003df709caa",
+        "published": "Wed, 11 Feb 2026 08:22:00 GMT",
+        "image_url": "https://www.bing.com/th?id=OVFT.ZqyjEiE_OqHmJC7dBWOcnC&pid=News&w=1600&h=900&c=14&rs=1"
+      }
+    },
+    {
+      "source": "Reuters",
+      "entry": {
+        "id": "https://www.reuters.com/world/live-trump-netanyahu-meeting-focus-iran-talks-gaza-2026-02-11/",
+        "title": "Live: Trump-Netanyahu meeting to focus on Iran talks and Gaza",
+        "link": "https://www.reuters.com/world/live-trump-netanyahu-meeting-focus-iran-talks-gaza-2026-02-11/",
+        "published": "Wed, 11 Feb 2026 07:08:00 GMT",
+        "image_url": "https://www.bing.com/th?id=OVFT.1MNEKeY489mxVi-Xoxc2Sy&pid=News&w=1600&h=900&c=14&rs=1"
+      }
     }
   ],
   "last_digest_date": "2026-02-11",
   "last_run": {
-    "utc": "2026-02-11T15:40:40Z",
-    "local": "2026-02-11T23:40:28+08:00",
+    "utc": "2026-02-11T16:43:24Z",
+    "local": "2026-02-12T00:43:12+08:00",
     "tz": "Asia/Shanghai",
-    "local_hour": 23,
+    "local_hour": 0,
     "quiet": true,
     "sources_ok": 9,
     "sources_fail": 0,
-    "entries_total": 189,
-    "new": 9,
+    "entries_total": 187,
+    "new": 5,
     "pushed_ok": 0,
     "pushed_fail": 0,
-    "skipped_seen": 39,
-    "skipped_major": 97,
-    "buffered_total": 9,
-    "buffered_added": 9,
-    "seen_size": 248,
+    "skipped_seen": 57,
+    "skipped_major": 115,
+    "buffered_total": 14,
+    "buffered_added": 5,
+    "seen_size": 253,
     "github": {
       "repo": "zixuouoscaroliver/Oscar-Oliver",
       "workflow": "Telegram News Bot",
-      "run_id": "21911741580",
-      "run_number": "66",
+      "run_id": "21914055399",
+      "run_number": "67",
       "sha": "4f3dfd71e3782371c09853800463db2dc0045ca8",
       "ref": "refs/heads/main",
-      "run_url": "https://github.com/zixuouoscaroliver/Oscar-Oliver/actions/runs/21911741580"
+      "run_url": "https://github.com/zixuouoscaroliver/Oscar-Oliver/actions/runs/21914055399"
     },
     "checkout": {
       "ref": "bot-stable",
