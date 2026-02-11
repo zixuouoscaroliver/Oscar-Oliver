@@ -270,7 +270,10 @@
     "https://apnews.com/video/bondi-responds-to-democrats-video-of-trump-and-epstein-with-ridicule-be536b3ab0354699ae35fea434107093": 1770838926,
     "https://www.reuters.com/legal/government/us-house-consider-new-election-restrictions-ahead-november-midterms-2026-02-11/": 1770838926,
     "https://nypost.com/?post_type=article&p=38459519": 1770841235,
-    "https://www.scmp.com/news/world/middle-east/article/3343238/trump-insists-netanyahu-he-will-continue-talks-iran-seek-nuclear-deal?utm_source=rss_feed": 1770841235
+    "https://www.scmp.com/news/world/middle-east/article/3343238/trump-insists-netanyahu-he-will-continue-talks-iran-seek-nuclear-deal?utm_source=rss_feed": 1770841235,
+    "https://nypost.com/?post_type=article&p=38460430": 1770843564,
+    "https://nypost.com/?post_type=article&p=38451236": 1770843564,
+    "https://nypost.com/?post_type=article&p=38461236": 1770843564
   },
   "night_buffer": [
     {
@@ -582,34 +585,64 @@
         "published": "Wed, 11 Feb 2026 19:59:20 +0000",
         "image_url": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/02/12/924b0fac-c14b-4e91-9962-2d82cc66e537_9f472037.jpg?itok=JrlS-xms&v=1770839958"
       }
+    },
+    {
+      "source": "NYP",
+      "entry": {
+        "id": "https://nypost.com/?post_type=article&p=38460430",
+        "title": "Congress advances housing bill without Trump’s proposal to ban investors from buying up single-family homes",
+        "link": "https://nypost.com/2026/02/11/real-estate/congress-advances-housing-bill-without-trumps-proposal-to-ban-investors/",
+        "published": "Wed, 11 Feb 2026 15:54:38 -0500",
+        "image_url": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F02%2Fnewspress-collage-n7yliew4c-1770839126355.jpg?quality%3D90%26strip%3Dall%261770821216"
+      }
+    },
+    {
+      "source": "NYP",
+      "entry": {
+        "id": "https://nypost.com/?post_type=article&p=38451236",
+        "title": "Fed-up residents sue Bass, nonprofit, claim city burned millions on homeless housing",
+        "link": "https://nypost.com/2026/02/11/us-news/fed-up-residents-sue-bass-nonprofit-claim-city-burned-millions-on-homeless-housing/",
+        "published": "Wed, 11 Feb 2026 15:46:58 -0500",
+        "image_url": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F02%2F120910922.jpg?quality%3D90%26strip%3Dall"
+      }
+    },
+    {
+      "source": "NYP",
+      "entry": {
+        "id": "https://nypost.com/?post_type=article&p=38461236",
+        "title": "‘Reckless’ Texas dad who killed daughter was ‘teaser’ who showed her gun to rile her up: coroner",
+        "link": "https://nypost.com/2026/02/11/us-news/texas-dad-shot-daughter-after-trying-to-rile-her-up-coroner-rules/",
+        "published": "Wed, 11 Feb 2026 15:25:26 -0500",
+        "image_url": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F02%2F120983473.jpg?quality%3D90%26strip%3Dall"
+      }
     }
   ],
   "last_digest_date": "2026-02-11",
   "last_run": {
-    "utc": "2026-02-11T20:20:47Z",
-    "local": "2026-02-12T04:20:35+08:00",
+    "utc": "2026-02-11T20:59:37Z",
+    "local": "2026-02-12T04:59:24+08:00",
     "tz": "Asia/Shanghai",
     "local_hour": 4,
     "quiet": true,
     "sources_ok": 9,
     "sources_fail": 0,
     "entries_total": 191,
-    "new": 2,
+    "new": 3,
     "pushed_ok": 0,
     "pushed_fail": 0,
-    "skipped_seen": 57,
-    "skipped_major": 132,
-    "buffered_total": 31,
-    "buffered_added": 2,
-    "seen_size": 270,
+    "skipped_seen": 56,
+    "skipped_major": 129,
+    "buffered_total": 34,
+    "buffered_added": 3,
+    "seen_size": 273,
     "github": {
       "repo": "zixuouoscaroliver/Oscar-Oliver",
       "workflow": "Telegram News Bot",
-      "run_id": "21921616094",
-      "run_number": "71",
+      "run_id": "21922821910",
+      "run_number": "72",
       "sha": "4f3dfd71e3782371c09853800463db2dc0045ca8",
       "ref": "refs/heads/main",
-      "run_url": "https://github.com/zixuouoscaroliver/Oscar-Oliver/actions/runs/21921616094"
+      "run_url": "https://github.com/zixuouoscaroliver/Oscar-Oliver/actions/runs/21922821910"
     },
     "checkout": {
       "ref": "bot-stable",
