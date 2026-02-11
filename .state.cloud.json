@@ -273,7 +273,12 @@
     "https://www.scmp.com/news/world/middle-east/article/3343238/trump-insists-netanyahu-he-will-continue-talks-iran-seek-nuclear-deal?utm_source=rss_feed": 1770841235,
     "https://nypost.com/?post_type=article&p=38460430": 1770843564,
     "https://nypost.com/?post_type=article&p=38451236": 1770843564,
-    "https://nypost.com/?post_type=article&p=38461236": 1770843564
+    "https://nypost.com/?post_type=article&p=38461236": 1770843564,
+    "https://nypost.com/?post_type=article&p=38460342": 1770846170,
+    "https://nypost.com/?post_type=article&p=38458259": 1770846170,
+    "https://nypost.com/?post_type=article&p=38460009": 1770846170,
+    "https://apnews.com/article/trump-governors-meeting-democrats-white-house-invitation-a6078ac03332b55ccf8622fe261dd8bd": 1770846170,
+    "https://www.reuters.com/world/us/us-lawmakers-learned-trump-wanted-indict-them-through-press-2026-02-11/": 1770846170
   },
   "night_buffer": [
     {
@@ -615,34 +620,84 @@
         "published": "Wed, 11 Feb 2026 15:25:26 -0500",
         "image_url": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F02%2F120983473.jpg?quality%3D90%26strip%3Dall"
       }
+    },
+    {
+      "source": "NYP",
+      "entry": {
+        "id": "https://nypost.com/?post_type=article&p=38460342",
+        "title": "Two sisters dead in suspicious Hollywood fire after elderly woman braves burning home to save her sibling",
+        "link": "https://nypost.com/2026/02/11/us-news/two-sisters-dead-in-suspicious-hollywood-fire/",
+        "published": "Wed, 11 Feb 2026 16:36:27 -0500",
+        "image_url": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F02%2F120985200.jpg?quality%3D90%26strip%3Dall"
+      }
+    },
+    {
+      "source": "NYP",
+      "entry": {
+        "id": "https://nypost.com/?post_type=article&p=38458259",
+        "title": "Russian drone strike kills Ukrainian dad, 3 toddlers, and seriously injures pregnant wife: officials",
+        "link": "https://nypost.com/2026/02/11/world-news/russian-drone-strike-kills-ukrainian-dad-3-toddlers-and-seriously-injures-wife-officials/",
+        "published": "Wed, 11 Feb 2026 16:30:55 -0500",
+        "image_url": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F02%2F120974591.jpg?quality%3D90%26strip%3Dall"
+      }
+    },
+    {
+      "source": "NYP",
+      "entry": {
+        "id": "https://nypost.com/?post_type=article&p=38460009",
+        "title": "‘Hot Girls for Zohran’ co-creator pushed wild anti-Israel, 9/11 conspiracy theories: report",
+        "link": "https://nypost.com/2026/02/11/us-news/hot-girls-for-zohran-co-creator-pushed-wild-anti-israel-9-11-conspiracy-theories-report/",
+        "published": "Wed, 11 Feb 2026 16:01:56 -0500",
+        "image_url": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F02%2Fnewspress-collage-c8q73f1xw-1770844333439.jpg?quality%3D90%26strip%3Dall%261770826378"
+      }
+    },
+    {
+      "source": "AP NEWS",
+      "entry": {
+        "id": "https://apnews.com/article/trump-governors-meeting-democrats-white-house-invitation-a6078ac03332b55ccf8622fe261dd8bd",
+        "title": "Governors group says Trump will welcome Democrats and Republicans to White House",
+        "link": "https://apnews.com/article/trump-governors-meeting-democrats-white-house-invitation-a6078ac03332b55ccf8622fe261dd8bd",
+        "published": "Wed, 11 Feb 2026 12:34:00 GMT",
+        "image_url": "https://www.bing.com/th?id=OVFT.ZQ-LVvrt91QxxysQWsbwtS&pid=News&w=1600&h=900&c=14&rs=1"
+      }
+    },
+    {
+      "source": "Reuters",
+      "entry": {
+        "id": "https://www.reuters.com/world/us/us-lawmakers-learned-trump-wanted-indict-them-through-press-2026-02-11/",
+        "title": "US lawmakers learned Trump wanted to indict them through the press",
+        "link": "https://www.reuters.com/world/us/us-lawmakers-learned-trump-wanted-indict-them-through-press-2026-02-11/",
+        "published": "Wed, 11 Feb 2026 11:47:00 GMT",
+        "image_url": "https://www.bing.com/th?id=OVFT.dctDwTsXD55NSCDqDswzfy&pid=News&w=1600&h=900&c=14&rs=1"
+      }
     }
   ],
   "last_digest_date": "2026-02-11",
   "last_run": {
-    "utc": "2026-02-11T20:59:37Z",
-    "local": "2026-02-12T04:59:24+08:00",
+    "utc": "2026-02-11T21:43:02Z",
+    "local": "2026-02-12T05:42:50+08:00",
     "tz": "Asia/Shanghai",
-    "local_hour": 4,
+    "local_hour": 5,
     "quiet": true,
     "sources_ok": 9,
     "sources_fail": 0,
-    "entries_total": 191,
-    "new": 3,
+    "entries_total": 193,
+    "new": 5,
     "pushed_ok": 0,
     "pushed_fail": 0,
-    "skipped_seen": 56,
-    "skipped_major": 129,
-    "buffered_total": 34,
-    "buffered_added": 3,
-    "seen_size": 273,
+    "skipped_seen": 55,
+    "skipped_major": 130,
+    "buffered_total": 39,
+    "buffered_added": 5,
+    "seen_size": 278,
     "github": {
       "repo": "zixuouoscaroliver/Oscar-Oliver",
       "workflow": "Telegram News Bot",
-      "run_id": "21922821910",
-      "run_number": "72",
+      "run_id": "21924180524",
+      "run_number": "73",
       "sha": "4f3dfd71e3782371c09853800463db2dc0045ca8",
       "ref": "refs/heads/main",
-      "run_url": "https://github.com/zixuouoscaroliver/Oscar-Oliver/actions/runs/21922821910"
+      "run_url": "https://github.com/zixuouoscaroliver/Oscar-Oliver/actions/runs/21924180524"
     },
     "checkout": {
       "ref": "bot-stable",
