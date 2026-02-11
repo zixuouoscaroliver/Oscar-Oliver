@@ -261,7 +261,14 @@
     "https://apnews.com/article/canada-school-shooting-british-columbia-e577eb5689d1af42f6077a56368d4170": 1770835162,
     "https://www.reuters.com/world/us/georgia-2020-election-probe-began-with-referral-trump-appointed-official-court-2026-02-10/": 1770835162,
     "https://www.reuters.com/business/us-budget-deficit-grow-1853-trillion-fy2026-cbo-says-2026-02-11/": 1770835162,
-    "https://www.reuters.com/business/healthcare-pharmaceuticals/un-agency-begins-clearing-huge-gaza-city-waste-dump-health-risks-mount-2026-02-11/": 1770835162
+    "https://www.reuters.com/business/healthcare-pharmaceuticals/un-agency-begins-clearing-huge-gaza-city-waste-dump-health-risks-mount-2026-02-11/": 1770835162,
+    "https://decider.com/2026/02/11/r-i-p-james-van-der-beek-dawsons-creek-star-dead-at-48/": 1770838926,
+    "https://nypost.com/?post_type=article&p=38459278": 1770838926,
+    "https://pagesix.com/?post_type=article&p=8528395": 1770838926,
+    "https://www.economist.com/europe/2026/02/11/a-european-fighter-jet-partnership-is-verging-on-a-break-up": 1770838926,
+    "https://apnews.com/article/cruise-ship-carnival-florida-crime-d9db466ea85f4b55e2f0ddce24b6e267": 1770838926,
+    "https://apnews.com/video/bondi-responds-to-democrats-video-of-trump-and-epstein-with-ridicule-be536b3ab0354699ae35fea434107093": 1770838926,
+    "https://www.reuters.com/legal/government/us-house-consider-new-election-restrictions-ahead-november-midterms-2026-02-11/": 1770838926
   },
   "night_buffer": [
     {
@@ -483,34 +490,104 @@
         "published": "Wed, 11 Feb 2026 07:36:00 GMT",
         "image_url": ""
       }
+    },
+    {
+      "source": "NYP",
+      "entry": {
+        "id": "https://decider.com/2026/02/11/r-i-p-james-van-der-beek-dawsons-creek-star-dead-at-48/",
+        "title": "R.I.P. James Van Der Beek: ‘Dawson’s Creek’ Star Dead At 48",
+        "link": "https://decider.com/2026/02/11/r-i-p-james-van-der-beek-dawsons-creek-star-dead-at-48/",
+        "published": "Wed, 11 Feb 2026 14:41:02 -0500",
+        "image_url": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F02%2Fdawsons-creek.jpg?quality%3D90%26strip%3Dall"
+      }
+    },
+    {
+      "source": "NYP",
+      "entry": {
+        "id": "https://nypost.com/?post_type=article&p=38459278",
+        "title": "Hero Port Authority officer who saved teen in harrowing domestic violence attack named first female Cop of the Year",
+        "link": "https://nypost.com/2026/02/11/us-news/port-authority-officer-victoria-yong-named-first-cop-of-the-year/",
+        "published": "Wed, 11 Feb 2026 14:40:53 -0500",
+        "image_url": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F02%2Fcop-of-the-year-comp.jpg?quality%3D90%26strip%3Dall%261770819138"
+      }
+    },
+    {
+      "source": "NYP",
+      "entry": {
+        "id": "https://pagesix.com/?post_type=article&p=8528395",
+        "title": "James Van Der Beek dead at 48 after colorectal cancer battle",
+        "link": "https://pagesix.com/2026/02/11/celebrity-news/james-van-der-beek-dead-at-48-after-colorectal-cancer-battle/",
+        "published": "Wed, 11 Feb 2026 14:31:24 -0500",
+        "image_url": "https://pagesix.com/wp-content%2Fuploads%2Fsites%2F3%2F2025%2F09%2F111983037.jpg?quality%3D90%26strip%3Dall"
+      }
+    },
+    {
+      "source": "Economist",
+      "entry": {
+        "id": "https://www.economist.com/europe/2026/02/11/a-european-fighter-jet-partnership-is-verging-on-a-break-up",
+        "title": "A European fighter-jet partnership is verging on a break-up",
+        "link": "https://www.economist.com/europe/2026/02/11/a-european-fighter-jet-partnership-is-verging-on-a-break-up",
+        "published": "Wed, 11 Feb 2026 10:57:00 GMT",
+        "image_url": "https://www.bing.com/th?id=OVFT.9vQApn1G_4f33LjG-FtFyS&pid=News&w=1600&h=900&c=14&rs=1"
+      }
+    },
+    {
+      "source": "AP NEWS",
+      "entry": {
+        "id": "https://apnews.com/article/cruise-ship-carnival-florida-crime-d9db466ea85f4b55e2f0ddce24b6e267",
+        "title": "What to know about the case of a teen found dead on cruise ship",
+        "link": "https://apnews.com/article/cruise-ship-carnival-florida-crime-d9db466ea85f4b55e2f0ddce24b6e267",
+        "published": "Wed, 11 Feb 2026 10:30:00 GMT",
+        "image_url": "https://www.bing.com/th?id=OVFT.SU3K9XNLflF9k-1n45OuYS&pid=News&w=1600&h=900&c=14&rs=1"
+      }
+    },
+    {
+      "source": "AP NEWS",
+      "entry": {
+        "id": "https://apnews.com/video/bondi-responds-to-democrats-video-of-trump-and-epstein-with-ridicule-be536b3ab0354699ae35fea434107093",
+        "title": "Bondi responds to Democrat’s video of Trump and Epstein with ridicule",
+        "link": "https://apnews.com/video/bondi-responds-to-democrats-video-of-trump-and-epstein-with-ridicule-be536b3ab0354699ae35fea434107093",
+        "published": "Wed, 11 Feb 2026 11:41:00 GMT",
+        "image_url": "https://www.bing.com/th?id=OVFT.UQDTzaF_wlpj3uAkEXxSXS&pid=News&w=1600&h=900&c=14&rs=1"
+      }
+    },
+    {
+      "source": "Reuters",
+      "entry": {
+        "id": "https://www.reuters.com/legal/government/us-house-consider-new-election-restrictions-ahead-november-midterms-2026-02-11/",
+        "title": "US House to consider new election restrictions ahead of November midterms",
+        "link": "https://www.reuters.com/legal/government/us-house-consider-new-election-restrictions-ahead-november-midterms-2026-02-11/",
+        "published": "Wed, 11 Feb 2026 05:21:00 GMT",
+        "image_url": "https://www.bing.com/th?id=OVFT.VHv18JzYANrRG3oLeDkVPS&pid=News&w=1600&h=900&c=14&rs=1"
+      }
     }
   ],
   "last_digest_date": "2026-02-11",
   "last_run": {
-    "utc": "2026-02-11T18:39:36Z",
-    "local": "2026-02-12T02:39:22+08:00",
+    "utc": "2026-02-11T19:42:18Z",
+    "local": "2026-02-12T03:42:06+08:00",
     "tz": "Asia/Shanghai",
-    "local_hour": 2,
+    "local_hour": 3,
     "quiet": true,
     "sources_ok": 9,
     "sources_fail": 0,
-    "entries_total": 188,
-    "new": 4,
+    "entries_total": 191,
+    "new": 7,
     "pushed_ok": 0,
     "pushed_fail": 0,
-    "skipped_seen": 56,
-    "skipped_major": 125,
-    "buffered_total": 22,
-    "buffered_added": 4,
-    "seen_size": 261,
+    "skipped_seen": 57,
+    "skipped_major": 107,
+    "buffered_total": 29,
+    "buffered_added": 7,
+    "seen_size": 268,
     "github": {
       "repo": "zixuouoscaroliver/Oscar-Oliver",
       "workflow": "Telegram News Bot",
-      "run_id": "21918165467",
-      "run_number": "69",
+      "run_id": "21920332245",
+      "run_number": "70",
       "sha": "4f3dfd71e3782371c09853800463db2dc0045ca8",
       "ref": "refs/heads/main",
-      "run_url": "https://github.com/zixuouoscaroliver/Oscar-Oliver/actions/runs/21918165467"
+      "run_url": "https://github.com/zixuouoscaroliver/Oscar-Oliver/actions/runs/21920332245"
     },
     "checkout": {
       "ref": "bot-stable",
