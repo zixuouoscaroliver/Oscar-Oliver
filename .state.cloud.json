@@ -239,35 +239,135 @@
     "https://pagesix.com/2026/02/11/entertainment/the-pogues-drummer-andrew-ranken-dies-at-age-72/": 1770820833,
     "https://www.reuters.com/world/americas/trump-privately-weighs-quitting-usmca-trade-pact-he-negotiated-bloomberg-news-2026-02-11/": 1770820833,
     "https://www.scmp.com/week-asia/politics/article/3343226/leaked-letter-exposes-fault-lines-philippines-south-china-sea-strategy?utm_source=rss_feed": 1770820833,
-    "https://www.scmp.com/news/china/diplomacy/article/3343192/central-asia-builds-smart-cities-china-it-moving-away-russia?utm_source=rss_feed": 1770820833
+    "https://www.scmp.com/news/china/diplomacy/article/3343192/central-asia-builds-smart-cities-china-it-moving-away-russia?utm_source=rss_feed": 1770820833,
+    "https://nypost.com/?post_type=article&p=38456377": 1770824428,
+    "https://apnews.com/live/faa-el-paso-texas-air-space-closed-updates": 1770824428,
+    "https://apnews.com/article/epstein-files-europe-mandelson-andrew-jagland-juul-f83e424195d6af111ecec1cb9fda0ac9": 1770824428,
+    "https://apnews.com/article/ukraine-helmet-olympics-heraskevych-skeleton-1b5cecc43a5bc3f841c7d2b683bc771b": 1770824428,
+    "https://www.reuters.com/world/us/trump-welcomes-great-jobs-numbers-says-us-should-pay-less-borrow-2026-02-11/": 1770824428,
+    "https://www.reuters.com/business/feds-schmid-says-too-soon-expect-productivity-fix-still-elevated-inflation-2026-02-11/": 1770824428,
+    "https://www.scmp.com/news/china/diplomacy/article/3343223/what-will-headline-xi-trump-summit-former-us-envoy-weighs?utm_source=rss_feed": 1770824428,
+    "https://www.scmp.com/news/world/united-states-canada/article/3343229/us-adds-130000-jobs-january-amid-trump-policy-fallout-and-fed-rate-freeze?utm_source=rss_feed": 1770824428,
+    "https://www.scmp.com/news/world/united-states-canada/article/3343217/el-paso-texas-airport-grounds-all-flights-due-special-security-reasons-10-days?utm_source=rss_feed": 1770824428
   },
-  "night_buffer": [],
+  "night_buffer": [
+    {
+      "source": "NYP",
+      "entry": {
+        "id": "https://nypost.com/?post_type=article&p=38456377",
+        "title": "Brother of late NFL war hero Pat Tillman admits to firebombing California post office",
+        "link": "https://nypost.com/2026/02/11/us-news/brother-of-late-nfl-war-hero-pat-tillman-admits-to-firebombing-california-post-office/",
+        "published": "Wed, 11 Feb 2026 10:28:50 -0500",
+        "image_url": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F02%2F120967660.jpg?quality%3D90%26strip%3Dall"
+      }
+    },
+    {
+      "source": "AP NEWS",
+      "entry": {
+        "id": "https://apnews.com/live/faa-el-paso-texas-air-space-closed-updates",
+        "title": "Live updates: Trump administration ties El Paso airspace closure to Mexican cartel drones",
+        "link": "https://apnews.com/live/faa-el-paso-texas-air-space-closed-updates",
+        "published": "Wed, 11 Feb 2026 07:17:00 GMT",
+        "image_url": "https://www.bing.com/th?id=OVFT.ZqyjEiE_OqHmJC7dBWOcnC&pid=News&w=1600&h=900&c=14&rs=1"
+      }
+    },
+    {
+      "source": "AP NEWS",
+      "entry": {
+        "id": "https://apnews.com/article/epstein-files-europe-mandelson-andrew-jagland-juul-f83e424195d6af111ecec1cb9fda0ac9",
+        "title": "New revelations from Epstein files take a toll across Europe",
+        "link": "https://apnews.com/article/epstein-files-europe-mandelson-andrew-jagland-juul-f83e424195d6af111ecec1cb9fda0ac9",
+        "published": "Wed, 11 Feb 2026 06:57:00 GMT",
+        "image_url": ""
+      }
+    },
+    {
+      "source": "AP NEWS",
+      "entry": {
+        "id": "https://apnews.com/article/ukraine-helmet-olympics-heraskevych-skeleton-1b5cecc43a5bc3f841c7d2b683bc771b",
+        "title": "Ukrainian skeleton athlete Vladyslav Heraskevych trains again in banned helmet, despite IOC ruling",
+        "link": "https://apnews.com/article/ukraine-helmet-olympics-heraskevych-skeleton-1b5cecc43a5bc3f841c7d2b683bc771b",
+        "published": "Wed, 11 Feb 2026 06:29:00 GMT",
+        "image_url": ""
+      }
+    },
+    {
+      "source": "Reuters",
+      "entry": {
+        "id": "https://www.reuters.com/world/us/trump-welcomes-great-jobs-numbers-says-us-should-pay-less-borrow-2026-02-11/",
+        "title": "Trump welcomes \"great\" jobs numbers, says US should pay less to borrow",
+        "link": "https://www.reuters.com/world/us/trump-welcomes-great-jobs-numbers-says-us-should-pay-less-borrow-2026-02-11/",
+        "published": "Wed, 11 Feb 2026 05:57:00 GMT",
+        "image_url": "https://www.bing.com/th?id=OVFT.UNI6JEwlQxgs8MByLUbi8y&pid=News&w=1600&h=900&c=14&rs=1"
+      }
+    },
+    {
+      "source": "Reuters",
+      "entry": {
+        "id": "https://www.reuters.com/business/feds-schmid-says-too-soon-expect-productivity-fix-still-elevated-inflation-2026-02-11/",
+        "title": "Fed's Schmid says too soon to expect productivity to fix still-elevated inflation",
+        "link": "https://www.reuters.com/business/feds-schmid-says-too-soon-expect-productivity-fix-still-elevated-inflation-2026-02-11/",
+        "published": "Wed, 11 Feb 2026 06:11:00 GMT",
+        "image_url": "https://www.bing.com/th?id=OVFT.8iV1odF9fH7udX8UhCXAdi&pid=News&w=1600&h=900&c=14&rs=1"
+      }
+    },
+    {
+      "source": "SCMP",
+      "entry": {
+        "id": "https://www.scmp.com/news/china/diplomacy/article/3343223/what-will-headline-xi-trump-summit-former-us-envoy-weighs?utm_source=rss_feed",
+        "title": "What will headline the Xi-Trump summit? Former US envoy weighs in",
+        "link": "https://www.scmp.com/news/china/diplomacy/article/3343223/what-will-headline-xi-trump-summit-former-us-envoy-weighs?utm_source=rss_feed",
+        "published": "Wed, 11 Feb 2026 15:00:08 +0000",
+        "image_url": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/02/11/c731143c-28cd-491a-93e8-a44a58f0b148_d96a2bf2.jpg?itok=Bm6Qg43_&v=1770816543"
+      }
+    },
+    {
+      "source": "SCMP",
+      "entry": {
+        "id": "https://www.scmp.com/news/world/united-states-canada/article/3343229/us-adds-130000-jobs-january-amid-trump-policy-fallout-and-fed-rate-freeze?utm_source=rss_feed",
+        "title": "US adds 130,000 jobs in January amid Trump policy fallout and Fed rate freeze",
+        "link": "https://www.scmp.com/news/world/united-states-canada/article/3343229/us-adds-130000-jobs-january-amid-trump-policy-fallout-and-fed-rate-freeze?utm_source=rss_feed",
+        "published": "Wed, 11 Feb 2026 14:49:38 +0000",
+        "image_url": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/02/11/ec8c3785-a048-4327-bdd4-4cc030c4d86c_372e2fce.jpg?itok=4AVqTnVu&v=1770821317"
+      }
+    },
+    {
+      "source": "SCMP",
+      "entry": {
+        "id": "https://www.scmp.com/news/world/united-states-canada/article/3343217/el-paso-texas-airport-grounds-all-flights-due-special-security-reasons-10-days?utm_source=rss_feed",
+        "title": "Trump administration blames Mexican cartel drones for triggering El Paso airspace shutdown",
+        "link": "https://www.scmp.com/news/world/united-states-canada/article/3343217/el-paso-texas-airport-grounds-all-flights-due-special-security-reasons-10-days?utm_source=rss_feed",
+        "published": "Wed, 11 Feb 2026 12:35:42 +0000",
+        "image_url": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/02/11/ef3c8c80-18bc-4739-9612-3f84a73688fc_368d8f4b.jpg?itok=oLiJxHGi&v=1770813262"
+      }
+    }
+  ],
   "last_digest_date": "2026-02-11",
   "last_run": {
-    "utc": "2026-02-11T14:41:11Z",
-    "local": "2026-02-11T22:40:33+08:00",
+    "utc": "2026-02-11T15:40:40Z",
+    "local": "2026-02-11T23:40:28+08:00",
     "tz": "Asia/Shanghai",
-    "local_hour": 22,
-    "quiet": false,
+    "local_hour": 23,
+    "quiet": true,
     "sources_ok": 9,
     "sources_fail": 0,
     "entries_total": 189,
-    "new": 6,
-    "pushed_ok": 6,
+    "new": 9,
+    "pushed_ok": 0,
     "pushed_fail": 0,
-    "skipped_seen": 55,
-    "skipped_major": 118,
-    "buffered_total": 0,
-    "buffered_added": 0,
-    "seen_size": 239,
+    "skipped_seen": 39,
+    "skipped_major": 97,
+    "buffered_total": 9,
+    "buffered_added": 9,
+    "seen_size": 248,
     "github": {
       "repo": "zixuouoscaroliver/Oscar-Oliver",
       "workflow": "Telegram News Bot",
-      "run_id": "21909489839",
-      "run_number": "65",
+      "run_id": "21911741580",
+      "run_number": "66",
       "sha": "4f3dfd71e3782371c09853800463db2dc0045ca8",
       "ref": "refs/heads/main",
-      "run_url": "https://github.com/zixuouoscaroliver/Oscar-Oliver/actions/runs/21909489839"
+      "run_url": "https://github.com/zixuouoscaroliver/Oscar-Oliver/actions/runs/21911741580"
     },
     "checkout": {
       "ref": "bot-stable",
