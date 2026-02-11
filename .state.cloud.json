@@ -253,7 +253,11 @@
     "https://nypost.com/?post_type=article&p=38456742": 1770828192,
     "https://nypost.com/?post_type=video&p=38457230": 1770828192,
     "https://apnews.com/article/faa-el-paso-texas-air-space-closed-1f774bdfd46f5986ff0e7003df709caa": 1770828192,
-    "https://www.reuters.com/world/live-trump-netanyahu-meeting-focus-iran-talks-gaza-2026-02-11/": 1770828192
+    "https://www.reuters.com/world/live-trump-netanyahu-meeting-focus-iran-talks-gaza-2026-02-11/": 1770828192,
+    "https://nypost.com/?post_type=article&p=38457505": 1770831679,
+    "https://nypost.com/?post_type=article&p=38457407": 1770831679,
+    "https://decider.com/2026/02/11/celeste-hughey-the-burbs/": 1770831679,
+    "https://www.scmp.com/news/world/europe/article/3343235/nato-launches-arctic-sentry-mission-bid-ease-greenland-tensions-trump?utm_source=rss_feed": 1770831679
   },
   "night_buffer": [
     {
@@ -395,34 +399,74 @@
         "published": "Wed, 11 Feb 2026 07:08:00 GMT",
         "image_url": "https://www.bing.com/th?id=OVFT.1MNEKeY489mxVi-Xoxc2Sy&pid=News&w=1600&h=900&c=14&rs=1"
       }
+    },
+    {
+      "source": "NYP",
+      "entry": {
+        "id": "https://nypost.com/?post_type=article&p=38457505",
+        "title": "Newsom to abandon California again as he attempts to woo yet more world leaders in Europe",
+        "link": "https://nypost.com/2026/02/11/us-news/gavin-newsom-heads-to-munich-security-conference/",
+        "published": "Wed, 11 Feb 2026 12:26:08 -0500",
+        "image_url": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F02%2F420-million-new-state-funding-120972055_c17286.jpg?quality%3D90%26strip%3Dall"
+      }
+    },
+    {
+      "source": "NYP",
+      "entry": {
+        "id": "https://nypost.com/?post_type=article&p=38457407",
+        "title": "Anti-Trump audience no longer relies on CNN amid media evolution: analysis",
+        "link": "https://nypost.com/2026/02/11/media/anti-trump-audience-no-longer-relies-on-cnn-amid-media-evolution/",
+        "published": "Wed, 11 Feb 2026 12:10:01 -0500",
+        "image_url": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F02%2Fus-president-donald-trump-arrives-120971772.jpg?quality%3D90%26strip%3Dall"
+      }
+    },
+    {
+      "source": "NYP",
+      "entry": {
+        "id": "https://decider.com/2026/02/11/celeste-hughey-the-burbs/",
+        "title": "‘The Burbs’ Creator Celeste Hughey Shares How ‘Dead To Me’ Influenced ‘The ‘Burbs’ And How She Set It Apart From Tom Hanks’ 1989 Classic",
+        "link": "https://decider.com/2026/02/11/celeste-hughey-the-burbs/",
+        "published": "Wed, 11 Feb 2026 12:00:00 -0500",
+        "image_url": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F02%2Finterview-Celeste-Hughey.jpg?quality%3D90%26strip%3Dall"
+      }
+    },
+    {
+      "source": "SCMP",
+      "entry": {
+        "id": "https://www.scmp.com/news/world/europe/article/3343235/nato-launches-arctic-sentry-mission-bid-ease-greenland-tensions-trump?utm_source=rss_feed",
+        "title": "Nato launches Arctic Sentry mission in bid to ease Greenland tensions with Trump",
+        "link": "https://www.scmp.com/news/world/europe/article/3343235/nato-launches-arctic-sentry-mission-bid-ease-greenland-tensions-trump?utm_source=rss_feed",
+        "published": "Wed, 11 Feb 2026 16:44:52 +0000",
+        "image_url": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/02/12/f4c8b03d-9f9f-45a8-bdd5-7ea0379811e3_4e77ff1a.jpg?itok=yXF5lhgA&v=1770828285"
+      }
     }
   ],
   "last_digest_date": "2026-02-11",
   "last_run": {
-    "utc": "2026-02-11T16:43:24Z",
-    "local": "2026-02-12T00:43:12+08:00",
+    "utc": "2026-02-11T17:41:31Z",
+    "local": "2026-02-12T01:41:19+08:00",
     "tz": "Asia/Shanghai",
-    "local_hour": 0,
+    "local_hour": 1,
     "quiet": true,
     "sources_ok": 9,
     "sources_fail": 0,
-    "entries_total": 187,
-    "new": 5,
+    "entries_total": 189,
+    "new": 4,
     "pushed_ok": 0,
     "pushed_fail": 0,
     "skipped_seen": 57,
-    "skipped_major": 115,
-    "buffered_total": 14,
-    "buffered_added": 5,
-    "seen_size": 253,
+    "skipped_major": 126,
+    "buffered_total": 18,
+    "buffered_added": 4,
+    "seen_size": 257,
     "github": {
       "repo": "zixuouoscaroliver/Oscar-Oliver",
       "workflow": "Telegram News Bot",
-      "run_id": "21914055399",
-      "run_number": "67",
+      "run_id": "21916114511",
+      "run_number": "68",
       "sha": "4f3dfd71e3782371c09853800463db2dc0045ca8",
       "ref": "refs/heads/main",
-      "run_url": "https://github.com/zixuouoscaroliver/Oscar-Oliver/actions/runs/21914055399"
+      "run_url": "https://github.com/zixuouoscaroliver/Oscar-Oliver/actions/runs/21916114511"
     },
     "checkout": {
       "ref": "bot-stable",
