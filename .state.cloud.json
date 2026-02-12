@@ -1,8 +1,6 @@
 {
   "initialized": true,
   "seen": {
-    "https://nypost.com/2026/02/09/business/eddie-bauer-operator-files-for-bankruptcy-with-hundreds-of-stores-at-risk-of-closing/": 1770653658,
-    "https://www.reuters.com/business/ny-fed-survey-january-near-term-expected-inflation-lower-amid-better-job-market-2026-02-09/": 1770653658,
     "https://www.economist.com/europe/2026/02/09/the-war-room-newsletter-putins-generals-keep-being-hunted": 1770657212,
     "https://www.economist.com/middle-east-and-africa/2026/02/05/how-regional-powers-are-thinking-about-a-war-in-iran": 1770657212,
     "https://www.economist.com/business/2026/02/09/china-is-waging-war-on-stolen-ideas": 1770660329,
@@ -323,7 +321,14 @@
     "https://apnews.com/article/us-steel-plant-clairton-nippon-explosion-cf5ec79fba028336d71ce3dec2284523": 1770910467,
     "https://apnews.com/article/canada-school-shooting-british-columbia-bef756c3d04d26b76c49a4e2b5154002": 1770910467,
     "https://www.scmp.com/news/world/united-states-canada/article/3343372/trump-end-minnesota-immigration-crackdown-border-tsar-says?utm_source=rss_feed": 1770910467,
-    "https://www.scmp.com/news/world/europe/article/3343370/china-cuts-eu-dairy-tariffs-easing-trade-tensions-after-ev-dispute?utm_source=rss_feed": 1770910467
+    "https://www.scmp.com/news/world/europe/article/3343370/china-cuts-eu-dairy-tariffs-easing-trade-tensions-after-ev-dispute?utm_source=rss_feed": 1770910467,
+    "https://nypost.com/?post_type=article&p=38468798": 1770914108,
+    "https://nypost.com/?post_type=article&p=38468659": 1770914108,
+    "https://www.reuters.com/world/us/trumps-justice-department-antitrust-head-gail-slater-stepping-down-2026-02-12/": 1770914108,
+    "https://www.reuters.com/world/us/ny-fed-report-says-americans-pay-almost-all-trumps-tariffs-2026-02-12/": 1770914108,
+    "https://www.reuters.com/legal/litigation/trump-administration-set-revoke-basis-us-climate-regulation-2026-02-12/": 1770914108,
+    "https://www.scmp.com/news/world/united-states-canada/article/3343375/trump-privately-weighs-quitting-usmca-trade-pact-he-negotiated-risking-us2-trillion-deal?utm_source=rss_feed": 1770914108,
+    "https://www.scmp.com/news/world/united-states-canada/article/3343374/trumps-us10-billion-bbc-defamation-suit-going-trial-2027-florida?utm_source=rss_feed": 1770914108
   },
   "night_buffer": [
     {
@@ -385,34 +390,104 @@
         "published": "Thu, 12 Feb 2026 14:54:38 +0000",
         "image_url": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/02/12/f5da6c2a-0377-42e9-a776-15dad30f7b42_db69a78c.jpg?itok=4VDLVZea&v=1770907843"
       }
+    },
+    {
+      "source": "NYP",
+      "entry": {
+        "id": "https://nypost.com/?post_type=article&p=38468798",
+        "title": "Trump invited to Jerusalem to receive Israel Prize",
+        "link": "https://nypost.com/2026/02/12/world-news/trump-invited-to-receive-israel-prize-in-jerusalem/",
+        "published": "Thu, 12 Feb 2026 11:29:56 -0500",
+        "image_url": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F02%2F121077229.jpg?quality%3D90%26strip%3Dall"
+      }
+    },
+    {
+      "source": "NYP",
+      "entry": {
+        "id": "https://nypost.com/?post_type=article&p=38468659",
+        "title": "Tourist mom had been drinking before she was found naked and dead in a Dollar Tree freezer",
+        "link": "https://nypost.com/2026/02/12/us-news/tourist-mom-had-been-drinking-before-she-was-found-naked-and-dead-in-a-dollar-tree-freezer/",
+        "published": "Thu, 12 Feb 2026 11:01:58 -0500",
+        "image_url": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F02%2F121070492.jpg?quality%3D90%26strip%3Dall"
+      }
+    },
+    {
+      "source": "Reuters",
+      "entry": {
+        "id": "https://www.reuters.com/world/us/trumps-justice-department-antitrust-head-gail-slater-stepping-down-2026-02-12/",
+        "title": "Trump's Justice Department antitrust head Gail Slater stepping down",
+        "link": "https://www.reuters.com/world/us/trumps-justice-department-antitrust-head-gail-slater-stepping-down-2026-02-12/",
+        "published": "Thu, 12 Feb 2026 07:22:00 GMT",
+        "image_url": "https://www.bing.com/th?id=OVFT.y8IkmIMIbCtrYmp28QEdNC&pid=News&w=1600&h=900&c=14&rs=1"
+      }
+    },
+    {
+      "source": "Reuters",
+      "entry": {
+        "id": "https://www.reuters.com/world/us/ny-fed-report-says-americans-pay-almost-all-trumps-tariffs-2026-02-12/",
+        "title": "NY Fed report says Americans pay for almost all of Trump's tariffs",
+        "link": "https://www.reuters.com/world/us/ny-fed-report-says-americans-pay-almost-all-trumps-tariffs-2026-02-12/",
+        "published": "Thu, 12 Feb 2026 07:15:00 GMT",
+        "image_url": "https://www.bing.com/th?id=OVFT.qSIGZ6DSu63mG3EI9qEiki&pid=News&w=1600&h=900&c=14&rs=1"
+      }
+    },
+    {
+      "source": "Reuters",
+      "entry": {
+        "id": "https://www.reuters.com/legal/litigation/trump-administration-set-revoke-basis-us-climate-regulation-2026-02-12/",
+        "title": "Trump administration set to revoke basis of US climate regulation",
+        "link": "https://www.reuters.com/legal/litigation/trump-administration-set-revoke-basis-us-climate-regulation-2026-02-12/",
+        "published": "Thu, 12 Feb 2026 04:53:00 GMT",
+        "image_url": ""
+      }
+    },
+    {
+      "source": "SCMP",
+      "entry": {
+        "id": "https://www.scmp.com/news/world/united-states-canada/article/3343375/trump-privately-weighs-quitting-usmca-trade-pact-he-negotiated-risking-us2-trillion-deal?utm_source=rss_feed",
+        "title": "Trump privately weighs quitting USMCA trade pact he negotiated, risking US$2 trillion deal",
+        "link": "https://www.scmp.com/news/world/united-states-canada/article/3343375/trump-privately-weighs-quitting-usmca-trade-pact-he-negotiated-risking-us2-trillion-deal?utm_source=rss_feed",
+        "published": "Thu, 12 Feb 2026 16:06:21 +0000",
+        "image_url": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/02/13/7e101fca-ee59-4cf9-bf15-f7df547632af_e72d1fe7.jpg?itok=YxIzmUMP&v=1770912185"
+      }
+    },
+    {
+      "source": "SCMP",
+      "entry": {
+        "id": "https://www.scmp.com/news/world/united-states-canada/article/3343374/trumps-us10-billion-bbc-defamation-suit-going-trial-2027-florida?utm_source=rss_feed",
+        "title": "Trump’s US$10 billion BBC defamation suit going to trial in 2027 in Florida",
+        "link": "https://www.scmp.com/news/world/united-states-canada/article/3343374/trumps-us10-billion-bbc-defamation-suit-going-trial-2027-florida?utm_source=rss_feed",
+        "published": "Thu, 12 Feb 2026 16:00:12 +0000",
+        "image_url": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/02/12/1e0824c5-ec8c-46b8-ab35-1e211fcec7f1_5857f7ef.jpg?itok=hFmObIL8&v=1770910536"
+      }
     }
   ],
   "last_digest_date": "2026-02-12",
   "last_run": {
-    "utc": "2026-02-12T15:34:39Z",
-    "local": "2026-02-12T23:34:27+08:00",
+    "utc": "2026-02-12T16:35:19Z",
+    "local": "2026-02-13T00:35:08+08:00",
     "tz": "Asia/Shanghai",
-    "local_hour": 23,
+    "local_hour": 0,
     "quiet": true,
     "sources_ok": 9,
     "sources_fail": 0,
     "entries_total": 188,
-    "new": 6,
+    "new": 7,
     "pushed_ok": 0,
     "pushed_fail": 0,
-    "skipped_seen": 55,
-    "skipped_major": 127,
-    "buffered_total": 6,
-    "buffered_added": 6,
-    "seen_size": 323,
+    "skipped_seen": 53,
+    "skipped_major": 125,
+    "buffered_total": 13,
+    "buffered_added": 7,
+    "seen_size": 328,
     "github": {
       "repo": "zixuouoscaroliver/Oscar-Oliver",
       "workflow": "Telegram News Bot",
-      "run_id": "21953104795",
-      "run_number": "91",
+      "run_id": "21955343299",
+      "run_number": "92",
       "sha": "4f3dfd71e3782371c09853800463db2dc0045ca8",
       "ref": "refs/heads/main",
-      "run_url": "https://github.com/zixuouoscaroliver/Oscar-Oliver/actions/runs/21953104795"
+      "run_url": "https://github.com/zixuouoscaroliver/Oscar-Oliver/actions/runs/21955343299"
     },
     "checkout": {
       "ref": "bot-stable",
