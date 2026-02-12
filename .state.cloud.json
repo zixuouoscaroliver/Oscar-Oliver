@@ -331,7 +331,12 @@
     "https://nypost.com/?post_type=article&p=38437658": 1770925362,
     "https://nypost.com/?p=38473022&post_type=article&preview_id=38473022": 1770925362,
     "0000019c-530c-d0f8-adde-fb5e7f4c0000": 1770925362,
-    "https://www.reuters.com/world/us/us-senators-sharply-question-trump-officials-about-pretti-shooting-use-force-2026-02-12/": 1770925362
+    "https://www.reuters.com/world/us/us-senators-sharply-question-trump-officials-about-pretti-shooting-use-force-2026-02-12/": 1770925362,
+    "https://www.economist.com/culture/2026/02/12/africa-needs-to-follow-asias-path-to-grow": 1770926621,
+    "https://apnews.com/article/trump-climate-change-epa-clean-air-act-c149d5ea6ec71c862e6c4b578adf92cd": 1770926621,
+    "https://apnews.com/article/ukraine-helmet-aa8ca146d2ab92328b62aca59560c1bc": 1770926621,
+    "https://apnews.com/article/afghan-baby-adoption-marine-virginia-3703a5a979633bcd000e537e6eb1f5ff": 1770926621,
+    "https://www.reuters.com/world/trump-cannot-end-deportation-protections-south-sudanese-nationals-us-judge-rules-2026-02-12/": 1770926621
   },
   "night_buffer": [
     {
@@ -553,34 +558,84 @@
         "published": "Thu, 12 Feb 2026 10:11:00 GMT",
         "image_url": "https://www.bing.com/th?id=OVFT.oMz3hbLiZ6rnrwTtR725mS&pid=News&w=1600&h=900&c=14&rs=1"
       }
+    },
+    {
+      "source": "Economist",
+      "entry": {
+        "id": "https://www.economist.com/culture/2026/02/12/africa-needs-to-follow-asias-path-to-grow",
+        "title": "Africa needs to follow Asia’s path to grow",
+        "link": "https://www.economist.com/culture/2026/02/12/africa-needs-to-follow-asias-path-to-grow",
+        "published": "Thu, 12 Feb 2026 05:56:00 GMT",
+        "image_url": "https://www.bing.com/th?id=OVFT.pHWkatFrRUDqC0u8trFyiC&pid=News&w=1600&h=900&c=14&rs=1"
+      }
+    },
+    {
+      "source": "AP NEWS",
+      "entry": {
+        "id": "https://apnews.com/article/trump-climate-change-epa-clean-air-act-c149d5ea6ec71c862e6c4b578adf92cd",
+        "title": "Trump’s EPA revokes scientific finding that underpinned US fight against climate change",
+        "link": "https://apnews.com/article/trump-climate-change-epa-clean-air-act-c149d5ea6ec71c862e6c4b578adf92cd",
+        "published": "Thu, 12 Feb 2026 11:05:00 GMT",
+        "image_url": "https://www.bing.com/th?id=OVFT.APAzM8NxaG3Xn-bUuMjnpS&pid=News&w=1600&h=900&c=14&rs=1"
+      }
+    },
+    {
+      "source": "AP NEWS",
+      "entry": {
+        "id": "https://apnews.com/article/ukraine-helmet-aa8ca146d2ab92328b62aca59560c1bc",
+        "title": "Olympians toe line between solidarity and sacrifice. Ukrainian banned over helmet the latest example",
+        "link": "https://apnews.com/article/ukraine-helmet-aa8ca146d2ab92328b62aca59560c1bc",
+        "published": "Thu, 12 Feb 2026 11:20:00 GMT",
+        "image_url": ""
+      }
+    },
+    {
+      "source": "AP NEWS",
+      "entry": {
+        "id": "https://apnews.com/article/afghan-baby-adoption-marine-virginia-3703a5a979633bcd000e537e6eb1f5ff",
+        "title": "Virginia Supreme Court rules US Marine’s adoption of an Afghan war orphan will stand",
+        "link": "https://apnews.com/article/afghan-baby-adoption-marine-virginia-3703a5a979633bcd000e537e6eb1f5ff",
+        "published": "Thu, 12 Feb 2026 11:52:00 GMT",
+        "image_url": "https://www.bing.com/th?id=OVFT.tihEjt6YHAyilEdXzBgQDy&pid=News&w=1600&h=900&c=14&rs=1"
+      }
+    },
+    {
+      "source": "Reuters",
+      "entry": {
+        "id": "https://www.reuters.com/world/trump-cannot-end-deportation-protections-south-sudanese-nationals-us-judge-rules-2026-02-12/",
+        "title": "Trump cannot end deportation protections for South Sudanese nationals, US judge rules",
+        "link": "https://www.reuters.com/world/trump-cannot-end-deportation-protections-south-sudanese-nationals-us-judge-rules-2026-02-12/",
+        "published": "Thu, 12 Feb 2026 10:22:00 GMT",
+        "image_url": "https://www.bing.com/th?id=OVFT.vyTxXeEvV0u34vNH0uHYlS&pid=News&w=1600&h=900&c=14&rs=1"
+      }
     }
   ],
   "last_digest_date": "2026-02-12",
   "last_run": {
-    "utc": "2026-02-12T19:42:56Z",
-    "local": "2026-02-13T03:42:42+08:00",
+    "utc": "2026-02-12T20:03:53Z",
+    "local": "2026-02-13T04:03:41+08:00",
     "tz": "Asia/Shanghai",
-    "local_hour": 3,
+    "local_hour": 4,
     "quiet": true,
     "sources_ok": 9,
     "sources_fail": 0,
-    "entries_total": 178,
-    "new": 4,
+    "entries_total": 189,
+    "new": 5,
     "pushed_ok": 0,
     "pushed_fail": 0,
-    "skipped_seen": 49,
-    "skipped_major": 125,
-    "buffered_total": 22,
-    "buffered_added": 4,
-    "seen_size": 331,
+    "skipped_seen": 56,
+    "skipped_major": 126,
+    "buffered_total": 27,
+    "buffered_added": 5,
+    "seen_size": 336,
     "github": {
       "repo": "zixuouoscaroliver/Oscar-Oliver",
       "workflow": "Telegram News Bot",
-      "run_id": "21961618900",
-      "run_number": "95",
+      "run_id": "21962301964",
+      "run_number": "96",
       "sha": "4f3dfd71e3782371c09853800463db2dc0045ca8",
       "ref": "refs/heads/main",
-      "run_url": "https://github.com/zixuouoscaroliver/Oscar-Oliver/actions/runs/21961618900"
+      "run_url": "https://github.com/zixuouoscaroliver/Oscar-Oliver/actions/runs/21962301964"
     },
     "checkout": {
       "ref": "bot-stable",
