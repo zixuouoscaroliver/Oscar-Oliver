@@ -1,8 +1,6 @@
 {
   "initialized": true,
   "seen": {
-    "https://apnews.com/article/eddie-bauer-bankruptcy-retail-1f4168dca0060353b3766f0924d9c7da": 1770670616,
-    "https://www.reuters.com/sustainability/boards-policy-regulation/feds-miran-says-weaker-dollar-not-affecting-monetary-policy-choices-2026-02-09/": 1770670616,
     "https://www.scmp.com/news/world/americas/article/3342978/3-kidnapped-miners-found-dead-mexico-countrys-mining-chamber-says?utm_source=rss_feed": 1770673024,
     "https://nypost.com/?post_type=article&p=38438798": 1770674852,
     "https://www.scmp.com/news/china/diplomacy/article/3342892/will-new-high-seas-treaty-open-fresh-front-line-south-china-sea-disputes?utm_source=rss_feed": 1770674852,
@@ -340,7 +338,12 @@
     "https://nypost.com/?post_type=article&p=38471449": 1770929284,
     "https://nypost.com/?post_type=article&p=38470342": 1770929284,
     "https://apnews.com/video/trump-urges-quick-deal-with-iran-to-avoid-traumatic-outcome-758cac1389e44591bdd635f331858e3a": 1770929284,
-    "https://apnews.com/article/national-park-service-nomination-scott-socha-607e510eda4f57e3277505f95c6ae89f": 1770929284
+    "https://apnews.com/article/national-park-service-nomination-scott-socha-607e510eda4f57e3277505f95c6ae89f": 1770929284,
+    "https://nypost.com/?post_type=article&p=38473138": 1770931259,
+    "https://nypost.com/?post_type=article&p=38442009": 1770931259,
+    "https://apnews.com/video/trump-defends-last-weeks-racist-video-post-says-he-didnt-know-about-lutnicks-epstein-island-trip-d390b40111494ecd8f2a6f8eb82823f1": 1770931259,
+    "https://apnews.com/article/hewlett-packard-slater-antitrust-trump-mergers-vance-13eba9dcef56aac42ad7453f22baa475": 1770931259,
+    "https://www.reuters.com/legal/government/timeline-trumps-minnesota-immigration-crackdown-2026-02-12/": 1770931259
   },
   "night_buffer": [
     {
@@ -652,34 +655,84 @@
         "published": "Thu, 12 Feb 2026 12:33:00 GMT",
         "image_url": "https://www.bing.com/th?id=OVFT.oiAH9WDMdsAg_gVLS7Bzyi&pid=News&w=1600&h=900&c=14&rs=1"
       }
+    },
+    {
+      "source": "NYP",
+      "entry": {
+        "id": "https://nypost.com/?post_type=article&p=38473138",
+        "title": "California ‘at a breaking point’ lawmaker cries, as gas prices surge again after more refinery closures",
+        "link": "https://nypost.com/2026/02/12/us-news/california-at-a-breaking-point-as-refineries-close-and-gas-prices-surge/",
+        "published": "Thu, 12 Feb 2026 16:06:55 -0500",
+        "image_url": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F02%2Fnewspress-collage-5ij21c8px-1770928737512.jpg?quality%3D90%26strip%3Dall%261770910755"
+      }
+    },
+    {
+      "source": "NYP",
+      "entry": {
+        "id": "https://nypost.com/?post_type=article&p=38442009",
+        "title": "Miami’s rental boom sees no signs of bust — even as hundreds of fresh units flood the city",
+        "link": "https://nypost.com/2026/02/12/lifestyle/why-miami-is-still-one-americas-hottest-rental-markets/",
+        "published": "Thu, 12 Feb 2026 15:49:14 -0500",
+        "image_url": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F02%2Fnewspress-collage-gmbi14e7m-1770928044188.jpg?quality%3D90%26strip%3Dall%261770910069"
+      }
+    },
+    {
+      "source": "AP NEWS",
+      "entry": {
+        "id": "https://apnews.com/video/trump-defends-last-weeks-racist-video-post-says-he-didnt-know-about-lutnicks-epstein-island-trip-d390b40111494ecd8f2a6f8eb82823f1",
+        "title": "Trump defends last week’s racist video post, says he didn’t know about Lutnick’s Epstein Island trip",
+        "link": "https://apnews.com/video/trump-defends-last-weeks-racist-video-post-says-he-didnt-know-about-lutnicks-epstein-island-trip-d390b40111494ecd8f2a6f8eb82823f1",
+        "published": "Thu, 12 Feb 2026 13:19:00 GMT",
+        "image_url": "https://www.bing.com/th?id=OVFT.2IxIxj-cUavKyi38WrdT9S&pid=News&w=1600&h=900&c=14&rs=1"
+      }
+    },
+    {
+      "source": "AP NEWS",
+      "entry": {
+        "id": "https://apnews.com/article/hewlett-packard-slater-antitrust-trump-mergers-vance-13eba9dcef56aac42ad7453f22baa475",
+        "title": "Top Trump antitrust official leaves post following disputes over big mergers",
+        "link": "https://apnews.com/article/hewlett-packard-slater-antitrust-trump-mergers-vance-13eba9dcef56aac42ad7453f22baa475",
+        "published": "Thu, 12 Feb 2026 12:39:00 GMT",
+        "image_url": "https://www.bing.com/th?id=OVFT.IccETF3VJsK2JfW1dPQhfi&pid=News&w=1600&h=900&c=14&rs=1"
+      }
+    },
+    {
+      "source": "Reuters",
+      "entry": {
+        "id": "https://www.reuters.com/legal/government/timeline-trumps-minnesota-immigration-crackdown-2026-02-12/",
+        "title": "A timeline of Trump's Minnesota immigration crackdown",
+        "link": "https://www.reuters.com/legal/government/timeline-trumps-minnesota-immigration-crackdown-2026-02-12/",
+        "published": "Thu, 12 Feb 2026 11:46:00 GMT",
+        "image_url": "https://www.bing.com/th?id=OVFT.-4s2LH6WA9udAAf391xZNi&pid=News&w=1600&h=900&c=14&rs=1"
+      }
     }
   ],
   "last_digest_date": "2026-02-12",
   "last_run": {
-    "utc": "2026-02-12T20:48:17Z",
-    "local": "2026-02-13T04:48:04+08:00",
+    "utc": "2026-02-12T21:21:11Z",
+    "local": "2026-02-13T05:20:59+08:00",
     "tz": "Asia/Shanghai",
-    "local_hour": 4,
+    "local_hour": 5,
     "quiet": true,
     "sources_ok": 9,
     "sources_fail": 0,
-    "entries_total": 189,
-    "new": 4,
+    "entries_total": 190,
+    "new": 5,
     "pushed_ok": 0,
     "pushed_fail": 0,
-    "skipped_seen": 59,
-    "skipped_major": 126,
-    "buffered_total": 31,
-    "buffered_added": 4,
-    "seen_size": 340,
+    "skipped_seen": 54,
+    "skipped_major": 131,
+    "buffered_total": 36,
+    "buffered_added": 5,
+    "seen_size": 343,
     "github": {
       "repo": "zixuouoscaroliver/Oscar-Oliver",
       "workflow": "Telegram News Bot",
-      "run_id": "21963701025",
-      "run_number": "97",
+      "run_id": "21964706568",
+      "run_number": "98",
       "sha": "4f3dfd71e3782371c09853800463db2dc0045ca8",
       "ref": "refs/heads/main",
-      "run_url": "https://github.com/zixuouoscaroliver/Oscar-Oliver/actions/runs/21963701025"
+      "run_url": "https://github.com/zixuouoscaroliver/Oscar-Oliver/actions/runs/21964706568"
     },
     "checkout": {
       "ref": "bot-stable",
