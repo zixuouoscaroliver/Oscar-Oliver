@@ -1,7 +1,6 @@
 {
   "initialized": true,
   "seen": {
-    "https://www.scmp.com/news/world/americas/article/3342978/3-kidnapped-miners-found-dead-mexico-countrys-mining-chamber-says?utm_source=rss_feed": 1770673024,
     "https://nypost.com/?post_type=article&p=38438798": 1770674852,
     "https://www.scmp.com/news/china/diplomacy/article/3342892/will-new-high-seas-treaty-open-fresh-front-line-south-china-sea-disputes?utm_source=rss_feed": 1770674852,
     "https://nypost.com/?post_type=article&p=38439758": 1770677737,
@@ -343,7 +342,8 @@
     "https://nypost.com/?post_type=article&p=38442009": 1770931259,
     "https://apnews.com/video/trump-defends-last-weeks-racist-video-post-says-he-didnt-know-about-lutnicks-epstein-island-trip-d390b40111494ecd8f2a6f8eb82823f1": 1770931259,
     "https://apnews.com/article/hewlett-packard-slater-antitrust-trump-mergers-vance-13eba9dcef56aac42ad7453f22baa475": 1770931259,
-    "https://www.reuters.com/legal/government/timeline-trumps-minnesota-immigration-crackdown-2026-02-12/": 1770931259
+    "https://www.reuters.com/legal/government/timeline-trumps-minnesota-immigration-crackdown-2026-02-12/": 1770931259,
+    "https://apnews.com/article/homeland-security-funding-shutdown-democrats-trump-4e9c4cebd45396e77f8333fd6cc31944": 1770933276
   },
   "night_buffer": [
     {
@@ -705,34 +705,44 @@
         "published": "Thu, 12 Feb 2026 11:46:00 GMT",
         "image_url": "https://www.bing.com/th?id=OVFT.-4s2LH6WA9udAAf391xZNi&pid=News&w=1600&h=900&c=14&rs=1"
       }
+    },
+    {
+      "source": "AP NEWS",
+      "entry": {
+        "id": "https://apnews.com/article/homeland-security-funding-shutdown-democrats-trump-4e9c4cebd45396e77f8333fd6cc31944",
+        "title": "Homeland Security shutdown seems certain as funding talks between White House and Democrats stall",
+        "link": "https://apnews.com/article/homeland-security-funding-shutdown-democrats-trump-4e9c4cebd45396e77f8333fd6cc31944",
+        "published": "Thu, 12 Feb 2026 12:51:00 GMT",
+        "image_url": ""
+      }
     }
   ],
   "last_digest_date": "2026-02-12",
   "last_run": {
-    "utc": "2026-02-12T21:21:11Z",
-    "local": "2026-02-13T05:20:59+08:00",
+    "utc": "2026-02-12T21:54:49Z",
+    "local": "2026-02-13T05:54:36+08:00",
     "tz": "Asia/Shanghai",
     "local_hour": 5,
     "quiet": true,
     "sources_ok": 9,
     "sources_fail": 0,
     "entries_total": 190,
-    "new": 5,
+    "new": 1,
     "pushed_ok": 0,
     "pushed_fail": 0,
-    "skipped_seen": 54,
-    "skipped_major": 131,
-    "buffered_total": 36,
-    "buffered_added": 5,
+    "skipped_seen": 56,
+    "skipped_major": 133,
+    "buffered_total": 37,
+    "buffered_added": 1,
     "seen_size": 343,
     "github": {
       "repo": "zixuouoscaroliver/Oscar-Oliver",
       "workflow": "Telegram News Bot",
-      "run_id": "21964706568",
-      "run_number": "98",
+      "run_id": "21965723697",
+      "run_number": "99",
       "sha": "4f3dfd71e3782371c09853800463db2dc0045ca8",
       "ref": "refs/heads/main",
-      "run_url": "https://github.com/zixuouoscaroliver/Oscar-Oliver/actions/runs/21964706568"
+      "run_url": "https://github.com/zixuouoscaroliver/Oscar-Oliver/actions/runs/21965723697"
     },
     "checkout": {
       "ref": "bot-stable",
