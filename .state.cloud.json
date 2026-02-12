@@ -1,8 +1,6 @@
 {
   "initialized": true,
   "seen": {
-    "https://nypost.com/?post_type=article&p=38436117": 1770665833,
-    "https://apnews.com/article/bad-bunny-super-bowl-halftime-show-symbols-4252e3495e2b716b1be9064d5821b61e": 1770665833,
     "https://apnews.com/article/eddie-bauer-bankruptcy-retail-1f4168dca0060353b3766f0924d9c7da": 1770670616,
     "https://www.reuters.com/sustainability/boards-policy-regulation/feds-miran-says-weaker-dollar-not-affecting-monetary-policy-choices-2026-02-09/": 1770670616,
     "https://www.scmp.com/news/world/americas/article/3342978/3-kidnapped-miners-found-dead-mexico-countrys-mining-chamber-says?utm_source=rss_feed": 1770673024,
@@ -329,7 +327,11 @@
     "https://nypost.com/?p=38470897&post_type=article&preview_id=38470897": 1770917958,
     "https://apnews.com/article/trump-latin-america-china-venezuela-c7eda634084551716f1535a6f78496ba": 1770917958,
     "https://nypost.com/?post_type=article&p=38463886": 1770921453,
-    "https://apnews.com/article/ioc-olympics-milan-cortina-ukraine-skeleton-b39ac938b147cd671497080d9587b4c3": 1770921453
+    "https://apnews.com/article/ioc-olympics-milan-cortina-ukraine-skeleton-b39ac938b147cd671497080d9587b4c3": 1770921453,
+    "https://nypost.com/?post_type=article&p=38437658": 1770925362,
+    "https://nypost.com/?p=38473022&post_type=article&preview_id=38473022": 1770925362,
+    "0000019c-530c-d0f8-adde-fb5e7f4c0000": 1770925362,
+    "https://www.reuters.com/world/us/us-senators-sharply-question-trump-officials-about-pretti-shooting-use-force-2026-02-12/": 1770925362
   },
   "night_buffer": [
     {
@@ -511,34 +513,74 @@
         "published": "Thu, 12 Feb 2026 10:12:00 GMT",
         "image_url": "https://www.bing.com/th?id=OVFT.yngO3yqzmAZvZUvJHQDAiy&pid=News&w=1600&h=900&c=14&rs=1"
       }
+    },
+    {
+      "source": "NYP",
+      "entry": {
+        "id": "https://nypost.com/?post_type=article&p=38437658",
+        "title": "How a little-known Maine ballot initiative could defang super PACs before the 2028 election",
+        "link": "https://nypost.com/2026/02/12/us-news/how-a-little-known-maine-ballot-initiative-could-defang-super-pacs-before-the-2028-election/",
+        "published": "Thu, 12 Feb 2026 14:42:13 -0500",
+        "image_url": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F02%2Fnewspress-collage-utmjg2tzi-1770918051630.jpg?quality%3D90%26strip%3Dall%261770900062"
+      }
+    },
+    {
+      "source": "NYP",
+      "entry": {
+        "id": "https://nypost.com/?p=38473022&post_type=article&preview_id=38473022",
+        "title": "Trump says Iran faces ‘very traumatic’ moment if no deal is struck ‘over the next month’",
+        "link": "https://nypost.com/2026/02/12/us-news/trump-says-iran-faces-very-traumatic-moment-if-no-deal-is-struck-over-the-next-month/",
+        "published": "Thu, 12 Feb 2026 14:38:31 -0500",
+        "image_url": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F02%2Fnewspress-collage-cmsv6v3e7-1770924918167.jpg?quality%3D90%26strip%3Dall%261770906963"
+      }
+    },
+    {
+      "source": "Politico",
+      "entry": {
+        "id": "0000019c-530c-d0f8-adde-fb5e7f4c0000",
+        "title": "Trump continues to lash out at ‘RINO’ GOP Gov. Kevin Stitt",
+        "link": "https://www.politico.com/news/2026/02/12/trump-attack-kevin-stitt-00778506",
+        "published": "Thu, 12 Feb 2026 14:10:30 EST",
+        "image_url": "https://static.politico.com/33/89/ad0638fa4a2386df248accb0a775/gettyimages-2151959536.jpg"
+      }
+    },
+    {
+      "source": "Reuters",
+      "entry": {
+        "id": "https://www.reuters.com/world/us/us-senators-sharply-question-trump-officials-about-pretti-shooting-use-force-2026-02-12/",
+        "title": "US senators sharply question Trump officials about Pretti shooting, use of force",
+        "link": "https://www.reuters.com/world/us/us-senators-sharply-question-trump-officials-about-pretti-shooting-use-force-2026-02-12/",
+        "published": "Thu, 12 Feb 2026 10:11:00 GMT",
+        "image_url": "https://www.bing.com/th?id=OVFT.oMz3hbLiZ6rnrwTtR725mS&pid=News&w=1600&h=900&c=14&rs=1"
+      }
     }
   ],
   "last_digest_date": "2026-02-12",
   "last_run": {
-    "utc": "2026-02-12T18:37:46Z",
-    "local": "2026-02-13T02:37:33+08:00",
+    "utc": "2026-02-12T19:42:56Z",
+    "local": "2026-02-13T03:42:42+08:00",
     "tz": "Asia/Shanghai",
-    "local_hour": 2,
+    "local_hour": 3,
     "quiet": true,
     "sources_ok": 9,
     "sources_fail": 0,
-    "entries_total": 187,
-    "new": 2,
+    "entries_total": 178,
+    "new": 4,
     "pushed_ok": 0,
     "pushed_fail": 0,
-    "skipped_seen": 52,
-    "skipped_major": 133,
-    "buffered_total": 18,
-    "buffered_added": 2,
-    "seen_size": 329,
+    "skipped_seen": 49,
+    "skipped_major": 125,
+    "buffered_total": 22,
+    "buffered_added": 4,
+    "seen_size": 331,
     "github": {
       "repo": "zixuouoscaroliver/Oscar-Oliver",
       "workflow": "Telegram News Bot",
-      "run_id": "21959472180",
-      "run_number": "94",
+      "run_id": "21961618900",
+      "run_number": "95",
       "sha": "4f3dfd71e3782371c09853800463db2dc0045ca8",
       "ref": "refs/heads/main",
-      "run_url": "https://github.com/zixuouoscaroliver/Oscar-Oliver/actions/runs/21959472180"
+      "run_url": "https://github.com/zixuouoscaroliver/Oscar-Oliver/actions/runs/21961618900"
     },
     "checkout": {
       "ref": "bot-stable",
