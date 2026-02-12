@@ -1,8 +1,6 @@
 {
   "initialized": true,
   "seen": {
-    "https://www.economist.com/europe/2026/02/09/the-war-room-newsletter-putins-generals-keep-being-hunted": 1770657212,
-    "https://www.economist.com/middle-east-and-africa/2026/02/05/how-regional-powers-are-thinking-about-a-war-in-iran": 1770657212,
     "https://www.economist.com/business/2026/02/09/china-is-waging-war-on-stolen-ideas": 1770660329,
     "https://www.reuters.com/world/asia-pacific/bangladesh-secures-19-us-tariff-exemption-some-apparel-made-with-us-material-2026-02-09/": 1770660329,
     "https://nypost.com/?post_type=article&p=38436117": 1770665833,
@@ -328,7 +326,10 @@
     "https://www.reuters.com/world/us/ny-fed-report-says-americans-pay-almost-all-trumps-tariffs-2026-02-12/": 1770914108,
     "https://www.reuters.com/legal/litigation/trump-administration-set-revoke-basis-us-climate-regulation-2026-02-12/": 1770914108,
     "https://www.scmp.com/news/world/united-states-canada/article/3343375/trump-privately-weighs-quitting-usmca-trade-pact-he-negotiated-risking-us2-trillion-deal?utm_source=rss_feed": 1770914108,
-    "https://www.scmp.com/news/world/united-states-canada/article/3343374/trumps-us10-billion-bbc-defamation-suit-going-trial-2027-florida?utm_source=rss_feed": 1770914108
+    "https://www.scmp.com/news/world/united-states-canada/article/3343374/trumps-us10-billion-bbc-defamation-suit-going-trial-2027-florida?utm_source=rss_feed": 1770914108,
+    "https://nypost.com/?post_type=article&p=38468838": 1770917958,
+    "https://nypost.com/?p=38470897&post_type=article&preview_id=38470897": 1770917958,
+    "https://apnews.com/article/trump-latin-america-china-venezuela-c7eda634084551716f1535a6f78496ba": 1770917958
   },
   "night_buffer": [
     {
@@ -460,34 +461,64 @@
         "published": "Thu, 12 Feb 2026 16:00:12 +0000",
         "image_url": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/02/12/1e0824c5-ec8c-46b8-ab35-1e211fcec7f1_5857f7ef.jpg?itok=hFmObIL8&v=1770910536"
       }
+    },
+    {
+      "source": "NYP",
+      "entry": {
+        "id": "https://nypost.com/?post_type=article&p=38468838",
+        "title": "Russia has tried to fully block WhatsApp and ‘drive users to state-owned surveillance app’",
+        "link": "https://nypost.com/2026/02/12/world-news/whatsapp-says-russia-has-tried-to-fully-block-the-messaging-app/",
+        "published": "Thu, 12 Feb 2026 12:28:58 -0500",
+        "image_url": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F02%2F121083302.jpg?quality%3D90%26strip%3Dall"
+      }
+    },
+    {
+      "source": "NYP",
+      "entry": {
+        "id": "https://nypost.com/?p=38470897&post_type=article&preview_id=38470897",
+        "title": "Trump insists Florida oil magnate ‘has no authority’ over Venezuela policy",
+        "link": "https://nypost.com/2026/02/12/us-news/trump-florida-oil-magnate-has-no-authority-over-venezuela-policy/",
+        "published": "Thu, 12 Feb 2026 12:19:51 -0500",
+        "image_url": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F02%2Fu-s-businessman-harry-sargeant-118513627.jpg?quality%3D90%26strip%3Dall"
+      }
+    },
+    {
+      "source": "AP NEWS",
+      "entry": {
+        "id": "https://apnews.com/article/trump-latin-america-china-venezuela-c7eda634084551716f1535a6f78496ba",
+        "title": "Trump is gathering Latin American leaders in Florida in March, ahead of his trip to China",
+        "link": "https://apnews.com/article/trump-latin-america-china-venezuela-c7eda634084551716f1535a6f78496ba",
+        "published": "Thu, 12 Feb 2026 09:04:00 GMT",
+        "image_url": "https://www.bing.com/th?id=OVFT.g_UFkjhyjdRPvCXeVchRhC&pid=News&w=1600&h=900&c=14&rs=1"
+      }
     }
   ],
   "last_digest_date": "2026-02-12",
   "last_run": {
-    "utc": "2026-02-12T16:35:19Z",
-    "local": "2026-02-13T00:35:08+08:00",
+    "utc": "2026-02-12T17:39:33Z",
+    "local": "2026-02-13T01:39:18+08:00",
     "tz": "Asia/Shanghai",
-    "local_hour": 0,
+    "local_hour": 1,
     "quiet": true,
     "sources_ok": 9,
     "sources_fail": 0,
     "entries_total": 188,
-    "new": 7,
+    "new": 3,
     "pushed_ok": 0,
     "pushed_fail": 0,
-    "skipped_seen": 53,
-    "skipped_major": 125,
-    "buffered_total": 13,
-    "buffered_added": 7,
-    "seen_size": 328,
+    "skipped_seen": 55,
+    "skipped_major": 130,
+    "buffered_total": 16,
+    "buffered_added": 3,
+    "seen_size": 329,
     "github": {
       "repo": "zixuouoscaroliver/Oscar-Oliver",
       "workflow": "Telegram News Bot",
-      "run_id": "21955343299",
-      "run_number": "92",
+      "run_id": "21957547819",
+      "run_number": "93",
       "sha": "4f3dfd71e3782371c09853800463db2dc0045ca8",
       "ref": "refs/heads/main",
-      "run_url": "https://github.com/zixuouoscaroliver/Oscar-Oliver/actions/runs/21955343299"
+      "run_url": "https://github.com/zixuouoscaroliver/Oscar-Oliver/actions/runs/21957547819"
     },
     "checkout": {
       "ref": "bot-stable",
