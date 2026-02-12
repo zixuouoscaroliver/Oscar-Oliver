@@ -1,8 +1,6 @@
 {
   "initialized": true,
   "seen": {
-    "https://nypost.com/?post_type=article&p=38438798": 1770674852,
-    "https://www.scmp.com/news/china/diplomacy/article/3342892/will-new-high-seas-treaty-open-fresh-front-line-south-china-sea-disputes?utm_source=rss_feed": 1770674852,
     "https://nypost.com/?post_type=article&p=38439758": 1770677737,
     "https://nypost.com/?post_type=article&p=38437190": 1770677737,
     "https://www.reuters.com/world/asia-pacific/australias-treasury-wine-settles-us-distributor-dispute-raises-hy-earnings-2026-02-09/": 1770679882,
@@ -343,7 +341,10 @@
     "https://apnews.com/video/trump-defends-last-weeks-racist-video-post-says-he-didnt-know-about-lutnicks-epstein-island-trip-d390b40111494ecd8f2a6f8eb82823f1": 1770931259,
     "https://apnews.com/article/hewlett-packard-slater-antitrust-trump-mergers-vance-13eba9dcef56aac42ad7453f22baa475": 1770931259,
     "https://www.reuters.com/legal/government/timeline-trumps-minnesota-immigration-crackdown-2026-02-12/": 1770931259,
-    "https://apnews.com/article/homeland-security-funding-shutdown-democrats-trump-4e9c4cebd45396e77f8333fd6cc31944": 1770933276
+    "https://apnews.com/article/homeland-security-funding-shutdown-democrats-trump-4e9c4cebd45396e77f8333fd6cc31944": 1770933276,
+    "https://nypost.com/?post_type=article&p=38472759": 1770935094,
+    "https://apnews.com/article/ice-congress-trump-minneapolis-alex-pretti-hearing-ada1986f0c4639e96a6f7bf06f2856c3": 1770935094,
+    "https://www.reuters.com/business/aerospace-defense/us-taiwan-finalize-deal-cut-tariffs-boost-purchases-us-goods-2026-02-12/": 1770935094
   },
   "night_buffer": [
     {
@@ -715,34 +716,64 @@
         "published": "Thu, 12 Feb 2026 12:51:00 GMT",
         "image_url": ""
       }
+    },
+    {
+      "source": "NYP",
+      "entry": {
+        "id": "https://nypost.com/?post_type=article&p=38472759",
+        "title": "NYC’s only Ethiopian-Israeli restaurant closes after anti-Zionist harassment: ‘So much animosity’",
+        "link": "https://nypost.com/2026/02/12/us-news/nycs-only-ethiopian-israeli-restaurant-closes-after-anti-zionist-harassment-so-much-animosity/",
+        "published": "Thu, 12 Feb 2026 16:59:57 -0500",
+        "image_url": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F02%2Fnewspress-collage-uvh50861e-1770933469984.jpg?quality%3D90%26strip%3Dall%261770915560"
+      }
+    },
+    {
+      "source": "AP NEWS",
+      "entry": {
+        "id": "https://apnews.com/article/ice-congress-trump-minneapolis-alex-pretti-hearing-ada1986f0c4639e96a6f7bf06f2856c3",
+        "title": "Trump immigration officials shown video of Minneapolis protester’s death in tense Senate hearing",
+        "link": "https://apnews.com/article/ice-congress-trump-minneapolis-alex-pretti-hearing-ada1986f0c4639e96a6f7bf06f2856c3",
+        "published": "Thu, 12 Feb 2026 14:10:00 GMT",
+        "image_url": "https://www.bing.com/th?id=OVFT.jOEq8puwns0j7YLG7Ejnui&pid=News&w=1600&h=900&c=14&rs=1"
+      }
+    },
+    {
+      "source": "Reuters",
+      "entry": {
+        "id": "https://www.reuters.com/business/aerospace-defense/us-taiwan-finalize-deal-cut-tariffs-boost-purchases-us-goods-2026-02-12/",
+        "title": "US, Taiwan finalize deal to cut tariffs, boost purchases of US goods",
+        "link": "https://www.reuters.com/business/aerospace-defense/us-taiwan-finalize-deal-cut-tariffs-boost-purchases-us-goods-2026-02-12/",
+        "published": "Thu, 12 Feb 2026 13:07:00 GMT",
+        "image_url": "https://www.bing.com/th?id=OVFT.XQ9p2_PsYx32-8kjeAxfzy&pid=News&w=1600&h=900&c=14&rs=1"
+      }
     }
   ],
   "last_digest_date": "2026-02-12",
   "last_run": {
-    "utc": "2026-02-12T21:54:49Z",
-    "local": "2026-02-13T05:54:36+08:00",
+    "utc": "2026-02-12T22:25:06Z",
+    "local": "2026-02-13T06:24:54+08:00",
     "tz": "Asia/Shanghai",
-    "local_hour": 5,
+    "local_hour": 6,
     "quiet": true,
     "sources_ok": 9,
     "sources_fail": 0,
-    "entries_total": 190,
-    "new": 1,
+    "entries_total": 192,
+    "new": 5,
     "pushed_ok": 0,
     "pushed_fail": 0,
-    "skipped_seen": 56,
+    "skipped_seen": 54,
     "skipped_major": 133,
-    "buffered_total": 37,
-    "buffered_added": 1,
-    "seen_size": 343,
+    "buffered_total": 40,
+    "buffered_added": 3,
+    "seen_size": 344,
     "github": {
       "repo": "zixuouoscaroliver/Oscar-Oliver",
       "workflow": "Telegram News Bot",
-      "run_id": "21965723697",
-      "run_number": "99",
+      "run_id": "21966625227",
+      "run_number": "100",
       "sha": "4f3dfd71e3782371c09853800463db2dc0045ca8",
       "ref": "refs/heads/main",
-      "run_url": "https://github.com/zixuouoscaroliver/Oscar-Oliver/actions/runs/21965723697"
+      "run_url": "https://github.com/zixuouoscaroliver/Oscar-Oliver/actions/runs/21966625227"
     },
     "checkout": {
       "ref": "bot-stable",
