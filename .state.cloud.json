@@ -1,7 +1,6 @@
 {
   "initialized": true,
   "seen": {
-    "https://apnews.com/video/tokyo-benchmark-nikkei-225-jumps-after-takaichis-ruling-party-wins-a-super-majority-in-election-331e65cf339948ff970bc3525f4c4070": 1770624368,
     "https://nypost.com/?post_type=article&p=38432958": 1770632456,
     "https://www.reuters.com/business/us-ipo-proceeds-quadruple-record-160-billion-2026-dealmaking-rebounds-says-2026-02-09/": 1770632466,
     "https://www.scmp.com/week-asia/politics/article/3342931/japans-takaichi-won-election-what-cost-ldp?utm_source=rss_feed": 1770632467,
@@ -295,35 +294,38 @@
     "https://apnews.com/article/europe-eu-trump-china-russia-rethink-6461ea032aa4e3aa8e133bc5080ab922": 1770883342,
     "https://apnews.com/article/us-funding-shelter-scam-compounds-trafficking-victims-85a69706c6b917e32ae7e2d4797cd9c2": 1770883342,
     "https://www.scmp.com/news/china/diplomacy/article/3343263/free-trade-or-fortress-europe-battle-soul-eu-economy?utm_source=rss_feed": 1770883342,
-    "https://www.scmp.com/week-asia/people/article/3343303/malaysias-anwar-defends-anti-corruption-chief-over-new-share-row-read-his-explanation?utm_source=rss_feed": 1770883342
+    "https://www.scmp.com/week-asia/people/article/3343303/malaysias-anwar-defends-anti-corruption-chief-over-new-share-row-read-his-explanation?utm_source=rss_feed": 1770883342,
+    "https://www.reuters.com/sports/skeleton-ukraines-heraskevych-disqualified-over-helmet-controversy-2026-02-12/": 1770886836,
+    "https://www.scmp.com/news/asia/east-asia/article/3343314/japans-us550-billion-promise-trump-just-signing-bonus-strings-attached?utm_source=rss_feed": 1770886836,
+    "https://www.scmp.com/week-asia/economics/article/3343310/singapore-budget-lawrence-wong-unveils-ai-ambitions-uncertain-world?utm_source=rss_feed": 1770886836
   },
   "night_buffer": [],
   "last_digest_date": "2026-02-12",
   "last_run": {
-    "utc": "2026-02-12T08:02:39Z",
-    "local": "2026-02-12T16:02:22+08:00",
+    "utc": "2026-02-12T09:00:49Z",
+    "local": "2026-02-12T17:00:36+08:00",
     "tz": "Asia/Shanghai",
-    "local_hour": 16,
+    "local_hour": 17,
     "quiet": false,
     "sources_ok": 9,
     "sources_fail": 0,
     "entries_total": 190,
-    "new": 5,
-    "pushed_ok": 5,
+    "new": 3,
+    "pushed_ok": 3,
     "pushed_fail": 0,
-    "skipped_seen": 53,
+    "skipped_seen": 56,
     "skipped_major": 131,
     "buffered_total": 0,
     "buffered_added": 0,
-    "seen_size": 295,
+    "seen_size": 297,
     "github": {
       "repo": "zixuouoscaroliver/Oscar-Oliver",
       "workflow": "Telegram News Bot",
-      "run_id": "21938337165",
-      "run_number": "83",
+      "run_id": "21940009955",
+      "run_number": "84",
       "sha": "4f3dfd71e3782371c09853800463db2dc0045ca8",
       "ref": "refs/heads/main",
-      "run_url": "https://github.com/zixuouoscaroliver/Oscar-Oliver/actions/runs/21938337165"
+      "run_url": "https://github.com/zixuouoscaroliver/Oscar-Oliver/actions/runs/21940009955"
     },
     "checkout": {
       "ref": "bot-stable",
