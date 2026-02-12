@@ -336,7 +336,11 @@
     "https://apnews.com/article/trump-climate-change-epa-clean-air-act-c149d5ea6ec71c862e6c4b578adf92cd": 1770926621,
     "https://apnews.com/article/ukraine-helmet-aa8ca146d2ab92328b62aca59560c1bc": 1770926621,
     "https://apnews.com/article/afghan-baby-adoption-marine-virginia-3703a5a979633bcd000e537e6eb1f5ff": 1770926621,
-    "https://www.reuters.com/world/trump-cannot-end-deportation-protections-south-sudanese-nationals-us-judge-rules-2026-02-12/": 1770926621
+    "https://www.reuters.com/world/trump-cannot-end-deportation-protections-south-sudanese-nationals-us-judge-rules-2026-02-12/": 1770926621,
+    "https://nypost.com/?post_type=article&p=38471449": 1770929284,
+    "https://nypost.com/?post_type=article&p=38470342": 1770929284,
+    "https://apnews.com/video/trump-urges-quick-deal-with-iran-to-avoid-traumatic-outcome-758cac1389e44591bdd635f331858e3a": 1770929284,
+    "https://apnews.com/article/national-park-service-nomination-scott-socha-607e510eda4f57e3277505f95c6ae89f": 1770929284
   },
   "night_buffer": [
     {
@@ -608,34 +612,74 @@
         "published": "Thu, 12 Feb 2026 10:22:00 GMT",
         "image_url": "https://www.bing.com/th?id=OVFT.vyTxXeEvV0u34vNH0uHYlS&pid=News&w=1600&h=900&c=14&rs=1"
       }
+    },
+    {
+      "source": "NYP",
+      "entry": {
+        "id": "https://nypost.com/?post_type=article&p=38471449",
+        "title": "Rep. Elise Stefanik urges RFK Jr. to probe Mayor Mamdani’s Department of Health over anti-Israel group",
+        "link": "https://nypost.com/2026/02/12/us-news/rep-elise-stefanik-urges-rfk-jr-to-probe-nyc-health-departments-anti-israel-group/",
+        "published": "Thu, 12 Feb 2026 15:45:51 -0500",
+        "image_url": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F02%2Fnewspress-collage-itocz09dz-1770928762659.jpg?quality%3D90%26strip%3Dall%261770910802"
+      }
+    },
+    {
+      "source": "NYP",
+      "entry": {
+        "id": "https://nypost.com/?post_type=article&p=38470342",
+        "title": "Ukraine unveils revolutionary ‘Sunray’ laser that can silently take out Russian drones: ‘Invisible lightning’",
+        "link": "https://nypost.com/2026/02/12/world-news/ukraine-unveils-revolutionary-sunray-drone-laser/",
+        "published": "Thu, 12 Feb 2026 15:42:49 -0500",
+        "image_url": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F02%2F121085193.jpg?quality%3D90%26strip%3Dall"
+      }
+    },
+    {
+      "source": "AP NEWS",
+      "entry": {
+        "id": "https://apnews.com/video/trump-urges-quick-deal-with-iran-to-avoid-traumatic-outcome-758cac1389e44591bdd635f331858e3a",
+        "title": "Trump urges quick deal with Iran to avoid ‘traumatic’ outcome",
+        "link": "https://apnews.com/video/trump-urges-quick-deal-with-iran-to-avoid-traumatic-outcome-758cac1389e44591bdd635f331858e3a",
+        "published": "Thu, 12 Feb 2026 12:40:00 GMT",
+        "image_url": "https://www.bing.com/th?id=OVFT.qbk3-KlEj1zYAYPIZO21_C&pid=News&w=1600&h=900&c=14&rs=1"
+      }
+    },
+    {
+      "source": "AP NEWS",
+      "entry": {
+        "id": "https://apnews.com/article/national-park-service-nomination-scott-socha-607e510eda4f57e3277505f95c6ae89f",
+        "title": "Trump nominates a hospitality executive to lead the National Park Service",
+        "link": "https://apnews.com/article/national-park-service-nomination-scott-socha-607e510eda4f57e3277505f95c6ae89f",
+        "published": "Thu, 12 Feb 2026 12:33:00 GMT",
+        "image_url": "https://www.bing.com/th?id=OVFT.oiAH9WDMdsAg_gVLS7Bzyi&pid=News&w=1600&h=900&c=14&rs=1"
+      }
     }
   ],
   "last_digest_date": "2026-02-12",
   "last_run": {
-    "utc": "2026-02-12T20:03:53Z",
-    "local": "2026-02-13T04:03:41+08:00",
+    "utc": "2026-02-12T20:48:17Z",
+    "local": "2026-02-13T04:48:04+08:00",
     "tz": "Asia/Shanghai",
     "local_hour": 4,
     "quiet": true,
     "sources_ok": 9,
     "sources_fail": 0,
     "entries_total": 189,
-    "new": 5,
+    "new": 4,
     "pushed_ok": 0,
     "pushed_fail": 0,
-    "skipped_seen": 56,
+    "skipped_seen": 59,
     "skipped_major": 126,
-    "buffered_total": 27,
-    "buffered_added": 5,
-    "seen_size": 336,
+    "buffered_total": 31,
+    "buffered_added": 4,
+    "seen_size": 340,
     "github": {
       "repo": "zixuouoscaroliver/Oscar-Oliver",
       "workflow": "Telegram News Bot",
-      "run_id": "21962301964",
-      "run_number": "96",
+      "run_id": "21963701025",
+      "run_number": "97",
       "sha": "4f3dfd71e3782371c09853800463db2dc0045ca8",
       "ref": "refs/heads/main",
-      "run_url": "https://github.com/zixuouoscaroliver/Oscar-Oliver/actions/runs/21962301964"
+      "run_url": "https://github.com/zixuouoscaroliver/Oscar-Oliver/actions/runs/21963701025"
     },
     "checkout": {
       "ref": "bot-stable",
