@@ -317,35 +317,102 @@
     "https://www.economist.com/middle-east-and-africa/2026/02/12/how-africas-hottest-new-museum-unravelled": 1770907266,
     "https://www.reuters.com/world/us-judge-rejects-bbcs-stay-application-trump-defamation-case-2026-02-12/": 1770907266,
     "https://www.scmp.com/news/world/americas/article/3343369/chinas-byd-and-geely-bid-nissan-mercedes-mexico-plant-dodge-trump-tariffs?utm_source=rss_feed": 1770907266,
-    "https://www.scmp.com/news/china/diplomacy/article/3343363/taiwan-tensions-poised-be-primary-flashpoint-donald-trumps-beijing-agenda?utm_source=rss_feed": 1770907266
+    "https://www.scmp.com/news/china/diplomacy/article/3343363/taiwan-tensions-poised-be-primary-flashpoint-donald-trumps-beijing-agenda?utm_source=rss_feed": 1770907266,
+    "https://nypost.com/?post_type=article&p=38468891": 1770910467,
+    "https://nypost.com/?post_type=article&p=38468437": 1770910467,
+    "https://apnews.com/article/us-steel-plant-clairton-nippon-explosion-cf5ec79fba028336d71ce3dec2284523": 1770910467,
+    "https://apnews.com/article/canada-school-shooting-british-columbia-bef756c3d04d26b76c49a4e2b5154002": 1770910467,
+    "https://www.scmp.com/news/world/united-states-canada/article/3343372/trump-end-minnesota-immigration-crackdown-border-tsar-says?utm_source=rss_feed": 1770910467,
+    "https://www.scmp.com/news/world/europe/article/3343370/china-cuts-eu-dairy-tariffs-easing-trade-tensions-after-ev-dispute?utm_source=rss_feed": 1770910467
   },
-  "night_buffer": [],
+  "night_buffer": [
+    {
+      "source": "NYP",
+      "entry": {
+        "id": "https://nypost.com/?post_type=article&p=38468891",
+        "title": "Mercedes-Benz earnings slashed by more than half on $1.2B hit from Trump’s tariffs",
+        "link": "https://nypost.com/2026/02/12/business/mercedes-benz-earnings-more-than-halved-on-1-2b-trump-tariff-hit/",
+        "published": "Thu, 12 Feb 2026 10:28:27 -0500",
+        "image_url": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F02%2F121068392.jpg?quality%3D90%26strip%3Dall"
+      }
+    },
+    {
+      "source": "NYP",
+      "entry": {
+        "id": "https://nypost.com/?post_type=article&p=38468437",
+        "title": "Magnitude-2.5 earthquake rattles South Carolina just days after earlier quake",
+        "link": "https://nypost.com/2026/02/12/us-news/magnitude-2-5-earthquake-rattles-charleston-south-carolina-area-just-days-after-prior-quake/",
+        "published": "Thu, 12 Feb 2026 10:04:47 -0500",
+        "image_url": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F02%2Fsouth-carolina-eartquake.jpg?quality%3D90%26strip%3Dall%261770889121"
+      }
+    },
+    {
+      "source": "AP NEWS",
+      "entry": {
+        "id": "https://apnews.com/article/us-steel-plant-clairton-nippon-explosion-cf5ec79fba028336d71ce3dec2284523",
+        "title": "After deadly explosion at US Steel mill outside Pittsburgh, maintaining safety now falls to Nippon",
+        "link": "https://apnews.com/article/us-steel-plant-clairton-nippon-explosion-cf5ec79fba028336d71ce3dec2284523",
+        "published": "Thu, 12 Feb 2026 06:51:00 GMT",
+        "image_url": "https://www.bing.com/th?id=OVFT.pJORMQxO-CIzaW5opnG6nC&pid=News&w=1600&h=900&c=14&rs=1"
+      }
+    },
+    {
+      "source": "AP NEWS",
+      "entry": {
+        "id": "https://apnews.com/article/canada-school-shooting-british-columbia-bef756c3d04d26b76c49a4e2b5154002",
+        "title": "Remote Canadian community grapples with aftermath of mass shooting that left 9 people dead",
+        "link": "https://apnews.com/article/canada-school-shooting-british-columbia-bef756c3d04d26b76c49a4e2b5154002",
+        "published": "Thu, 12 Feb 2026 07:14:00 GMT",
+        "image_url": "https://www.bing.com/th?id=OVFT.ikwTQ1P0by4grj9FkqGJki&pid=News&w=1600&h=900&c=14&rs=1"
+      }
+    },
+    {
+      "source": "SCMP",
+      "entry": {
+        "id": "https://www.scmp.com/news/world/united-states-canada/article/3343372/trump-end-minnesota-immigration-crackdown-border-tsar-says?utm_source=rss_feed",
+        "title": "Trump to end Minnesota immigration crackdown, border tsar says",
+        "link": "https://www.scmp.com/news/world/united-states-canada/article/3343372/trump-end-minnesota-immigration-crackdown-border-tsar-says?utm_source=rss_feed",
+        "published": "Thu, 12 Feb 2026 15:09:26 +0000",
+        "image_url": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/02/12/7797e20e-0b2f-4e3d-8935-013ef0303cc7_b0088a63.jpg?itok=0isUsMV1&v=1770908890"
+      }
+    },
+    {
+      "source": "SCMP",
+      "entry": {
+        "id": "https://www.scmp.com/news/world/europe/article/3343370/china-cuts-eu-dairy-tariffs-easing-trade-tensions-after-ev-dispute?utm_source=rss_feed",
+        "title": "China cuts EU dairy tariffs, easing trade tensions after EV dispute",
+        "link": "https://www.scmp.com/news/world/europe/article/3343370/china-cuts-eu-dairy-tariffs-easing-trade-tensions-after-ev-dispute?utm_source=rss_feed",
+        "published": "Thu, 12 Feb 2026 14:54:38 +0000",
+        "image_url": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/02/12/f5da6c2a-0377-42e9-a776-15dad30f7b42_db69a78c.jpg?itok=4VDLVZea&v=1770907843"
+      }
+    }
+  ],
   "last_digest_date": "2026-02-12",
   "last_run": {
-    "utc": "2026-02-12T14:41:27Z",
-    "local": "2026-02-12T22:41:06+08:00",
+    "utc": "2026-02-12T15:34:39Z",
+    "local": "2026-02-12T23:34:27+08:00",
     "tz": "Asia/Shanghai",
-    "local_hour": 22,
-    "quiet": false,
+    "local_hour": 23,
+    "quiet": true,
     "sources_ok": 9,
     "sources_fail": 0,
     "entries_total": 188,
-    "new": 7,
-    "pushed_ok": 7,
+    "new": 6,
+    "pushed_ok": 0,
     "pushed_fail": 0,
-    "skipped_seen": 56,
-    "skipped_major": 122,
-    "buffered_total": 0,
-    "buffered_added": 0,
-    "seen_size": 317,
+    "skipped_seen": 55,
+    "skipped_major": 127,
+    "buffered_total": 6,
+    "buffered_added": 6,
+    "seen_size": 323,
     "github": {
       "repo": "zixuouoscaroliver/Oscar-Oliver",
       "workflow": "Telegram News Bot",
-      "run_id": "21951095740",
-      "run_number": "90",
+      "run_id": "21953104795",
+      "run_number": "91",
       "sha": "4f3dfd71e3782371c09853800463db2dc0045ca8",
       "ref": "refs/heads/main",
-      "run_url": "https://github.com/zixuouoscaroliver/Oscar-Oliver/actions/runs/21951095740"
+      "run_url": "https://github.com/zixuouoscaroliver/Oscar-Oliver/actions/runs/21953104795"
     },
     "checkout": {
       "ref": "bot-stable",
