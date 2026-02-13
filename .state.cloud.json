@@ -341,7 +341,9 @@
     "https://nypost.com/?post_type=article&p=38480909": 1770998044,
     "https://nypost.com/?post_type=article&p=38481089": 1770998044,
     "https://nypost.com/?post_type=article&p=38480978": 1770998044,
-    "https://www.reuters.com/business/us-consumer-prices-rise-less-than-expected-january-2026-02-13/": 1770998044
+    "https://www.reuters.com/business/us-consumer-prices-rise-less-than-expected-january-2026-02-13/": 1770998044,
+    "https://nypost.com/?post_type=article&p=38480417": 1771000490,
+    "https://www.washingtonpost.com/national-security/2026/02/13/trump-iran-aircraft-carrier-gerald-ford/": 1771000490
   },
   "night_buffer": [
     {
@@ -433,34 +435,54 @@
         "published": "Fri, 13 Feb 2026 04:38:00 GMT",
         "image_url": "https://www.bing.com/th?id=OVFT.SGxsjWLhYgmzPX62BKv2by&pid=News&w=1600&h=900&c=14&rs=1"
       }
+    },
+    {
+      "source": "NYP",
+      "entry": {
+        "id": "https://nypost.com/?post_type=article&p=38480417",
+        "title": "US consumers, businesses bore about 90% of Trump’s tariffs, NY Fed study finds",
+        "link": "https://nypost.com/2026/02/13/business/us-consumers-businesses-bore-about-90-of-trumps-tariffs-ny-fed-study-finds/",
+        "published": "Fri, 13 Feb 2026 11:21:18 -0500",
+        "image_url": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F02%2Fyoung-woman-weighing-bananas-scale-121176940.jpg?quality%3D90%26strip%3Dall"
+      }
+    },
+    {
+      "source": "WaPo",
+      "entry": {
+        "id": "https://www.washingtonpost.com/national-security/2026/02/13/trump-iran-aircraft-carrier-gerald-ford/",
+        "title": "U.S. orders second aircraft carrier to Middle East as Trump pressures Iran",
+        "link": "https://www.washingtonpost.com/national-security/2026/02/13/trump-iran-aircraft-carrier-gerald-ford/",
+        "published": "Fri, 13 Feb 2026 16:27:56 +0000",
+        "image_url": ""
+      }
     }
   ],
   "last_digest_date": "2026-02-13",
   "last_run": {
-    "utc": "2026-02-13T15:54:17Z",
-    "local": "2026-02-13T23:54:04+08:00",
+    "utc": "2026-02-13T16:35:04Z",
+    "local": "2026-02-14T00:34:50+08:00",
     "tz": "Asia/Shanghai",
-    "local_hour": 23,
+    "local_hour": 0,
     "quiet": true,
     "sources_ok": 9,
     "sources_fail": 0,
     "entries_total": 186,
-    "new": 4,
+    "new": 2,
     "pushed_ok": 0,
     "pushed_fail": 0,
-    "skipped_seen": 48,
-    "skipped_major": 127,
-    "buffered_total": 9,
-    "buffered_added": 4,
-    "seen_size": 341,
+    "skipped_seen": 47,
+    "skipped_major": 137,
+    "buffered_total": 11,
+    "buffered_added": 2,
+    "seen_size": 343,
     "github": {
       "repo": "zixuouoscaroliver/Oscar-Oliver",
       "workflow": "Telegram News Bot",
-      "run_id": "21993289901",
-      "run_number": "119",
+      "run_id": "21994615717",
+      "run_number": "120",
       "sha": "4f3dfd71e3782371c09853800463db2dc0045ca8",
       "ref": "refs/heads/main",
-      "run_url": "https://github.com/zixuouoscaroliver/Oscar-Oliver/actions/runs/21993289901"
+      "run_url": "https://github.com/zixuouoscaroliver/Oscar-Oliver/actions/runs/21994615717"
     },
     "checkout": {
       "ref": "bot-stable",
