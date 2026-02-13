@@ -1,9 +1,6 @@
 {
   "initialized": true,
   "seen": {
-    "https://nypost.com/?post_type=article&p=38437579": 1770681841,
-    "https://apnews.com/article/government-shutdown-homeland-security-ice-funding-0a22618791cb6d0aac4d763a87fc1d4f": 1770681841,
-    "https://www.reuters.com/sustainability/boards-policy-regulation/feds-miran-says-data-suggests-americans-arent-shouldering-tariff-hit-2026-02-09/": 1770681841,
     "https://nypost.com/?post_type=article&p=38441513": 1770691552,
     "https://www.scmp.com/news/china/diplomacy/article/3342948/will-taiwan-meet-submarine-delivery-deadline-unlock-defence-budget-hai-kun-tests?utm_source=rss_feed": 1770691552,
     "https://apnews.com/article/democrats-ice-white-house-homeland-security-funding-84d4b2e5a7123f2b316cca4857b7762a": 1770700525,
@@ -340,436 +337,46 @@
     "https://apnews.com/article/homeland-security-funding-shutdown-democrats-trump-4e9c4cebd45396e77f8333fd6cc31944": 1770933276,
     "https://nypost.com/?post_type=article&p=38472759": 1770935094,
     "https://apnews.com/article/ice-congress-trump-minneapolis-alex-pretti-hearing-ada1986f0c4639e96a6f7bf06f2856c3": 1770935094,
-    "https://www.reuters.com/business/aerospace-defense/us-taiwan-finalize-deal-cut-tariffs-boost-purchases-us-goods-2026-02-12/": 1770935094
+    "https://www.reuters.com/business/aerospace-defense/us-taiwan-finalize-deal-cut-tariffs-boost-purchases-us-goods-2026-02-12/": 1770935094,
+    "https://nypost.com/?post_type=article&p=38476090": 1770944456,
+    "https://nypost.com/?post_type=article&p=38475288": 1770944456,
+    "https://nypost.com/?post_type=article&p=38472968": 1770944456,
+    "https://apnews.com/article/climate-change-health-deaths-heat-sickness-scam-5b7492660d7dad1c324f2bbbe6163f1c": 1770944456,
+    "https://apnews.com/article/trump-taiwan-china-trade-deal-2b1743397ba33010463d41132b75ce53": 1770944456,
+    "https://apnews.com/video/artist-behind-ukrainian-olympic-helmet-calls-his-tribute-great-heroism-after-hes-banned-a1b32331f50745ffba6a76eb958d2171": 1770944456,
+    "https://www.reuters.com/world/saks-lenders-suppliers-talks-avoid-court-fight-over-bankruptcy-loan-2026-02-12/": 1770944456,
+    "https://www.reuters.com/sustainability/cop/south-africas-affluent-western-cape-farmers-lose-cattle-drought-2026-02-12/": 1770944456,
+    "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3343377/vietnam-mainland-china-among-top-lunar-new-year-destinations-hongkongers?utm_source=rss_feed": 1770944456,
+    "https://www.scmp.com/week-asia/politics/article/3343322/why-takaichis-japan-election-victory-has-sparked-north-koreas-childish-fury?utm_source=rss_feed": 1770944456,
+    "https://www.scmp.com/news/world/united-states-canada/article/3343387/tumbler-ridge-grieves-8-killed-canadas-deadliest-shooting-years?utm_source=rss_feed": 1770944456
   },
-  "night_buffer": [
-    {
-      "source": "NYP",
-      "entry": {
-        "id": "https://nypost.com/?post_type=article&p=38468891",
-        "title": "Mercedes-Benz earnings slashed by more than half on $1.2B hit from Trump’s tariffs",
-        "link": "https://nypost.com/2026/02/12/business/mercedes-benz-earnings-more-than-halved-on-1-2b-trump-tariff-hit/",
-        "published": "Thu, 12 Feb 2026 10:28:27 -0500",
-        "image_url": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F02%2F121068392.jpg?quality%3D90%26strip%3Dall"
-      }
-    },
-    {
-      "source": "NYP",
-      "entry": {
-        "id": "https://nypost.com/?post_type=article&p=38468437",
-        "title": "Magnitude-2.5 earthquake rattles South Carolina just days after earlier quake",
-        "link": "https://nypost.com/2026/02/12/us-news/magnitude-2-5-earthquake-rattles-charleston-south-carolina-area-just-days-after-prior-quake/",
-        "published": "Thu, 12 Feb 2026 10:04:47 -0500",
-        "image_url": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F02%2Fsouth-carolina-eartquake.jpg?quality%3D90%26strip%3Dall%261770889121"
-      }
-    },
-    {
-      "source": "AP NEWS",
-      "entry": {
-        "id": "https://apnews.com/article/us-steel-plant-clairton-nippon-explosion-cf5ec79fba028336d71ce3dec2284523",
-        "title": "After deadly explosion at US Steel mill outside Pittsburgh, maintaining safety now falls to Nippon",
-        "link": "https://apnews.com/article/us-steel-plant-clairton-nippon-explosion-cf5ec79fba028336d71ce3dec2284523",
-        "published": "Thu, 12 Feb 2026 06:51:00 GMT",
-        "image_url": "https://www.bing.com/th?id=OVFT.pJORMQxO-CIzaW5opnG6nC&pid=News&w=1600&h=900&c=14&rs=1"
-      }
-    },
-    {
-      "source": "AP NEWS",
-      "entry": {
-        "id": "https://apnews.com/article/canada-school-shooting-british-columbia-bef756c3d04d26b76c49a4e2b5154002",
-        "title": "Remote Canadian community grapples with aftermath of mass shooting that left 9 people dead",
-        "link": "https://apnews.com/article/canada-school-shooting-british-columbia-bef756c3d04d26b76c49a4e2b5154002",
-        "published": "Thu, 12 Feb 2026 07:14:00 GMT",
-        "image_url": "https://www.bing.com/th?id=OVFT.ikwTQ1P0by4grj9FkqGJki&pid=News&w=1600&h=900&c=14&rs=1"
-      }
-    },
-    {
-      "source": "SCMP",
-      "entry": {
-        "id": "https://www.scmp.com/news/world/united-states-canada/article/3343372/trump-end-minnesota-immigration-crackdown-border-tsar-says?utm_source=rss_feed",
-        "title": "Trump to end Minnesota immigration crackdown, border tsar says",
-        "link": "https://www.scmp.com/news/world/united-states-canada/article/3343372/trump-end-minnesota-immigration-crackdown-border-tsar-says?utm_source=rss_feed",
-        "published": "Thu, 12 Feb 2026 15:09:26 +0000",
-        "image_url": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/02/12/7797e20e-0b2f-4e3d-8935-013ef0303cc7_b0088a63.jpg?itok=0isUsMV1&v=1770908890"
-      }
-    },
-    {
-      "source": "SCMP",
-      "entry": {
-        "id": "https://www.scmp.com/news/world/europe/article/3343370/china-cuts-eu-dairy-tariffs-easing-trade-tensions-after-ev-dispute?utm_source=rss_feed",
-        "title": "China cuts EU dairy tariffs, easing trade tensions after EV dispute",
-        "link": "https://www.scmp.com/news/world/europe/article/3343370/china-cuts-eu-dairy-tariffs-easing-trade-tensions-after-ev-dispute?utm_source=rss_feed",
-        "published": "Thu, 12 Feb 2026 14:54:38 +0000",
-        "image_url": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/02/12/f5da6c2a-0377-42e9-a776-15dad30f7b42_db69a78c.jpg?itok=4VDLVZea&v=1770907843"
-      }
-    },
-    {
-      "source": "NYP",
-      "entry": {
-        "id": "https://nypost.com/?post_type=article&p=38468798",
-        "title": "Trump invited to Jerusalem to receive Israel Prize",
-        "link": "https://nypost.com/2026/02/12/world-news/trump-invited-to-receive-israel-prize-in-jerusalem/",
-        "published": "Thu, 12 Feb 2026 11:29:56 -0500",
-        "image_url": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F02%2F121077229.jpg?quality%3D90%26strip%3Dall"
-      }
-    },
-    {
-      "source": "NYP",
-      "entry": {
-        "id": "https://nypost.com/?post_type=article&p=38468659",
-        "title": "Tourist mom had been drinking before she was found naked and dead in a Dollar Tree freezer",
-        "link": "https://nypost.com/2026/02/12/us-news/tourist-mom-had-been-drinking-before-she-was-found-naked-and-dead-in-a-dollar-tree-freezer/",
-        "published": "Thu, 12 Feb 2026 11:01:58 -0500",
-        "image_url": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F02%2F121070492.jpg?quality%3D90%26strip%3Dall"
-      }
-    },
-    {
-      "source": "Reuters",
-      "entry": {
-        "id": "https://www.reuters.com/world/us/trumps-justice-department-antitrust-head-gail-slater-stepping-down-2026-02-12/",
-        "title": "Trump's Justice Department antitrust head Gail Slater stepping down",
-        "link": "https://www.reuters.com/world/us/trumps-justice-department-antitrust-head-gail-slater-stepping-down-2026-02-12/",
-        "published": "Thu, 12 Feb 2026 07:22:00 GMT",
-        "image_url": "https://www.bing.com/th?id=OVFT.y8IkmIMIbCtrYmp28QEdNC&pid=News&w=1600&h=900&c=14&rs=1"
-      }
-    },
-    {
-      "source": "Reuters",
-      "entry": {
-        "id": "https://www.reuters.com/world/us/ny-fed-report-says-americans-pay-almost-all-trumps-tariffs-2026-02-12/",
-        "title": "NY Fed report says Americans pay for almost all of Trump's tariffs",
-        "link": "https://www.reuters.com/world/us/ny-fed-report-says-americans-pay-almost-all-trumps-tariffs-2026-02-12/",
-        "published": "Thu, 12 Feb 2026 07:15:00 GMT",
-        "image_url": "https://www.bing.com/th?id=OVFT.qSIGZ6DSu63mG3EI9qEiki&pid=News&w=1600&h=900&c=14&rs=1"
-      }
-    },
-    {
-      "source": "Reuters",
-      "entry": {
-        "id": "https://www.reuters.com/legal/litigation/trump-administration-set-revoke-basis-us-climate-regulation-2026-02-12/",
-        "title": "Trump administration set to revoke basis of US climate regulation",
-        "link": "https://www.reuters.com/legal/litigation/trump-administration-set-revoke-basis-us-climate-regulation-2026-02-12/",
-        "published": "Thu, 12 Feb 2026 04:53:00 GMT",
-        "image_url": ""
-      }
-    },
-    {
-      "source": "SCMP",
-      "entry": {
-        "id": "https://www.scmp.com/news/world/united-states-canada/article/3343375/trump-privately-weighs-quitting-usmca-trade-pact-he-negotiated-risking-us2-trillion-deal?utm_source=rss_feed",
-        "title": "Trump privately weighs quitting USMCA trade pact he negotiated, risking US$2 trillion deal",
-        "link": "https://www.scmp.com/news/world/united-states-canada/article/3343375/trump-privately-weighs-quitting-usmca-trade-pact-he-negotiated-risking-us2-trillion-deal?utm_source=rss_feed",
-        "published": "Thu, 12 Feb 2026 16:06:21 +0000",
-        "image_url": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/02/13/7e101fca-ee59-4cf9-bf15-f7df547632af_e72d1fe7.jpg?itok=YxIzmUMP&v=1770912185"
-      }
-    },
-    {
-      "source": "SCMP",
-      "entry": {
-        "id": "https://www.scmp.com/news/world/united-states-canada/article/3343374/trumps-us10-billion-bbc-defamation-suit-going-trial-2027-florida?utm_source=rss_feed",
-        "title": "Trump’s US$10 billion BBC defamation suit going to trial in 2027 in Florida",
-        "link": "https://www.scmp.com/news/world/united-states-canada/article/3343374/trumps-us10-billion-bbc-defamation-suit-going-trial-2027-florida?utm_source=rss_feed",
-        "published": "Thu, 12 Feb 2026 16:00:12 +0000",
-        "image_url": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/02/12/1e0824c5-ec8c-46b8-ab35-1e211fcec7f1_5857f7ef.jpg?itok=hFmObIL8&v=1770910536"
-      }
-    },
-    {
-      "source": "NYP",
-      "entry": {
-        "id": "https://nypost.com/?post_type=article&p=38468838",
-        "title": "Russia has tried to fully block WhatsApp and ‘drive users to state-owned surveillance app’",
-        "link": "https://nypost.com/2026/02/12/world-news/whatsapp-says-russia-has-tried-to-fully-block-the-messaging-app/",
-        "published": "Thu, 12 Feb 2026 12:28:58 -0500",
-        "image_url": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F02%2F121083302.jpg?quality%3D90%26strip%3Dall"
-      }
-    },
-    {
-      "source": "NYP",
-      "entry": {
-        "id": "https://nypost.com/?p=38470897&post_type=article&preview_id=38470897",
-        "title": "Trump insists Florida oil magnate ‘has no authority’ over Venezuela policy",
-        "link": "https://nypost.com/2026/02/12/us-news/trump-florida-oil-magnate-has-no-authority-over-venezuela-policy/",
-        "published": "Thu, 12 Feb 2026 12:19:51 -0500",
-        "image_url": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F02%2Fu-s-businessman-harry-sargeant-118513627.jpg?quality%3D90%26strip%3Dall"
-      }
-    },
-    {
-      "source": "AP NEWS",
-      "entry": {
-        "id": "https://apnews.com/article/trump-latin-america-china-venezuela-c7eda634084551716f1535a6f78496ba",
-        "title": "Trump is gathering Latin American leaders in Florida in March, ahead of his trip to China",
-        "link": "https://apnews.com/article/trump-latin-america-china-venezuela-c7eda634084551716f1535a6f78496ba",
-        "published": "Thu, 12 Feb 2026 09:04:00 GMT",
-        "image_url": "https://www.bing.com/th?id=OVFT.g_UFkjhyjdRPvCXeVchRhC&pid=News&w=1600&h=900&c=14&rs=1"
-      }
-    },
-    {
-      "source": "NYP",
-      "entry": {
-        "id": "https://nypost.com/?post_type=article&p=38463886",
-        "title": "Russia to ship oil to Cuba in defiance of Trump tariff threat",
-        "link": "https://nypost.com/2026/02/12/us-news/russia-to-ship-oil-to-cuba-in-defiance-of-trump-tariff-threat/",
-        "published": "Thu, 12 Feb 2026 13:31:25 -0500",
-        "image_url": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F02%2Fcrop-38471864.jpg?quality%3D90%26strip%3Dall"
-      }
-    },
-    {
-      "source": "AP NEWS",
-      "entry": {
-        "id": "https://apnews.com/article/ioc-olympics-milan-cortina-ukraine-skeleton-b39ac938b147cd671497080d9587b4c3",
-        "title": "Ukrainian athlete tests the Olympic rules on free speech — and gets disqualified",
-        "link": "https://apnews.com/article/ioc-olympics-milan-cortina-ukraine-skeleton-b39ac938b147cd671497080d9587b4c3",
-        "published": "Thu, 12 Feb 2026 10:12:00 GMT",
-        "image_url": "https://www.bing.com/th?id=OVFT.yngO3yqzmAZvZUvJHQDAiy&pid=News&w=1600&h=900&c=14&rs=1"
-      }
-    },
-    {
-      "source": "NYP",
-      "entry": {
-        "id": "https://nypost.com/?post_type=article&p=38437658",
-        "title": "How a little-known Maine ballot initiative could defang super PACs before the 2028 election",
-        "link": "https://nypost.com/2026/02/12/us-news/how-a-little-known-maine-ballot-initiative-could-defang-super-pacs-before-the-2028-election/",
-        "published": "Thu, 12 Feb 2026 14:42:13 -0500",
-        "image_url": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F02%2Fnewspress-collage-utmjg2tzi-1770918051630.jpg?quality%3D90%26strip%3Dall%261770900062"
-      }
-    },
-    {
-      "source": "NYP",
-      "entry": {
-        "id": "https://nypost.com/?p=38473022&post_type=article&preview_id=38473022",
-        "title": "Trump says Iran faces ‘very traumatic’ moment if no deal is struck ‘over the next month’",
-        "link": "https://nypost.com/2026/02/12/us-news/trump-says-iran-faces-very-traumatic-moment-if-no-deal-is-struck-over-the-next-month/",
-        "published": "Thu, 12 Feb 2026 14:38:31 -0500",
-        "image_url": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F02%2Fnewspress-collage-cmsv6v3e7-1770924918167.jpg?quality%3D90%26strip%3Dall%261770906963"
-      }
-    },
-    {
-      "source": "Politico",
-      "entry": {
-        "id": "0000019c-530c-d0f8-adde-fb5e7f4c0000",
-        "title": "Trump continues to lash out at ‘RINO’ GOP Gov. Kevin Stitt",
-        "link": "https://www.politico.com/news/2026/02/12/trump-attack-kevin-stitt-00778506",
-        "published": "Thu, 12 Feb 2026 14:10:30 EST",
-        "image_url": "https://static.politico.com/33/89/ad0638fa4a2386df248accb0a775/gettyimages-2151959536.jpg"
-      }
-    },
-    {
-      "source": "Reuters",
-      "entry": {
-        "id": "https://www.reuters.com/world/us/us-senators-sharply-question-trump-officials-about-pretti-shooting-use-force-2026-02-12/",
-        "title": "US senators sharply question Trump officials about Pretti shooting, use of force",
-        "link": "https://www.reuters.com/world/us/us-senators-sharply-question-trump-officials-about-pretti-shooting-use-force-2026-02-12/",
-        "published": "Thu, 12 Feb 2026 10:11:00 GMT",
-        "image_url": "https://www.bing.com/th?id=OVFT.oMz3hbLiZ6rnrwTtR725mS&pid=News&w=1600&h=900&c=14&rs=1"
-      }
-    },
-    {
-      "source": "Economist",
-      "entry": {
-        "id": "https://www.economist.com/culture/2026/02/12/africa-needs-to-follow-asias-path-to-grow",
-        "title": "Africa needs to follow Asia’s path to grow",
-        "link": "https://www.economist.com/culture/2026/02/12/africa-needs-to-follow-asias-path-to-grow",
-        "published": "Thu, 12 Feb 2026 05:56:00 GMT",
-        "image_url": "https://www.bing.com/th?id=OVFT.pHWkatFrRUDqC0u8trFyiC&pid=News&w=1600&h=900&c=14&rs=1"
-      }
-    },
-    {
-      "source": "AP NEWS",
-      "entry": {
-        "id": "https://apnews.com/article/trump-climate-change-epa-clean-air-act-c149d5ea6ec71c862e6c4b578adf92cd",
-        "title": "Trump’s EPA revokes scientific finding that underpinned US fight against climate change",
-        "link": "https://apnews.com/article/trump-climate-change-epa-clean-air-act-c149d5ea6ec71c862e6c4b578adf92cd",
-        "published": "Thu, 12 Feb 2026 11:05:00 GMT",
-        "image_url": "https://www.bing.com/th?id=OVFT.APAzM8NxaG3Xn-bUuMjnpS&pid=News&w=1600&h=900&c=14&rs=1"
-      }
-    },
-    {
-      "source": "AP NEWS",
-      "entry": {
-        "id": "https://apnews.com/article/ukraine-helmet-aa8ca146d2ab92328b62aca59560c1bc",
-        "title": "Olympians toe line between solidarity and sacrifice. Ukrainian banned over helmet the latest example",
-        "link": "https://apnews.com/article/ukraine-helmet-aa8ca146d2ab92328b62aca59560c1bc",
-        "published": "Thu, 12 Feb 2026 11:20:00 GMT",
-        "image_url": ""
-      }
-    },
-    {
-      "source": "AP NEWS",
-      "entry": {
-        "id": "https://apnews.com/article/afghan-baby-adoption-marine-virginia-3703a5a979633bcd000e537e6eb1f5ff",
-        "title": "Virginia Supreme Court rules US Marine’s adoption of an Afghan war orphan will stand",
-        "link": "https://apnews.com/article/afghan-baby-adoption-marine-virginia-3703a5a979633bcd000e537e6eb1f5ff",
-        "published": "Thu, 12 Feb 2026 11:52:00 GMT",
-        "image_url": "https://www.bing.com/th?id=OVFT.tihEjt6YHAyilEdXzBgQDy&pid=News&w=1600&h=900&c=14&rs=1"
-      }
-    },
-    {
-      "source": "Reuters",
-      "entry": {
-        "id": "https://www.reuters.com/world/trump-cannot-end-deportation-protections-south-sudanese-nationals-us-judge-rules-2026-02-12/",
-        "title": "Trump cannot end deportation protections for South Sudanese nationals, US judge rules",
-        "link": "https://www.reuters.com/world/trump-cannot-end-deportation-protections-south-sudanese-nationals-us-judge-rules-2026-02-12/",
-        "published": "Thu, 12 Feb 2026 10:22:00 GMT",
-        "image_url": "https://www.bing.com/th?id=OVFT.vyTxXeEvV0u34vNH0uHYlS&pid=News&w=1600&h=900&c=14&rs=1"
-      }
-    },
-    {
-      "source": "NYP",
-      "entry": {
-        "id": "https://nypost.com/?post_type=article&p=38471449",
-        "title": "Rep. Elise Stefanik urges RFK Jr. to probe Mayor Mamdani’s Department of Health over anti-Israel group",
-        "link": "https://nypost.com/2026/02/12/us-news/rep-elise-stefanik-urges-rfk-jr-to-probe-nyc-health-departments-anti-israel-group/",
-        "published": "Thu, 12 Feb 2026 15:45:51 -0500",
-        "image_url": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F02%2Fnewspress-collage-itocz09dz-1770928762659.jpg?quality%3D90%26strip%3Dall%261770910802"
-      }
-    },
-    {
-      "source": "NYP",
-      "entry": {
-        "id": "https://nypost.com/?post_type=article&p=38470342",
-        "title": "Ukraine unveils revolutionary ‘Sunray’ laser that can silently take out Russian drones: ‘Invisible lightning’",
-        "link": "https://nypost.com/2026/02/12/world-news/ukraine-unveils-revolutionary-sunray-drone-laser/",
-        "published": "Thu, 12 Feb 2026 15:42:49 -0500",
-        "image_url": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F02%2F121085193.jpg?quality%3D90%26strip%3Dall"
-      }
-    },
-    {
-      "source": "AP NEWS",
-      "entry": {
-        "id": "https://apnews.com/video/trump-urges-quick-deal-with-iran-to-avoid-traumatic-outcome-758cac1389e44591bdd635f331858e3a",
-        "title": "Trump urges quick deal with Iran to avoid ‘traumatic’ outcome",
-        "link": "https://apnews.com/video/trump-urges-quick-deal-with-iran-to-avoid-traumatic-outcome-758cac1389e44591bdd635f331858e3a",
-        "published": "Thu, 12 Feb 2026 12:40:00 GMT",
-        "image_url": "https://www.bing.com/th?id=OVFT.qbk3-KlEj1zYAYPIZO21_C&pid=News&w=1600&h=900&c=14&rs=1"
-      }
-    },
-    {
-      "source": "AP NEWS",
-      "entry": {
-        "id": "https://apnews.com/article/national-park-service-nomination-scott-socha-607e510eda4f57e3277505f95c6ae89f",
-        "title": "Trump nominates a hospitality executive to lead the National Park Service",
-        "link": "https://apnews.com/article/national-park-service-nomination-scott-socha-607e510eda4f57e3277505f95c6ae89f",
-        "published": "Thu, 12 Feb 2026 12:33:00 GMT",
-        "image_url": "https://www.bing.com/th?id=OVFT.oiAH9WDMdsAg_gVLS7Bzyi&pid=News&w=1600&h=900&c=14&rs=1"
-      }
-    },
-    {
-      "source": "NYP",
-      "entry": {
-        "id": "https://nypost.com/?post_type=article&p=38473138",
-        "title": "California ‘at a breaking point’ lawmaker cries, as gas prices surge again after more refinery closures",
-        "link": "https://nypost.com/2026/02/12/us-news/california-at-a-breaking-point-as-refineries-close-and-gas-prices-surge/",
-        "published": "Thu, 12 Feb 2026 16:06:55 -0500",
-        "image_url": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F02%2Fnewspress-collage-5ij21c8px-1770928737512.jpg?quality%3D90%26strip%3Dall%261770910755"
-      }
-    },
-    {
-      "source": "NYP",
-      "entry": {
-        "id": "https://nypost.com/?post_type=article&p=38442009",
-        "title": "Miami’s rental boom sees no signs of bust — even as hundreds of fresh units flood the city",
-        "link": "https://nypost.com/2026/02/12/lifestyle/why-miami-is-still-one-americas-hottest-rental-markets/",
-        "published": "Thu, 12 Feb 2026 15:49:14 -0500",
-        "image_url": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F02%2Fnewspress-collage-gmbi14e7m-1770928044188.jpg?quality%3D90%26strip%3Dall%261770910069"
-      }
-    },
-    {
-      "source": "AP NEWS",
-      "entry": {
-        "id": "https://apnews.com/video/trump-defends-last-weeks-racist-video-post-says-he-didnt-know-about-lutnicks-epstein-island-trip-d390b40111494ecd8f2a6f8eb82823f1",
-        "title": "Trump defends last week’s racist video post, says he didn’t know about Lutnick’s Epstein Island trip",
-        "link": "https://apnews.com/video/trump-defends-last-weeks-racist-video-post-says-he-didnt-know-about-lutnicks-epstein-island-trip-d390b40111494ecd8f2a6f8eb82823f1",
-        "published": "Thu, 12 Feb 2026 13:19:00 GMT",
-        "image_url": "https://www.bing.com/th?id=OVFT.2IxIxj-cUavKyi38WrdT9S&pid=News&w=1600&h=900&c=14&rs=1"
-      }
-    },
-    {
-      "source": "AP NEWS",
-      "entry": {
-        "id": "https://apnews.com/article/hewlett-packard-slater-antitrust-trump-mergers-vance-13eba9dcef56aac42ad7453f22baa475",
-        "title": "Top Trump antitrust official leaves post following disputes over big mergers",
-        "link": "https://apnews.com/article/hewlett-packard-slater-antitrust-trump-mergers-vance-13eba9dcef56aac42ad7453f22baa475",
-        "published": "Thu, 12 Feb 2026 12:39:00 GMT",
-        "image_url": "https://www.bing.com/th?id=OVFT.IccETF3VJsK2JfW1dPQhfi&pid=News&w=1600&h=900&c=14&rs=1"
-      }
-    },
-    {
-      "source": "Reuters",
-      "entry": {
-        "id": "https://www.reuters.com/legal/government/timeline-trumps-minnesota-immigration-crackdown-2026-02-12/",
-        "title": "A timeline of Trump's Minnesota immigration crackdown",
-        "link": "https://www.reuters.com/legal/government/timeline-trumps-minnesota-immigration-crackdown-2026-02-12/",
-        "published": "Thu, 12 Feb 2026 11:46:00 GMT",
-        "image_url": "https://www.bing.com/th?id=OVFT.-4s2LH6WA9udAAf391xZNi&pid=News&w=1600&h=900&c=14&rs=1"
-      }
-    },
-    {
-      "source": "AP NEWS",
-      "entry": {
-        "id": "https://apnews.com/article/homeland-security-funding-shutdown-democrats-trump-4e9c4cebd45396e77f8333fd6cc31944",
-        "title": "Homeland Security shutdown seems certain as funding talks between White House and Democrats stall",
-        "link": "https://apnews.com/article/homeland-security-funding-shutdown-democrats-trump-4e9c4cebd45396e77f8333fd6cc31944",
-        "published": "Thu, 12 Feb 2026 12:51:00 GMT",
-        "image_url": ""
-      }
-    },
-    {
-      "source": "NYP",
-      "entry": {
-        "id": "https://nypost.com/?post_type=article&p=38472759",
-        "title": "NYC’s only Ethiopian-Israeli restaurant closes after anti-Zionist harassment: ‘So much animosity’",
-        "link": "https://nypost.com/2026/02/12/us-news/nycs-only-ethiopian-israeli-restaurant-closes-after-anti-zionist-harassment-so-much-animosity/",
-        "published": "Thu, 12 Feb 2026 16:59:57 -0500",
-        "image_url": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F02%2Fnewspress-collage-uvh50861e-1770933469984.jpg?quality%3D90%26strip%3Dall%261770915560"
-      }
-    },
-    {
-      "source": "AP NEWS",
-      "entry": {
-        "id": "https://apnews.com/article/ice-congress-trump-minneapolis-alex-pretti-hearing-ada1986f0c4639e96a6f7bf06f2856c3",
-        "title": "Trump immigration officials shown video of Minneapolis protester’s death in tense Senate hearing",
-        "link": "https://apnews.com/article/ice-congress-trump-minneapolis-alex-pretti-hearing-ada1986f0c4639e96a6f7bf06f2856c3",
-        "published": "Thu, 12 Feb 2026 14:10:00 GMT",
-        "image_url": "https://www.bing.com/th?id=OVFT.jOEq8puwns0j7YLG7Ejnui&pid=News&w=1600&h=900&c=14&rs=1"
-      }
-    },
-    {
-      "source": "Reuters",
-      "entry": {
-        "id": "https://www.reuters.com/business/aerospace-defense/us-taiwan-finalize-deal-cut-tariffs-boost-purchases-us-goods-2026-02-12/",
-        "title": "US, Taiwan finalize deal to cut tariffs, boost purchases of US goods",
-        "link": "https://www.reuters.com/business/aerospace-defense/us-taiwan-finalize-deal-cut-tariffs-boost-purchases-us-goods-2026-02-12/",
-        "published": "Thu, 12 Feb 2026 13:07:00 GMT",
-        "image_url": "https://www.bing.com/th?id=OVFT.XQ9p2_PsYx32-8kjeAxfzy&pid=News&w=1600&h=900&c=14&rs=1"
-      }
-    }
-  ],
-  "last_digest_date": "2026-02-12",
+  "night_buffer": [],
+  "last_digest_date": "2026-02-13",
   "last_run": {
-    "utc": "2026-02-12T23:52:15Z",
-    "local": "2026-02-13T07:52:03+08:00",
+    "utc": "2026-02-13T01:02:23Z",
+    "local": "2026-02-13T09:00:56+08:00",
     "tz": "Asia/Shanghai",
-    "local_hour": 7,
-    "quiet": true,
+    "local_hour": 9,
+    "quiet": false,
     "sources_ok": 9,
     "sources_fail": 0,
-    "entries_total": 188,
-    "new": 10,
-    "pushed_ok": 0,
+    "entries_total": 186,
+    "new": 11,
+    "pushed_ok": 11,
     "pushed_fail": 0,
-    "skipped_seen": 52,
-    "skipped_major": 122,
-    "buffered_total": 40,
+    "skipped_seen": 35,
+    "skipped_major": 85,
+    "buffered_total": 0,
     "buffered_added": 0,
-    "seen_size": 340,
+    "seen_size": 348,
     "github": {
       "repo": "zixuouoscaroliver/Oscar-Oliver",
       "workflow": "Telegram News Bot",
-      "run_id": "21968894332",
-      "run_number": "103",
+      "run_id": "21970496657",
+      "run_number": "104",
       "sha": "4f3dfd71e3782371c09853800463db2dc0045ca8",
       "ref": "refs/heads/main",
-      "run_url": "https://github.com/zixuouoscaroliver/Oscar-Oliver/actions/runs/21968894332"
+      "run_url": "https://github.com/zixuouoscaroliver/Oscar-Oliver/actions/runs/21970496657"
     },
     "checkout": {
       "ref": "bot-stable",
