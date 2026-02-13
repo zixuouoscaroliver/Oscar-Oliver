@@ -1,14 +1,6 @@
 {
   "initialized": true,
   "seen": {
-    "https://nypost.com/?post_type=article&p=38445793": 1770742125,
-    "https://nypost.com/?post_type=article&p=38444852": 1770742125,
-    "https://nypost.com/?post_type=article&p=38444413": 1770742125,
-    "https://www.reuters.com/business/finance/eu-parliament-backs-digital-euro-aligns-with-council-online-offlineready-2026-02-10/": 1770742125,
-    "https://www.reuters.com/world/canadas-carney-says-issue-bridge-that-trump-threatened-will-be-settled-2026-02-10/": 1770742125,
-    "https://www.reuters.com/world/asia-pacific/leader-myanmar-armed-group-says-world-is-ignoring-juntas-deadly-airstrikes-2026-02-10/": 1770742125,
-    "https://www.scmp.com/news/world/europe/article/3343108/trumps-cheeky-dance-statue-liberty-headline-german-carnival?utm_source=rss_feed": 1770742125,
-    "https://www.scmp.com/economy/global-economy/article/3343084/indonesia-eyes-china-partnerships-build-industry-and-tech-better-eu-standard?utm_source=rss_feed": 1770742125,
     "https://nypost.com/?post_type=article&p=38445350": 1770745859,
     "https://nypost.com/?post_type=article&p=38445936": 1770745859,
     "https://apnews.com/article/trump-kevin-stitt-governors-meeting-washington-ee4e696534082638795e1804d71f4966": 1770745859,
@@ -343,7 +335,12 @@
     "https://nypost.com/?post_type=article&p=38480978": 1770998044,
     "https://www.reuters.com/business/us-consumer-prices-rise-less-than-expected-january-2026-02-13/": 1770998044,
     "https://nypost.com/?post_type=article&p=38480417": 1771000490,
-    "https://www.washingtonpost.com/national-security/2026/02/13/trump-iran-aircraft-carrier-gerald-ford/": 1771000490
+    "https://www.washingtonpost.com/national-security/2026/02/13/trump-iran-aircraft-carrier-gerald-ford/": 1771000490,
+    "https://nypost.com/?post_type=article&p=38481580": 1771003636,
+    "https://www.washingtonpost.com/sports/olympics/2026/02/12/vladyslav-heraskevych-ukrainian-helmet-olympics-skeleton/": 1771003636,
+    "https://apnews.com/article/epstein-israel-us-barak-politics-5709588906fb10cd51bb49f30a9825d2": 1771003636,
+    "https://www.reuters.com/legal/government/democrats-say-trumps-foreign-deportation-deals-cost-taxpayers-millions-2026-02-13/": 1771003636,
+    "https://www.scmp.com/news/world/united-states-canada/article/3343541/us-inflation-cools-more-expected-kindling-hopes-fed-rate-cut?utm_source=rss_feed": 1771003636
   },
   "night_buffer": [
     {
@@ -455,34 +452,84 @@
         "published": "Fri, 13 Feb 2026 16:27:56 +0000",
         "image_url": ""
       }
+    },
+    {
+      "source": "NYP",
+      "entry": {
+        "id": "https://nypost.com/?post_type=article&p=38481580",
+        "title": "Ukrainian brothers, including 8-year-old, killed in Russian attack on port, officials say",
+        "link": "https://nypost.com/2026/02/13/world-news/russian-port-attack-near-odesa-kills-3-brothers-including-8-year-old-ukrainian-officials-say/",
+        "published": "Fri, 13 Feb 2026 12:05:09 -0500",
+        "image_url": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F02%2Fodesa-russia-drone-attack-comp.jpg?quality%3D90%26strip%3Dall"
+      }
+    },
+    {
+      "source": "WaPo",
+      "entry": {
+        "id": "https://www.washingtonpost.com/sports/olympics/2026/02/12/vladyslav-heraskevych-ukrainian-helmet-olympics-skeleton/",
+        "title": "Ukrainian athlete appeals ban from Olympic skeleton event over helmet images",
+        "link": "https://www.washingtonpost.com/sports/olympics/2026/02/12/vladyslav-heraskevych-ukrainian-helmet-olympics-skeleton/",
+        "published": "Thu, 12 Feb 2026 19:02:46 +0000",
+        "image_url": ""
+      }
+    },
+    {
+      "source": "AP NEWS",
+      "entry": {
+        "id": "https://apnews.com/article/epstein-israel-us-barak-politics-5709588906fb10cd51bb49f30a9825d2",
+        "title": "Israel’s Barak says he regrets knowing Epstein after documents detail their long friendship",
+        "link": "https://apnews.com/article/epstein-israel-us-barak-politics-5709588906fb10cd51bb49f30a9825d2",
+        "published": "Fri, 13 Feb 2026 08:32:00 GMT",
+        "image_url": ""
+      }
+    },
+    {
+      "source": "Reuters",
+      "entry": {
+        "id": "https://www.reuters.com/legal/government/democrats-say-trumps-foreign-deportation-deals-cost-taxpayers-millions-2026-02-13/",
+        "title": "Democrats say Trump's foreign deportation deals cost taxpayers millions",
+        "link": "https://www.reuters.com/legal/government/democrats-say-trumps-foreign-deportation-deals-cost-taxpayers-millions-2026-02-13/",
+        "published": "Fri, 13 Feb 2026 07:51:00 GMT",
+        "image_url": ""
+      }
+    },
+    {
+      "source": "SCMP",
+      "entry": {
+        "id": "https://www.scmp.com/news/world/united-states-canada/article/3343541/us-inflation-cools-more-expected-kindling-hopes-fed-rate-cut?utm_source=rss_feed",
+        "title": "US inflation cools more than expected, kindling hopes of Fed rate cut",
+        "link": "https://www.scmp.com/news/world/united-states-canada/article/3343541/us-inflation-cools-more-expected-kindling-hopes-fed-rate-cut?utm_source=rss_feed",
+        "published": "Fri, 13 Feb 2026 16:57:55 +0000",
+        "image_url": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/02/14/b2d04cba-7db1-4878-aca9-9a2c991ffa3c_54a948f4.jpg?itok=8D41iL3S&v=1771001872"
+      }
     }
   ],
   "last_digest_date": "2026-02-13",
   "last_run": {
-    "utc": "2026-02-13T16:35:04Z",
-    "local": "2026-02-14T00:34:50+08:00",
+    "utc": "2026-02-13T17:27:28Z",
+    "local": "2026-02-14T01:27:16+08:00",
     "tz": "Asia/Shanghai",
-    "local_hour": 0,
+    "local_hour": 1,
     "quiet": true,
     "sources_ok": 9,
     "sources_fail": 0,
-    "entries_total": 186,
-    "new": 2,
+    "entries_total": 194,
+    "new": 5,
     "pushed_ok": 0,
     "pushed_fail": 0,
-    "skipped_seen": 47,
-    "skipped_major": 137,
-    "buffered_total": 11,
-    "buffered_added": 2,
-    "seen_size": 343,
+    "skipped_seen": 46,
+    "skipped_major": 143,
+    "buffered_total": 16,
+    "buffered_added": 5,
+    "seen_size": 340,
     "github": {
       "repo": "zixuouoscaroliver/Oscar-Oliver",
       "workflow": "Telegram News Bot",
-      "run_id": "21994615717",
-      "run_number": "120",
+      "run_id": "21996263694",
+      "run_number": "121",
       "sha": "4f3dfd71e3782371c09853800463db2dc0045ca8",
       "ref": "refs/heads/main",
-      "run_url": "https://github.com/zixuouoscaroliver/Oscar-Oliver/actions/runs/21994615717"
+      "run_url": "https://github.com/zixuouoscaroliver/Oscar-Oliver/actions/runs/21996263694"
     },
     "checkout": {
       "ref": "bot-stable",
