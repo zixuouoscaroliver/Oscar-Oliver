@@ -741,8 +741,8 @@
   ],
   "last_digest_date": "2026-02-13",
   "last_run": {
-    "utc": "2026-02-13T22:19:33Z",
-    "local": "2026-02-14T06:19:20+08:00",
+    "utc": "2026-02-13T22:56:49Z",
+    "local": "2026-02-14T06:56:35+08:00",
     "tz": "Asia/Shanghai",
     "local_hour": 6,
     "quiet": true,
@@ -753,18 +753,18 @@
     "pushed_ok": 0,
     "pushed_fail": 0,
     "skipped_seen": 46,
-    "skipped_major": 135,
+    "skipped_major": 138,
     "buffered_total": 40,
-    "buffered_added": 1,
+    "buffered_added": 0,
     "seen_size": 335,
     "github": {
       "repo": "zixuouoscaroliver/Oscar-Oliver",
       "workflow": "Telegram News Bot",
-      "run_id": "22004804279",
-      "run_number": "128",
+      "run_id": "22005679961",
+      "run_number": "129",
       "sha": "4f3dfd71e3782371c09853800463db2dc0045ca8",
       "ref": "refs/heads/main",
-      "run_url": "https://github.com/zixuouoscaroliver/Oscar-Oliver/actions/runs/22004804279"
+      "run_url": "https://github.com/zixuouoscaroliver/Oscar-Oliver/actions/runs/22005679961"
     },
     "checkout": {
       "ref": "bot-stable",
