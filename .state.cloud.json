@@ -1,7 +1,6 @@
 {
   "initialized": true,
   "seen": {
-    "https://nypost.com/?post_type=article&p=38442748": 1770710275,
     "https://nypost.com/?post_type=article&p=38442222": 1770714409,
     "0000019c-34aa-d0f8-adde-fefa08600000": 1770714409,
     "0000019c-2e7a-d0f8-adde-fe7a2d150000": 1770714409,
@@ -357,35 +356,38 @@
     "https://www.reuters.com/world/us/new-yorkers-return-pride-flag-stonewall-after-trump-administration-removed-it-2026-02-13/": 1770963214,
     "https://www.scmp.com/news/china/article/3343385/wipo-chief-wins-re-election-un-faces-financial-turmoil?utm_source=rss_feed": 1770963214,
     "https://nypost.com/?post_type=article&p=38479146": 1770966928,
-    "https://www.reuters.com/world/us/shooting-south-carolina-state-university-leaves-two-dead-one-wounded-2026-02-13/": 1770966928
+    "https://www.reuters.com/world/us/shooting-south-carolina-state-university-leaves-two-dead-one-wounded-2026-02-13/": 1770966928,
+    "https://nypost.com/?post_type=article&p=38479238": 1770969524,
+    "https://apnews.com/video/thailand-uses-birth-control-vaccine-to-curb-elephant-population-near-expanding-farms-ce9b70a9044841c1ab1592b3402cea84": 1770969524,
+    "https://www.reuters.com/business/healthcare-pharmaceuticals/sanofis-new-ceo-needs-fix-drug-pipeline-navigate-trump-2026-02-13/": 1770969524
   },
   "night_buffer": [],
   "last_digest_date": "2026-02-13",
   "last_run": {
-    "utc": "2026-02-13T07:15:45Z",
-    "local": "2026-02-13T15:15:28+08:00",
+    "utc": "2026-02-13T07:59:02Z",
+    "local": "2026-02-13T15:58:44+08:00",
     "tz": "Asia/Shanghai",
     "local_hour": 15,
     "quiet": false,
     "sources_ok": 9,
     "sources_fail": 0,
     "entries_total": 185,
-    "new": 2,
-    "pushed_ok": 2,
+    "new": 3,
+    "pushed_ok": 3,
     "pushed_fail": 0,
-    "skipped_seen": 52,
-    "skipped_major": 131,
+    "skipped_seen": 55,
+    "skipped_major": 127,
     "buffered_total": 0,
     "buffered_added": 0,
-    "seen_size": 357,
+    "seen_size": 359,
     "github": {
       "repo": "zixuouoscaroliver/Oscar-Oliver",
       "workflow": "Telegram News Bot",
-      "run_id": "21978154125",
-      "run_number": "108",
+      "run_id": "21979182665",
+      "run_number": "109",
       "sha": "4f3dfd71e3782371c09853800463db2dc0045ca8",
       "ref": "refs/heads/main",
-      "run_url": "https://github.com/zixuouoscaroliver/Oscar-Oliver/actions/runs/21978154125"
+      "run_url": "https://github.com/zixuouoscaroliver/Oscar-Oliver/actions/runs/21979182665"
     },
     "checkout": {
       "ref": "bot-stable",
