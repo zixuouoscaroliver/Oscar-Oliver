@@ -1,11 +1,6 @@
 {
   "initialized": true,
   "seen": {
-    "0000019c-48cf-d3b5-addf-e8cf66990000": 1770752971,
-    "https://www.economist.com/finance-and-economics/2026/02/10/who-wrangled-the-best-trade-deal-from-donald-trump": 1770752971,
-    "https://www.reuters.com/sustainability/cop/white-house-says-trump-plans-formalize-regulatory-rollback-greenhouse-gases-2026-02-10/": 1770752971,
-    "https://www.reuters.com/world/us/governors-skip-trump-meeting-after-white-house-invited-only-republicans-source-2026-02-10/": 1770752971,
-    "https://www.scmp.com/news/world/united-states-canada/article/3343115/yaoning-sun-gets-4-years-prison-acting-beijings-agent-california-election?utm_source=rss_feed": 1770752971,
     "https://nypost.com/?post_type=article&p=38448416": 1770755495,
     "https://apnews.com/video/white-house-quizzed-on-epstein-fallout-from-potential-maxwell-pardon-to-backing-secretary-lutnick-cd526ce80c5b4f35a485656cfba3696d": 1770755495,
     "https://www.reuters.com/world/us/republican-us-senator-susan-collins-announces-bid-re-election-2026-02-10/": 1770755495,
@@ -340,7 +335,11 @@
     "https://nypost.com/?post_type=article&p=38483453": 1771009579,
     "https://nypost.com/?post_type=article&p=38483673": 1771009579,
     "https://apnews.com/article/trump-nfl-indultos-7753c15a10a573c870d40358400fbd91": 1771009579,
-    "https://www.reuters.com/sports/soccer/barcelona-re-admitted-european-football-clubs-body-after-super-league-withdrawal-2026-02-13/": 1771009579
+    "https://www.reuters.com/sports/soccer/barcelona-re-admitted-european-football-clubs-body-after-super-league-withdrawal-2026-02-13/": 1771009579,
+    "https://www.reuters.com/world/three-skiers-killed-avalanche-frances-val-disere-resort-2026-02-13/": 1771012213,
+    "https://www.reuters.com/world/middle-east/trump-administration-ends-temporary-protected-status-yemen-2026-02-13/": 1771012213,
+    "https://www.reuters.com/sustainability/climate-energy/what-drove-fall-eu-carbon-prices-why-does-it-matter-2026-02-13/": 1771012213,
+    "https://www.scmp.com/news/world/united-states-canada/article/3343544/trump-administration-sues-harvard-accusing-it-defying-investigation?utm_source=rss_feed": 1771012213
   },
   "night_buffer": [
     {
@@ -572,34 +571,74 @@
         "published": "Fri, 13 Feb 2026 08:01:00 GMT",
         "image_url": ""
       }
+    },
+    {
+      "source": "Reuters",
+      "entry": {
+        "id": "https://www.reuters.com/world/three-skiers-killed-avalanche-frances-val-disere-resort-2026-02-13/",
+        "title": "Three skiers killed in avalanche in France's Val d'Isere resort",
+        "link": "https://www.reuters.com/world/three-skiers-killed-avalanche-frances-val-disere-resort-2026-02-13/",
+        "published": "Fri, 13 Feb 2026 07:32:00 GMT",
+        "image_url": "https://www.bing.com/th?id=OVFT.d5qhZr6A68WHaHNpHYWO1C&pid=News&w=1600&h=900&c=14&rs=1"
+      }
+    },
+    {
+      "source": "Reuters",
+      "entry": {
+        "id": "https://www.reuters.com/world/middle-east/trump-administration-ends-temporary-protected-status-yemen-2026-02-13/",
+        "title": "Trump administration ends temporary protected status for Yemen",
+        "link": "https://www.reuters.com/world/middle-east/trump-administration-ends-temporary-protected-status-yemen-2026-02-13/",
+        "published": "Fri, 13 Feb 2026 07:13:00 GMT",
+        "image_url": "https://www.bing.com/th?id=OVFT.-J-SCqaOod-AJA5ilWDB_C&pid=News&w=1600&h=900&c=14&rs=1"
+      }
+    },
+    {
+      "source": "Reuters",
+      "entry": {
+        "id": "https://www.reuters.com/sustainability/climate-energy/what-drove-fall-eu-carbon-prices-why-does-it-matter-2026-02-13/",
+        "title": "Explainer: What drove the fall in EU carbon prices and why does it matter?",
+        "link": "https://www.reuters.com/sustainability/climate-energy/what-drove-fall-eu-carbon-prices-why-does-it-matter-2026-02-13/",
+        "published": "Fri, 13 Feb 2026 06:51:00 GMT",
+        "image_url": "https://www.bing.com/th?id=OVFT.c4TfIP901PUSxkgOKJTnXy&pid=News&w=1600&h=900&c=14&rs=1"
+      }
+    },
+    {
+      "source": "SCMP",
+      "entry": {
+        "id": "https://www.scmp.com/news/world/united-states-canada/article/3343544/trump-administration-sues-harvard-accusing-it-defying-investigation?utm_source=rss_feed",
+        "title": "Trump administration sues Harvard, accusing it of defying investigation",
+        "link": "https://www.scmp.com/news/world/united-states-canada/article/3343544/trump-administration-sues-harvard-accusing-it-defying-investigation?utm_source=rss_feed",
+        "published": "Fri, 13 Feb 2026 18:20:32 +0000",
+        "image_url": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/02/14/0ad7f4b7-3c5b-481b-b831-d26ba451c171_cee0f86b.jpg?itok=eghCVYCE&v=1771006827"
+      }
     }
   ],
   "last_digest_date": "2026-02-13",
   "last_run": {
-    "utc": "2026-02-13T19:06:52Z",
-    "local": "2026-02-14T03:06:19+08:00",
+    "utc": "2026-02-13T19:50:24Z",
+    "local": "2026-02-14T03:50:13+08:00",
     "tz": "Asia/Shanghai",
     "local_hour": 3,
     "quiet": true,
-    "sources_ok": 8,
-    "sources_fail": 1,
-    "entries_total": 144,
-    "new": 5,
+    "sources_ok": 9,
+    "sources_fail": 0,
+    "entries_total": 192,
+    "new": 4,
     "pushed_ok": 0,
     "pushed_fail": 0,
-    "skipped_seen": 34,
-    "skipped_major": 92,
-    "buffered_total": 23,
-    "buffered_added": 5,
-    "seen_size": 340,
+    "skipped_seen": 43,
+    "skipped_major": 145,
+    "buffered_total": 27,
+    "buffered_added": 4,
+    "seen_size": 339,
     "github": {
       "repo": "zixuouoscaroliver/Oscar-Oliver",
       "workflow": "Telegram News Bot",
-      "run_id": "21999311553",
-      "run_number": "123",
+      "run_id": "22000609899",
+      "run_number": "124",
       "sha": "4f3dfd71e3782371c09853800463db2dc0045ca8",
       "ref": "refs/heads/main",
-      "run_url": "https://github.com/zixuouoscaroliver/Oscar-Oliver/actions/runs/21999311553"
+      "run_url": "https://github.com/zixuouoscaroliver/Oscar-Oliver/actions/runs/22000609899"
     },
     "checkout": {
       "ref": "bot-stable",
