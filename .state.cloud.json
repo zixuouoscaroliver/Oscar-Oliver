@@ -339,7 +339,8 @@
     "https://www.reuters.com/world/three-skiers-killed-avalanche-frances-val-disere-resort-2026-02-13/": 1771012213,
     "https://www.reuters.com/world/middle-east/trump-administration-ends-temporary-protected-status-yemen-2026-02-13/": 1771012213,
     "https://www.reuters.com/sustainability/climate-energy/what-drove-fall-eu-carbon-prices-why-does-it-matter-2026-02-13/": 1771012213,
-    "https://www.scmp.com/news/world/united-states-canada/article/3343544/trump-administration-sues-harvard-accusing-it-defying-investigation?utm_source=rss_feed": 1771012213
+    "https://www.scmp.com/news/world/united-states-canada/article/3343544/trump-administration-sues-harvard-accusing-it-defying-investigation?utm_source=rss_feed": 1771012213,
+    "https://nypost.com/?post_type=article&p=38484706": 1771014126
   },
   "night_buffer": [
     {
@@ -611,34 +612,44 @@
         "published": "Fri, 13 Feb 2026 18:20:32 +0000",
         "image_url": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/02/14/0ad7f4b7-3c5b-481b-b831-d26ba451c171_cee0f86b.jpg?itok=eghCVYCE&v=1771006827"
       }
+    },
+    {
+      "source": "NYP",
+      "entry": {
+        "id": "https://nypost.com/?post_type=article&p=38484706",
+        "title": "Gavin Newsom blasted for bailing on California to mingle with European elites: ‘Better off with him gone’",
+        "link": "https://nypost.com/2026/02/13/us-news/gavin-newsom-blasted-for-bailing-on-california-with-eurotrip/",
+        "published": "Fri, 13 Feb 2026 15:18:27 -0500",
+        "image_url": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F02%2Fcrop-38485160.jpg?quality%3D90%26strip%3Dall"
+      }
     }
   ],
   "last_digest_date": "2026-02-13",
   "last_run": {
-    "utc": "2026-02-13T19:50:24Z",
-    "local": "2026-02-14T03:50:13+08:00",
+    "utc": "2026-02-13T20:22:17Z",
+    "local": "2026-02-14T04:22:06+08:00",
     "tz": "Asia/Shanghai",
-    "local_hour": 3,
+    "local_hour": 4,
     "quiet": true,
     "sources_ok": 9,
     "sources_fail": 0,
     "entries_total": 192,
-    "new": 4,
+    "new": 1,
     "pushed_ok": 0,
     "pushed_fail": 0,
-    "skipped_seen": 43,
-    "skipped_major": 145,
-    "buffered_total": 27,
-    "buffered_added": 4,
-    "seen_size": 339,
+    "skipped_seen": 47,
+    "skipped_major": 144,
+    "buffered_total": 28,
+    "buffered_added": 1,
+    "seen_size": 340,
     "github": {
       "repo": "zixuouoscaroliver/Oscar-Oliver",
       "workflow": "Telegram News Bot",
-      "run_id": "22000609899",
-      "run_number": "124",
+      "run_id": "22001549490",
+      "run_number": "125",
       "sha": "4f3dfd71e3782371c09853800463db2dc0045ca8",
       "ref": "refs/heads/main",
-      "run_url": "https://github.com/zixuouoscaroliver/Oscar-Oliver/actions/runs/22000609899"
+      "run_url": "https://github.com/zixuouoscaroliver/Oscar-Oliver/actions/runs/22001549490"
     },
     "checkout": {
       "ref": "bot-stable",
