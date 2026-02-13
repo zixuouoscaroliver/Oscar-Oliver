@@ -1,12 +1,6 @@
 {
   "initialized": true,
   "seen": {
-    "https://www.washingtonpost.com/national-security/2026/02/10/trump-iran-aircraft-carrier-netanyahu-gaza/": 1770761099,
-    "0000019c-497d-d647-addc-ebff108a0000": 1770761099,
-    "https://apnews.com/article/stonewall-monument-rainbow-flag-removed-e58b12c1c9482e4b2cf02fef55e0f775": 1770761099,
-    "https://www.reuters.com/business/energy/australias-agl-energy-narrows-full-year-earnings-outlook-first-half-profit-falls-2026-02-10/": 1770761099,
-    "https://www.reuters.com/sports/us-olympians-rally-around-skier-after-trump-jab-fuels-free-speech-row-2026-02-10/": 1770761099,
-    "https://www.reuters.com/business/autos-transportation/fords-quarterly-earnings-miss-forecasts-ceo-sees-stronger-year-2026-2026-02-10/": 1770761099,
     "https://nypost.com/?post_type=article&p=38450937": 1770776934,
     "https://apnews.com/article/trump-administration-democratic-states-hold-money-0c9b56239c448cbc474b9e21ce1f3a9c": 1770776934,
     "https://apnews.com/article/ice-immigration-border-patrol-trump-congress-1c915cb9efa00c7308838cfabc284682": 1770776934,
@@ -340,7 +334,8 @@
     "https://apnews.com/article/us-steel-plant-clairton-explosion-osha-b6189f8d4df576f81cadf37b89154d39": 1771019241,
     "https://www.reuters.com/legal/litigation/democrats-take-aim-trump-shelving-china-tech-measures-2026-02-13/": 1771019241,
     "https://www.reuters.com/world/americas/trump-tells-troops-fear-is-powerful-motivator-difficult-iran-talks-2026-02-13/": 1771019241,
-    "https://www.reuters.com/world/us-judge-orders-trump-administration-facilitate-deported-college-students-return-2026-02-13/": 1771019241
+    "https://www.reuters.com/world/us-judge-orders-trump-administration-facilitate-deported-college-students-return-2026-02-13/": 1771019241,
+    "https://nypost.com/?post_type=article&p=38484398": 1771021160
   },
   "night_buffer": [
     {
@@ -732,34 +727,44 @@
         "published": "Fri, 13 Feb 2026 09:36:00 GMT",
         "image_url": ""
       }
+    },
+    {
+      "source": "NYP",
+      "entry": {
+        "id": "https://nypost.com/?post_type=article&p=38484398",
+        "title": "Gavin Newsom calls Trump’s climate deregulation ‘death sentence’ for US automakers",
+        "link": "https://nypost.com/2026/02/13/us-news/newsom-calls-climate-rollback-death-sentence-for-carmakers/",
+        "published": "Fri, 13 Feb 2026 17:07:58 -0500",
+        "image_url": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F02%2F121201994.jpg?quality%3D90%26strip%3Dall"
+      }
     }
   ],
   "last_digest_date": "2026-02-13",
   "last_run": {
-    "utc": "2026-02-13T21:47:35Z",
-    "local": "2026-02-14T05:47:21+08:00",
+    "utc": "2026-02-13T22:19:33Z",
+    "local": "2026-02-14T06:19:20+08:00",
     "tz": "Asia/Shanghai",
-    "local_hour": 5,
+    "local_hour": 6,
     "quiet": true,
     "sources_ok": 9,
     "sources_fail": 0,
     "entries_total": 190,
-    "new": 7,
+    "new": 6,
     "pushed_ok": 0,
     "pushed_fail": 0,
     "skipped_seen": 46,
-    "skipped_major": 118,
-    "buffered_total": 39,
-    "buffered_added": 7,
-    "seen_size": 340,
+    "skipped_major": 135,
+    "buffered_total": 40,
+    "buffered_added": 1,
+    "seen_size": 335,
     "github": {
       "repo": "zixuouoscaroliver/Oscar-Oliver",
       "workflow": "Telegram News Bot",
-      "run_id": "22003963057",
-      "run_number": "127",
+      "run_id": "22004804279",
+      "run_number": "128",
       "sha": "4f3dfd71e3782371c09853800463db2dc0045ca8",
       "ref": "refs/heads/main",
-      "run_url": "https://github.com/zixuouoscaroliver/Oscar-Oliver/actions/runs/22003963057"
+      "run_url": "https://github.com/zixuouoscaroliver/Oscar-Oliver/actions/runs/22004804279"
     },
     "checkout": {
       "ref": "bot-stable",
