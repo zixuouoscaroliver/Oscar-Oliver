@@ -1,9 +1,6 @@
 {
   "initialized": true,
   "seen": {
-    "https://www.scmp.com/week-asia/economics/article/3343107/envoy-urges-shared-prosperity-china-asean-ties-amid-growing-protectionism?utm_source=rss_feed": 1770738603,
-    "https://www.scmp.com/tech/article/3343091/indonesia-telco-chief-warns-digital-colonisation-backs-chinas-open-source-ai?utm_source=rss_feed": 1770738603,
-    "https://www.scmp.com/economy/global-economy/article/3343090/indonesia-turns-digital-finance-reach-unbanked-population?utm_source=rss_feed": 1770738603,
     "https://nypost.com/?post_type=article&p=38445793": 1770742125,
     "https://nypost.com/?post_type=article&p=38444852": 1770742125,
     "https://nypost.com/?post_type=article&p=38444413": 1770742125,
@@ -340,7 +337,11 @@
     "https://nypost.com/?post_type=article&p=38480157": 1770994888,
     "0000019c-53df-d3b5-addf-f3df3c310000": 1770994888,
     "https://apnews.com/article/inflation-trump-economy-prices-d489cfa4b48e32232f136830333d1db0": 1770994888,
-    "https://apnews.com/article/school-immigration-enforcement-teacher-lawsuit-d8bbe16b0782a4532e312e7c81e2be65": 1770994888
+    "https://apnews.com/article/school-immigration-enforcement-teacher-lawsuit-d8bbe16b0782a4532e312e7c81e2be65": 1770994888,
+    "https://nypost.com/?post_type=article&p=38480909": 1770998044,
+    "https://nypost.com/?post_type=article&p=38481089": 1770998044,
+    "https://nypost.com/?post_type=article&p=38480978": 1770998044,
+    "https://www.reuters.com/business/us-consumer-prices-rise-less-than-expected-january-2026-02-13/": 1770998044
   },
   "night_buffer": [
     {
@@ -392,34 +393,74 @@
         "published": "Fri, 13 Feb 2026 06:56:00 GMT",
         "image_url": "https://www.bing.com/th?id=OVFT.JMP4tECb5Z5EwCmSvP0WVS&pid=News&w=1600&h=900&c=14&rs=1"
       }
+    },
+    {
+      "source": "NYP",
+      "entry": {
+        "id": "https://nypost.com/?post_type=article&p=38480909",
+        "title": "Marine who fell overboard USS Iwo Jima declared dead after ‘nonstop’ 3-day search",
+        "link": "https://nypost.com/2026/02/13/us-news/marine-who-fell-overboard-uss-iwo-jima-declared-dead-after-nonstop-3-day-search/",
+        "published": "Fri, 13 Feb 2026 10:49:35 -0500",
+        "image_url": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F02%2Fcrop-38481564.jpg?quality%3D90%26strip%3Dall"
+      }
+    },
+    {
+      "source": "NYP",
+      "entry": {
+        "id": "https://nypost.com/?post_type=article&p=38481089",
+        "title": "Stefon Diggs pleads not guilty in alleged chef attack a day after switching lawyers",
+        "link": "https://nypost.com/2026/02/13/sports/patriots-stefon-diggs-pleads-not-guilty-in-alleged-chef-attack/",
+        "published": "Fri, 13 Feb 2026 10:41:52 -0500",
+        "image_url": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F02%2Fnewspress-collage-my59ulxs1-1770994747977.jpg?quality%3D90%26strip%3Dall%261770976833"
+      }
+    },
+    {
+      "source": "NYP",
+      "entry": {
+        "id": "https://nypost.com/?post_type=article&p=38480978",
+        "title": "Gavin Newsom preens for the cameras during second European sojourn in less than a month",
+        "link": "https://nypost.com/2026/02/13/us-news/gavin-newsom-arrives-in-germany-ahead-of-munich-security-conference/",
+        "published": "Fri, 13 Feb 2026 10:26:18 -0500",
+        "image_url": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F02%2F121176595.jpg?quality%3D90%26strip%3Dall"
+      }
+    },
+    {
+      "source": "Reuters",
+      "entry": {
+        "id": "https://www.reuters.com/business/us-consumer-prices-rise-less-than-expected-january-2026-02-13/",
+        "title": "Lower gasoline prices restrain US consumer inflation in January",
+        "link": "https://www.reuters.com/business/us-consumer-prices-rise-less-than-expected-january-2026-02-13/",
+        "published": "Fri, 13 Feb 2026 04:38:00 GMT",
+        "image_url": "https://www.bing.com/th?id=OVFT.SGxsjWLhYgmzPX62BKv2by&pid=News&w=1600&h=900&c=14&rs=1"
+      }
     }
   ],
   "last_digest_date": "2026-02-13",
   "last_run": {
-    "utc": "2026-02-13T15:01:40Z",
-    "local": "2026-02-13T23:01:28+08:00",
+    "utc": "2026-02-13T15:54:17Z",
+    "local": "2026-02-13T23:54:04+08:00",
     "tz": "Asia/Shanghai",
     "local_hour": 23,
     "quiet": true,
     "sources_ok": 9,
     "sources_fail": 0,
-    "entries_total": 187,
-    "new": 5,
+    "entries_total": 186,
+    "new": 4,
     "pushed_ok": 0,
     "pushed_fail": 0,
-    "skipped_seen": 45,
-    "skipped_major": 137,
-    "buffered_total": 5,
-    "buffered_added": 5,
-    "seen_size": 340,
+    "skipped_seen": 48,
+    "skipped_major": 127,
+    "buffered_total": 9,
+    "buffered_added": 4,
+    "seen_size": 341,
     "github": {
       "repo": "zixuouoscaroliver/Oscar-Oliver",
       "workflow": "Telegram News Bot",
-      "run_id": "21991539791",
-      "run_number": "118",
+      "run_id": "21993289901",
+      "run_number": "119",
       "sha": "4f3dfd71e3782371c09853800463db2dc0045ca8",
       "ref": "refs/heads/main",
-      "run_url": "https://github.com/zixuouoscaroliver/Oscar-Oliver/actions/runs/21991539791"
+      "run_url": "https://github.com/zixuouoscaroliver/Oscar-Oliver/actions/runs/21993289901"
     },
     "checkout": {
       "ref": "bot-stable",
