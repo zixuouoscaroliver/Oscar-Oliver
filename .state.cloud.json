@@ -1,12 +1,6 @@
 {
   "initialized": true,
   "seen": {
-    "https://nypost.com/?post_type=article&p=38449242": 1770758673,
-    "https://pagesix.com/?post_type=article&p=8742520": 1770758673,
-    "https://pagesix.com/2026/02/10/entertainment/how-jutta-leerdam-celebrated-her-olympic-gold-medal-with-jake-paul/": 1770758673,
-    "https://www.reuters.com/world/us/trump-told-police-chief-everyone-knew-about-epstein-fbi-document-says-2026-02-10/": 1770758673,
-    "https://www.reuters.com/business/finance/commonwealth-bank-australia-reports-6-rise-first-half-cash-earnings-2026-02-10/": 1770758673,
-    "https://www.scmp.com/news/world/middle-east/article/3343117/trump-hints-sending-second-aircraft-carrier-us-and-iran-plan-next-talks?utm_source=rss_feed": 1770758673,
     "https://www.washingtonpost.com/national-security/2026/02/10/trump-iran-aircraft-carrier-netanyahu-gaza/": 1770761099,
     "0000019c-497d-d647-addc-ebff108a0000": 1770761099,
     "https://apnews.com/article/stonewall-monument-rainbow-flag-removed-e58b12c1c9482e4b2cf02fef55e0f775": 1770761099,
@@ -339,7 +333,14 @@
     "https://nypost.com/?post_type=article&p=38483711": 1771016426,
     "https://www.reuters.com/business/finance/us-fed-tap-former-wall-street-lawyer-guynn-top-bank-oversight-role-say-sources-2026-02-13/": 1771016426,
     "https://www.scmp.com/news/china/article/3343547/farewell-unipolar-moment-europe-scrambles-footing-between-us-and-china?utm_source=rss_feed": 1771016426,
-    "https://www.scmp.com/news/world/united-states-canada/article/3343546/trump-hails-us-discombobulator-weapon-he-meets-maduro-op-troops?utm_source=rss_feed": 1771016426
+    "https://www.scmp.com/news/world/united-states-canada/article/3343546/trump-hails-us-discombobulator-weapon-he-meets-maduro-op-troops?utm_source=rss_feed": 1771016426,
+    "https://nypost.com/?p=38486237&post_type=article&preview_id=38486237": 1771019241,
+    "https://nypost.com/?post_type=article&p=38484663": 1771019241,
+    "https://nypost.com/?post_type=article&p=38483936": 1771019241,
+    "https://apnews.com/article/us-steel-plant-clairton-explosion-osha-b6189f8d4df576f81cadf37b89154d39": 1771019241,
+    "https://www.reuters.com/legal/litigation/democrats-take-aim-trump-shelving-china-tech-measures-2026-02-13/": 1771019241,
+    "https://www.reuters.com/world/americas/trump-tells-troops-fear-is-powerful-motivator-difficult-iran-talks-2026-02-13/": 1771019241,
+    "https://www.reuters.com/world/us-judge-orders-trump-administration-facilitate-deported-college-students-return-2026-02-13/": 1771019241
   },
   "night_buffer": [
     {
@@ -661,34 +662,104 @@
         "published": "Fri, 13 Feb 2026 20:57:22 +0000",
         "image_url": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/02/14/7ef26ac4-395a-4d5c-9000-d2047f425f63_9e7c2257.jpg?itok=BccQL6JK&v=1771016234"
       }
+    },
+    {
+      "source": "NYP",
+      "entry": {
+        "id": "https://nypost.com/?p=38486237&post_type=article&preview_id=38486237",
+        "title": "Trump says regime change in Iran would be the ‘best thing that could happen’",
+        "link": "https://nypost.com/2026/02/13/us-news/trump-regime-change-in-iran-would-be-the-best-thing-that-could-happen/",
+        "published": "Fri, 13 Feb 2026 16:46:07 -0500",
+        "image_url": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F02%2Ftrump-wants-iran-regime-change.jpg?quality%3D90%26strip%3Dall%261771001104"
+      }
+    },
+    {
+      "source": "NYP",
+      "entry": {
+        "id": "https://nypost.com/?post_type=article&p=38484663",
+        "title": "Ted Lieu makes wild claim about Trump and Epstein — but doesn’t disclose unhinged source",
+        "link": "https://nypost.com/2026/02/13/us-news/lieu-makes-wild-claim-about-trump-based-on-unhinged-source/",
+        "published": "Fri, 13 Feb 2026 16:44:46 -0500",
+        "image_url": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F02%2F121218089.jpg?quality%3D90%26strip%3Dall"
+      }
+    },
+    {
+      "source": "NYP",
+      "entry": {
+        "id": "https://nypost.com/?post_type=article&p=38483936",
+        "title": "Rep. Nicole Malliotakis begs Supreme Court to stop Dems from scrapping NYC’s sole GOP House seat",
+        "link": "https://nypost.com/2026/02/13/us-news/malliotakis-begs-scotus-to-stop-dems-from-scrapping-nycs-sole-gop-house-seat/",
+        "published": "Fri, 13 Feb 2026 16:44:19 -0500",
+        "image_url": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F02%2Fnewspress-collage-jsk25tdsz-1771009308397.jpg?quality%3D90%26strip%3Dall%261770991340"
+      }
+    },
+    {
+      "source": "AP NEWS",
+      "entry": {
+        "id": "https://apnews.com/article/us-steel-plant-clairton-explosion-osha-b6189f8d4df576f81cadf37b89154d39",
+        "title": "Federal agency flags safety shortcomings that ‘exposed’ workers to explosion at US Steel plant",
+        "link": "https://apnews.com/article/us-steel-plant-clairton-explosion-osha-b6189f8d4df576f81cadf37b89154d39",
+        "published": "Fri, 13 Feb 2026 13:15:00 GMT",
+        "image_url": "https://www.bing.com/th?id=OVFT.VS1v3qw9RT3BbiiUkR8n9i&pid=News&w=1600&h=900&c=14&rs=1"
+      }
+    },
+    {
+      "source": "Reuters",
+      "entry": {
+        "id": "https://www.reuters.com/legal/litigation/democrats-take-aim-trump-shelving-china-tech-measures-2026-02-13/",
+        "title": "Democrats take aim at Trump for shelving China tech measures",
+        "link": "https://www.reuters.com/legal/litigation/democrats-take-aim-trump-shelving-china-tech-measures-2026-02-13/",
+        "published": "Fri, 13 Feb 2026 12:19:00 GMT",
+        "image_url": ""
+      }
+    },
+    {
+      "source": "Reuters",
+      "entry": {
+        "id": "https://www.reuters.com/world/americas/trump-tells-troops-fear-is-powerful-motivator-difficult-iran-talks-2026-02-13/",
+        "title": "Trump tells troops 'fear' is powerful motivator in difficult Iran talks",
+        "link": "https://www.reuters.com/world/americas/trump-tells-troops-fear-is-powerful-motivator-difficult-iran-talks-2026-02-13/",
+        "published": "Fri, 13 Feb 2026 10:53:00 GMT",
+        "image_url": ""
+      }
+    },
+    {
+      "source": "Reuters",
+      "entry": {
+        "id": "https://www.reuters.com/world/us-judge-orders-trump-administration-facilitate-deported-college-students-return-2026-02-13/",
+        "title": "US judge orders Trump administration to facilitate deported college student's return",
+        "link": "https://www.reuters.com/world/us-judge-orders-trump-administration-facilitate-deported-college-students-return-2026-02-13/",
+        "published": "Fri, 13 Feb 2026 09:36:00 GMT",
+        "image_url": ""
+      }
     }
   ],
   "last_digest_date": "2026-02-13",
   "last_run": {
-    "utc": "2026-02-13T21:00:38Z",
-    "local": "2026-02-14T05:00:26+08:00",
+    "utc": "2026-02-13T21:47:35Z",
+    "local": "2026-02-14T05:47:21+08:00",
     "tz": "Asia/Shanghai",
     "local_hour": 5,
     "quiet": true,
     "sources_ok": 9,
     "sources_fail": 0,
-    "entries_total": 191,
-    "new": 4,
+    "entries_total": 190,
+    "new": 7,
     "pushed_ok": 0,
     "pushed_fail": 0,
-    "skipped_seen": 45,
-    "skipped_major": 142,
-    "buffered_total": 32,
-    "buffered_added": 4,
-    "seen_size": 339,
+    "skipped_seen": 46,
+    "skipped_major": 118,
+    "buffered_total": 39,
+    "buffered_added": 7,
+    "seen_size": 340,
     "github": {
       "repo": "zixuouoscaroliver/Oscar-Oliver",
       "workflow": "Telegram News Bot",
-      "run_id": "22002650531",
-      "run_number": "126",
+      "run_id": "22003963057",
+      "run_number": "127",
       "sha": "4f3dfd71e3782371c09853800463db2dc0045ca8",
       "ref": "refs/heads/main",
-      "run_url": "https://github.com/zixuouoscaroliver/Oscar-Oliver/actions/runs/22002650531"
+      "run_url": "https://github.com/zixuouoscaroliver/Oscar-Oliver/actions/runs/22003963057"
     },
     "checkout": {
       "ref": "bot-stable",
