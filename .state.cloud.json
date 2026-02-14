@@ -331,7 +331,10 @@
     "https://www.economist.com/europe/2026/02/14/america-offers-europe-warmer-words-but-a-deep-chill-remains": 1771088544,
     "https://www.reuters.com/business/finance/ecb-opens-up-euro-lifeline-bid-boost-global-role-2026-02-14/": 1771088544,
     "https://nypost.com/?post_type=article&p=38492497": 1771091636,
-    "https://nypost.com/?post_type=article&p=38492528": 1771091636
+    "https://nypost.com/?post_type=article&p=38492528": 1771091636,
+    "https://nypost.com/?post_type=article&p=38492596": 1771093303,
+    "https://apnews.com/article/winter-olympics-milan-cortina-russia-8f399664dc4fdb8a70064fedb8b9b980": 1771093303,
+    "https://www.reuters.com/sports/cricket/markram-powers-south-africa-seven-wicket-win-over-new-zealand-t20-world-cup-2026-02-14/": 1771093303
   },
   "night_buffer": [
     {
@@ -483,34 +486,64 @@
         "published": "Sat, 14 Feb 2026 12:38:58 -0500",
         "image_url": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F02%2Fwww-youtube-com-watch-v-121293599.jpg?quality%3D90%26strip%3Dall"
       }
+    },
+    {
+      "source": "NYP",
+      "entry": {
+        "id": "https://nypost.com/?post_type=article&p=38492596",
+        "title": "AOC accuses Israel of ‘genocide’ while in Germany — the home of the Holocaust: ‘Shocking ignorance’",
+        "link": "https://nypost.com/2026/02/14/world-news/aoc-accuses-israel-of-genocide-while-in-germany-the-home-of-the-holocaust-shocking-ignorance/",
+        "published": "Sat, 14 Feb 2026 13:19:55 -0500",
+        "image_url": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F02%2F121277663.jpg?quality%3D90%26strip%3Dall"
+      }
+    },
+    {
+      "source": "AP NEWS",
+      "entry": {
+        "id": "https://apnews.com/article/winter-olympics-milan-cortina-russia-8f399664dc4fdb8a70064fedb8b9b980",
+        "title": "How an Olympic skating star born in Russia became a medal contender for Germany",
+        "link": "https://apnews.com/article/winter-olympics-milan-cortina-russia-8f399664dc4fdb8a70064fedb8b9b980",
+        "published": "Sat, 14 Feb 2026 09:20:00 GMT",
+        "image_url": ""
+      }
+    },
+    {
+      "source": "Reuters",
+      "entry": {
+        "id": "https://www.reuters.com/sports/cricket/markram-powers-south-africa-seven-wicket-win-over-new-zealand-t20-world-cup-2026-02-14/",
+        "title": "Markram powers South Africa to seven-wicket win over New Zealand in T20 World Cup",
+        "link": "https://www.reuters.com/sports/cricket/markram-powers-south-africa-seven-wicket-win-over-new-zealand-t20-world-cup-2026-02-14/",
+        "published": "Sat, 14 Feb 2026 08:34:00 GMT",
+        "image_url": "https://www.bing.com/th?id=OVFT.d5qhZr6A68WHaHNpHYWO1C&pid=News&w=1600&h=900&c=14&rs=1"
+      }
     }
   ],
   "last_digest_date": "2026-02-14",
   "last_run": {
-    "utc": "2026-02-14T17:54:08Z",
-    "local": "2026-02-15T01:53:56+08:00",
+    "utc": "2026-02-14T18:21:56Z",
+    "local": "2026-02-15T02:21:43+08:00",
     "tz": "Asia/Shanghai",
-    "local_hour": 1,
+    "local_hour": 2,
     "quiet": true,
     "sources_ok": 9,
     "sources_fail": 0,
     "entries_total": 193,
-    "new": 2,
+    "new": 3,
     "pushed_ok": 0,
     "pushed_fail": 0,
-    "skipped_seen": 60,
-    "skipped_major": 131,
-    "buffered_total": 15,
-    "buffered_added": 2,
-    "seen_size": 331,
+    "skipped_seen": 58,
+    "skipped_major": 132,
+    "buffered_total": 18,
+    "buffered_added": 3,
+    "seen_size": 334,
     "github": {
       "repo": "zixuouoscaroliver/Oscar-Oliver",
       "workflow": "Telegram News Bot",
-      "run_id": "22021749991",
-      "run_number": "158",
+      "run_id": "22022123240",
+      "run_number": "159",
       "sha": "4f3dfd71e3782371c09853800463db2dc0045ca8",
       "ref": "refs/heads/main",
-      "run_url": "https://github.com/zixuouoscaroliver/Oscar-Oliver/actions/runs/22021749991"
+      "run_url": "https://github.com/zixuouoscaroliver/Oscar-Oliver/actions/runs/22022123240"
     },
     "checkout": {
       "ref": "bot-stable",
