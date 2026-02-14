@@ -323,7 +323,9 @@
     "https://apnews.com/article/israel-palestinians-hamas-war-news-02-14-2026-fce5aeb2f708e9461795db7edd783de6": 1771104853,
     "https://nypost.com/?post_type=article&p=38494371": 1771106423,
     "https://nypost.com/?post_type=article&p=38493786": 1771108548,
-    "https://www.economist.com/europe/2026/02/11/a-european-fighter-jet-partnership-is-verging-on-a-break-up": 1771108548
+    "https://www.economist.com/europe/2026/02/11/a-european-fighter-jet-partnership-is-verging-on-a-break-up": 1771108548,
+    "https://nypost.com/?post_type=article&p=38487777": 1771109751,
+    "https://nypost.com/?post_type=article&p=38494284": 1771109751
   },
   "night_buffer": [
     {
@@ -615,34 +617,54 @@
         "published": "Wed, 11 Feb 2026 10:57:00 GMT",
         "image_url": "https://www.bing.com/th?id=OVFT.9vQApn1G_4f33LjG-FtFyS&pid=News&w=1600&h=900&c=14&rs=1"
       }
+    },
+    {
+      "source": "NYP",
+      "entry": {
+        "id": "https://nypost.com/?post_type=article&p=38487777",
+        "title": "White House rips NYC Councilman Chi Ossé for calling Trump ‘pedophile’",
+        "link": "https://nypost.com/2026/02/14/us-news/white-house-rips-nyc-councilman-for-calling-trump-pedophile/",
+        "published": "Sat, 14 Feb 2026 17:51:31 -0500",
+        "image_url": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F02%2F121199188.jpg?quality%3D90%26strip%3Dall"
+      }
+    },
+    {
+      "source": "NYP",
+      "entry": {
+        "id": "https://nypost.com/?post_type=article&p=38494284",
+        "title": "Zelensky begs Trump ‘give us a ceasefire,’ vows to hold elections as Russian drones bombard Ukraine",
+        "link": "https://nypost.com/2026/02/14/world-news/zelensky-begs-trump-give-us-a-ceasefire-promises-to-hold-elections-as-russian-drones-bombard-ukraine/",
+        "published": "Sat, 14 Feb 2026 17:44:16 -0500",
+        "image_url": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F02%2F121322433.jpg?quality%3D90%26strip%3Dall"
+      }
     }
   ],
   "last_digest_date": "2026-02-14",
   "last_run": {
-    "utc": "2026-02-14T22:36:01Z",
-    "local": "2026-02-15T06:35:48+08:00",
+    "utc": "2026-02-14T22:56:04Z",
+    "local": "2026-02-15T06:55:51+08:00",
     "tz": "Asia/Shanghai",
     "local_hour": 6,
     "quiet": true,
     "sources_ok": 9,
     "sources_fail": 0,
-    "entries_total": 192,
+    "entries_total": 191,
     "new": 2,
     "pushed_ok": 0,
     "pushed_fail": 0,
     "skipped_seen": 57,
-    "skipped_major": 133,
-    "buffered_total": 29,
+    "skipped_major": 132,
+    "buffered_total": 31,
     "buffered_added": 2,
-    "seen_size": 323,
+    "seen_size": 325,
     "github": {
       "repo": "zixuouoscaroliver/Oscar-Oliver",
       "workflow": "Telegram News Bot",
-      "run_id": "22025412944",
-      "run_number": "170",
+      "run_id": "22025655225",
+      "run_number": "171",
       "sha": "4f3dfd71e3782371c09853800463db2dc0045ca8",
       "ref": "refs/heads/main",
-      "run_url": "https://github.com/zixuouoscaroliver/Oscar-Oliver/actions/runs/22025412944"
+      "run_url": "https://github.com/zixuouoscaroliver/Oscar-Oliver/actions/runs/22025655225"
     },
     "checkout": {
       "ref": "bot-stable",
