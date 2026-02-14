@@ -1,10 +1,6 @@
 {
   "initialized": true,
   "seen": {
-    "https://nypost.com/?post_type=article&p=38457505": 1770831679,
-    "https://nypost.com/?post_type=article&p=38457407": 1770831679,
-    "https://decider.com/2026/02/11/celeste-hughey-the-burbs/": 1770831679,
-    "https://www.scmp.com/news/world/europe/article/3343235/nato-launches-arctic-sentry-mission-bid-ease-greenland-tensions-trump?utm_source=rss_feed": 1770831679,
     "https://apnews.com/article/canada-school-shooting-british-columbia-e577eb5689d1af42f6077a56368d4170": 1770835162,
     "https://www.reuters.com/world/us/georgia-2020-election-probe-began-with-referral-trump-appointed-official-court-2026-02-10/": 1770835162,
     "https://www.reuters.com/business/us-budget-deficit-grow-1853-trillion-fy2026-cbo-says-2026-02-11/": 1770835162,
@@ -333,7 +329,9 @@
     "https://www.reuters.com/business/finance/ecb-makes-euro-backstop-global-bolster-currencys-role-2026-02-14/": 1771087346,
     "https://www.scmp.com/news/world/russia-central-asia/article/3343599/russia-poisoned-alexei-navalny-dart-frog-toxin-european-nations-say?utm_source=rss_feed": 1771087346,
     "https://www.economist.com/europe/2026/02/14/america-offers-europe-warmer-words-but-a-deep-chill-remains": 1771088544,
-    "https://www.reuters.com/business/finance/ecb-opens-up-euro-lifeline-bid-boost-global-role-2026-02-14/": 1771088544
+    "https://www.reuters.com/business/finance/ecb-opens-up-euro-lifeline-bid-boost-global-role-2026-02-14/": 1771088544,
+    "https://nypost.com/?post_type=article&p=38492497": 1771091636,
+    "https://nypost.com/?post_type=article&p=38492528": 1771091636
   },
   "night_buffer": [
     {
@@ -465,34 +463,54 @@
         "published": "Sat, 14 Feb 2026 07:47:00 GMT",
         "image_url": "https://www.bing.com/th?id=OVFT.N4E0Cz3NkGnhut75B3y8mC&pid=News&w=1600&h=900&c=14&rs=1"
       }
+    },
+    {
+      "source": "NYP",
+      "entry": {
+        "id": "https://nypost.com/?post_type=article&p=38492497",
+        "title": "Trump slams Bill Maher in Truth Social post as ‘extremely nervous,’ ‘ZERO confidence in himself’",
+        "link": "https://nypost.com/2026/02/14/us-news/trump-slams-bill-maher-in-truth-social-post-as-extremely-nervous-zero-confidence-in-himself/",
+        "published": "Sat, 14 Feb 2026 12:45:57 -0500",
+        "image_url": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F02%2Fcrop-38492614.jpg?quality%3D90%26strip%3Dall"
+      }
+    },
+    {
+      "source": "NYP",
+      "entry": {
+        "id": "https://nypost.com/?post_type=article&p=38492528",
+        "title": "Gavin Newsom calls Trump ‘un-American’ after ditching California for second overseas trip in less than a month",
+        "link": "https://nypost.com/2026/02/14/us-news/gavin-newsom-calls-trump-un-american-after-ditching-california-for-second-overseas-trip-in-less-than-a-month/",
+        "published": "Sat, 14 Feb 2026 12:38:58 -0500",
+        "image_url": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F02%2Fwww-youtube-com-watch-v-121293599.jpg?quality%3D90%26strip%3Dall"
+      }
     }
   ],
   "last_digest_date": "2026-02-14",
   "last_run": {
-    "utc": "2026-02-14T17:35:44Z",
-    "local": "2026-02-15T01:35:31+08:00",
+    "utc": "2026-02-14T17:54:08Z",
+    "local": "2026-02-15T01:53:56+08:00",
     "tz": "Asia/Shanghai",
     "local_hour": 1,
     "quiet": true,
     "sources_ok": 9,
     "sources_fail": 0,
-    "entries_total": 194,
-    "new": 0,
+    "entries_total": 193,
+    "new": 2,
     "pushed_ok": 0,
     "pushed_fail": 0,
     "skipped_seen": 60,
-    "skipped_major": 134,
-    "buffered_total": 13,
-    "buffered_added": 0,
-    "seen_size": 333,
+    "skipped_major": 131,
+    "buffered_total": 15,
+    "buffered_added": 2,
+    "seen_size": 331,
     "github": {
       "repo": "zixuouoscaroliver/Oscar-Oliver",
       "workflow": "Telegram News Bot",
-      "run_id": "22021509871",
-      "run_number": "157",
+      "run_id": "22021749991",
+      "run_number": "158",
       "sha": "4f3dfd71e3782371c09853800463db2dc0045ca8",
       "ref": "refs/heads/main",
-      "run_url": "https://github.com/zixuouoscaroliver/Oscar-Oliver/actions/runs/22021509871"
+      "run_url": "https://github.com/zixuouoscaroliver/Oscar-Oliver/actions/runs/22021749991"
     },
     "checkout": {
       "ref": "bot-stable",
