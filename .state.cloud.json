@@ -1,11 +1,6 @@
 {
   "initialized": true,
   "seen": {
-    "https://decider.com/2026/02/11/the-view-trumps-howard-lutnick-kids-jeffrey-epsteins-island/": 1770828192,
-    "https://nypost.com/?post_type=article&p=38456742": 1770828192,
-    "https://nypost.com/?post_type=video&p=38457230": 1770828192,
-    "https://apnews.com/article/faa-el-paso-texas-air-space-closed-1f774bdfd46f5986ff0e7003df709caa": 1770828192,
-    "https://www.reuters.com/world/live-trump-netanyahu-meeting-focus-iran-talks-gaza-2026-02-11/": 1770828192,
     "https://nypost.com/?post_type=article&p=38457505": 1770831679,
     "https://nypost.com/?post_type=article&p=38457407": 1770831679,
     "https://decider.com/2026/02/11/celeste-hughey-the-burbs/": 1770831679,
@@ -336,7 +331,9 @@
     "https://nypost.com/?post_type=article&p=38491717": 1771087346,
     "https://www.reuters.com/world/europe/uk-allies-say-theyre-convinced-kremlin-critic-navalny-was-poisoned-2026-02-14/": 1771087346,
     "https://www.reuters.com/business/finance/ecb-makes-euro-backstop-global-bolster-currencys-role-2026-02-14/": 1771087346,
-    "https://www.scmp.com/news/world/russia-central-asia/article/3343599/russia-poisoned-alexei-navalny-dart-frog-toxin-european-nations-say?utm_source=rss_feed": 1771087346
+    "https://www.scmp.com/news/world/russia-central-asia/article/3343599/russia-poisoned-alexei-navalny-dart-frog-toxin-european-nations-say?utm_source=rss_feed": 1771087346,
+    "https://www.economist.com/europe/2026/02/14/america-offers-europe-warmer-words-but-a-deep-chill-remains": 1771088544,
+    "https://www.reuters.com/business/finance/ecb-opens-up-euro-lifeline-bid-boost-global-role-2026-02-14/": 1771088544
   },
   "night_buffer": [
     {
@@ -448,34 +445,54 @@
         "published": "Sat, 14 Feb 2026 16:36:14 +0000",
         "image_url": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/02/15/aaf89669-eb39-4769-a3df-e71265b03c5a_3a0c3067.jpg?itok=xHExeHnE&v=1771086965"
       }
+    },
+    {
+      "source": "Economist",
+      "entry": {
+        "id": "https://www.economist.com/europe/2026/02/14/america-offers-europe-warmer-words-but-a-deep-chill-remains",
+        "title": "America offers Europe warmer words, but a deep chill remains",
+        "link": "https://www.economist.com/europe/2026/02/14/america-offers-europe-warmer-words-but-a-deep-chill-remains",
+        "published": "Sat, 14 Feb 2026 08:44:00 GMT",
+        "image_url": "https://www.bing.com/th?id=OVFT.v9I4R5ILeLF1xgQunHB8Jy&pid=News&w=1600&h=900&c=14&rs=1"
+      }
+    },
+    {
+      "source": "Reuters",
+      "entry": {
+        "id": "https://www.reuters.com/business/finance/ecb-opens-up-euro-lifeline-bid-boost-global-role-2026-02-14/",
+        "title": "ECB opens up euro lifeline in bid to boost global role",
+        "link": "https://www.reuters.com/business/finance/ecb-opens-up-euro-lifeline-bid-boost-global-role-2026-02-14/",
+        "published": "Sat, 14 Feb 2026 07:47:00 GMT",
+        "image_url": "https://www.bing.com/th?id=OVFT.N4E0Cz3NkGnhut75B3y8mC&pid=News&w=1600&h=900&c=14&rs=1"
+      }
     }
   ],
   "last_digest_date": "2026-02-14",
   "last_run": {
-    "utc": "2026-02-14T16:42:38Z",
-    "local": "2026-02-15T00:42:26+08:00",
+    "utc": "2026-02-14T17:02:38Z",
+    "local": "2026-02-15T01:02:24+08:00",
     "tz": "Asia/Shanghai",
-    "local_hour": 0,
+    "local_hour": 1,
     "quiet": true,
     "sources_ok": 9,
     "sources_fail": 0,
-    "entries_total": 193,
-    "new": 4,
+    "entries_total": 194,
+    "new": 2,
     "pushed_ok": 0,
     "pushed_fail": 0,
-    "skipped_seen": 59,
+    "skipped_seen": 62,
     "skipped_major": 130,
-    "buffered_total": 11,
-    "buffered_added": 4,
-    "seen_size": 336,
+    "buffered_total": 13,
+    "buffered_added": 2,
+    "seen_size": 333,
     "github": {
       "repo": "zixuouoscaroliver/Oscar-Oliver",
       "workflow": "Telegram News Bot",
-      "run_id": "22020799211",
-      "run_number": "155",
+      "run_id": "22021053273",
+      "run_number": "156",
       "sha": "4f3dfd71e3782371c09853800463db2dc0045ca8",
       "ref": "refs/heads/main",
-      "run_url": "https://github.com/zixuouoscaroliver/Oscar-Oliver/actions/runs/22020799211"
+      "run_url": "https://github.com/zixuouoscaroliver/Oscar-Oliver/actions/runs/22021053273"
     },
     "checkout": {
       "ref": "bot-stable",
