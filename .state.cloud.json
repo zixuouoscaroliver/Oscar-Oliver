@@ -338,13 +338,14 @@
     "https://www.scmp.com/news/world/europe/article/3343567/indian-author-arundhati-roy-quits-berlinale-after-stay-out-politics-gaza-comments?utm_source=rss_feed": 1771052363,
     "https://www.scmp.com/week-asia/economics/article/3343514/uae-surpassing-hong-kong-challenging-singapore-global-trade-crown?utm_source=rss_feed": 1771052363,
     "https://www.scmp.com/news/china/military/article/3343466/taiwan-defence-budget-delays-may-push-island-down-us-priority-list-william-lai-warns?utm_source=rss_feed": 1771052363,
-    "https://www.scmp.com/news/asia/southeast-asia/article/3343572/philippine-senators-go-dela-rosa-helped-duterte-wage-drug-war-icc-prosecutors?utm_source=rss_feed": 1771054820
+    "https://www.scmp.com/news/asia/southeast-asia/article/3343572/philippine-senators-go-dela-rosa-helped-duterte-wage-drug-war-icc-prosecutors?utm_source=rss_feed": 1771054820,
+    "https://www.reuters.com/world/asia-pacific/china-implement-zero-tariffs-imports-53-african-countries-2026-02-14/": 1771055970
   },
   "night_buffer": [],
   "last_digest_date": "2026-02-14",
   "last_run": {
-    "utc": "2026-02-14T07:40:31Z",
-    "local": "2026-02-14T15:40:20+08:00",
+    "utc": "2026-02-14T07:59:44Z",
+    "local": "2026-02-14T15:59:30+08:00",
     "tz": "Asia/Shanghai",
     "local_hour": 15,
     "quiet": false,
@@ -354,19 +355,19 @@
     "new": 1,
     "pushed_ok": 1,
     "pushed_fail": 0,
-    "skipped_seen": 62,
-    "skipped_major": 127,
+    "skipped_seen": 61,
+    "skipped_major": 128,
     "buffered_total": 0,
     "buffered_added": 0,
-    "seen_size": 338,
+    "seen_size": 339,
     "github": {
       "repo": "zixuouoscaroliver/Oscar-Oliver",
       "workflow": "Telegram News Bot",
-      "run_id": "22013640082",
-      "run_number": "137",
+      "run_id": "22013874838",
+      "run_number": "138",
       "sha": "4f3dfd71e3782371c09853800463db2dc0045ca8",
       "ref": "refs/heads/main",
-      "run_url": "https://github.com/zixuouoscaroliver/Oscar-Oliver/actions/runs/22013640082"
+      "run_url": "https://github.com/zixuouoscaroliver/Oscar-Oliver/actions/runs/22013874838"
     },
     "checkout": {
       "ref": "bot-stable",
