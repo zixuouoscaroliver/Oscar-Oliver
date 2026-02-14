@@ -324,7 +324,9 @@
     "https://nypost.com/?post_type=article&p=38491849": 1771098868,
     "https://nypost.com/?post_type=article&p=38487212": 1771101986,
     "https://pagesix.com/?post_type=article&p=8752149": 1771102891,
-    "https://pagesix.com/2026/02/14/celebrity-news/rosie-odonnell-reveals-secret-return-to-us/": 1771102891
+    "https://pagesix.com/2026/02/14/celebrity-news/rosie-odonnell-reveals-secret-return-to-us/": 1771102891,
+    "https://nypost.com/?post_type=article&p=38492672": 1771104853,
+    "https://apnews.com/article/israel-palestinians-hamas-war-news-02-14-2026-fce5aeb2f708e9461795db7edd783de6": 1771104853
   },
   "night_buffer": [
     {
@@ -566,34 +568,54 @@
         "published": "Sat, 14 Feb 2026 15:57:10 -0500",
         "image_url": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F02%2F121302018.jpg?quality%3D90%26strip%3Dall"
       }
+    },
+    {
+      "source": "NYP",
+      "entry": {
+        "id": "https://nypost.com/?post_type=article&p=38492672",
+        "title": "Americans think World War III is likely within next 5 years, new poll shows",
+        "link": "https://nypost.com/2026/02/14/world-news/americans-think-world-war-iii-is-likely-in-next-5-years-new-poll-shows/",
+        "published": "Sat, 14 Feb 2026 16:23:29 -0500",
+        "image_url": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F02%2Fnaval-vessels-seen-bridge-spanish-121296048.jpg?quality%3D90%26strip%3Dall"
+      }
+    },
+    {
+      "source": "AP NEWS",
+      "entry": {
+        "id": "https://apnews.com/article/israel-palestinians-hamas-war-news-02-14-2026-fce5aeb2f708e9461795db7edd783de6",
+        "title": "MSF suspends some work at Gaza’s Nasser Hospital due to presence of armed men",
+        "link": "https://apnews.com/article/israel-palestinians-hamas-war-news-02-14-2026-fce5aeb2f708e9461795db7edd783de6",
+        "published": "Sat, 14 Feb 2026 12:50:00 GMT",
+        "image_url": "https://www.bing.com/th?id=OVFT.9JuLBZ16hGkbPmwiyEoypi&pid=News&w=1600&h=900&c=14&rs=1"
+      }
     }
   ],
   "last_digest_date": "2026-02-14",
   "last_run": {
-    "utc": "2026-02-14T21:01:43Z",
-    "local": "2026-02-15T05:01:31+08:00",
+    "utc": "2026-02-14T21:34:24Z",
+    "local": "2026-02-15T05:34:13+08:00",
     "tz": "Asia/Shanghai",
     "local_hour": 5,
     "quiet": true,
     "sources_ok": 9,
     "sources_fail": 0,
-    "entries_total": 193,
+    "entries_total": 192,
     "new": 2,
     "pushed_ok": 0,
     "pushed_fail": 0,
-    "skipped_seen": 55,
-    "skipped_major": 136,
-    "buffered_total": 24,
+    "skipped_seen": 57,
+    "skipped_major": 133,
+    "buffered_total": 26,
     "buffered_added": 2,
-    "seen_size": 324,
+    "seen_size": 326,
     "github": {
       "repo": "zixuouoscaroliver/Oscar-Oliver",
       "workflow": "Telegram News Bot",
-      "run_id": "22024197203",
-      "run_number": "166",
+      "run_id": "22024625987",
+      "run_number": "167",
       "sha": "4f3dfd71e3782371c09853800463db2dc0045ca8",
       "ref": "refs/heads/main",
-      "run_url": "https://github.com/zixuouoscaroliver/Oscar-Oliver/actions/runs/22024197203"
+      "run_url": "https://github.com/zixuouoscaroliver/Oscar-Oliver/actions/runs/22024625987"
     },
     "checkout": {
       "ref": "bot-stable",
