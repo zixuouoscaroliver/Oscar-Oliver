@@ -321,7 +321,8 @@
     "https://pagesix.com/?post_type=article&p=8752149": 1771102891,
     "https://pagesix.com/2026/02/14/celebrity-news/rosie-odonnell-reveals-secret-return-to-us/": 1771102891,
     "https://nypost.com/?post_type=article&p=38492672": 1771104853,
-    "https://apnews.com/article/israel-palestinians-hamas-war-news-02-14-2026-fce5aeb2f708e9461795db7edd783de6": 1771104853
+    "https://apnews.com/article/israel-palestinians-hamas-war-news-02-14-2026-fce5aeb2f708e9461795db7edd783de6": 1771104853,
+    "https://nypost.com/?post_type=article&p=38494371": 1771106423
   },
   "night_buffer": [
     {
@@ -583,34 +584,44 @@
         "published": "Sat, 14 Feb 2026 12:50:00 GMT",
         "image_url": "https://www.bing.com/th?id=OVFT.9JuLBZ16hGkbPmwiyEoypi&pid=News&w=1600&h=900&c=14&rs=1"
       }
+    },
+    {
+      "source": "NYP",
+      "entry": {
+        "id": "https://nypost.com/?post_type=article&p=38494371",
+        "title": "Fetterman eviscerates anti-Israel ‘rot’ in Democratic party, shuts down AOC’s ‘genocide’ rhetoric",
+        "link": "https://nypost.com/2026/02/14/media/fetterman-eviscerates-anti-israel-rot-in-democratic-party-shuts-down-aocs-genocide-rhetoric/",
+        "published": "Sat, 14 Feb 2026 16:56:59 -0500",
+        "image_url": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F02%2F121321817.jpg?quality%3D90%26strip%3Dall"
+      }
     }
   ],
   "last_digest_date": "2026-02-14",
   "last_run": {
-    "utc": "2026-02-14T21:52:19Z",
-    "local": "2026-02-15T05:52:06+08:00",
+    "utc": "2026-02-14T22:00:34Z",
+    "local": "2026-02-15T06:00:23+08:00",
     "tz": "Asia/Shanghai",
-    "local_hour": 5,
+    "local_hour": 6,
     "quiet": true,
     "sources_ok": 9,
     "sources_fail": 0,
-    "entries_total": 191,
-    "new": 0,
+    "entries_total": 192,
+    "new": 1,
     "pushed_ok": 0,
     "pushed_fail": 0,
     "skipped_seen": 59,
     "skipped_major": 132,
-    "buffered_total": 26,
-    "buffered_added": 0,
-    "seen_size": 321,
+    "buffered_total": 27,
+    "buffered_added": 1,
+    "seen_size": 322,
     "github": {
       "repo": "zixuouoscaroliver/Oscar-Oliver",
       "workflow": "Telegram News Bot",
-      "run_id": "22024852248",
-      "run_number": "168",
+      "run_id": "22024957363",
+      "run_number": "169",
       "sha": "4f3dfd71e3782371c09853800463db2dc0045ca8",
       "ref": "refs/heads/main",
-      "run_url": "https://github.com/zixuouoscaroliver/Oscar-Oliver/actions/runs/22024852248"
+      "run_url": "https://github.com/zixuouoscaroliver/Oscar-Oliver/actions/runs/22024957363"
     },
     "checkout": {
       "ref": "bot-stable",
