@@ -1,9 +1,6 @@
 {
   "initialized": true,
   "seen": {
-    "https://www.reuters.com/world/us/takeaways-six-previous-trump-netanyahu-meetings-2026-02-11/": 1770795073,
-    "https://www.reuters.com/world/china/eu-meet-belgian-castle-tackle-economic-rivalry-with-us-china-2026-02-11/": 1770795073,
-    "https://www.reuters.com/business/aerospace-defense/israels-netanyahu-expected-press-trump-over-iran-diplomacy-2026-02-11/": 1770795073,
     "https://www.reuters.com/world/middle-east/top-iranian-adviser-visits-mediator-oman-iran-us-prepare-talks-2026-02-10/": 1770797246,
     "https://www.scmp.com/week-asia/people/article/3343171/viral-assault-video-singapore-prompts-philippines-weigh-legal-action?utm_source=rss_feed": 1770797246,
     "https://www.washingtonpost.com/world/2026/02/11/canada-tumbler-ridge-school-shooting/": 1770800890,
@@ -340,35 +337,36 @@
     "https://nypost.com/?post_type=article&p=38490175": 1771052363,
     "https://www.scmp.com/news/world/europe/article/3343567/indian-author-arundhati-roy-quits-berlinale-after-stay-out-politics-gaza-comments?utm_source=rss_feed": 1771052363,
     "https://www.scmp.com/week-asia/economics/article/3343514/uae-surpassing-hong-kong-challenging-singapore-global-trade-crown?utm_source=rss_feed": 1771052363,
-    "https://www.scmp.com/news/china/military/article/3343466/taiwan-defence-budget-delays-may-push-island-down-us-priority-list-william-lai-warns?utm_source=rss_feed": 1771052363
+    "https://www.scmp.com/news/china/military/article/3343466/taiwan-defence-budget-delays-may-push-island-down-us-priority-list-william-lai-warns?utm_source=rss_feed": 1771052363,
+    "https://www.scmp.com/news/asia/southeast-asia/article/3343572/philippine-senators-go-dela-rosa-helped-duterte-wage-drug-war-icc-prosecutors?utm_source=rss_feed": 1771054820
   },
   "night_buffer": [],
   "last_digest_date": "2026-02-14",
   "last_run": {
-    "utc": "2026-02-14T06:59:41Z",
-    "local": "2026-02-14T14:59:23+08:00",
+    "utc": "2026-02-14T07:40:31Z",
+    "local": "2026-02-14T15:40:20+08:00",
     "tz": "Asia/Shanghai",
-    "local_hour": 14,
+    "local_hour": 15,
     "quiet": false,
     "sources_ok": 9,
     "sources_fail": 0,
     "entries_total": 190,
-    "new": 4,
-    "pushed_ok": 4,
+    "new": 1,
+    "pushed_ok": 1,
     "pushed_fail": 0,
-    "skipped_seen": 45,
-    "skipped_major": 95,
+    "skipped_seen": 62,
+    "skipped_major": 127,
     "buffered_total": 0,
     "buffered_added": 0,
-    "seen_size": 340,
+    "seen_size": 338,
     "github": {
       "repo": "zixuouoscaroliver/Oscar-Oliver",
       "workflow": "Telegram News Bot",
-      "run_id": "22013123673",
-      "run_number": "136",
+      "run_id": "22013640082",
+      "run_number": "137",
       "sha": "4f3dfd71e3782371c09853800463db2dc0045ca8",
       "ref": "refs/heads/main",
-      "run_url": "https://github.com/zixuouoscaroliver/Oscar-Oliver/actions/runs/22013123673"
+      "run_url": "https://github.com/zixuouoscaroliver/Oscar-Oliver/actions/runs/22013640082"
     },
     "checkout": {
       "ref": "bot-stable",
