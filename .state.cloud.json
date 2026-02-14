@@ -1,9 +1,6 @@
 {
   "initialized": true,
   "seen": {
-    "https://nypost.com/?post_type=article&p=38460430": 1770843564,
-    "https://nypost.com/?post_type=article&p=38451236": 1770843564,
-    "https://nypost.com/?post_type=article&p=38461236": 1770843564,
     "https://nypost.com/?post_type=article&p=38460342": 1770846170,
     "https://nypost.com/?post_type=article&p=38458259": 1770846170,
     "https://nypost.com/?post_type=article&p=38460009": 1770846170,
@@ -325,7 +322,9 @@
     "https://nypost.com/?post_type=article&p=38492835": 1771096951,
     "https://nypost.com/?post_type=article&p=38493255": 1771098868,
     "https://nypost.com/?post_type=article&p=38491849": 1771098868,
-    "https://nypost.com/?post_type=article&p=38487212": 1771101986
+    "https://nypost.com/?post_type=article&p=38487212": 1771101986,
+    "https://pagesix.com/?post_type=article&p=8752149": 1771102891,
+    "https://pagesix.com/2026/02/14/celebrity-news/rosie-odonnell-reveals-secret-return-to-us/": 1771102891
   },
   "night_buffer": [
     {
@@ -547,34 +546,54 @@
         "published": "Sat, 14 Feb 2026 15:38:49 -0500",
         "image_url": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F02%2F15PS.CC21.C.TA_-1.jpg?quality%3D90%26strip%3Dall"
       }
+    },
+    {
+      "source": "NYP",
+      "entry": {
+        "id": "https://pagesix.com/?post_type=article&p=8752149",
+        "title": "Rosie O’Donnell reveals secret return to US to ‘see if it was safe’ after Trump citizenship threat",
+        "link": "https://pagesix.com/2026/02/14/celebrity-news/rosie-odonnell-reveals-secret-return-to-us/",
+        "published": "Sat, 14 Feb 2026 15:57:10 -0500",
+        "image_url": "https://pagesix.com/wp-content%2Fuploads%2Fsites%2F3%2F2026%2F02%2F121302018.jpg?quality%3D90%26strip%3Dall"
+      }
+    },
+    {
+      "source": "NYP",
+      "entry": {
+        "id": "https://pagesix.com/2026/02/14/celebrity-news/rosie-odonnell-reveals-secret-return-to-us/",
+        "title": "Rosie O’Donnell reveals secret return to US to ‘see if it was safe’ after Trump citizenship threat",
+        "link": "https://pagesix.com/2026/02/14/celebrity-news/rosie-odonnell-reveals-secret-return-to-us/",
+        "published": "Sat, 14 Feb 2026 15:57:10 -0500",
+        "image_url": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F02%2F121302018.jpg?quality%3D90%26strip%3Dall"
+      }
     }
   ],
   "last_digest_date": "2026-02-14",
   "last_run": {
-    "utc": "2026-02-14T20:46:38Z",
-    "local": "2026-02-15T04:46:26+08:00",
+    "utc": "2026-02-14T21:01:43Z",
+    "local": "2026-02-15T05:01:31+08:00",
     "tz": "Asia/Shanghai",
-    "local_hour": 4,
+    "local_hour": 5,
     "quiet": true,
     "sources_ok": 9,
     "sources_fail": 0,
-    "entries_total": 192,
-    "new": 1,
+    "entries_total": 193,
+    "new": 2,
     "pushed_ok": 0,
     "pushed_fail": 0,
-    "skipped_seen": 57,
-    "skipped_major": 134,
-    "buffered_total": 22,
-    "buffered_added": 1,
-    "seen_size": 325,
+    "skipped_seen": 55,
+    "skipped_major": 136,
+    "buffered_total": 24,
+    "buffered_added": 2,
+    "seen_size": 324,
     "github": {
       "repo": "zixuouoscaroliver/Oscar-Oliver",
       "workflow": "Telegram News Bot",
-      "run_id": "22024006051",
-      "run_number": "165",
+      "run_id": "22024197203",
+      "run_number": "166",
       "sha": "4f3dfd71e3782371c09853800463db2dc0045ca8",
       "ref": "refs/heads/main",
-      "run_url": "https://github.com/zixuouoscaroliver/Oscar-Oliver/actions/runs/22024006051"
+      "run_url": "https://github.com/zixuouoscaroliver/Oscar-Oliver/actions/runs/22024197203"
     },
     "checkout": {
       "ref": "bot-stable",
