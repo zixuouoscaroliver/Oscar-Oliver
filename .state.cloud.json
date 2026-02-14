@@ -1,8 +1,6 @@
 {
   "initialized": true,
   "seen": {
-    "https://nypost.com/?post_type=article&p=38459519": 1770841235,
-    "https://www.scmp.com/news/world/middle-east/article/3343238/trump-insists-netanyahu-he-will-continue-talks-iran-seek-nuclear-deal?utm_source=rss_feed": 1770841235,
     "https://nypost.com/?post_type=article&p=38460430": 1770843564,
     "https://nypost.com/?post_type=article&p=38451236": 1770843564,
     "https://nypost.com/?post_type=article&p=38461236": 1770843564,
@@ -326,7 +324,8 @@
     "https://www.reuters.com/sports/cricket/markram-powers-south-africa-seven-wicket-win-over-new-zealand-t20-world-cup-2026-02-14/": 1771093303,
     "https://nypost.com/?post_type=article&p=38492835": 1771096951,
     "https://nypost.com/?post_type=article&p=38493255": 1771098868,
-    "https://nypost.com/?post_type=article&p=38491849": 1771098868
+    "https://nypost.com/?post_type=article&p=38491849": 1771098868,
+    "https://nypost.com/?post_type=article&p=38487212": 1771101986
   },
   "night_buffer": [
     {
@@ -538,34 +537,44 @@
         "published": "Sat, 14 Feb 2026 14:51:29 -0500",
         "image_url": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F02%2Fcrop-38492080.jpg?quality%3D90%26strip%3Dall"
       }
+    },
+    {
+      "source": "NYP",
+      "entry": {
+        "id": "https://nypost.com/?post_type=article&p=38487212",
+        "title": "How Trump is righting the economic ship after the SS Biden disaster",
+        "link": "https://nypost.com/2026/02/14/opinion/trump-is-righting-the-economic-ship-after-the-biden-disaster/",
+        "published": "Sat, 14 Feb 2026 15:38:49 -0500",
+        "image_url": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F02%2F15PS.CC21.C.TA_-1.jpg?quality%3D90%26strip%3Dall"
+      }
     }
   ],
   "last_digest_date": "2026-02-14",
   "last_run": {
-    "utc": "2026-02-14T20:18:19Z",
-    "local": "2026-02-15T04:18:08+08:00",
+    "utc": "2026-02-14T20:46:38Z",
+    "local": "2026-02-15T04:46:26+08:00",
     "tz": "Asia/Shanghai",
     "local_hour": 4,
     "quiet": true,
     "sources_ok": 9,
     "sources_fail": 0,
     "entries_total": 192,
-    "new": 0,
+    "new": 1,
     "pushed_ok": 0,
     "pushed_fail": 0,
-    "skipped_seen": 59,
-    "skipped_major": 133,
-    "buffered_total": 21,
-    "buffered_added": 0,
-    "seen_size": 326,
+    "skipped_seen": 57,
+    "skipped_major": 134,
+    "buffered_total": 22,
+    "buffered_added": 1,
+    "seen_size": 325,
     "github": {
       "repo": "zixuouoscaroliver/Oscar-Oliver",
       "workflow": "Telegram News Bot",
-      "run_id": "22023642222",
-      "run_number": "164",
+      "run_id": "22024006051",
+      "run_number": "165",
       "sha": "4f3dfd71e3782371c09853800463db2dc0045ca8",
       "ref": "refs/heads/main",
-      "run_url": "https://github.com/zixuouoscaroliver/Oscar-Oliver/actions/runs/22023642222"
+      "run_url": "https://github.com/zixuouoscaroliver/Oscar-Oliver/actions/runs/22024006051"
     },
     "checkout": {
       "ref": "bot-stable",
