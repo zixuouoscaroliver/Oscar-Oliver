@@ -334,35 +334,58 @@
     "https://apnews.com/article/russia-navalny-poisoned-europe-4d92cd67f29d37b74b0d4842ea686b03": 1771078717,
     "https://www.reuters.com/world/middle-east/african-union-summit-clouded-by-saudi-uae-rivalry-horn-africa-2026-02-14/": 1771078717,
     "https://www.reuters.com/world/france-navalny-poisoning-shows-putin-ready-use-nerve-agents-own-people-2026-02-14/": 1771078717,
-    "https://www.scmp.com/news/asia/diplomacy/article/3343426/trump-style-diplomacy-could-win-friends-china-harm-us-ties-beijing?utm_source=rss_feed": 1771078717
+    "https://www.scmp.com/news/asia/diplomacy/article/3343426/trump-style-diplomacy-could-win-friends-china-harm-us-ties-beijing?utm_source=rss_feed": 1771078717,
+    "https://nypost.com/?post_type=article&p=38491488": 1771081970,
+    "https://www.washingtonpost.com/world/2026/02/14/alexei-navalny-russia-death-poison-frog/": 1771081970
   },
-  "night_buffer": [],
+  "night_buffer": [
+    {
+      "source": "NYP",
+      "entry": {
+        "id": "https://nypost.com/?post_type=article&p=38491488",
+        "title": "Marco Rubio calls US ‘child of Europe’ in push to dismiss ‘end of the transatlantic era’ claims",
+        "link": "https://nypost.com/2026/02/14/world-news/marco-rubio-calls-us-child-of-europe-in-push-to-dismiss-end-of-the-transatlantic-era-claims/",
+        "published": "Sat, 14 Feb 2026 10:01:39 -0500",
+        "image_url": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F02%2Fnewspress-collage-zs8178fvr-1771080528734.jpg?quality%3D90%26strip%3Dall%261771062558"
+      }
+    },
+    {
+      "source": "WaPo",
+      "entry": {
+        "id": "https://www.washingtonpost.com/world/2026/02/14/alexei-navalny-russia-death-poison-frog/",
+        "title": "‘Highly likely’ that rare poison killed Putin nemesis Navalny, Europeans say",
+        "link": "https://www.washingtonpost.com/world/2026/02/14/alexei-navalny-russia-death-poison-frog/",
+        "published": "Sat, 14 Feb 2026 15:05:39 +0000",
+        "image_url": ""
+      }
+    }
+  ],
   "last_digest_date": "2026-02-14",
   "last_run": {
-    "utc": "2026-02-14T14:49:15Z",
-    "local": "2026-02-14T22:49:05+08:00",
+    "utc": "2026-02-14T15:13:01Z",
+    "local": "2026-02-14T23:12:50+08:00",
     "tz": "Asia/Shanghai",
-    "local_hour": 22,
-    "quiet": false,
+    "local_hour": 23,
+    "quiet": true,
     "sources_ok": 9,
     "sources_fail": 0,
     "entries_total": 193,
-    "new": 0,
+    "new": 2,
     "pushed_ok": 0,
     "pushed_fail": 0,
-    "skipped_seen": 62,
-    "skipped_major": 131,
-    "buffered_total": 0,
-    "buffered_added": 0,
-    "seen_size": 334,
+    "skipped_seen": 59,
+    "skipped_major": 132,
+    "buffered_total": 2,
+    "buffered_added": 2,
+    "seen_size": 336,
     "github": {
       "repo": "zixuouoscaroliver/Oscar-Oliver",
       "workflow": "Telegram News Bot",
-      "run_id": "22019310047",
-      "run_number": "151",
+      "run_id": "22019630282",
+      "run_number": "152",
       "sha": "4f3dfd71e3782371c09853800463db2dc0045ca8",
       "ref": "refs/heads/main",
-      "run_url": "https://github.com/zixuouoscaroliver/Oscar-Oliver/actions/runs/22019310047"
+      "run_url": "https://github.com/zixuouoscaroliver/Oscar-Oliver/actions/runs/22019630282"
     },
     "checkout": {
       "ref": "bot-stable",
