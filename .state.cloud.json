@@ -330,7 +330,9 @@
     "https://www.washingtonpost.com/world/2026/02/14/alexei-navalny-russia-death-poison-frog/": 1771081970,
     "https://nypost.com/?post_type=article&p=38472265": 1771083740,
     "https://nypost.com/?post_type=article&p=38491288": 1771083740,
-    "https://www.scmp.com/news/world/article/3343596/world-artists-back-palestine-rapporteur-francesca-albanese-despite-criticism?utm_source=rss_feed": 1771083740
+    "https://www.scmp.com/news/world/article/3343596/world-artists-back-palestine-rapporteur-francesca-albanese-despite-criticism?utm_source=rss_feed": 1771083740,
+    "https://www.economist.com/europe/2026/02/12/the-european-onion-is-a-joke-whose-time-has-come": 1771084732,
+    "https://www.reuters.com/world/european-reaction-rubios-speech-transatlantic-ties-munich-security-conference-2026-02-14/": 1771084732
   },
   "night_buffer": [
     {
@@ -382,34 +384,54 @@
         "published": "Sat, 14 Feb 2026 15:17:56 +0000",
         "image_url": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/02/14/9b3f085b-1b9d-4eaf-8b41-aef664a36734_30914a9c.jpg?itok=h5nYfQe7&v=1771082272"
       }
+    },
+    {
+      "source": "Economist",
+      "entry": {
+        "id": "https://www.economist.com/europe/2026/02/12/the-european-onion-is-a-joke-whose-time-has-come",
+        "title": "The European Onion is a joke whose time has come",
+        "link": "https://www.economist.com/europe/2026/02/12/the-european-onion-is-a-joke-whose-time-has-come",
+        "published": "Thu, 12 Feb 2026 05:56:00 GMT",
+        "image_url": "https://www.bing.com/th?id=OVFT.tYcBKVmhbcHvcmaGBVFGWC&pid=News&w=1600&h=900&c=14&rs=1"
+      }
+    },
+    {
+      "source": "Reuters",
+      "entry": {
+        "id": "https://www.reuters.com/world/european-reaction-rubios-speech-transatlantic-ties-munich-security-conference-2026-02-14/",
+        "title": "European reaction to Rubio's speech on transatlantic ties at Munich Security Conference",
+        "link": "https://www.reuters.com/world/european-reaction-rubios-speech-transatlantic-ties-munich-security-conference-2026-02-14/",
+        "published": "Sat, 14 Feb 2026 06:14:00 GMT",
+        "image_url": "https://www.bing.com/th?id=OVFT.xiJlJqSF4KJ9HYTGh8lefy&pid=News&w=1600&h=900&c=14&rs=1"
+      }
     }
   ],
   "last_digest_date": "2026-02-14",
   "last_run": {
-    "utc": "2026-02-14T15:42:32Z",
-    "local": "2026-02-14T23:42:20+08:00",
+    "utc": "2026-02-14T15:59:05Z",
+    "local": "2026-02-14T23:58:52+08:00",
     "tz": "Asia/Shanghai",
     "local_hour": 23,
     "quiet": true,
     "sources_ok": 9,
     "sources_fail": 0,
-    "entries_total": 192,
-    "new": 3,
+    "entries_total": 193,
+    "new": 2,
     "pushed_ok": 0,
     "pushed_fail": 0,
     "skipped_seen": 62,
-    "skipped_major": 127,
-    "buffered_total": 5,
-    "buffered_added": 3,
-    "seen_size": 330,
+    "skipped_major": 129,
+    "buffered_total": 7,
+    "buffered_added": 2,
+    "seen_size": 332,
     "github": {
       "repo": "zixuouoscaroliver/Oscar-Oliver",
       "workflow": "Telegram News Bot",
-      "run_id": "22020017720",
-      "run_number": "153",
+      "run_id": "22020224940",
+      "run_number": "154",
       "sha": "4f3dfd71e3782371c09853800463db2dc0045ca8",
       "ref": "refs/heads/main",
-      "run_url": "https://github.com/zixuouoscaroliver/Oscar-Oliver/actions/runs/22020017720"
+      "run_url": "https://github.com/zixuouoscaroliver/Oscar-Oliver/actions/runs/22020224940"
     },
     "checkout": {
       "ref": "bot-stable",
