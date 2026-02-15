@@ -289,7 +289,9 @@
     "https://www.reuters.com/business/aerospace-defense/europe-aims-rely-less-us-defence-after-trumps-greenland-push-2026-02-15/": 1771176958,
     "https://www.reuters.com/world/middle-east/trump-told-netanyahu-december-he-would-support-israeli-strikes-irans-missile-2026-02-15/": 1771176958,
     "https://www.scmp.com/news/world/russia-central-asia/article/3343650/us-not-disputing-troubling-european-report-navalny-poisoning-rubio-says?utm_source=rss_feed": 1771176958,
-    "https://apnews.com/article/homan-immigration-agents-minnesota-enforcement-operation-drawdown-5a7940eb9b5100d46efc33a97f524da0": 1771178118
+    "https://apnews.com/article/homan-immigration-agents-minnesota-enforcement-operation-drawdown-5a7940eb9b5100d46efc33a97f524da0": 1771178118,
+    "https://www.economist.com/finance-and-economics/2026/02/15/donald-trumps-schemes-to-juice-the-economy": 1771180139,
+    "https://www.scmp.com/news/world/middle-east/article/3343652/israel-will-begin-contentious-west-bank-land-registration-new-step-deepen-control?utm_source=rss_feed": 1771180139
   },
   "night_buffer": [
     {
@@ -411,34 +413,54 @@
         "published": "Sun, 15 Feb 2026 09:35:00 GMT",
         "image_url": ""
       }
+    },
+    {
+      "source": "Economist",
+      "entry": {
+        "id": "https://www.economist.com/finance-and-economics/2026/02/15/donald-trumps-schemes-to-juice-the-economy",
+        "title": "Donald Trump’s schemes to juice the economy",
+        "link": "https://www.economist.com/finance-and-economics/2026/02/15/donald-trumps-schemes-to-juice-the-economy",
+        "published": "Sun, 15 Feb 2026 10:14:00 GMT",
+        "image_url": "https://www.bing.com/th?id=OVFT.FwaDJqw7ucTIudk0YphXJy&pid=News&w=1600&h=900&c=14&rs=1"
+      }
+    },
+    {
+      "source": "SCMP",
+      "entry": {
+        "id": "https://www.scmp.com/news/world/middle-east/article/3343652/israel-will-begin-contentious-west-bank-land-registration-new-step-deepen-control?utm_source=rss_feed",
+        "title": "Israel will begin contentious West Bank land registration in new step to deepen control",
+        "link": "https://www.scmp.com/news/world/middle-east/article/3343652/israel-will-begin-contentious-west-bank-land-registration-new-step-deepen-control?utm_source=rss_feed",
+        "published": "Sun, 15 Feb 2026 18:26:15 +0000",
+        "image_url": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/02/16/971be426-853e-41a2-94dc-e1abfa7adc38_f18225d2.jpg?itok=UmDdFfIN&v=1771179651"
+      }
     }
   ],
   "last_digest_date": "2026-02-15",
   "last_run": {
-    "utc": "2026-02-15T17:55:28Z",
-    "local": "2026-02-16T01:55:18+08:00",
+    "utc": "2026-02-15T18:29:12Z",
+    "local": "2026-02-16T02:28:59+08:00",
     "tz": "Asia/Shanghai",
-    "local_hour": 1,
+    "local_hour": 2,
     "quiet": true,
     "sources_ok": 9,
     "sources_fail": 0,
     "entries_total": 187,
-    "new": 1,
+    "new": 2,
     "pushed_ok": 0,
     "pushed_fail": 0,
-    "skipped_seen": 53,
-    "skipped_major": 133,
-    "buffered_total": 12,
-    "buffered_added": 1,
-    "seen_size": 289,
+    "skipped_seen": 51,
+    "skipped_major": 134,
+    "buffered_total": 14,
+    "buffered_added": 2,
+    "seen_size": 291,
     "github": {
       "repo": "zixuouoscaroliver/Oscar-Oliver",
       "workflow": "Telegram News Bot",
-      "run_id": "22040346244",
-      "run_number": "201",
+      "run_id": "22040830177",
+      "run_number": "202",
       "sha": "a89f5a686d9e4f1e1c76ef89a17bd8db610de47b",
       "ref": "refs/heads/main",
-      "run_url": "https://github.com/zixuouoscaroliver/Oscar-Oliver/actions/runs/22040346244"
+      "run_url": "https://github.com/zixuouoscaroliver/Oscar-Oliver/actions/runs/22040830177"
     },
     "checkout": {
       "ref": "bot-stable",
