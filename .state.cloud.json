@@ -319,34 +319,34 @@
   "night_buffer": [],
   "last_digest_date": "2026-02-15",
   "last_run": {
-    "utc": "2026-02-15T07:45:08Z",
-    "local": "2026-02-15T15:44:56+08:00",
+    "utc": "2026-02-15T07:54:15Z",
+    "local": "2026-02-15T15:54:04+08:00",
     "tz": "Asia/Shanghai",
     "local_hour": 15,
     "quiet": false,
     "sources_ok": 9,
     "sources_fail": 0,
     "entries_total": 189,
-    "new": 1,
-    "pushed_ok": 1,
+    "new": 0,
+    "pushed_ok": 0,
     "pushed_fail": 0,
     "skipped_seen": 56,
-    "skipped_major": 132,
+    "skipped_major": 133,
     "buffered_total": 0,
     "buffered_added": 0,
     "seen_size": 314,
     "github": {
       "repo": "zixuouoscaroliver/Oscar-Oliver",
       "workflow": "Telegram News Bot",
-      "run_id": "22031970265",
-      "run_number": "179",
-      "sha": "b87a063dae416865743f1385a572a982903e5c83",
+      "run_id": "22032078956",
+      "run_number": "180",
+      "sha": "a89f5a686d9e4f1e1c76ef89a17bd8db610de47b",
       "ref": "refs/heads/main",
-      "run_url": "https://github.com/zixuouoscaroliver/Oscar-Oliver/actions/runs/22031970265"
+      "run_url": "https://github.com/zixuouoscaroliver/Oscar-Oliver/actions/runs/22032078956"
     },
     "checkout": {
       "ref": "bot-stable",
-      "sha": "4f3dfd71e3782371c09853800463db2dc0045ca8"
+      "sha": "a89f5a686d9e4f1e1c76ef89a17bd8db610de47b"
     }
   }
 }
