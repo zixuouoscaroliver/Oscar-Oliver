@@ -1,9 +1,6 @@
 {
   "initialized": true,
   "seen": {
-    "https://www.scmp.com/news/china/diplomacy/article/3343130/bully-vs-sovereignty-how-manila-and-beijing-are-sharpening-their-south-china-sea-messaging?utm_source=rss_feed": 1770880705,
-    "https://www.scmp.com/news/china/diplomacy/article/3343240/trump-and-xi-expected-extend-trade-truce-beijing-summit?utm_source=rss_feed": 1770880705,
-    "https://www.scmp.com/news/world/united-states-canada/article/3343237/us-lawmakers-accuse-bondi-hiding-names-epstein-associates?utm_source=rss_feed": 1770880705,
     "https://apnews.com/article/australia-israel-president-herzog-melbourne-antisemitism-8729580864d4479a6d0bf065a8d4d475": 1770883342,
     "https://apnews.com/article/europe-eu-trump-china-russia-rethink-6461ea032aa4e3aa8e133bc5080ab922": 1770883342,
     "https://apnews.com/article/us-funding-shelter-scam-compounds-trafficking-victims-85a69706c6b917e32ae7e2d4797cd9c2": 1770883342,
@@ -316,35 +313,36 @@
     "tag:theatlantic.com,2021:50-620252": 1771139023,
     "https://www.reuters.com/world/rubio-visit-eastern-europe-bolster-ties-with-pro-trump-leaders-2026-02-15/": 1771139023,
     "https://www.scmp.com/tech/big-tech/article/3343614/beijing-warns-tech-giants-curb-involution-amid-ai-giveaway-war?utm_source=rss_feed": 1771139023,
-    "https://www.scmp.com/news/asia/southeast-asia/article/3343615/how-things-went-downhill-vietnams-once-booming-cryptocurrency-traders?utm_source=rss_feed": 1771139023
+    "https://www.scmp.com/news/asia/southeast-asia/article/3343615/how-things-went-downhill-vietnams-once-booming-cryptocurrency-traders?utm_source=rss_feed": 1771139023,
+    "https://www.scmp.com/news/asia/southeast-asia/article/3343621/malaysia-seeks-seize-saudi-princes-overseas-assets-worth-us115-million?utm_source=rss_feed": 1771141496
   },
   "night_buffer": [],
   "last_digest_date": "2026-02-15",
   "last_run": {
-    "utc": "2026-02-15T07:04:00Z",
-    "local": "2026-02-15T15:03:43+08:00",
+    "utc": "2026-02-15T07:45:08Z",
+    "local": "2026-02-15T15:44:56+08:00",
     "tz": "Asia/Shanghai",
     "local_hour": 15,
     "quiet": false,
     "sources_ok": 9,
     "sources_fail": 0,
     "entries_total": 189,
-    "new": 9,
-    "pushed_ok": 9,
+    "new": 1,
+    "pushed_ok": 1,
     "pushed_fail": 0,
-    "skipped_seen": 45,
-    "skipped_major": 131,
+    "skipped_seen": 56,
+    "skipped_major": 132,
     "buffered_total": 0,
     "buffered_added": 0,
-    "seen_size": 316,
+    "seen_size": 314,
     "github": {
       "repo": "zixuouoscaroliver/Oscar-Oliver",
       "workflow": "Telegram News Bot",
-      "run_id": "22031477441",
-      "run_number": "178",
+      "run_id": "22031970265",
+      "run_number": "179",
       "sha": "b87a063dae416865743f1385a572a982903e5c83",
       "ref": "refs/heads/main",
-      "run_url": "https://github.com/zixuouoscaroliver/Oscar-Oliver/actions/runs/22031477441"
+      "run_url": "https://github.com/zixuouoscaroliver/Oscar-Oliver/actions/runs/22031970265"
     },
     "checkout": {
       "ref": "bot-stable",
