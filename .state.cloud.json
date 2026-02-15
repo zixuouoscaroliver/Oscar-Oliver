@@ -1,7 +1,6 @@
 {
   "initialized": true,
   "seen": {
-    "https://apnews.com/article/homeland-security-funding-shutdown-democrats-trump-4e9c4cebd45396e77f8333fd6cc31944": 1770933276,
     "https://nypost.com/?post_type=article&p=38472759": 1770935094,
     "https://apnews.com/article/ice-congress-trump-minneapolis-alex-pretti-hearing-ada1986f0c4639e96a6f7bf06f2856c3": 1770935094,
     "https://www.reuters.com/business/aerospace-defense/us-taiwan-finalize-deal-cut-tariffs-boost-purchases-us-goods-2026-02-12/": 1770935094,
@@ -494,10 +493,10 @@
   ],
   "last_digest_date": "2026-02-15",
   "last_run": {
-    "utc": "2026-02-15T21:53:29Z",
-    "local": "2026-02-16T05:53:16+08:00",
+    "utc": "2026-02-15T22:13:03Z",
+    "local": "2026-02-16T06:12:52+08:00",
     "tz": "Asia/Shanghai",
-    "local_hour": 5,
+    "local_hour": 6,
     "quiet": true,
     "sources_ok": 9,
     "sources_fail": 0,
@@ -505,19 +504,19 @@
     "new": 0,
     "pushed_ok": 0,
     "pushed_fail": 0,
-    "skipped_seen": 51,
-    "skipped_major": 137,
+    "skipped_seen": 54,
+    "skipped_major": 134,
     "buffered_total": 21,
     "buffered_added": 0,
-    "seen_size": 278,
+    "seen_size": 277,
     "github": {
       "repo": "zixuouoscaroliver/Oscar-Oliver",
       "workflow": "Telegram News Bot",
-      "run_id": "22043738732",
-      "run_number": "210",
+      "run_id": "22044031707",
+      "run_number": "211",
       "sha": "a89f5a686d9e4f1e1c76ef89a17bd8db610de47b",
       "ref": "refs/heads/main",
-      "run_url": "https://github.com/zixuouoscaroliver/Oscar-Oliver/actions/runs/22043738732"
+      "run_url": "https://github.com/zixuouoscaroliver/Oscar-Oliver/actions/runs/22044031707"
     },
     "checkout": {
       "ref": "bot-stable",
