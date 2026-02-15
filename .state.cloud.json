@@ -1,11 +1,6 @@
 {
   "initialized": true,
   "seen": {
-    "https://www.economist.com/culture/2026/02/12/africa-needs-to-follow-asias-path-to-grow": 1770926621,
-    "https://apnews.com/article/trump-climate-change-epa-clean-air-act-c149d5ea6ec71c862e6c4b578adf92cd": 1770926621,
-    "https://apnews.com/article/ukraine-helmet-aa8ca146d2ab92328b62aca59560c1bc": 1770926621,
-    "https://apnews.com/article/afghan-baby-adoption-marine-virginia-3703a5a979633bcd000e537e6eb1f5ff": 1770926621,
-    "https://www.reuters.com/world/trump-cannot-end-deportation-protections-south-sudanese-nationals-us-judge-rules-2026-02-12/": 1770926621,
     "https://nypost.com/?post_type=article&p=38471449": 1770929284,
     "https://nypost.com/?post_type=article&p=38470342": 1770929284,
     "https://apnews.com/video/trump-urges-quick-deal-with-iran-to-avoid-traumatic-outcome-758cac1389e44591bdd635f331858e3a": 1770929284,
@@ -475,8 +470,8 @@
   ],
   "last_digest_date": "2026-02-15",
   "last_run": {
-    "utc": "2026-02-15T20:00:41Z",
-    "local": "2026-02-16T04:00:30+08:00",
+    "utc": "2026-02-15T20:38:39Z",
+    "local": "2026-02-16T04:38:28+08:00",
     "tz": "Asia/Shanghai",
     "local_hour": 4,
     "quiet": true,
@@ -490,15 +485,15 @@
     "skipped_major": 136,
     "buffered_total": 18,
     "buffered_added": 0,
-    "seen_size": 289,
+    "seen_size": 284,
     "github": {
       "repo": "zixuouoscaroliver/Oscar-Oliver",
       "workflow": "Telegram News Bot",
-      "run_id": "22042118744",
-      "run_number": "206",
+      "run_id": "22042668549",
+      "run_number": "207",
       "sha": "a89f5a686d9e4f1e1c76ef89a17bd8db610de47b",
       "ref": "refs/heads/main",
-      "run_url": "https://github.com/zixuouoscaroliver/Oscar-Oliver/actions/runs/22042118744"
+      "run_url": "https://github.com/zixuouoscaroliver/Oscar-Oliver/actions/runs/22042668549"
     },
     "checkout": {
       "ref": "bot-stable",
