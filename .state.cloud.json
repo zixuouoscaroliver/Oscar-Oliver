@@ -277,7 +277,8 @@
     "https://www.scmp.com/opinion/china-opinion/article/3343423/can-manilas-south-china-sea-strategy-defiance-and-diplomacy-hold?utm_source=rss_feed": 1771191274,
     "https://www.reuters.com/world/asia-pacific/australian-takeover-target-bluescope-beats-estimate-with-first-half-earnings-2026-02-15/": 1771195478,
     "https://www.reuters.com/world/asia-pacific/new-zealands-a2-milk-posts-94-rise-interim-earnings-2026-02-15/": 1771195478,
-    "https://www.reuters.com/sports/alpine-skiing-african-caribbean-skiers-unite-call-more-inclusion-support-2026-02-15/": 1771196462
+    "https://www.reuters.com/sports/alpine-skiing-african-caribbean-skiers-unite-call-more-inclusion-support-2026-02-15/": 1771196462,
+    "https://nypost.com/?post_type=article&p=38499710": 1771198568
   },
   "night_buffer": [
     {
@@ -519,34 +520,44 @@
         "published": "Sun, 15 Feb 2026 13:46:00 GMT",
         "image_url": "https://www.bing.com/th?id=OVFT._PMfeb0Lzy_WnR_7k4h2iy&pid=News&w=1600&h=900&c=14&rs=1"
       }
+    },
+    {
+      "source": "NYP",
+      "entry": {
+        "id": "https://nypost.com/?post_type=article&p=38499710",
+        "title": "Pilot couple killed in plane crash caused by dirty windshield — but their dog survives",
+        "link": "https://nypost.com/2026/02/15/us-news/pilot-couple-killed-in-plane-crash-caused-by-dirty-windshield-but-their-dog-survives/",
+        "published": "Sun, 15 Feb 2026 18:12:09 -0500",
+        "image_url": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F02%2Fcomp-texas-plane-crash-121403212.jpg?quality%3D90%26strip%3Dall"
+      }
     }
   ],
   "last_digest_date": "2026-02-15",
   "last_run": {
-    "utc": "2026-02-15T23:01:15Z",
-    "local": "2026-02-16T07:01:02+08:00",
+    "utc": "2026-02-15T23:36:19Z",
+    "local": "2026-02-16T07:36:08+08:00",
     "tz": "Asia/Shanghai",
     "local_hour": 7,
     "quiet": true,
     "sources_ok": 9,
     "sources_fail": 0,
-    "entries_total": 187,
+    "entries_total": 186,
     "new": 1,
     "pushed_ok": 0,
     "pushed_fail": 0,
-    "skipped_seen": 47,
-    "skipped_major": 139,
-    "buffered_total": 24,
+    "skipped_seen": 49,
+    "skipped_major": 136,
+    "buffered_total": 25,
     "buffered_added": 1,
-    "seen_size": 277,
+    "seen_size": 278,
     "github": {
       "repo": "zixuouoscaroliver/Oscar-Oliver",
       "workflow": "Telegram News Bot",
-      "run_id": "22044715885",
-      "run_number": "213",
+      "run_id": "22045223238",
+      "run_number": "214",
       "sha": "a89f5a686d9e4f1e1c76ef89a17bd8db610de47b",
       "ref": "refs/heads/main",
-      "run_url": "https://github.com/zixuouoscaroliver/Oscar-Oliver/actions/runs/22044715885"
+      "run_url": "https://github.com/zixuouoscaroliver/Oscar-Oliver/actions/runs/22045223238"
     },
     "checkout": {
       "ref": "bot-stable",
