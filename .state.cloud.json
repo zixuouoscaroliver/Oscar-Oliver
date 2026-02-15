@@ -1,9 +1,6 @@
 {
   "initialized": true,
   "seen": {
-    "https://www.reuters.com/sports/skeleton-ukraines-heraskevych-disqualified-over-helmet-controversy-2026-02-12/": 1770886836,
-    "https://www.scmp.com/news/asia/east-asia/article/3343314/japans-us550-billion-promise-trump-just-signing-bonus-strings-attached?utm_source=rss_feed": 1770886836,
-    "https://www.scmp.com/week-asia/economics/article/3343310/singapore-budget-lawrence-wong-unveils-ai-ambitions-uncertain-world?utm_source=rss_feed": 1770886836,
     "https://www.reuters.com/world/europe/ukrainian-capital-kyiv-under-massive-attack-russian-missiles-officials-say-2026-02-12/": 1770890483,
     "https://www.reuters.com/world/asia-pacific/vietnams-lam-expected-attend-board-peace-meeting-us-next-week-sources-say-2026-02-12/": 1770890483,
     "https://www.scmp.com/news/china/diplomacy/article/3343335/philippines-rebukes-china-over-travel-ban-kalayaan-officials?utm_source=rss_feed": 1770890483,
@@ -312,35 +309,36 @@
     "https://www.scmp.com/news/asia/southeast-asia/article/3343621/malaysia-seeks-seize-saudi-princes-overseas-assets-worth-us115-million?utm_source=rss_feed": 1771141496,
     "https://www.scmp.com/week-asia/health-environment/article/3343458/malaysia-says-no-e-waste-dumping-can-its-ban-stop-global-trade?utm_source=rss_feed": 1771142474,
     "https://nypost.com/?post_type=article&p=38497658": 1771145203,
-    "https://www.reuters.com/world/europe/russias-taman-port-damaged-by-ukrainian-drone-strike-2026-02-15/": 1771145203
+    "https://www.reuters.com/world/europe/russias-taman-port-damaged-by-ukrainian-drone-strike-2026-02-15/": 1771145203,
+    "https://www.reuters.com/world/middle-east/israeli-airstrikes-kill-9-gaza-including-tent-camp-palestinian-officials-say-2026-02-15/": 1771146948
   },
   "night_buffer": [],
   "last_digest_date": "2026-02-15",
   "last_run": {
-    "utc": "2026-02-15T08:46:58Z",
-    "local": "2026-02-15T16:46:43+08:00",
+    "utc": "2026-02-15T09:16:01Z",
+    "local": "2026-02-15T17:15:48+08:00",
     "tz": "Asia/Shanghai",
-    "local_hour": 16,
+    "local_hour": 17,
     "quiet": false,
     "sources_ok": 9,
     "sources_fail": 0,
-    "entries_total": 189,
-    "new": 2,
-    "pushed_ok": 2,
+    "entries_total": 190,
+    "new": 1,
+    "pushed_ok": 1,
     "pushed_fail": 0,
-    "skipped_seen": 53,
+    "skipped_seen": 55,
     "skipped_major": 134,
     "buffered_total": 0,
     "buffered_added": 0,
-    "seen_size": 312,
+    "seen_size": 310,
     "github": {
       "repo": "zixuouoscaroliver/Oscar-Oliver",
       "workflow": "Telegram News Bot",
-      "run_id": "22032745683",
-      "run_number": "182",
+      "run_id": "22033135803",
+      "run_number": "183",
       "sha": "a89f5a686d9e4f1e1c76ef89a17bd8db610de47b",
       "ref": "refs/heads/main",
-      "run_url": "https://github.com/zixuouoscaroliver/Oscar-Oliver/actions/runs/22032745683"
+      "run_url": "https://github.com/zixuouoscaroliver/Oscar-Oliver/actions/runs/22033135803"
     },
     "checkout": {
       "ref": "bot-stable",
