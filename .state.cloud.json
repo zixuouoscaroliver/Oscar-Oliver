@@ -276,7 +276,8 @@
     "https://nypost.com/?post_type=article&p=38500529": 1771189164,
     "https://www.scmp.com/opinion/china-opinion/article/3343423/can-manilas-south-china-sea-strategy-defiance-and-diplomacy-hold?utm_source=rss_feed": 1771191274,
     "https://www.reuters.com/world/asia-pacific/australian-takeover-target-bluescope-beats-estimate-with-first-half-earnings-2026-02-15/": 1771195478,
-    "https://www.reuters.com/world/asia-pacific/new-zealands-a2-milk-posts-94-rise-interim-earnings-2026-02-15/": 1771195478
+    "https://www.reuters.com/world/asia-pacific/new-zealands-a2-milk-posts-94-rise-interim-earnings-2026-02-15/": 1771195478,
+    "https://www.reuters.com/sports/alpine-skiing-african-caribbean-skiers-unite-call-more-inclusion-support-2026-02-15/": 1771196462
   },
   "night_buffer": [
     {
@@ -508,34 +509,44 @@
         "published": "Sun, 15 Feb 2026 10:42:00 GMT",
         "image_url": ""
       }
+    },
+    {
+      "source": "Reuters",
+      "entry": {
+        "id": "https://www.reuters.com/sports/alpine-skiing-african-caribbean-skiers-unite-call-more-inclusion-support-2026-02-15/",
+        "title": "African and Caribbean skiers unite at Olympics to call for more inclusion, support",
+        "link": "https://www.reuters.com/sports/alpine-skiing-african-caribbean-skiers-unite-call-more-inclusion-support-2026-02-15/",
+        "published": "Sun, 15 Feb 2026 13:46:00 GMT",
+        "image_url": "https://www.bing.com/th?id=OVFT._PMfeb0Lzy_WnR_7k4h2iy&pid=News&w=1600&h=900&c=14&rs=1"
+      }
     }
   ],
   "last_digest_date": "2026-02-15",
   "last_run": {
-    "utc": "2026-02-15T22:44:51Z",
-    "local": "2026-02-16T06:44:38+08:00",
+    "utc": "2026-02-15T23:01:15Z",
+    "local": "2026-02-16T07:01:02+08:00",
     "tz": "Asia/Shanghai",
-    "local_hour": 6,
+    "local_hour": 7,
     "quiet": true,
     "sources_ok": 9,
     "sources_fail": 0,
-    "entries_total": 186,
-    "new": 2,
+    "entries_total": 187,
+    "new": 1,
     "pushed_ok": 0,
     "pushed_fail": 0,
-    "skipped_seen": 49,
-    "skipped_major": 135,
-    "buffered_total": 23,
-    "buffered_added": 2,
-    "seen_size": 276,
+    "skipped_seen": 47,
+    "skipped_major": 139,
+    "buffered_total": 24,
+    "buffered_added": 1,
+    "seen_size": 277,
     "github": {
       "repo": "zixuouoscaroliver/Oscar-Oliver",
       "workflow": "Telegram News Bot",
-      "run_id": "22044484965",
-      "run_number": "212",
+      "run_id": "22044715885",
+      "run_number": "213",
       "sha": "a89f5a686d9e4f1e1c76ef89a17bd8db610de47b",
       "ref": "refs/heads/main",
-      "run_url": "https://github.com/zixuouoscaroliver/Oscar-Oliver/actions/runs/22044484965"
+      "run_url": "https://github.com/zixuouoscaroliver/Oscar-Oliver/actions/runs/22044715885"
     },
     "checkout": {
       "ref": "bot-stable",
