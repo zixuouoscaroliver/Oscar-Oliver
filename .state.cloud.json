@@ -1,16 +1,6 @@
 {
   "initialized": true,
   "seen": {
-    "https://nypost.com/?post_type=article&p=38464937": 1770866152,
-    "https://nypost.com/?post_type=article&p=38464907": 1770866152,
-    "https://nypost.com/?post_type=article&p=38464574": 1770866152,
-    "https://apnews.com/article/bangladesh-election-hasina-bnp-3662258dc5c44535c839e7bcc4baed43": 1770866152,
-    "https://www.reuters.com/world/us/us-house-backs-bid-end-canada-tariffs-rare-rebuke-trump-2026-02-11/": 1770866152,
-    "https://www.reuters.com/business/healthcare-pharmaceuticals/four-states-sue-trump-administration-over-cuts-public-health-funding-2026-02-12/": 1770866152,
-    "https://www.reuters.com/world/asia-pacific/teacher-dies-after-thailand-school-shooting-2026-02-12/": 1770866152,
-    "https://www.scmp.com/week-asia/people/article/3343199/indonesias-tourist-visa-scheme-vulnerable-abuse-bali-gambling-bust-renews-concern?utm_source=rss_feed": 1770866152,
-    "https://www.scmp.com/economy/china-economy/article/3343187/trump-factor-why-china-may-benefit-investors-diversify-us-dollar-assets?utm_source=rss_feed": 1770866152,
-    "https://www.scmp.com/week-asia/politics/article/3343191/japans-new-opposition-alliance-already-dead-water?utm_source=rss_feed": 1770866152,
     "https://nypost.com/?post_type=article&p=38465963": 1770872987,
     "https://nypost.com/?post_type=article&p=38465538": 1770872987,
     "https://nypost.com/?post_type=article&p=38465932": 1770872987,
@@ -327,366 +317,43 @@
     "https://nypost.com/?post_type=article&p=38487777": 1771109751,
     "https://nypost.com/?post_type=article&p=38494284": 1771109751,
     "https://nypost.com/?post_type=article&p=38494801": 1771112596,
-    "https://www.reuters.com/sports/freestyle-ukrainian-skier-gets-finals-spot-fiance-valentines-day-2026-02-14/": 1771112596
+    "https://www.reuters.com/sports/freestyle-ukrainian-skier-gets-finals-spot-fiance-valentines-day-2026-02-14/": 1771112596,
+    "https://nypost.com/?post_type=article&p=38496302": 1771125428,
+    "https://nypost.com/?post_type=article&p=38495930": 1771125428,
+    "https://www.economist.com/europe/2026/02/10/emmanuel-macron-declares-a-european-state-of-emergency": 1771125428,
+    "https://apnews.com/article/denmark-greenland-trump-hockey-flag-olympics-feae456efe1a8dcd60aa3271e6a31dc9": 1771125428,
+    "https://apnews.com/article/denmark-us-hockey-olympics-greenland-dd95d7420e52740c9da7436bf38dcbaf": 1771125428,
+    "https://apnews.com/article/sudan-rsf-darfur-fasher-un-report-6399bc86352cecd459dd5dd77e5e11f2": 1771125428,
+    "https://www.scmp.com/news/world/united-states-canada/article/3343605/barack-obama-blasts-clown-show-after-trumps-racist-monkey-video?utm_source=rss_feed": 1771125428,
+    "https://www.scmp.com/news/world/united-states-canada/article/3343604/trumps-valentines-day-cards-feature-maduro-greenland-and-mockery?utm_source=rss_feed": 1771125428
   },
-  "night_buffer": [
-    {
-      "source": "NYP",
-      "entry": {
-        "id": "https://nypost.com/?post_type=article&p=38491488",
-        "title": "Marco Rubio calls US ‘child of Europe’ in push to dismiss ‘end of the transatlantic era’ claims",
-        "link": "https://nypost.com/2026/02/14/world-news/marco-rubio-calls-us-child-of-europe-in-push-to-dismiss-end-of-the-transatlantic-era-claims/",
-        "published": "Sat, 14 Feb 2026 10:01:39 -0500",
-        "image_url": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F02%2Fnewspress-collage-zs8178fvr-1771080528734.jpg?quality%3D90%26strip%3Dall%261771062558"
-      }
-    },
-    {
-      "source": "WaPo",
-      "entry": {
-        "id": "https://www.washingtonpost.com/world/2026/02/14/alexei-navalny-russia-death-poison-frog/",
-        "title": "‘Highly likely’ that rare poison killed Putin nemesis Navalny, Europeans say",
-        "link": "https://www.washingtonpost.com/world/2026/02/14/alexei-navalny-russia-death-poison-frog/",
-        "published": "Sat, 14 Feb 2026 15:05:39 +0000",
-        "image_url": ""
-      }
-    },
-    {
-      "source": "NYP",
-      "entry": {
-        "id": "https://nypost.com/?post_type=article&p=38472265",
-        "title": "Vladimir Putin’s finally starting to sweat — so it’s time for Trump to turn up the heat",
-        "link": "https://nypost.com/2026/02/14/opinion/putins-finally-starting-to-sweat-time-for-trump-to-turn-up-the-heat/",
-        "published": "Sat, 14 Feb 2026 10:42:00 -0500",
-        "image_url": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F02%2Fpool-photograph-distributed-russian-state-121165694.jpg?quality%3D90%26strip%3Dall"
-      }
-    },
-    {
-      "source": "NYP",
-      "entry": {
-        "id": "https://nypost.com/?post_type=article&p=38491288",
-        "title": "Military experts debunk AOC’s claim that Israel ‘enabled a genocide in Gaza’",
-        "link": "https://nypost.com/2026/02/14/world-news/military-experts-debunk-aocs-gaza-genocide-claims-at-munich-conference/",
-        "published": "Sat, 14 Feb 2026 10:39:08 -0500",
-        "image_url": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F02%2FAOC-GAZA-1.jpg?quality%3D90%26strip%3Dall"
-      }
-    },
-    {
-      "source": "SCMP",
-      "entry": {
-        "id": "https://www.scmp.com/news/world/article/3343596/world-artists-back-palestine-rapporteur-francesca-albanese-despite-criticism?utm_source=rss_feed",
-        "title": "World artists back Palestine rapporteur Francesca Albanese despite criticism",
-        "link": "https://www.scmp.com/news/world/article/3343596/world-artists-back-palestine-rapporteur-francesca-albanese-despite-criticism?utm_source=rss_feed",
-        "published": "Sat, 14 Feb 2026 15:17:56 +0000",
-        "image_url": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/02/14/9b3f085b-1b9d-4eaf-8b41-aef664a36734_30914a9c.jpg?itok=h5nYfQe7&v=1771082272"
-      }
-    },
-    {
-      "source": "Economist",
-      "entry": {
-        "id": "https://www.economist.com/europe/2026/02/12/the-european-onion-is-a-joke-whose-time-has-come",
-        "title": "The European Onion is a joke whose time has come",
-        "link": "https://www.economist.com/europe/2026/02/12/the-european-onion-is-a-joke-whose-time-has-come",
-        "published": "Thu, 12 Feb 2026 05:56:00 GMT",
-        "image_url": "https://www.bing.com/th?id=OVFT.tYcBKVmhbcHvcmaGBVFGWC&pid=News&w=1600&h=900&c=14&rs=1"
-      }
-    },
-    {
-      "source": "Reuters",
-      "entry": {
-        "id": "https://www.reuters.com/world/european-reaction-rubios-speech-transatlantic-ties-munich-security-conference-2026-02-14/",
-        "title": "European reaction to Rubio's speech on transatlantic ties at Munich Security Conference",
-        "link": "https://www.reuters.com/world/european-reaction-rubios-speech-transatlantic-ties-munich-security-conference-2026-02-14/",
-        "published": "Sat, 14 Feb 2026 06:14:00 GMT",
-        "image_url": "https://www.bing.com/th?id=OVFT.xiJlJqSF4KJ9HYTGh8lefy&pid=News&w=1600&h=900&c=14&rs=1"
-      }
-    },
-    {
-      "source": "NYP",
-      "entry": {
-        "id": "https://nypost.com/?post_type=article&p=38491717",
-        "title": "Man shot dead at Culver City mall days after Bondi sparked outrage for calling out crime in area",
-        "link": "https://nypost.com/2026/02/14/us-news/man-dead-following-culver-city-mall-shooting/",
-        "published": "Sat, 14 Feb 2026 11:29:44 -0500",
-        "image_url": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F02%2Fmall-shooting-comp.jpg?quality%3D90%26strip%3Dall"
-      }
-    },
-    {
-      "source": "Reuters",
-      "entry": {
-        "id": "https://www.reuters.com/world/europe/uk-allies-say-theyre-convinced-kremlin-critic-navalny-was-poisoned-2026-02-14/",
-        "title": "Navalny's death was caused by dart frog poison, European allies say",
-        "link": "https://www.reuters.com/world/europe/uk-allies-say-theyre-convinced-kremlin-critic-navalny-was-poisoned-2026-02-14/",
-        "published": "Sat, 14 Feb 2026 04:20:00 GMT",
-        "image_url": ""
-      }
-    },
-    {
-      "source": "Reuters",
-      "entry": {
-        "id": "https://www.reuters.com/business/finance/ecb-makes-euro-backstop-global-bolster-currencys-role-2026-02-14/",
-        "title": "ECB makes euro backstop global to bolster currency's role",
-        "link": "https://www.reuters.com/business/finance/ecb-makes-euro-backstop-global-bolster-currencys-role-2026-02-14/",
-        "published": "Sat, 14 Feb 2026 07:33:00 GMT",
-        "image_url": "https://www.bing.com/th?id=OVFT.lRLXq2ots0bXUuE7U9-qoy&pid=News&w=1600&h=900&c=14&rs=1"
-      }
-    },
-    {
-      "source": "SCMP",
-      "entry": {
-        "id": "https://www.scmp.com/news/world/russia-central-asia/article/3343599/russia-poisoned-alexei-navalny-dart-frog-toxin-european-nations-say?utm_source=rss_feed",
-        "title": "Russia poisoned Alexei Navalny with dart frog toxin, European nations say",
-        "link": "https://www.scmp.com/news/world/russia-central-asia/article/3343599/russia-poisoned-alexei-navalny-dart-frog-toxin-european-nations-say?utm_source=rss_feed",
-        "published": "Sat, 14 Feb 2026 16:36:14 +0000",
-        "image_url": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/02/15/aaf89669-eb39-4769-a3df-e71265b03c5a_3a0c3067.jpg?itok=xHExeHnE&v=1771086965"
-      }
-    },
-    {
-      "source": "Economist",
-      "entry": {
-        "id": "https://www.economist.com/europe/2026/02/14/america-offers-europe-warmer-words-but-a-deep-chill-remains",
-        "title": "America offers Europe warmer words, but a deep chill remains",
-        "link": "https://www.economist.com/europe/2026/02/14/america-offers-europe-warmer-words-but-a-deep-chill-remains",
-        "published": "Sat, 14 Feb 2026 08:44:00 GMT",
-        "image_url": "https://www.bing.com/th?id=OVFT.v9I4R5ILeLF1xgQunHB8Jy&pid=News&w=1600&h=900&c=14&rs=1"
-      }
-    },
-    {
-      "source": "Reuters",
-      "entry": {
-        "id": "https://www.reuters.com/business/finance/ecb-opens-up-euro-lifeline-bid-boost-global-role-2026-02-14/",
-        "title": "ECB opens up euro lifeline in bid to boost global role",
-        "link": "https://www.reuters.com/business/finance/ecb-opens-up-euro-lifeline-bid-boost-global-role-2026-02-14/",
-        "published": "Sat, 14 Feb 2026 07:47:00 GMT",
-        "image_url": "https://www.bing.com/th?id=OVFT.N4E0Cz3NkGnhut75B3y8mC&pid=News&w=1600&h=900&c=14&rs=1"
-      }
-    },
-    {
-      "source": "NYP",
-      "entry": {
-        "id": "https://nypost.com/?post_type=article&p=38492497",
-        "title": "Trump slams Bill Maher in Truth Social post as ‘extremely nervous,’ ‘ZERO confidence in himself’",
-        "link": "https://nypost.com/2026/02/14/us-news/trump-slams-bill-maher-in-truth-social-post-as-extremely-nervous-zero-confidence-in-himself/",
-        "published": "Sat, 14 Feb 2026 12:45:57 -0500",
-        "image_url": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F02%2Fcrop-38492614.jpg?quality%3D90%26strip%3Dall"
-      }
-    },
-    {
-      "source": "NYP",
-      "entry": {
-        "id": "https://nypost.com/?post_type=article&p=38492528",
-        "title": "Gavin Newsom calls Trump ‘un-American’ after ditching California for second overseas trip in less than a month",
-        "link": "https://nypost.com/2026/02/14/us-news/gavin-newsom-calls-trump-un-american-after-ditching-california-for-second-overseas-trip-in-less-than-a-month/",
-        "published": "Sat, 14 Feb 2026 12:38:58 -0500",
-        "image_url": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F02%2Fwww-youtube-com-watch-v-121293599.jpg?quality%3D90%26strip%3Dall"
-      }
-    },
-    {
-      "source": "NYP",
-      "entry": {
-        "id": "https://nypost.com/?post_type=article&p=38492596",
-        "title": "AOC accuses Israel of ‘genocide’ while in Germany — the home of the Holocaust: ‘Shocking ignorance’",
-        "link": "https://nypost.com/2026/02/14/world-news/aoc-accuses-israel-of-genocide-while-in-germany-the-home-of-the-holocaust-shocking-ignorance/",
-        "published": "Sat, 14 Feb 2026 13:19:55 -0500",
-        "image_url": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F02%2F121277663.jpg?quality%3D90%26strip%3Dall"
-      }
-    },
-    {
-      "source": "AP NEWS",
-      "entry": {
-        "id": "https://apnews.com/article/winter-olympics-milan-cortina-russia-8f399664dc4fdb8a70064fedb8b9b980",
-        "title": "How an Olympic skating star born in Russia became a medal contender for Germany",
-        "link": "https://apnews.com/article/winter-olympics-milan-cortina-russia-8f399664dc4fdb8a70064fedb8b9b980",
-        "published": "Sat, 14 Feb 2026 09:20:00 GMT",
-        "image_url": ""
-      }
-    },
-    {
-      "source": "Reuters",
-      "entry": {
-        "id": "https://www.reuters.com/sports/cricket/markram-powers-south-africa-seven-wicket-win-over-new-zealand-t20-world-cup-2026-02-14/",
-        "title": "Markram powers South Africa to seven-wicket win over New Zealand in T20 World Cup",
-        "link": "https://www.reuters.com/sports/cricket/markram-powers-south-africa-seven-wicket-win-over-new-zealand-t20-world-cup-2026-02-14/",
-        "published": "Sat, 14 Feb 2026 08:34:00 GMT",
-        "image_url": "https://www.bing.com/th?id=OVFT.d5qhZr6A68WHaHNpHYWO1C&pid=News&w=1600&h=900&c=14&rs=1"
-      }
-    },
-    {
-      "source": "NYP",
-      "entry": {
-        "id": "https://nypost.com/?post_type=article&p=38492835",
-        "title": "Northern Iowa freshman football player Parker Sutherland dead at 18",
-        "link": "https://nypost.com/2026/02/14/sports/northern-iowa-football-freshman-parker-sutherland-dead-at-18/",
-        "published": "Sat, 14 Feb 2026 14:19:43 -0500",
-        "image_url": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F02%2Fnewspress-collage-k03vljip1-1771094493770.jpg?quality%3D90%26strip%3Dall%261771076526"
-      }
-    },
-    {
-      "source": "NYP",
-      "entry": {
-        "id": "https://nypost.com/?post_type=article&p=38493255",
-        "title": "Witkoff and Kushner reportedly tell Trump nuclear deal with Iran ‘difficult to impossible’",
-        "link": "https://nypost.com/2026/02/14/world-news/witkoff-and-kushner-reportedly-tell-trump-nuclear-deal-with-iran-difficult-to-impossible/",
-        "published": "Sat, 14 Feb 2026 14:54:18 -0500",
-        "image_url": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F02%2F121303072.jpg?quality%3D90%26strip%3Dall"
-      }
-    },
-    {
-      "source": "NYP",
-      "entry": {
-        "id": "https://nypost.com/?post_type=article&p=38491849",
-        "title": "Olympics store employee yells ‘Free Palestine’ at Israel fans",
-        "link": "https://nypost.com/2026/02/14/sports/olympics-store-worker-shouts-free-palestine-at-israel-fans-in-italy/",
-        "published": "Sat, 14 Feb 2026 14:51:29 -0500",
-        "image_url": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F02%2Fcrop-38492080.jpg?quality%3D90%26strip%3Dall"
-      }
-    },
-    {
-      "source": "NYP",
-      "entry": {
-        "id": "https://nypost.com/?post_type=article&p=38487212",
-        "title": "How Trump is righting the economic ship after the SS Biden disaster",
-        "link": "https://nypost.com/2026/02/14/opinion/trump-is-righting-the-economic-ship-after-the-biden-disaster/",
-        "published": "Sat, 14 Feb 2026 15:38:49 -0500",
-        "image_url": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F02%2F15PS.CC21.C.TA_-1.jpg?quality%3D90%26strip%3Dall"
-      }
-    },
-    {
-      "source": "NYP",
-      "entry": {
-        "id": "https://pagesix.com/?post_type=article&p=8752149",
-        "title": "Rosie O’Donnell reveals secret return to US to ‘see if it was safe’ after Trump citizenship threat",
-        "link": "https://pagesix.com/2026/02/14/celebrity-news/rosie-odonnell-reveals-secret-return-to-us/",
-        "published": "Sat, 14 Feb 2026 15:57:10 -0500",
-        "image_url": "https://pagesix.com/wp-content%2Fuploads%2Fsites%2F3%2F2026%2F02%2F121302018.jpg?quality%3D90%26strip%3Dall"
-      }
-    },
-    {
-      "source": "NYP",
-      "entry": {
-        "id": "https://pagesix.com/2026/02/14/celebrity-news/rosie-odonnell-reveals-secret-return-to-us/",
-        "title": "Rosie O’Donnell reveals secret return to US to ‘see if it was safe’ after Trump citizenship threat",
-        "link": "https://pagesix.com/2026/02/14/celebrity-news/rosie-odonnell-reveals-secret-return-to-us/",
-        "published": "Sat, 14 Feb 2026 15:57:10 -0500",
-        "image_url": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F02%2F121302018.jpg?quality%3D90%26strip%3Dall"
-      }
-    },
-    {
-      "source": "NYP",
-      "entry": {
-        "id": "https://nypost.com/?post_type=article&p=38492672",
-        "title": "Americans think World War III is likely within next 5 years, new poll shows",
-        "link": "https://nypost.com/2026/02/14/world-news/americans-think-world-war-iii-is-likely-in-next-5-years-new-poll-shows/",
-        "published": "Sat, 14 Feb 2026 16:23:29 -0500",
-        "image_url": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F02%2Fnaval-vessels-seen-bridge-spanish-121296048.jpg?quality%3D90%26strip%3Dall"
-      }
-    },
-    {
-      "source": "AP NEWS",
-      "entry": {
-        "id": "https://apnews.com/article/israel-palestinians-hamas-war-news-02-14-2026-fce5aeb2f708e9461795db7edd783de6",
-        "title": "MSF suspends some work at Gaza’s Nasser Hospital due to presence of armed men",
-        "link": "https://apnews.com/article/israel-palestinians-hamas-war-news-02-14-2026-fce5aeb2f708e9461795db7edd783de6",
-        "published": "Sat, 14 Feb 2026 12:50:00 GMT",
-        "image_url": "https://www.bing.com/th?id=OVFT.9JuLBZ16hGkbPmwiyEoypi&pid=News&w=1600&h=900&c=14&rs=1"
-      }
-    },
-    {
-      "source": "NYP",
-      "entry": {
-        "id": "https://nypost.com/?post_type=article&p=38494371",
-        "title": "Fetterman eviscerates anti-Israel ‘rot’ in Democratic party, shuts down AOC’s ‘genocide’ rhetoric",
-        "link": "https://nypost.com/2026/02/14/media/fetterman-eviscerates-anti-israel-rot-in-democratic-party-shuts-down-aocs-genocide-rhetoric/",
-        "published": "Sat, 14 Feb 2026 16:56:59 -0500",
-        "image_url": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F02%2F121321817.jpg?quality%3D90%26strip%3Dall"
-      }
-    },
-    {
-      "source": "NYP",
-      "entry": {
-        "id": "https://nypost.com/?post_type=article&p=38493786",
-        "title": "Marco Rubio slams UN at Munich Security Conference for failing Israeli hostages: ‘Has no answers’",
-        "link": "https://nypost.com/2026/02/14/world-news/sec-of-state-marco-rubio-slams-un-at-munich-security-conference-for-failing-israeli-hostages/",
-        "published": "Sat, 14 Feb 2026 17:04:10 -0500",
-        "image_url": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F02%2Fnewspress-collage-dexp2ejsl-1771107166534.jpg?quality%3D90%26strip%3Dall%261771089206"
-      }
-    },
-    {
-      "source": "Economist",
-      "entry": {
-        "id": "https://www.economist.com/europe/2026/02/11/a-european-fighter-jet-partnership-is-verging-on-a-break-up",
-        "title": "A European fighter-jet partnership is verging on a break-up",
-        "link": "https://www.economist.com/europe/2026/02/11/a-european-fighter-jet-partnership-is-verging-on-a-break-up",
-        "published": "Wed, 11 Feb 2026 10:57:00 GMT",
-        "image_url": "https://www.bing.com/th?id=OVFT.9vQApn1G_4f33LjG-FtFyS&pid=News&w=1600&h=900&c=14&rs=1"
-      }
-    },
-    {
-      "source": "NYP",
-      "entry": {
-        "id": "https://nypost.com/?post_type=article&p=38487777",
-        "title": "White House rips NYC Councilman Chi Ossé for calling Trump ‘pedophile’",
-        "link": "https://nypost.com/2026/02/14/us-news/white-house-rips-nyc-councilman-for-calling-trump-pedophile/",
-        "published": "Sat, 14 Feb 2026 17:51:31 -0500",
-        "image_url": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F02%2F121199188.jpg?quality%3D90%26strip%3Dall"
-      }
-    },
-    {
-      "source": "NYP",
-      "entry": {
-        "id": "https://nypost.com/?post_type=article&p=38494284",
-        "title": "Zelensky begs Trump ‘give us a ceasefire,’ vows to hold elections as Russian drones bombard Ukraine",
-        "link": "https://nypost.com/2026/02/14/world-news/zelensky-begs-trump-give-us-a-ceasefire-promises-to-hold-elections-as-russian-drones-bombard-ukraine/",
-        "published": "Sat, 14 Feb 2026 17:44:16 -0500",
-        "image_url": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F02%2F121322433.jpg?quality%3D90%26strip%3Dall"
-      }
-    },
-    {
-      "source": "NYP",
-      "entry": {
-        "id": "https://nypost.com/?post_type=article&p=38494801",
-        "title": "Doctors Without Borders halts operations in Hamas-linked Gaza hospital due to reports of armed men",
-        "link": "https://nypost.com/2026/02/14/world-news/doctors-without-borders-halts-operations-in-controversial-gaza-hospital-due-to-reports-of-armed-men/",
-        "published": "Sat, 14 Feb 2026 18:21:36 -0500",
-        "image_url": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F02%2Fcrop-38494962.jpg?quality%3D90%26strip%3Dall"
-      }
-    },
-    {
-      "source": "Reuters",
-      "entry": {
-        "id": "https://www.reuters.com/sports/freestyle-ukrainian-skier-gets-finals-spot-fiance-valentines-day-2026-02-14/",
-        "title": "Ukrainian skier gets Olympic finals spot and a fiance on Valentine's Day",
-        "link": "https://www.reuters.com/sports/freestyle-ukrainian-skier-gets-finals-spot-fiance-valentines-day-2026-02-14/",
-        "published": "Sat, 14 Feb 2026 14:00:00 GMT",
-        "image_url": "https://www.bing.com/th?id=OVFT.kwETPwF4ZGQ6BV4LBqQc7S&pid=News&w=1600&h=900&c=14&rs=1"
-      }
-    }
-  ],
-  "last_digest_date": "2026-02-14",
+  "night_buffer": [],
+  "last_digest_date": "2026-02-15",
   "last_run": {
-    "utc": "2026-02-14T23:57:28Z",
-    "local": "2026-02-15T07:57:16+08:00",
+    "utc": "2026-02-15T03:18:51Z",
+    "local": "2026-02-15T11:17:08+08:00",
     "tz": "Asia/Shanghai",
-    "local_hour": 7,
-    "quiet": true,
+    "local_hour": 11,
+    "quiet": false,
     "sources_ok": 9,
     "sources_fail": 0,
-    "entries_total": 189,
-    "new": 0,
-    "pushed_ok": 0,
+    "entries_total": 190,
+    "new": 8,
+    "pushed_ok": 8,
     "pushed_fail": 0,
-    "skipped_seen": 58,
-    "skipped_major": 131,
-    "buffered_total": 33,
+    "skipped_seen": 51,
+    "skipped_major": 129,
+    "buffered_total": 0,
     "buffered_added": 0,
-    "seen_size": 327,
+    "seen_size": 325,
     "github": {
       "repo": "zixuouoscaroliver/Oscar-Oliver",
       "workflow": "Telegram News Bot",
-      "run_id": "22026414370",
-      "run_number": "174",
+      "run_id": "22028843939",
+      "run_number": "175",
       "sha": "4f3dfd71e3782371c09853800463db2dc0045ca8",
       "ref": "refs/heads/main",
-      "run_url": "https://github.com/zixuouoscaroliver/Oscar-Oliver/actions/runs/22026414370"
+      "run_url": "https://github.com/zixuouoscaroliver/Oscar-Oliver/actions/runs/22028843939"
     },
     "checkout": {
       "ref": "bot-stable",
