@@ -288,7 +288,9 @@
     "https://www.reuters.com/business/energy/druzhba-oil-supplies-subject-political-blackmail-by-kyiv-slovak-pm-says-2026-02-15/": 1771165167,
     "https://nypost.com/?post_type=article&p=38498080": 1771166996,
     "https://www.economist.com/middle-east-and-africa/2026/02/12/a-deadly-attack-shows-nigerias-security-crisis-is-worsening": 1771166996,
-    "https://nypost.com/?post_type=article&p=38485708": 1771170112
+    "https://nypost.com/?post_type=article&p=38485708": 1771170112,
+    "https://www.reuters.com/world/middle-east/board-peace-members-have-pledged-more-than-5-billion-gaza-trump-says-2026-02-15/": 1771171056,
+    "https://www.reuters.com/world/russia-investigates-tanker-crash-ust-luga-port-2026-02-15/": 1771171056
   },
   "night_buffer": [
     {
@@ -300,34 +302,54 @@
         "published": "Sun, 15 Feb 2026 10:39:38 -0500",
         "image_url": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F02%2Fu-s-president-donald-trump-121254352.jpg?quality%3D90%26strip%3Dall"
       }
+    },
+    {
+      "source": "Reuters",
+      "entry": {
+        "id": "https://www.reuters.com/world/middle-east/board-peace-members-have-pledged-more-than-5-billion-gaza-trump-says-2026-02-15/",
+        "title": "Board of Peace members have pledged more than $5 billion for Gaza, Trump says",
+        "link": "https://www.reuters.com/world/middle-east/board-peace-members-have-pledged-more-than-5-billion-gaza-trump-says-2026-02-15/",
+        "published": "Sun, 15 Feb 2026 06:36:00 GMT",
+        "image_url": "https://www.bing.com/th?id=OVFT.HUTLCuUJ5Q3QmGcHHvPquy&pid=News&w=1600&h=900&c=14&rs=1"
+      }
+    },
+    {
+      "source": "Reuters",
+      "entry": {
+        "id": "https://www.reuters.com/world/russia-investigates-tanker-crash-ust-luga-port-2026-02-15/",
+        "title": "Russia investigates tanker crash at Ust-Luga port",
+        "link": "https://www.reuters.com/world/russia-investigates-tanker-crash-ust-luga-port-2026-02-15/",
+        "published": "Sun, 15 Feb 2026 06:32:00 GMT",
+        "image_url": "https://www.bing.com/th?id=OVFT.d5qhZr6A68WHaHNpHYWO1C&pid=News&w=1600&h=900&c=14&rs=1"
+      }
     }
   ],
   "last_digest_date": "2026-02-15",
   "last_run": {
-    "utc": "2026-02-15T15:42:03Z",
-    "local": "2026-02-15T23:41:52+08:00",
+    "utc": "2026-02-15T15:57:49Z",
+    "local": "2026-02-15T23:57:36+08:00",
     "tz": "Asia/Shanghai",
     "local_hour": 23,
     "quiet": true,
     "sources_ok": 9,
     "sources_fail": 0,
-    "entries_total": 187,
-    "new": 1,
+    "entries_total": 186,
+    "new": 2,
     "pushed_ok": 0,
     "pushed_fail": 0,
-    "skipped_seen": 52,
+    "skipped_seen": 50,
     "skipped_major": 134,
-    "buffered_total": 1,
-    "buffered_added": 1,
-    "seen_size": 288,
+    "buffered_total": 3,
+    "buffered_added": 2,
+    "seen_size": 290,
     "github": {
       "repo": "zixuouoscaroliver/Oscar-Oliver",
       "workflow": "Telegram News Bot",
-      "run_id": "22038422832",
-      "run_number": "196",
+      "run_id": "22038652085",
+      "run_number": "197",
       "sha": "a89f5a686d9e4f1e1c76ef89a17bd8db610de47b",
       "ref": "refs/heads/main",
-      "run_url": "https://github.com/zixuouoscaroliver/Oscar-Oliver/actions/runs/22038422832"
+      "run_url": "https://github.com/zixuouoscaroliver/Oscar-Oliver/actions/runs/22038652085"
     },
     "checkout": {
       "ref": "bot-stable",
