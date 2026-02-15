@@ -1,10 +1,6 @@
 {
   "initialized": true,
   "seen": {
-    "https://nypost.com/?post_type=article&p=38471449": 1770929284,
-    "https://nypost.com/?post_type=article&p=38470342": 1770929284,
-    "https://apnews.com/video/trump-urges-quick-deal-with-iran-to-avoid-traumatic-outcome-758cac1389e44591bdd635f331858e3a": 1770929284,
-    "https://apnews.com/article/national-park-service-nomination-scott-socha-607e510eda4f57e3277505f95c6ae89f": 1770929284,
     "https://nypost.com/?post_type=article&p=38473138": 1770931259,
     "https://nypost.com/?post_type=article&p=38442009": 1770931259,
     "https://apnews.com/video/trump-defends-last-weeks-racist-video-post-says-he-didnt-know-about-lutnicks-epstein-island-trip-d390b40111494ecd8f2a6f8eb82823f1": 1770931259,
@@ -284,7 +280,9 @@
     "https://www.reuters.com/sports/games-organisers-remove-shift-staffer-who-called-out-free-palestine-israeli-2026-02-15/": 1771182196,
     "https://www.scmp.com/news/world/united-states-canada/article/3343653/trumps-border-tsar-homan-says-small-security-force-will-remain-minnesota?utm_source=rss_feed": 1771182196,
     "https://nypost.com/?post_type=article&p=38499070": 1771184101,
-    "0000019c-530c-d0f8-adde-fb5e7f4c0000": 1771185065
+    "0000019c-530c-d0f8-adde-fb5e7f4c0000": 1771185065,
+    "https://nypost.com/?post_type=article&p=38500502": 1771189164,
+    "https://nypost.com/?post_type=article&p=38500529": 1771189164
   },
   "night_buffer": [
     {
@@ -466,34 +464,54 @@
         "published": "Thu, 12 Feb 2026 14:10:30 EST",
         "image_url": "https://static.politico.com/33/89/ad0638fa4a2386df248accb0a775/gettyimages-2151959536.jpg"
       }
+    },
+    {
+      "source": "NYP",
+      "entry": {
+        "id": "https://nypost.com/?post_type=article&p=38500502",
+        "title": "Ex-San Francisco lawyer whose ‘dog of death’ killed Diane Whipple in 2001 denied parole again",
+        "link": "https://nypost.com/2026/02/15/us-news/ex-san-francisco-lawyer-whose-dog-of-death-killed-diane-whipple-denied-parole/",
+        "published": "Sun, 15 Feb 2026 15:58:23 -0500",
+        "image_url": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F02%2Fcrop-38500817.jpg?quality%3D90%26strip%3Dall"
+      }
+    },
+    {
+      "source": "NYP",
+      "entry": {
+        "id": "https://nypost.com/?post_type=article&p=38500529",
+        "title": "Trump’s Board of Peace to announce $5B in funding for Gaza reconstruction at inaugural meeting",
+        "link": "https://nypost.com/2026/02/15/world-news/trumps-board-of-peace-to-announce-5b-in-funding-for-gaza-reconstruction/",
+        "published": "Sun, 15 Feb 2026 15:39:51 -0500",
+        "image_url": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F02%2Fnewspress-collage-1jvwfakgi-1771186437893.jpg?quality%3D90%26strip%3Dall%261771168494"
+      }
     }
   ],
   "last_digest_date": "2026-02-15",
   "last_run": {
-    "utc": "2026-02-15T20:38:39Z",
-    "local": "2026-02-16T04:38:28+08:00",
+    "utc": "2026-02-15T20:59:34Z",
+    "local": "2026-02-16T04:59:24+08:00",
     "tz": "Asia/Shanghai",
     "local_hour": 4,
     "quiet": true,
     "sources_ok": 9,
     "sources_fail": 0,
     "entries_total": 187,
-    "new": 0,
+    "new": 2,
     "pushed_ok": 0,
     "pushed_fail": 0,
-    "skipped_seen": 51,
-    "skipped_major": 136,
-    "buffered_total": 18,
-    "buffered_added": 0,
-    "seen_size": 284,
+    "skipped_seen": 52,
+    "skipped_major": 133,
+    "buffered_total": 20,
+    "buffered_added": 2,
+    "seen_size": 282,
     "github": {
       "repo": "zixuouoscaroliver/Oscar-Oliver",
       "workflow": "Telegram News Bot",
-      "run_id": "22042668549",
-      "run_number": "207",
+      "run_id": "22042960052",
+      "run_number": "208",
       "sha": "a89f5a686d9e4f1e1c76ef89a17bd8db610de47b",
       "ref": "refs/heads/main",
-      "run_url": "https://github.com/zixuouoscaroliver/Oscar-Oliver/actions/runs/22042668549"
+      "run_url": "https://github.com/zixuouoscaroliver/Oscar-Oliver/actions/runs/22042960052"
     },
     "checkout": {
       "ref": "bot-stable",
