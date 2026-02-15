@@ -1,12 +1,6 @@
 {
   "initialized": true,
   "seen": {
-    "https://nypost.com/?post_type=article&p=38468891": 1770910467,
-    "https://nypost.com/?post_type=article&p=38468437": 1770910467,
-    "https://apnews.com/article/us-steel-plant-clairton-nippon-explosion-cf5ec79fba028336d71ce3dec2284523": 1770910467,
-    "https://apnews.com/article/canada-school-shooting-british-columbia-bef756c3d04d26b76c49a4e2b5154002": 1770910467,
-    "https://www.scmp.com/news/world/united-states-canada/article/3343372/trump-end-minnesota-immigration-crackdown-border-tsar-says?utm_source=rss_feed": 1770910467,
-    "https://www.scmp.com/news/world/europe/article/3343370/china-cuts-eu-dairy-tariffs-easing-trade-tensions-after-ev-dispute?utm_source=rss_feed": 1770910467,
     "https://nypost.com/?post_type=article&p=38468798": 1770914108,
     "https://nypost.com/?post_type=article&p=38468659": 1770914108,
     "https://www.reuters.com/world/us/trumps-justice-department-antitrust-head-gail-slater-stepping-down-2026-02-12/": 1770914108,
@@ -293,35 +287,47 @@
     "https://www.scmp.com/news/world/middle-east/article/3343640/israeli-air-strikes-kill-11-gaza-say-palestinian-officials?utm_source=rss_feed": 1771163635,
     "https://www.reuters.com/business/energy/druzhba-oil-supplies-subject-political-blackmail-by-kyiv-slovak-pm-says-2026-02-15/": 1771165167,
     "https://nypost.com/?post_type=article&p=38498080": 1771166996,
-    "https://www.economist.com/middle-east-and-africa/2026/02/12/a-deadly-attack-shows-nigerias-security-crisis-is-worsening": 1771166996
+    "https://www.economist.com/middle-east-and-africa/2026/02/12/a-deadly-attack-shows-nigerias-security-crisis-is-worsening": 1771166996,
+    "https://nypost.com/?post_type=article&p=38485708": 1771170112
   },
-  "night_buffer": [],
+  "night_buffer": [
+    {
+      "source": "NYP",
+      "entry": {
+        "id": "https://nypost.com/?post_type=article&p=38485708",
+        "title": "Trump could be missing the opportunity to rebuild the Navy efficiently and quickly",
+        "link": "https://nypost.com/2026/02/15/opinion/trump-could-be-missing-the-opportunity-to-rebuild-the-navy-efficiently-and-quickly/",
+        "published": "Sun, 15 Feb 2026 10:39:38 -0500",
+        "image_url": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F02%2Fu-s-president-donald-trump-121254352.jpg?quality%3D90%26strip%3Dall"
+      }
+    }
+  ],
   "last_digest_date": "2026-02-15",
   "last_run": {
-    "utc": "2026-02-15T15:13:30Z",
-    "local": "2026-02-15T23:13:18+08:00",
+    "utc": "2026-02-15T15:42:03Z",
+    "local": "2026-02-15T23:41:52+08:00",
     "tz": "Asia/Shanghai",
     "local_hour": 23,
     "quiet": true,
     "sources_ok": 9,
     "sources_fail": 0,
-    "entries_total": 190,
-    "new": 0,
+    "entries_total": 187,
+    "new": 1,
     "pushed_ok": 0,
     "pushed_fail": 0,
-    "skipped_seen": 50,
-    "skipped_major": 140,
-    "buffered_total": 0,
-    "buffered_added": 0,
-    "seen_size": 293,
+    "skipped_seen": 52,
+    "skipped_major": 134,
+    "buffered_total": 1,
+    "buffered_added": 1,
+    "seen_size": 288,
     "github": {
       "repo": "zixuouoscaroliver/Oscar-Oliver",
       "workflow": "Telegram News Bot",
-      "run_id": "22037995729",
-      "run_number": "195",
+      "run_id": "22038422832",
+      "run_number": "196",
       "sha": "a89f5a686d9e4f1e1c76ef89a17bd8db610de47b",
       "ref": "refs/heads/main",
-      "run_url": "https://github.com/zixuouoscaroliver/Oscar-Oliver/actions/runs/22037995729"
+      "run_url": "https://github.com/zixuouoscaroliver/Oscar-Oliver/actions/runs/22038422832"
     },
     "checkout": {
       "ref": "bot-stable",
