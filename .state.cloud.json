@@ -285,7 +285,9 @@
     "https://www.reuters.com/world/middle-east/board-peace-members-have-pledged-more-than-5-billion-gaza-trump-says-2026-02-15/": 1771171056,
     "https://www.reuters.com/world/russia-investigates-tanker-crash-ust-luga-port-2026-02-15/": 1771171056,
     "https://nypost.com/?post_type=article&p=38493833": 1771173748,
-    "https://www.reuters.com/world/middle-east/israeli-cabinet-approves-west-bank-land-registration-palestinians-condemn-de-2026-02-15/": 1771173748
+    "https://www.reuters.com/world/middle-east/israeli-cabinet-approves-west-bank-land-registration-palestinians-condemn-de-2026-02-15/": 1771173748,
+    "https://nypost.com/?post_type=article&p=38498705": 1771174962,
+    "https://www.reuters.com/legal/government/trump-border-czar-dismisses-democratic-demands-reform-ice-2026-02-15/": 1771174962
   },
   "night_buffer": [
     {
@@ -337,14 +339,34 @@
         "published": "Sun, 15 Feb 2026 06:53:00 GMT",
         "image_url": "https://www.bing.com/th?id=OVFT.T_58HfF3PvrwAwb7X37xci&pid=News&w=1600&h=900&c=14&rs=1"
       }
+    },
+    {
+      "source": "NYP",
+      "entry": {
+        "id": "https://nypost.com/?post_type=article&p=38498705",
+        "title": "Ex-Colorado star fed up with Deion Sanders after retiring Shedeur’s number",
+        "link": "https://nypost.com/2026/02/15/sports/christian-fauria-fed-up-with-colorado-after-shedeur-sanders-jersey-retirement/",
+        "published": "Sun, 15 Feb 2026 12:00:06 -0500",
+        "image_url": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F02%2Fsanders-fauria.jpg?quality%3D90%26strip%3Dall%261771156523"
+      }
+    },
+    {
+      "source": "Reuters",
+      "entry": {
+        "id": "https://www.reuters.com/legal/government/trump-border-czar-dismisses-democratic-demands-reform-ice-2026-02-15/",
+        "title": "Trump border czar dismisses Democratic demands to reform ICE",
+        "link": "https://www.reuters.com/legal/government/trump-border-czar-dismisses-democratic-demands-reform-ice-2026-02-15/",
+        "published": "Sun, 15 Feb 2026 07:31:00 GMT",
+        "image_url": "https://www.bing.com/th?id=OVFT.iNR9UFB2ZsulU2lJUtAWIC&pid=News&w=1600&h=900&c=14&rs=1"
+      }
     }
   ],
   "last_digest_date": "2026-02-15",
   "last_run": {
-    "utc": "2026-02-15T16:42:41Z",
-    "local": "2026-02-16T00:42:28+08:00",
+    "utc": "2026-02-15T17:02:54Z",
+    "local": "2026-02-16T01:02:42+08:00",
     "tz": "Asia/Shanghai",
-    "local_hour": 0,
+    "local_hour": 1,
     "quiet": true,
     "sources_ok": 9,
     "sources_fail": 0,
@@ -352,19 +374,19 @@
     "new": 2,
     "pushed_ok": 0,
     "pushed_fail": 0,
-    "skipped_seen": 47,
-    "skipped_major": 138,
-    "buffered_total": 5,
+    "skipped_seen": 49,
+    "skipped_major": 136,
+    "buffered_total": 7,
     "buffered_added": 2,
-    "seen_size": 285,
+    "seen_size": 287,
     "github": {
       "repo": "zixuouoscaroliver/Oscar-Oliver",
       "workflow": "Telegram News Bot",
-      "run_id": "22039302442",
-      "run_number": "198",
+      "run_id": "22039581857",
+      "run_number": "199",
       "sha": "a89f5a686d9e4f1e1c76ef89a17bd8db610de47b",
       "ref": "refs/heads/main",
-      "run_url": "https://github.com/zixuouoscaroliver/Oscar-Oliver/actions/runs/22039302442"
+      "run_url": "https://github.com/zixuouoscaroliver/Oscar-Oliver/actions/runs/22039581857"
     },
     "checkout": {
       "ref": "bot-stable",
