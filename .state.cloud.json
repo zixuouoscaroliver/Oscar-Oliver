@@ -304,10 +304,10 @@
   "night_buffer": [],
   "last_digest_date": "2026-02-15",
   "last_run": {
-    "utc": "2026-02-15T11:51:30Z",
-    "local": "2026-02-15T19:51:17+08:00",
+    "utc": "2026-02-15T12:01:06Z",
+    "local": "2026-02-15T20:00:54+08:00",
     "tz": "Asia/Shanghai",
-    "local_hour": 19,
+    "local_hour": 20,
     "quiet": false,
     "sources_ok": 9,
     "sources_fail": 0,
@@ -323,11 +323,11 @@
     "github": {
       "repo": "zixuouoscaroliver/Oscar-Oliver",
       "workflow": "Telegram News Bot",
-      "run_id": "22035166354",
-      "run_number": "189",
+      "run_id": "22035289709",
+      "run_number": "190",
       "sha": "a89f5a686d9e4f1e1c76ef89a17bd8db610de47b",
       "ref": "refs/heads/main",
-      "run_url": "https://github.com/zixuouoscaroliver/Oscar-Oliver/actions/runs/22035166354"
+      "run_url": "https://github.com/zixuouoscaroliver/Oscar-Oliver/actions/runs/22035289709"
     },
     "checkout": {
       "ref": "bot-stable",
