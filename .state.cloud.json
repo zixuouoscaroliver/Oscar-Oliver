@@ -1,11 +1,6 @@
 {
   "initialized": true,
   "seen": {
-    "https://nypost.com/?post_type=article&p=38473138": 1770931259,
-    "https://nypost.com/?post_type=article&p=38442009": 1770931259,
-    "https://apnews.com/video/trump-defends-last-weeks-racist-video-post-says-he-didnt-know-about-lutnicks-epstein-island-trip-d390b40111494ecd8f2a6f8eb82823f1": 1770931259,
-    "https://apnews.com/article/hewlett-packard-slater-antitrust-trump-mergers-vance-13eba9dcef56aac42ad7453f22baa475": 1770931259,
-    "https://www.reuters.com/legal/government/timeline-trumps-minnesota-immigration-crackdown-2026-02-12/": 1770931259,
     "https://apnews.com/article/homeland-security-funding-shutdown-democrats-trump-4e9c4cebd45396e77f8333fd6cc31944": 1770933276,
     "https://nypost.com/?post_type=article&p=38472759": 1770935094,
     "https://apnews.com/article/ice-congress-trump-minneapolis-alex-pretti-hearing-ada1986f0c4639e96a6f7bf06f2856c3": 1770935094,
@@ -282,7 +277,8 @@
     "https://nypost.com/?post_type=article&p=38499070": 1771184101,
     "0000019c-530c-d0f8-adde-fb5e7f4c0000": 1771185065,
     "https://nypost.com/?post_type=article&p=38500502": 1771189164,
-    "https://nypost.com/?post_type=article&p=38500529": 1771189164
+    "https://nypost.com/?post_type=article&p=38500529": 1771189164,
+    "https://www.scmp.com/opinion/china-opinion/article/3343423/can-manilas-south-china-sea-strategy-defiance-and-diplomacy-hold?utm_source=rss_feed": 1771191274
   },
   "night_buffer": [
     {
@@ -484,34 +480,44 @@
         "published": "Sun, 15 Feb 2026 15:39:51 -0500",
         "image_url": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F02%2Fnewspress-collage-1jvwfakgi-1771186437893.jpg?quality%3D90%26strip%3Dall%261771168494"
       }
+    },
+    {
+      "source": "SCMP",
+      "entry": {
+        "id": "https://www.scmp.com/opinion/china-opinion/article/3343423/can-manilas-south-china-sea-strategy-defiance-and-diplomacy-hold?utm_source=rss_feed",
+        "title": "Can Manila’s South China Sea strategy of defiance and diplomacy hold?",
+        "link": "https://www.scmp.com/opinion/china-opinion/article/3343423/can-manilas-south-china-sea-strategy-defiance-and-diplomacy-hold?utm_source=rss_feed",
+        "published": "Sun, 15 Feb 2026 21:30:08 +0000",
+        "image_url": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/02/13/cf1be01a-a8b4-439a-ab37-dda90a00dde2_e97281ab.jpg?itok=4k_c3wbi&v=1770975100"
+      }
     }
   ],
   "last_digest_date": "2026-02-15",
   "last_run": {
-    "utc": "2026-02-15T20:59:34Z",
-    "local": "2026-02-16T04:59:24+08:00",
+    "utc": "2026-02-15T21:34:47Z",
+    "local": "2026-02-16T05:34:34+08:00",
     "tz": "Asia/Shanghai",
-    "local_hour": 4,
+    "local_hour": 5,
     "quiet": true,
     "sources_ok": 9,
     "sources_fail": 0,
-    "entries_total": 187,
-    "new": 2,
+    "entries_total": 188,
+    "new": 1,
     "pushed_ok": 0,
     "pushed_fail": 0,
-    "skipped_seen": 52,
-    "skipped_major": 133,
-    "buffered_total": 20,
-    "buffered_added": 2,
-    "seen_size": 282,
+    "skipped_seen": 53,
+    "skipped_major": 134,
+    "buffered_total": 21,
+    "buffered_added": 1,
+    "seen_size": 278,
     "github": {
       "repo": "zixuouoscaroliver/Oscar-Oliver",
       "workflow": "Telegram News Bot",
-      "run_id": "22042960052",
-      "run_number": "208",
+      "run_id": "22043475826",
+      "run_number": "209",
       "sha": "a89f5a686d9e4f1e1c76ef89a17bd8db610de47b",
       "ref": "refs/heads/main",
-      "run_url": "https://github.com/zixuouoscaroliver/Oscar-Oliver/actions/runs/22042960052"
+      "run_url": "https://github.com/zixuouoscaroliver/Oscar-Oliver/actions/runs/22043475826"
     },
     "checkout": {
       "ref": "bot-stable",
