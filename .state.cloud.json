@@ -287,7 +287,11 @@
     "https://nypost.com/?post_type=article&p=38493833": 1771173748,
     "https://www.reuters.com/world/middle-east/israeli-cabinet-approves-west-bank-land-registration-palestinians-condemn-de-2026-02-15/": 1771173748,
     "https://nypost.com/?post_type=article&p=38498705": 1771174962,
-    "https://www.reuters.com/legal/government/trump-border-czar-dismisses-democratic-demands-reform-ice-2026-02-15/": 1771174962
+    "https://www.reuters.com/legal/government/trump-border-czar-dismisses-democratic-demands-reform-ice-2026-02-15/": 1771174962,
+    "https://apnews.com/article/trump-gaza-board-peace-reconstruction-stabilization-685251b3e8f24cf8779d6fe3f5f2ca04": 1771176958,
+    "https://www.reuters.com/business/aerospace-defense/europe-aims-rely-less-us-defence-after-trumps-greenland-push-2026-02-15/": 1771176958,
+    "https://www.reuters.com/world/middle-east/trump-told-netanyahu-december-he-would-support-israeli-strikes-irans-missile-2026-02-15/": 1771176958,
+    "https://www.scmp.com/news/world/russia-central-asia/article/3343650/us-not-disputing-troubling-european-report-navalny-poisoning-rubio-says?utm_source=rss_feed": 1771176958
   },
   "night_buffer": [
     {
@@ -359,34 +363,74 @@
         "published": "Sun, 15 Feb 2026 07:31:00 GMT",
         "image_url": "https://www.bing.com/th?id=OVFT.iNR9UFB2ZsulU2lJUtAWIC&pid=News&w=1600&h=900&c=14&rs=1"
       }
+    },
+    {
+      "source": "AP NEWS",
+      "entry": {
+        "id": "https://apnews.com/article/trump-gaza-board-peace-reconstruction-stabilization-685251b3e8f24cf8779d6fe3f5f2ca04",
+        "title": "Trump says Board of Peace will unveil $5 billion in Gaza reconstruction pledges at inaugural meeting",
+        "link": "https://apnews.com/article/trump-gaza-board-peace-reconstruction-stabilization-685251b3e8f24cf8779d6fe3f5f2ca04",
+        "published": "Sun, 15 Feb 2026 08:46:00 GMT",
+        "image_url": "https://www.bing.com/th?id=OVFT.M0zgI5W9Zz8n7Vb76_4g5S&pid=News&w=1600&h=900&c=14&rs=1"
+      }
+    },
+    {
+      "source": "Reuters",
+      "entry": {
+        "id": "https://www.reuters.com/business/aerospace-defense/europe-aims-rely-less-us-defence-after-trumps-greenland-push-2026-02-15/",
+        "title": "Europe aims to rely less on US defence after Trump's Greenland push",
+        "link": "https://www.reuters.com/business/aerospace-defense/europe-aims-rely-less-us-defence-after-trumps-greenland-push-2026-02-15/",
+        "published": "Sun, 15 Feb 2026 07:33:00 GMT",
+        "image_url": ""
+      }
+    },
+    {
+      "source": "Reuters",
+      "entry": {
+        "id": "https://www.reuters.com/world/middle-east/trump-told-netanyahu-december-he-would-support-israeli-strikes-irans-missile-2026-02-15/",
+        "title": "Trump told Netanyahu in December he would support Israeli strikes on Iran's missile program, CBS News reports",
+        "link": "https://www.reuters.com/world/middle-east/trump-told-netanyahu-december-he-would-support-israeli-strikes-irans-missile-2026-02-15/",
+        "published": "Sun, 15 Feb 2026 09:35:00 GMT",
+        "image_url": "https://www.bing.com/th?id=OVFT.3qqLA2iJDACd3CnMOpN_KC&pid=News&w=1600&h=900&c=14&rs=1"
+      }
+    },
+    {
+      "source": "SCMP",
+      "entry": {
+        "id": "https://www.scmp.com/news/world/russia-central-asia/article/3343650/us-not-disputing-troubling-european-report-navalny-poisoning-rubio-says?utm_source=rss_feed",
+        "title": "US ‘not disputing’ a ‘troubling’ European report on Navalny poisoning, Rubio says",
+        "link": "https://www.scmp.com/news/world/russia-central-asia/article/3343650/us-not-disputing-troubling-european-report-navalny-poisoning-rubio-says?utm_source=rss_feed",
+        "published": "Sun, 15 Feb 2026 17:16:17 +0000",
+        "image_url": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/02/16/668ba2df-be7d-45c5-9ac5-ff43b9a055c8_eac7d243.jpg?itok=utfpyuz2&v=1771175673"
+      }
     }
   ],
   "last_digest_date": "2026-02-15",
   "last_run": {
-    "utc": "2026-02-15T17:02:54Z",
-    "local": "2026-02-16T01:02:42+08:00",
+    "utc": "2026-02-15T17:36:11Z",
+    "local": "2026-02-16T01:35:58+08:00",
     "tz": "Asia/Shanghai",
     "local_hour": 1,
     "quiet": true,
     "sources_ok": 9,
     "sources_fail": 0,
     "entries_total": 187,
-    "new": 2,
+    "new": 4,
     "pushed_ok": 0,
     "pushed_fail": 0,
-    "skipped_seen": 49,
-    "skipped_major": 136,
-    "buffered_total": 7,
-    "buffered_added": 2,
-    "seen_size": 287,
+    "skipped_seen": 48,
+    "skipped_major": 135,
+    "buffered_total": 11,
+    "buffered_added": 4,
+    "seen_size": 291,
     "github": {
       "repo": "zixuouoscaroliver/Oscar-Oliver",
       "workflow": "Telegram News Bot",
-      "run_id": "22039581857",
-      "run_number": "199",
+      "run_id": "22040072707",
+      "run_number": "200",
       "sha": "a89f5a686d9e4f1e1c76ef89a17bd8db610de47b",
       "ref": "refs/heads/main",
-      "run_url": "https://github.com/zixuouoscaroliver/Oscar-Oliver/actions/runs/22039581857"
+      "run_url": "https://github.com/zixuouoscaroliver/Oscar-Oliver/actions/runs/22040072707"
     },
     "checkout": {
       "ref": "bot-stable",
