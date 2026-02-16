@@ -866,17 +866,24 @@ def flush_night_digest(
         return
 
     logging.info("发送夜间汇总，条数=%s", len(buffered))
-    if maybe_send_compact_summary(
-        token=token,
-        chat_id=chat_id,
-        items=buffered,
-        tz_name=tz_name,
-        now_local=now_local,
-        threshold=summary_threshold,
-        ai_api_key=ai_api_key,
-        ai_model=ai_model,
-        ai_max_items=ai_max_items,
-    ):
+    sent_summary = False
+    try:
+        sent_summary = maybe_send_compact_summary(
+            token=token,
+            chat_id=chat_id,
+            items=buffered,
+            tz_name=tz_name,
+            now_local=now_local,
+            threshold=summary_threshold,
+            ai_api_key=ai_api_key,
+            ai_model=ai_model,
+            ai_max_items=ai_max_items,
+        )
+    except Exception:
+        logging.exception("夜间汇总消息发送失败，将降级为逐条补发")
+        sent_summary = False
+
+    if sent_summary:
         state["night_buffer"] = []
         state["last_digest_date"] = today_str
         logging.info("夜间缓存已汇总推送，条数=%s", len(buffered))
