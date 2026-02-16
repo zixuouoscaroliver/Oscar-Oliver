@@ -1,8 +1,6 @@
 {
   "initialized": true,
   "seen": {
-    "https://nypost.com/?post_type=article&p=38480417": 1771000490,
-    "https://www.washingtonpost.com/national-security/2026/02/13/trump-iran-aircraft-carrier-gerald-ford/": 1771000490,
     "https://nypost.com/?post_type=article&p=38481580": 1771003636,
     "https://www.washingtonpost.com/sports/olympics/2026/02/12/vladyslav-heraskevych-ukrainian-helmet-olympics-skeleton/": 1771003636,
     "https://apnews.com/article/epstein-israel-us-barak-politics-5709588906fb10cd51bb49f30a9825d2": 1771003636,
@@ -257,7 +255,9 @@
     "https://nypost.com/?post_type=article&p=38505741": 1771259364,
     "https://www.washingtonpost.com/national-security/2026/02/16/rubio-hungary-orban-trump/": 1771259364,
     "https://apnews.com/article/alexei-navalny-russia-death-putin-kremlin-anniversary-539748ce105ab9822c80245be729f8bd": 1771259364,
-    "https://www.reuters.com/sustainability/climate-energy/how-europe-can-turn-cement-into-quick-win-climate--ecmii-2026-02-16/": 1771259364
+    "https://www.reuters.com/sustainability/climate-energy/how-europe-can-turn-cement-into-quick-win-climate--ecmii-2026-02-16/": 1771259364,
+    "https://www.economist.com/china/2026/02/16/why-american-allies-are-flocking-to-see-xi-jinping-in-beijing": 1771262501,
+    "https://www.scmp.com/news/world/europe/article/3343770/austria-files-terror-charges-against-suspect-over-planned-2024-taylor-swift-attack?utm_source=rss_feed": 1771262501
   },
   "night_buffer": [
     {
@@ -359,34 +359,54 @@
         "published": "Mon, 16 Feb 2026 07:18:00 GMT",
         "image_url": "https://www.bing.com/th?id=OVFT.HXs8hkz1K4rhYNaRRPPXKC&pid=News&w=1600&h=900&c=14&rs=1"
       }
+    },
+    {
+      "source": "Economist",
+      "entry": {
+        "id": "https://www.economist.com/china/2026/02/16/why-american-allies-are-flocking-to-see-xi-jinping-in-beijing",
+        "title": "Why American allies are flocking to see Xi Jinping in Beijing",
+        "link": "https://www.economist.com/china/2026/02/16/why-american-allies-are-flocking-to-see-xi-jinping-in-beijing",
+        "published": "Mon, 16 Feb 2026 09:09:00 GMT",
+        "image_url": "https://www.bing.com/th?id=OVFT.g5J1Ywy3wjJkfUwj8_rypy&pid=News&w=1600&h=900&c=14&rs=1"
+      }
+    },
+    {
+      "source": "SCMP",
+      "entry": {
+        "id": "https://www.scmp.com/news/world/europe/article/3343770/austria-files-terror-charges-against-suspect-over-planned-2024-taylor-swift-attack?utm_source=rss_feed",
+        "title": "Austria files terror charges against suspect over planned 2024 Taylor Swift attack",
+        "link": "https://www.scmp.com/news/world/europe/article/3343770/austria-files-terror-charges-against-suspect-over-planned-2024-taylor-swift-attack?utm_source=rss_feed",
+        "published": "Mon, 16 Feb 2026 17:08:09 +0000",
+        "image_url": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/02/17/2a976cec-5216-4e00-ab73-d9a17a9eb122_967f50a6.jpg?itok=J46FNGvL&v=1771261604"
+      }
     }
   ],
   "last_digest_date": "2026-02-16",
   "last_run": {
-    "utc": "2026-02-16T16:29:36Z",
-    "local": "2026-02-17T00:29:24+08:00",
+    "utc": "2026-02-16T17:21:53Z",
+    "local": "2026-02-17T01:21:41+08:00",
     "tz": "Asia/Shanghai",
-    "local_hour": 0,
+    "local_hour": 1,
     "quiet": true,
     "sources_ok": 9,
     "sources_fail": 0,
-    "entries_total": 188,
-    "new": 6,
+    "entries_total": 190,
+    "new": 2,
     "pushed_ok": 0,
     "pushed_fail": 0,
-    "skipped_seen": 43,
-    "skipped_major": 126,
-    "buffered_total": 10,
-    "buffered_added": 6,
+    "skipped_seen": 46,
+    "skipped_major": 142,
+    "buffered_total": 12,
+    "buffered_added": 2,
     "seen_size": 257,
     "github": {
       "repo": "zixuouoscaroliver/Oscar-Oliver",
       "workflow": "Telegram News Bot",
-      "run_id": "22070510185",
-      "run_number": "233",
+      "run_id": "22072033370",
+      "run_number": "234",
       "sha": "a89f5a686d9e4f1e1c76ef89a17bd8db610de47b",
       "ref": "refs/heads/main",
-      "run_url": "https://github.com/zixuouoscaroliver/Oscar-Oliver/actions/runs/22070510185"
+      "run_url": "https://github.com/zixuouoscaroliver/Oscar-Oliver/actions/runs/22072033370"
     },
     "checkout": {
       "ref": "bot-stable",
