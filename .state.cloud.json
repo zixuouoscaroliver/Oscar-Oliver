@@ -1,13 +1,6 @@
 {
   "initialized": true,
   "seen": {
-    "https://nypost.com/?p=38486237&post_type=article&preview_id=38486237": 1771019241,
-    "https://nypost.com/?post_type=article&p=38484663": 1771019241,
-    "https://nypost.com/?post_type=article&p=38483936": 1771019241,
-    "https://apnews.com/article/us-steel-plant-clairton-explosion-osha-b6189f8d4df576f81cadf37b89154d39": 1771019241,
-    "https://www.reuters.com/legal/litigation/democrats-take-aim-trump-shelving-china-tech-measures-2026-02-13/": 1771019241,
-    "https://www.reuters.com/world/americas/trump-tells-troops-fear-is-powerful-motivator-difficult-iran-talks-2026-02-13/": 1771019241,
-    "https://www.reuters.com/world/us-judge-orders-trump-administration-facilitate-deported-college-students-return-2026-02-13/": 1771019241,
     "https://nypost.com/?post_type=article&p=38484398": 1771021160,
     "https://nypost.com/?post_type=article&p=38487584": 1771033855,
     "https://nypost.com/?post_type=article&p=38486176": 1771033855,
@@ -257,7 +250,8 @@
     "https://nypost.com/?post_type=article&p=38509051": 1771275723,
     "https://www.reuters.com/world/us/trump-says-federal-government-step-protect-potomac-river-amid-sewage-leak-2026-02-16/": 1771275723,
     "https://nypost.com/?post_type=article&p=38507024": 1771277882,
-    "https://www.scmp.com/opinion/asia-opinion/article/3343612/how-bnps-bangladesh-election-victory-will-shape-policy-trends?utm_source=rss_feed": 1771277882
+    "https://www.scmp.com/opinion/asia-opinion/article/3343612/how-bnps-bangladesh-election-victory-will-shape-policy-trends?utm_source=rss_feed": 1771277882,
+    "https://nypost.com/?post_type=article&p=38509164": 1771279160
   },
   "night_buffer": [
     {
@@ -589,34 +583,44 @@
         "published": "Mon, 16 Feb 2026 21:30:08 +0000",
         "image_url": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/02/15/1203c1a8-d0c8-4038-bef5-9af9565aa55f_65500819.jpg?itok=P_7B6Wht&v=1771138243"
       }
+    },
+    {
+      "source": "NYP",
+      "entry": {
+        "id": "https://nypost.com/?post_type=article&p=38509164",
+        "title": "Trump intervenes as millions of gallons of crap sully Potomac River after sewage pipe rupture",
+        "link": "https://nypost.com/2026/02/16/us-news/president-trump-intervenes-as-millions-of-gallons-of-crap-ravage-potomac-following-sewage-pipe-rupture/",
+        "published": "Mon, 16 Feb 2026 16:53:27 -0500",
+        "image_url": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F02%2F121498428.jpg?quality%3D90%26strip%3Dall"
+      }
     }
   ],
   "last_digest_date": "2026-02-16",
   "last_run": {
-    "utc": "2026-02-16T21:38:15Z",
-    "local": "2026-02-17T05:38:02+08:00",
+    "utc": "2026-02-16T21:59:31Z",
+    "local": "2026-02-17T05:59:20+08:00",
     "tz": "Asia/Shanghai",
     "local_hour": 5,
     "quiet": true,
     "sources_ok": 9,
     "sources_fail": 0,
     "entries_total": 186,
-    "new": 2,
+    "new": 1,
     "pushed_ok": 0,
     "pushed_fail": 0,
-    "skipped_seen": 52,
-    "skipped_major": 132,
-    "buffered_total": 33,
-    "buffered_added": 2,
-    "seen_size": 257,
+    "skipped_seen": 51,
+    "skipped_major": 134,
+    "buffered_total": 34,
+    "buffered_added": 1,
+    "seen_size": 251,
     "github": {
       "repo": "zixuouoscaroliver/Oscar-Oliver",
       "workflow": "Telegram News Bot",
-      "run_id": "22078225632",
-      "run_number": "241",
+      "run_id": "22078686538",
+      "run_number": "242",
       "sha": "a89f5a686d9e4f1e1c76ef89a17bd8db610de47b",
       "ref": "refs/heads/main",
-      "run_url": "https://github.com/zixuouoscaroliver/Oscar-Oliver/actions/runs/22078225632"
+      "run_url": "https://github.com/zixuouoscaroliver/Oscar-Oliver/actions/runs/22078686538"
     },
     "checkout": {
       "ref": "bot-stable",
