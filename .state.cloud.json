@@ -1,7 +1,6 @@
 {
   "initialized": true,
   "seen": {
-    "https://nypost.com/?post_type=article&p=38484398": 1771021160,
     "https://nypost.com/?post_type=article&p=38487584": 1771033855,
     "https://nypost.com/?post_type=article&p=38486176": 1771033855,
     "0000019c-497d-d647-addc-ebff108a0000": 1771033855,
@@ -251,7 +250,11 @@
     "https://www.reuters.com/world/us/trump-says-federal-government-step-protect-potomac-river-amid-sewage-leak-2026-02-16/": 1771275723,
     "https://nypost.com/?post_type=article&p=38507024": 1771277882,
     "https://www.scmp.com/opinion/asia-opinion/article/3343612/how-bnps-bangladesh-election-victory-will-shape-policy-trends?utm_source=rss_feed": 1771277882,
-    "https://nypost.com/?post_type=article&p=38509164": 1771279160
+    "https://nypost.com/?post_type=article&p=38509164": 1771279160,
+    "https://nypost.com/?post_type=article&p=38510190": 1771281606,
+    "https://nypost.com/?post_type=article&p=38509912": 1771281606,
+    "https://apnews.com/article/pawtucket-hockey-rink-shooting-rhode-island-c8ac3e8067ce2f2ce07e4d98009ecdaa": 1771281606,
+    "https://www.scmp.com/news/world/africa/article/3343771/trumps-new-ambassador-south-africa-arrives-country-amid-strained-ties?utm_source=rss_feed": 1771281606
   },
   "night_buffer": [
     {
@@ -593,34 +596,74 @@
         "published": "Mon, 16 Feb 2026 16:53:27 -0500",
         "image_url": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F02%2F121498428.jpg?quality%3D90%26strip%3Dall"
       }
+    },
+    {
+      "source": "NYP",
+      "entry": {
+        "id": "https://nypost.com/?post_type=article&p=38510190",
+        "title": "Sharia law victim who fled Somalia issues key endorsement in Senate race",
+        "link": "https://nypost.com/2026/02/16/us-news/sharia-law-victim-ayaan-hirsi-ali-issues-endorsement-in-critical-senate-race/",
+        "published": "Mon, 16 Feb 2026 17:27:00 -0500",
+        "image_url": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F02%2F121506607.jpg?quality%3D90%26strip%3Dall"
+      }
+    },
+    {
+      "source": "NYP",
+      "entry": {
+        "id": "https://nypost.com/?post_type=article&p=38509912",
+        "title": "Stephen A Smith says Trump right to secure border, says ‘emergency efforts were necessary’ after Biden",
+        "link": "https://nypost.com/2026/02/16/media/stephen-a-smith-says-trump-right-to-secure-border/",
+        "published": "Mon, 16 Feb 2026 17:19:20 -0500",
+        "image_url": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F02%2Fnewspress-collage-oeoqde8mw-1771277194711.jpg?quality%3D90%26strip%3Dall%261771259216"
+      }
+    },
+    {
+      "source": "AP NEWS",
+      "entry": {
+        "id": "https://apnews.com/article/pawtucket-hockey-rink-shooting-rhode-island-c8ac3e8067ce2f2ce07e4d98009ecdaa",
+        "title": "3 killed, including suspect, in shooting during Rhode Island youth hockey game",
+        "link": "https://apnews.com/article/pawtucket-hockey-rink-shooting-rhode-island-c8ac3e8067ce2f2ce07e4d98009ecdaa",
+        "published": "Mon, 16 Feb 2026 14:22:00 GMT",
+        "image_url": "https://www.bing.com/th?id=OVFT.SjKmW-PzJARbabdgC5e37C&pid=News&w=1600&h=900&c=14&rs=1"
+      }
+    },
+    {
+      "source": "SCMP",
+      "entry": {
+        "id": "https://www.scmp.com/news/world/africa/article/3343771/trumps-new-ambassador-south-africa-arrives-country-amid-strained-ties?utm_source=rss_feed",
+        "title": "Trump’s new ambassador to South Africa arrives in country amid strained ties",
+        "link": "https://www.scmp.com/news/world/africa/article/3343771/trumps-new-ambassador-south-africa-arrives-country-amid-strained-ties?utm_source=rss_feed",
+        "published": "Mon, 16 Feb 2026 22:21:11 +0000",
+        "image_url": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/02/17/216ceb92-bd02-4232-a261-71c5bcfe2086_6ebfd0f7.jpg?itok=uRdFoHkX&v=1771279896"
+      }
     }
   ],
   "last_digest_date": "2026-02-16",
   "last_run": {
-    "utc": "2026-02-16T21:59:31Z",
-    "local": "2026-02-17T05:59:20+08:00",
+    "utc": "2026-02-16T22:40:18Z",
+    "local": "2026-02-17T06:40:06+08:00",
     "tz": "Asia/Shanghai",
-    "local_hour": 5,
+    "local_hour": 6,
     "quiet": true,
     "sources_ok": 9,
     "sources_fail": 0,
-    "entries_total": 186,
-    "new": 1,
+    "entries_total": 188,
+    "new": 4,
     "pushed_ok": 0,
     "pushed_fail": 0,
-    "skipped_seen": 51,
-    "skipped_major": 134,
-    "buffered_total": 34,
-    "buffered_added": 1,
-    "seen_size": 251,
+    "skipped_seen": 49,
+    "skipped_major": 135,
+    "buffered_total": 38,
+    "buffered_added": 4,
+    "seen_size": 254,
     "github": {
       "repo": "zixuouoscaroliver/Oscar-Oliver",
       "workflow": "Telegram News Bot",
-      "run_id": "22078686538",
-      "run_number": "242",
+      "run_id": "22079561500",
+      "run_number": "243",
       "sha": "a89f5a686d9e4f1e1c76ef89a17bd8db610de47b",
       "ref": "refs/heads/main",
-      "run_url": "https://github.com/zixuouoscaroliver/Oscar-Oliver/actions/runs/22078686538"
+      "run_url": "https://github.com/zixuouoscaroliver/Oscar-Oliver/actions/runs/22079561500"
     },
     "checkout": {
       "ref": "bot-stable",
