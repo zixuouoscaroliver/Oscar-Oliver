@@ -1,8 +1,6 @@
 {
   "initialized": true,
   "seen": {
-    "https://nypost.com/?post_type=article&p=38479146": 1770966928,
-    "https://www.reuters.com/world/us/shooting-south-carolina-state-university-leaves-two-dead-one-wounded-2026-02-13/": 1770966928,
     "https://nypost.com/?post_type=article&p=38479238": 1770969524,
     "https://apnews.com/video/thailand-uses-birth-control-vaccine-to-curb-elephant-population-near-expanding-farms-ce9b70a9044841c1ab1592b3402cea84": 1770969524,
     "https://www.reuters.com/business/healthcare-pharmaceuticals/sanofis-new-ceo-needs-fix-drug-pipeline-navigate-trump-2026-02-13/": 1770969524,
@@ -266,15 +264,17 @@
     "https://www.scmp.com/news/china/politics/article/3343684/8-dead-fireworks-shop-blast-start-chinas-lunar-new-year-holiday?utm_source=rss_feed": 1771215706,
     "https://www.reuters.com/business/finance/europes-earnings-gain-pace-while-lofty-valuations-cap-rewards-2026-02-16/": 1771220885,
     "https://www.reuters.com/world/africa/south-africas-telkom-q3-profit-rises-data-demand-fuels-mobile-revenue-growth-2026-02-16/": 1771224470,
-    "https://www.scmp.com/week-asia/economics/article/3343702/western-pressure-russian-oil-trade-brings-indonesia-focus?utm_source=rss_feed": 1771224470
+    "https://www.scmp.com/week-asia/economics/article/3343702/western-pressure-russian-oil-trade-brings-indonesia-focus?utm_source=rss_feed": 1771224470,
+    "https://apnews.com/article/israel-gaza-hamas-war-news-02-15-2026-345d17db61847356e5036407ed84a439": 1771227818,
+    "https://www.reuters.com/world/europe/ukraine-ex-energy-minister-is-suspect-kickback-case-anti-corruption-2026-02-16/": 1771227818
   },
   "night_buffer": [],
   "last_digest_date": "2026-02-16",
   "last_run": {
-    "utc": "2026-02-16T06:48:03Z",
-    "local": "2026-02-16T14:47:50+08:00",
+    "utc": "2026-02-16T07:43:50Z",
+    "local": "2026-02-16T15:43:38+08:00",
     "tz": "Asia/Shanghai",
-    "local_hour": 14,
+    "local_hour": 15,
     "quiet": false,
     "sources_ok": 9,
     "sources_fail": 0,
@@ -282,19 +282,19 @@
     "new": 2,
     "pushed_ok": 2,
     "pushed_fail": 0,
-    "skipped_seen": 45,
-    "skipped_major": 139,
+    "skipped_seen": 46,
+    "skipped_major": 138,
     "buffered_total": 0,
     "buffered_added": 0,
     "seen_size": 266,
     "github": {
       "repo": "zixuouoscaroliver/Oscar-Oliver",
       "workflow": "Telegram News Bot",
-      "run_id": "22052908944",
-      "run_number": "222",
+      "run_id": "22054195879",
+      "run_number": "223",
       "sha": "a89f5a686d9e4f1e1c76ef89a17bd8db610de47b",
       "ref": "refs/heads/main",
-      "run_url": "https://github.com/zixuouoscaroliver/Oscar-Oliver/actions/runs/22052908944"
+      "run_url": "https://github.com/zixuouoscaroliver/Oscar-Oliver/actions/runs/22054195879"
     },
     "checkout": {
       "ref": "bot-stable",
