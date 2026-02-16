@@ -255,7 +255,8 @@
     "https://nypost.com/?post_type=article&p=38509912": 1771281606,
     "https://apnews.com/article/pawtucket-hockey-rink-shooting-rhode-island-c8ac3e8067ce2f2ce07e4d98009ecdaa": 1771281606,
     "https://www.scmp.com/news/world/africa/article/3343771/trumps-new-ambassador-south-africa-arrives-country-amid-strained-ties?utm_source=rss_feed": 1771281606,
-    "https://nypost.com/?post_type=article&p=38509294": 1771282979
+    "https://nypost.com/?post_type=article&p=38509294": 1771282979,
+    "https://apnews.com/article/george-washington-slavery-exhibit-restored-trump-2a32236320f280ba3e647d900c1301b4": 1771285159
   },
   "night_buffer": [
     {
@@ -647,12 +648,22 @@
         "published": "Mon, 16 Feb 2026 17:56:23 -0500",
         "image_url": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F02%2Fnewspress-collage-xc2ydvt8y-1771279819273.jpg?quality%3D90%26strip%3Dall%261771261828"
       }
+    },
+    {
+      "source": "AP NEWS",
+      "entry": {
+        "id": "https://apnews.com/article/george-washington-slavery-exhibit-restored-trump-2a32236320f280ba3e647d900c1301b4",
+        "title": "Judge orders Trump administration to restore Washington slavery exhibit it removed in Philadelphia",
+        "link": "https://apnews.com/article/george-washington-slavery-exhibit-restored-trump-2a32236320f280ba3e647d900c1301b4",
+        "published": "Mon, 16 Feb 2026 15:30:00 GMT",
+        "image_url": "https://www.bing.com/th?id=OVFT.gyJUWm12NsOVcqn-1PrBXi&pid=News&w=1600&h=900&c=14&rs=1"
+      }
     }
   ],
   "last_digest_date": "2026-02-16",
   "last_run": {
-    "utc": "2026-02-16T23:03:11Z",
-    "local": "2026-02-17T07:02:59+08:00",
+    "utc": "2026-02-16T23:39:32Z",
+    "local": "2026-02-17T07:39:19+08:00",
     "tz": "Asia/Shanghai",
     "local_hour": 7,
     "quiet": true,
@@ -662,19 +673,19 @@
     "new": 1,
     "pushed_ok": 0,
     "pushed_fail": 0,
-    "skipped_seen": 53,
-    "skipped_major": 133,
-    "buffered_total": 39,
+    "skipped_seen": 50,
+    "skipped_major": 136,
+    "buffered_total": 40,
     "buffered_added": 1,
-    "seen_size": 255,
+    "seen_size": 256,
     "github": {
       "repo": "zixuouoscaroliver/Oscar-Oliver",
       "workflow": "Telegram News Bot",
-      "run_id": "22080028061",
-      "run_number": "244",
+      "run_id": "22080747173",
+      "run_number": "245",
       "sha": "a89f5a686d9e4f1e1c76ef89a17bd8db610de47b",
       "ref": "refs/heads/main",
-      "run_url": "https://github.com/zixuouoscaroliver/Oscar-Oliver/actions/runs/22080028061"
+      "run_url": "https://github.com/zixuouoscaroliver/Oscar-Oliver/actions/runs/22080747173"
     },
     "checkout": {
       "ref": "bot-stable",
