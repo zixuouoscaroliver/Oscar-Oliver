@@ -1,7 +1,6 @@
 {
   "initialized": true,
   "seen": {
-    "https://nypost.com/?post_type=article&p=38484706": 1771014126,
     "https://nypost.com/?post_type=article&p=38483711": 1771016426,
     "https://www.reuters.com/business/finance/us-fed-tap-former-wall-street-lawyer-guynn-top-bank-oversight-role-say-sources-2026-02-13/": 1771016426,
     "https://www.scmp.com/news/china/article/3343547/farewell-unipolar-moment-europe-scrambles-footing-between-us-and-china?utm_source=rss_feed": 1771016426,
@@ -254,7 +253,11 @@
     "https://www.reuters.com/business/energy/trump-slams-energy-deal-between-california-and-britain-politico-reports-2026-02-16/": 1771268315,
     "https://nypost.com/?post_type=article&p=38508223": 1771270725,
     "https://www.scmp.com/news/world/middle-east/article/3343774/hamas-used-emojis-signal-start-october-7-2023-attack-israel?utm_source=rss_feed": 1771270725,
-    "https://www.scmp.com/news/world/united-states-canada/article/3343773/actor-robert-duvall-star-godfather-and-apocalypse-now-dead-95?utm_source=rss_feed": 1771270725
+    "https://www.scmp.com/news/world/united-states-canada/article/3343773/actor-robert-duvall-star-godfather-and-apocalypse-now-dead-95?utm_source=rss_feed": 1771270725,
+    "https://nypost.com/?post_type=article&p=38507739": 1771274524,
+    "https://nypost.com/?post_type=article&p=38233529": 1771274524,
+    "https://nypost.com/?post_type=article&p=38507893": 1771274524,
+    "https://www.reuters.com/world/europe/zelenskiy-warns-new-russian-strikes-ahead-geneva-peace-talks-2026-02-16/": 1771274524
   },
   "night_buffer": [
     {
@@ -506,34 +509,74 @@
         "published": "Mon, 16 Feb 2026 19:02:46 +0000",
         "image_url": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/02/17/32d4a3b7-a409-435a-8dd4-0cfae1470452_105855bb.jpg?itok=BVGribOO&v=1771268353"
       }
+    },
+    {
+      "source": "NYP",
+      "entry": {
+        "id": "https://nypost.com/?post_type=article&p=38507739",
+        "title": "Dollar Tree is invading posh neighborhoods after years of catering to low-income customers— breaking ‘stigma of the dollar store’",
+        "link": "https://nypost.com/2026/02/16/lifestyle/dollar-tree-hitting-wealthier-neighborhoods-not-just-low-income-areas-breaking-stigma-of-the-dollar-store/",
+        "published": "Mon, 16 Feb 2026 15:37:47 -0500",
+        "image_url": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F02%2Fcrop-38508873.jpg?quality%3D90%26strip%3Dall"
+      }
+    },
+    {
+      "source": "NYP",
+      "entry": {
+        "id": "https://nypost.com/?post_type=article&p=38233529",
+        "title": "Inside the home where Jake Haro killed little Emmanuel — with chilling message on fresh cement",
+        "link": "https://nypost.com/2026/02/16/us-news/inside-the-fate-of-house-where-jake-haro-killed-little-emmanuel/",
+        "published": "Mon, 16 Feb 2026 15:29:51 -0500",
+        "image_url": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F01%2F119298968.jpg?quality%3D90%26strip%3Dall"
+      }
+    },
+    {
+      "source": "NYP",
+      "entry": {
+        "id": "https://nypost.com/?post_type=article&p=38507893",
+        "title": "Trump vows feds won’t pay for Gateway tunnel overruns, denies wanting to rename Penn Station after himself",
+        "link": "https://nypost.com/2026/02/16/us-news/trump-vows-feds-wont-pay-for-gateway-tunnel-overruns-denies-wanting-to-rename-penn-station-after-himself/",
+        "published": "Mon, 16 Feb 2026 15:29:12 -0500",
+        "image_url": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F02%2F121490777.jpg?quality%3D90%26strip%3Dall"
+      }
+    },
+    {
+      "source": "Reuters",
+      "entry": {
+        "id": "https://www.reuters.com/world/europe/zelenskiy-warns-new-russian-strikes-ahead-geneva-peace-talks-2026-02-16/",
+        "title": "Zelenskiy warns of new Russian strikes ahead of Geneva peace talks",
+        "link": "https://www.reuters.com/world/europe/zelenskiy-warns-new-russian-strikes-ahead-geneva-peace-talks-2026-02-16/",
+        "published": "Mon, 16 Feb 2026 11:16:00 GMT",
+        "image_url": "https://www.bing.com/th?id=OVFT.Rj0I5YOb5mgMWl1zreUrGy&pid=News&w=1600&h=900&c=14&rs=1"
+      }
     }
   ],
   "last_digest_date": "2026-02-16",
   "last_run": {
-    "utc": "2026-02-16T19:59:45Z",
-    "local": "2026-02-17T03:59:33+08:00",
+    "utc": "2026-02-16T20:42:16Z",
+    "local": "2026-02-17T04:42:04+08:00",
     "tz": "Asia/Shanghai",
-    "local_hour": 3,
+    "local_hour": 4,
     "quiet": true,
     "sources_ok": 9,
     "sources_fail": 0,
     "entries_total": 186,
-    "new": 0,
+    "new": 4,
     "pushed_ok": 0,
     "pushed_fail": 0,
-    "skipped_seen": 50,
-    "skipped_major": 136,
-    "buffered_total": 25,
-    "buffered_added": 0,
-    "seen_size": 254,
+    "skipped_seen": 48,
+    "skipped_major": 116,
+    "buffered_total": 29,
+    "buffered_added": 4,
+    "seen_size": 257,
     "github": {
       "repo": "zixuouoscaroliver/Oscar-Oliver",
       "workflow": "Telegram News Bot",
-      "run_id": "22075945974",
-      "run_number": "238",
+      "run_id": "22076946048",
+      "run_number": "239",
       "sha": "a89f5a686d9e4f1e1c76ef89a17bd8db610de47b",
       "ref": "refs/heads/main",
-      "run_url": "https://github.com/zixuouoscaroliver/Oscar-Oliver/actions/runs/22075945974"
+      "run_url": "https://github.com/zixuouoscaroliver/Oscar-Oliver/actions/runs/22076946048"
     },
     "checkout": {
       "ref": "bot-stable",
