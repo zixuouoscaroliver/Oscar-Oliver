@@ -1,11 +1,6 @@
 {
   "initialized": true,
   "seen": {
-    "https://nypost.com/?post_type=article&p=38480202": 1770994888,
-    "https://nypost.com/?post_type=article&p=38480157": 1770994888,
-    "0000019c-53df-d3b5-addf-f3df3c310000": 1770994888,
-    "https://apnews.com/article/inflation-trump-economy-prices-d489cfa4b48e32232f136830333d1db0": 1770994888,
-    "https://apnews.com/article/school-immigration-enforcement-teacher-lawsuit-d8bbe16b0782a4532e312e7c81e2be65": 1770994888,
     "https://nypost.com/?post_type=article&p=38480909": 1770998044,
     "https://nypost.com/?post_type=article&p=38481089": 1770998044,
     "https://nypost.com/?post_type=article&p=38480978": 1770998044,
@@ -256,35 +251,80 @@
     "https://www.economist.com/by-invitation/2026/02/16/russias-economy-has-entered-the-death-zone": 1771248220,
     "https://www.reuters.com/world/italy-says-it-stands-ready-train-police-gaza-2026-02-16/": 1771248220,
     "https://www.scmp.com/week-asia/politics/article/3343761/icc-naming-dutertes-allies-sharpens-philippines-political-fault-lines?utm_source=rss_feed": 1771248220,
-    "https://apnews.com/article/producer-israel-athens-dana-eden-tehran-died-cbc60a018e8bf43a0a10b583d7e79878": 1771251251
+    "https://apnews.com/article/producer-israel-athens-dana-eden-tehran-died-cbc60a018e8bf43a0a10b583d7e79878": 1771251251,
+    "https://nypost.com/?post_type=article&p=38505089": 1771254175,
+    "0000019c-53df-d3b5-addf-f3df3c310000": 1771254175,
+    "https://apnews.com/article/israel-bobsled-olympics-8b13e2342765bcc47bde153cfc215021": 1771254175,
+    "https://www.reuters.com/commentary/breakingviews/europe-has-had-good-week-geopolitically-2026-02-16/": 1771254175
   },
-  "night_buffer": [],
+  "night_buffer": [
+    {
+      "source": "NYP",
+      "entry": {
+        "id": "https://nypost.com/?post_type=article&p=38505089",
+        "title": "Ukrainian refugee and her soldier boyfriend shot dead in bed allegedly by jealous ex",
+        "link": "https://nypost.com/2026/02/16/us-news/ukrainian-refugee-and-military-boyfriend-shot-dead-in-bed-allegedly-by-jealous-ex/",
+        "published": "Mon, 16 Feb 2026 09:44:35 -0500",
+        "image_url": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F02%2F121468745.jpg?quality%3D90%26strip%3Dall"
+      }
+    },
+    {
+      "source": "Politico",
+      "entry": {
+        "id": "0000019c-53df-d3b5-addf-f3df3c310000",
+        "title": "Fetterman on ICE, Israel and identifying as a Democrat | The Conversation",
+        "link": "https://www.politico.com/video/2026/02/13/fetterman-on-ice-israel-and-identifying-as-a-democrat-the-conversation-1910882",
+        "published": "Fri, 13 Feb 2026 09:56:10 EST",
+        "image_url": ""
+      }
+    },
+    {
+      "source": "AP NEWS",
+      "entry": {
+        "id": "https://apnews.com/article/israel-bobsled-olympics-8b13e2342765bcc47bde153cfc215021",
+        "title": "Last at halfway, smiling at the finish: Israel’s first Olympic bobsled run",
+        "link": "https://apnews.com/article/israel-bobsled-olympics-8b13e2342765bcc47bde153cfc215021",
+        "published": "Mon, 16 Feb 2026 06:04:00 GMT",
+        "image_url": "https://www.bing.com/th?id=OVFT.cvxNwUAQZOOZJcYax3TOji&pid=News&w=1600&h=900&c=14&rs=1"
+      }
+    },
+    {
+      "source": "Reuters",
+      "entry": {
+        "id": "https://www.reuters.com/commentary/breakingviews/europe-has-had-good-week-geopolitically-2026-02-16/",
+        "title": "Europe has had a good week, geopolitically",
+        "link": "https://www.reuters.com/commentary/breakingviews/europe-has-had-good-week-geopolitically-2026-02-16/",
+        "published": "Mon, 16 Feb 2026 02:31:00 GMT",
+        "image_url": ""
+      }
+    }
+  ],
   "last_digest_date": "2026-02-16",
   "last_run": {
-    "utc": "2026-02-16T14:14:23Z",
-    "local": "2026-02-16T22:14:11+08:00",
+    "utc": "2026-02-16T15:03:08Z",
+    "local": "2026-02-16T23:02:55+08:00",
     "tz": "Asia/Shanghai",
-    "local_hour": 22,
-    "quiet": false,
+    "local_hour": 23,
+    "quiet": true,
     "sources_ok": 9,
     "sources_fail": 0,
     "entries_total": 187,
-    "new": 1,
-    "pushed_ok": 1,
+    "new": 4,
+    "pushed_ok": 0,
     "pushed_fail": 0,
-    "skipped_seen": 45,
-    "skipped_major": 141,
-    "buffered_total": 0,
-    "buffered_added": 0,
-    "seen_size": 256,
+    "skipped_seen": 44,
+    "skipped_major": 139,
+    "buffered_total": 4,
+    "buffered_added": 4,
+    "seen_size": 255,
     "github": {
       "repo": "zixuouoscaroliver/Oscar-Oliver",
       "workflow": "Telegram News Bot",
-      "run_id": "22066071222",
-      "run_number": "230",
+      "run_id": "22067698193",
+      "run_number": "231",
       "sha": "a89f5a686d9e4f1e1c76ef89a17bd8db610de47b",
       "ref": "refs/heads/main",
-      "run_url": "https://github.com/zixuouoscaroliver/Oscar-Oliver/actions/runs/22066071222"
+      "run_url": "https://github.com/zixuouoscaroliver/Oscar-Oliver/actions/runs/22067698193"
     },
     "checkout": {
       "ref": "bot-stable",
