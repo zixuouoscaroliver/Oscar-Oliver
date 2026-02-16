@@ -1,9 +1,6 @@
 {
   "initialized": true,
   "seen": {
-    "https://nypost.com/?post_type=article&p=38479238": 1770969524,
-    "https://apnews.com/video/thailand-uses-birth-control-vaccine-to-curb-elephant-population-near-expanding-farms-ce9b70a9044841c1ab1592b3402cea84": 1770969524,
-    "https://www.reuters.com/business/healthcare-pharmaceuticals/sanofis-new-ceo-needs-fix-drug-pipeline-navigate-trump-2026-02-13/": 1770969524,
     "https://www.washingtonpost.com/national-security/2026/02/13/trump-syria-isis-iraq/": 1770972993,
     "https://apnews.com/article/bangladesh-election-hasina-tarique-rahman-bnp-8ec3a74b4488dfe998b3d1d232c3ba4f": 1770972993,
     "https://apnews.com/video/taiwan-vice-premier-says-trade-deal-reached-with-us-administration-after-10-months-of-negotiations-997444813f4142328ecdb32716eec99f": 1770972993,
@@ -266,15 +263,17 @@
     "https://www.reuters.com/world/africa/south-africas-telkom-q3-profit-rises-data-demand-fuels-mobile-revenue-growth-2026-02-16/": 1771224470,
     "https://www.scmp.com/week-asia/economics/article/3343702/western-pressure-russian-oil-trade-brings-indonesia-focus?utm_source=rss_feed": 1771224470,
     "https://apnews.com/article/israel-gaza-hamas-war-news-02-15-2026-345d17db61847356e5036407ed84a439": 1771227818,
-    "https://www.reuters.com/world/europe/ukraine-ex-energy-minister-is-suspect-kickback-case-anti-corruption-2026-02-16/": 1771227818
+    "https://www.reuters.com/world/europe/ukraine-ex-energy-minister-is-suspect-kickback-case-anti-corruption-2026-02-16/": 1771227818,
+    "https://www.reuters.com/world/africa/south-african-rand-firms-markets-await-jobs-data-2026-02-16/": 1771230512,
+    "https://www.scmp.com/news/people-culture/trending-china/article/3343065/china-woman-quits-teaching-sell-coffins-europe-generating-us6-million-sales-annually?utm_source=rss_feed": 1771230512
   },
   "night_buffer": [],
   "last_digest_date": "2026-02-16",
   "last_run": {
-    "utc": "2026-02-16T07:43:50Z",
-    "local": "2026-02-16T15:43:38+08:00",
+    "utc": "2026-02-16T08:28:46Z",
+    "local": "2026-02-16T16:28:32+08:00",
     "tz": "Asia/Shanghai",
-    "local_hour": 15,
+    "local_hour": 16,
     "quiet": false,
     "sources_ok": 9,
     "sources_fail": 0,
@@ -282,19 +281,19 @@
     "new": 2,
     "pushed_ok": 2,
     "pushed_fail": 0,
-    "skipped_seen": 46,
-    "skipped_major": 138,
+    "skipped_seen": 44,
+    "skipped_major": 140,
     "buffered_total": 0,
     "buffered_added": 0,
-    "seen_size": 266,
+    "seen_size": 265,
     "github": {
       "repo": "zixuouoscaroliver/Oscar-Oliver",
       "workflow": "Telegram News Bot",
-      "run_id": "22054195879",
-      "run_number": "223",
+      "run_id": "22055381395",
+      "run_number": "224",
       "sha": "a89f5a686d9e4f1e1c76ef89a17bd8db610de47b",
       "ref": "refs/heads/main",
-      "run_url": "https://github.com/zixuouoscaroliver/Oscar-Oliver/actions/runs/22054195879"
+      "run_url": "https://github.com/zixuouoscaroliver/Oscar-Oliver/actions/runs/22055381395"
     },
     "checkout": {
       "ref": "bot-stable",
