@@ -1,10 +1,6 @@
 {
   "initialized": true,
   "seen": {
-    "https://nypost.com/?post_type=article&p=38480909": 1770998044,
-    "https://nypost.com/?post_type=article&p=38481089": 1770998044,
-    "https://nypost.com/?post_type=article&p=38480978": 1770998044,
-    "https://www.reuters.com/business/us-consumer-prices-rise-less-than-expected-january-2026-02-13/": 1770998044,
     "https://nypost.com/?post_type=article&p=38480417": 1771000490,
     "https://www.washingtonpost.com/national-security/2026/02/13/trump-iran-aircraft-carrier-gerald-ford/": 1771000490,
     "https://nypost.com/?post_type=article&p=38481580": 1771003636,
@@ -255,7 +251,13 @@
     "https://nypost.com/?post_type=article&p=38505089": 1771254175,
     "0000019c-53df-d3b5-addf-f3df3c310000": 1771254175,
     "https://apnews.com/article/israel-bobsled-olympics-8b13e2342765bcc47bde153cfc215021": 1771254175,
-    "https://www.reuters.com/commentary/breakingviews/europe-has-had-good-week-geopolitically-2026-02-16/": 1771254175
+    "https://www.reuters.com/commentary/breakingviews/europe-has-had-good-week-geopolitically-2026-02-16/": 1771254175,
+    "https://nypost.com/?post_type=article&p=38506209": 1771259364,
+    "https://nypost.com/?post_type=article&p=38505333": 1771259364,
+    "https://nypost.com/?post_type=article&p=38505741": 1771259364,
+    "https://www.washingtonpost.com/national-security/2026/02/16/rubio-hungary-orban-trump/": 1771259364,
+    "https://apnews.com/article/alexei-navalny-russia-death-putin-kremlin-anniversary-539748ce105ab9822c80245be729f8bd": 1771259364,
+    "https://www.reuters.com/sustainability/climate-energy/how-europe-can-turn-cement-into-quick-win-climate--ecmii-2026-02-16/": 1771259364
   },
   "night_buffer": [
     {
@@ -297,34 +299,94 @@
         "published": "Mon, 16 Feb 2026 02:31:00 GMT",
         "image_url": ""
       }
+    },
+    {
+      "source": "NYP",
+      "entry": {
+        "id": "https://nypost.com/?post_type=article&p=38506209",
+        "title": "Trump tells The Post he wants death penalty for Nancy Guthrie kidnappers if she isn’t returned alive",
+        "link": "https://nypost.com/2026/02/16/us-news/trump-tells-the-post-he-wants-death-penalty-for-nancy-guthrie-kidnappers-if-she-isnt-returned-alive/",
+        "published": "Mon, 16 Feb 2026 11:28:07 -0500",
+        "image_url": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F02%2Ftrump-guthrie-death-penalty-comp.jpg?quality%3D90%26strip%3Dall"
+      }
+    },
+    {
+      "source": "NYP",
+      "entry": {
+        "id": "https://nypost.com/?post_type=article&p=38505333",
+        "title": "Hamas used emojis as code for launching Oct. 7 assault, IDF claims",
+        "link": "https://nypost.com/2026/02/16/world-news/hamas-used-emojis-as-code-for-launching-oct-7-assault-idf-claims/",
+        "published": "Mon, 16 Feb 2026 11:10:57 -0500",
+        "image_url": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F02%2F2023-one-month-israel-wracked-121478449.jpg?quality%3D90%26strip%3Dall"
+      }
+    },
+    {
+      "source": "NYP",
+      "entry": {
+        "id": "https://nypost.com/?post_type=article&p=38505741",
+        "title": "LeBron James’ ‘message’ to Israel fans after All-Star Game question",
+        "link": "https://nypost.com/2026/02/16/sports/lebron-james-message-to-israel-fans-after-all-star-game-question/",
+        "published": "Mon, 16 Feb 2026 10:52:53 -0500",
+        "image_url": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F02%2Fnewspress-collage-rzyyfoaif-1771256261576.jpg?quality%3D90%26strip%3Dall%261771238314"
+      }
+    },
+    {
+      "source": "WaPo",
+      "entry": {
+        "id": "https://www.washingtonpost.com/national-security/2026/02/16/rubio-hungary-orban-trump/",
+        "title": "Rubio seeks to boost Hungary’s Orban as he faces toughest election in years",
+        "link": "https://www.washingtonpost.com/national-security/2026/02/16/rubio-hungary-orban-trump/",
+        "published": "Mon, 16 Feb 2026 16:12:11 +0000",
+        "image_url": ""
+      }
+    },
+    {
+      "source": "AP NEWS",
+      "entry": {
+        "id": "https://apnews.com/article/alexei-navalny-russia-death-putin-kremlin-anniversary-539748ce105ab9822c80245be729f8bd",
+        "title": "2 years on, Navalny’s death still casts a shadow over Russia and wider Europe",
+        "link": "https://apnews.com/article/alexei-navalny-russia-death-putin-kremlin-anniversary-539748ce105ab9822c80245be729f8bd",
+        "published": "Mon, 16 Feb 2026 08:16:00 GMT",
+        "image_url": "https://www.bing.com/th?id=OVFT.HubYKgoKkYpCd4M1DMDFoi&pid=News&w=1600&h=900&c=14&rs=1"
+      }
+    },
+    {
+      "source": "Reuters",
+      "entry": {
+        "id": "https://www.reuters.com/sustainability/climate-energy/how-europe-can-turn-cement-into-quick-win-climate--ecmii-2026-02-16/",
+        "title": "How Europe can turn cement into a quick win for climate",
+        "link": "https://www.reuters.com/sustainability/climate-energy/how-europe-can-turn-cement-into-quick-win-climate--ecmii-2026-02-16/",
+        "published": "Mon, 16 Feb 2026 07:18:00 GMT",
+        "image_url": "https://www.bing.com/th?id=OVFT.HXs8hkz1K4rhYNaRRPPXKC&pid=News&w=1600&h=900&c=14&rs=1"
+      }
     }
   ],
   "last_digest_date": "2026-02-16",
   "last_run": {
-    "utc": "2026-02-16T15:53:01Z",
-    "local": "2026-02-16T23:52:49+08:00",
+    "utc": "2026-02-16T16:29:36Z",
+    "local": "2026-02-17T00:29:24+08:00",
     "tz": "Asia/Shanghai",
-    "local_hour": 23,
+    "local_hour": 0,
     "quiet": true,
     "sources_ok": 9,
     "sources_fail": 0,
-    "entries_total": 185,
-    "new": 0,
+    "entries_total": 188,
+    "new": 6,
     "pushed_ok": 0,
     "pushed_fail": 0,
-    "skipped_seen": 44,
-    "skipped_major": 141,
-    "buffered_total": 4,
-    "buffered_added": 0,
-    "seen_size": 255,
+    "skipped_seen": 43,
+    "skipped_major": 126,
+    "buffered_total": 10,
+    "buffered_added": 6,
+    "seen_size": 257,
     "github": {
       "repo": "zixuouoscaroliver/Oscar-Oliver",
       "workflow": "Telegram News Bot",
-      "run_id": "22069356319",
-      "run_number": "232",
+      "run_id": "22070510185",
+      "run_number": "233",
       "sha": "a89f5a686d9e4f1e1c76ef89a17bd8db610de47b",
       "ref": "refs/heads/main",
-      "run_url": "https://github.com/zixuouoscaroliver/Oscar-Oliver/actions/runs/22069356319"
+      "run_url": "https://github.com/zixuouoscaroliver/Oscar-Oliver/actions/runs/22070510185"
     },
     "checkout": {
       "ref": "bot-stable",
