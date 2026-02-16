@@ -270,39 +270,42 @@
     "https://www.scmp.com/week-asia/politics/article/3343515/indonesias-us167-billion-china-backed-dam-limbo-why?utm_source=rss_feed": 1771212138,
     "https://nypost.com/?post_type=article&p=38501611": 1771212875,
     "https://apnews.com/article/north-korea-ukraine-war-dead-kim-jong-un-b589285d79f66900fbc30f9243383cfe": 1771212875,
-    "https://nypost.com/?post_type=article&p=38502323": 1771213581
+    "https://nypost.com/?post_type=article&p=38502323": 1771213581,
+    "https://apnews.com/video/palestinian-artist-paints-walls-of-gazas-shattered-buildings-to-bring-some-joy-ahead-of-ramadan-06c076eb5fab438a86389672923a50e3": 1771215706,
+    "https://www.scmp.com/news/asia/south-asia/article/3343687/campaigning-starts-nepals-first-election-deadly-anti-corruption-protests?utm_source=rss_feed": 1771215706,
+    "https://www.scmp.com/news/china/politics/article/3343684/8-dead-fireworks-shop-blast-start-chinas-lunar-new-year-holiday?utm_source=rss_feed": 1771215706
   },
   "night_buffer": [],
   "last_digest_date": "2026-02-16",
   "last_run": {
-    "utc": "2026-02-16T03:46:36Z",
-    "local": "2026-02-16T11:46:21+08:00",
+    "utc": "2026-02-16T04:22:02Z",
+    "local": "2026-02-16T12:21:46+08:00",
     "tz": "Asia/Shanghai",
-    "local_hour": 11,
+    "local_hour": 12,
     "quiet": false,
     "sources_ok": 9,
     "sources_fail": 0,
     "entries_total": 184,
-    "new": 1,
-    "pushed_ok": 1,
+    "new": 3,
+    "pushed_ok": 3,
     "pushed_fail": 0,
-    "skipped_seen": 50,
-    "skipped_major": 133,
+    "skipped_seen": 45,
+    "skipped_major": 136,
     "buffered_total": 0,
     "buffered_added": 0,
-    "seen_size": 270,
+    "seen_size": 273,
     "github": {
       "repo": "zixuouoscaroliver/Oscar-Oliver",
       "workflow": "Telegram News Bot",
-      "run_id": "22049396563",
-      "run_number": "219",
+      "run_id": "22050013094",
+      "run_number": "220",
       "sha": "a89f5a686d9e4f1e1c76ef89a17bd8db610de47b",
       "ref": "refs/heads/main",
-      "run_url": "https://github.com/zixuouoscaroliver/Oscar-Oliver/actions/runs/22049396563"
+      "run_url": "https://github.com/zixuouoscaroliver/Oscar-Oliver/actions/runs/22050013094"
     },
     "checkout": {
-      "ref": "hotfix/resend-missed-digest",
-      "sha": "f2d31b78b4fabd95e4565665d22ec451df707e9f"
+      "ref": "bot-stable",
+      "sha": "a89f5a686d9e4f1e1c76ef89a17bd8db610de47b"
     }
   }
 }
