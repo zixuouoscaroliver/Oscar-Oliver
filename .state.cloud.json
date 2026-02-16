@@ -254,7 +254,8 @@
     "https://nypost.com/?post_type=article&p=38510190": 1771281606,
     "https://nypost.com/?post_type=article&p=38509912": 1771281606,
     "https://apnews.com/article/pawtucket-hockey-rink-shooting-rhode-island-c8ac3e8067ce2f2ce07e4d98009ecdaa": 1771281606,
-    "https://www.scmp.com/news/world/africa/article/3343771/trumps-new-ambassador-south-africa-arrives-country-amid-strained-ties?utm_source=rss_feed": 1771281606
+    "https://www.scmp.com/news/world/africa/article/3343771/trumps-new-ambassador-south-africa-arrives-country-amid-strained-ties?utm_source=rss_feed": 1771281606,
+    "https://nypost.com/?post_type=article&p=38509294": 1771282979
   },
   "night_buffer": [
     {
@@ -636,34 +637,44 @@
         "published": "Mon, 16 Feb 2026 22:21:11 +0000",
         "image_url": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/02/17/216ceb92-bd02-4232-a261-71c5bcfe2086_6ebfd0f7.jpg?itok=uRdFoHkX&v=1771279896"
       }
+    },
+    {
+      "source": "NYP",
+      "entry": {
+        "id": "https://nypost.com/?post_type=article&p=38509294",
+        "title": "Indebted DNC bought Kamala Harris donor list for $6.5M more than a year after the 2024 election",
+        "link": "https://nypost.com/2026/02/16/us-news/indebted-dnc-bought-kamala-harris-donor-list-for-6-5m-more-than-a-year-after-the-2024-election/",
+        "published": "Mon, 16 Feb 2026 17:56:23 -0500",
+        "image_url": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F02%2Fnewspress-collage-xc2ydvt8y-1771279819273.jpg?quality%3D90%26strip%3Dall%261771261828"
+      }
     }
   ],
   "last_digest_date": "2026-02-16",
   "last_run": {
-    "utc": "2026-02-16T22:40:18Z",
-    "local": "2026-02-17T06:40:06+08:00",
+    "utc": "2026-02-16T23:03:11Z",
+    "local": "2026-02-17T07:02:59+08:00",
     "tz": "Asia/Shanghai",
-    "local_hour": 6,
+    "local_hour": 7,
     "quiet": true,
     "sources_ok": 9,
     "sources_fail": 0,
-    "entries_total": 188,
-    "new": 4,
+    "entries_total": 187,
+    "new": 1,
     "pushed_ok": 0,
     "pushed_fail": 0,
-    "skipped_seen": 49,
-    "skipped_major": 135,
-    "buffered_total": 38,
-    "buffered_added": 4,
-    "seen_size": 254,
+    "skipped_seen": 53,
+    "skipped_major": 133,
+    "buffered_total": 39,
+    "buffered_added": 1,
+    "seen_size": 255,
     "github": {
       "repo": "zixuouoscaroliver/Oscar-Oliver",
       "workflow": "Telegram News Bot",
-      "run_id": "22079561500",
-      "run_number": "243",
+      "run_id": "22080028061",
+      "run_number": "244",
       "sha": "a89f5a686d9e4f1e1c76ef89a17bd8db610de47b",
       "ref": "refs/heads/main",
-      "run_url": "https://github.com/zixuouoscaroliver/Oscar-Oliver/actions/runs/22079561500"
+      "run_url": "https://github.com/zixuouoscaroliver/Oscar-Oliver/actions/runs/22080028061"
     },
     "checkout": {
       "ref": "bot-stable",
