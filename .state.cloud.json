@@ -274,8 +274,259 @@
     "https://www.scmp.com/news/asia/east-asia/article/3343671/average-south-korean-youtuber-earnings-jump-25-4-years-us49000-annually?utm_source=rss_feed": 1771212138,
     "https://www.scmp.com/week-asia/politics/article/3343515/indonesias-us167-billion-china-backed-dam-limbo-why?utm_source=rss_feed": 1771212138
   },
-  "night_buffer": [],
-  "last_digest_date": "2026-02-16",
+  "night_buffer": [
+    {
+      "source": "NYP",
+      "entry": {
+        "id": "https://nypost.com/?post_type=article&p=38485708",
+        "title": "Trump could be missing the opportunity to rebuild the Navy efficiently and quickly",
+        "link": "https://nypost.com/2026/02/15/opinion/trump-could-be-missing-the-opportunity-to-rebuild-the-navy-efficiently-and-quickly/",
+        "published": "Sun, 15 Feb 2026 10:39:38 -0500",
+        "image_url": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F02%2Fu-s-president-donald-trump-121254352.jpg?quality%3D90%26strip%3Dall"
+      }
+    },
+    {
+      "source": "Reuters",
+      "entry": {
+        "id": "https://www.reuters.com/world/middle-east/board-peace-members-have-pledged-more-than-5-billion-gaza-trump-says-2026-02-15/",
+        "title": "Board of Peace members have pledged more than $5 billion for Gaza, Trump says",
+        "link": "https://www.reuters.com/world/middle-east/board-peace-members-have-pledged-more-than-5-billion-gaza-trump-says-2026-02-15/",
+        "published": "Sun, 15 Feb 2026 06:36:00 GMT",
+        "image_url": "https://www.bing.com/th?id=OVFT.HUTLCuUJ5Q3QmGcHHvPquy&pid=News&w=1600&h=900&c=14&rs=1"
+      }
+    },
+    {
+      "source": "Reuters",
+      "entry": {
+        "id": "https://www.reuters.com/world/russia-investigates-tanker-crash-ust-luga-port-2026-02-15/",
+        "title": "Russia investigates tanker crash at Ust-Luga port",
+        "link": "https://www.reuters.com/world/russia-investigates-tanker-crash-ust-luga-port-2026-02-15/",
+        "published": "Sun, 15 Feb 2026 06:32:00 GMT",
+        "image_url": "https://www.bing.com/th?id=OVFT.d5qhZr6A68WHaHNpHYWO1C&pid=News&w=1600&h=900&c=14&rs=1"
+      }
+    },
+    {
+      "source": "NYP",
+      "entry": {
+        "id": "https://nypost.com/?post_type=article&p=38493833",
+        "title": "Israel’s ‘war between the wars’ with Hamas continues, despite cease-fire",
+        "link": "https://nypost.com/2026/02/15/world-news/israels-war-between-the-wars-with-hamas-continues-despite-cease-fire/",
+        "published": "Sun, 15 Feb 2026 11:00:00 -0500",
+        "image_url": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F02%2Fnewspress-collage-p0zksaho9-1771100229321.jpg?quality%3D90%26strip%3Dall%261771082297"
+      }
+    },
+    {
+      "source": "Reuters",
+      "entry": {
+        "id": "https://www.reuters.com/world/middle-east/israeli-cabinet-approves-west-bank-land-registration-palestinians-condemn-de-2026-02-15/",
+        "title": "Israeli cabinet approves West Bank land registration, Palestinians condemn 'de-facto annexation'",
+        "link": "https://www.reuters.com/world/middle-east/israeli-cabinet-approves-west-bank-land-registration-palestinians-condemn-de-2026-02-15/",
+        "published": "Sun, 15 Feb 2026 06:53:00 GMT",
+        "image_url": "https://www.bing.com/th?id=OVFT.T_58HfF3PvrwAwb7X37xci&pid=News&w=1600&h=900&c=14&rs=1"
+      }
+    },
+    {
+      "source": "NYP",
+      "entry": {
+        "id": "https://nypost.com/?post_type=article&p=38498705",
+        "title": "Ex-Colorado star fed up with Deion Sanders after retiring Shedeur’s number",
+        "link": "https://nypost.com/2026/02/15/sports/christian-fauria-fed-up-with-colorado-after-shedeur-sanders-jersey-retirement/",
+        "published": "Sun, 15 Feb 2026 12:00:06 -0500",
+        "image_url": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F02%2Fsanders-fauria.jpg?quality%3D90%26strip%3Dall%261771156523"
+      }
+    },
+    {
+      "source": "Reuters",
+      "entry": {
+        "id": "https://www.reuters.com/legal/government/trump-border-czar-dismisses-democratic-demands-reform-ice-2026-02-15/",
+        "title": "Trump border czar dismisses Democratic demands to reform ICE",
+        "link": "https://www.reuters.com/legal/government/trump-border-czar-dismisses-democratic-demands-reform-ice-2026-02-15/",
+        "published": "Sun, 15 Feb 2026 07:31:00 GMT",
+        "image_url": "https://www.bing.com/th?id=OVFT.iNR9UFB2ZsulU2lJUtAWIC&pid=News&w=1600&h=900&c=14&rs=1"
+      }
+    },
+    {
+      "source": "AP NEWS",
+      "entry": {
+        "id": "https://apnews.com/article/trump-gaza-board-peace-reconstruction-stabilization-685251b3e8f24cf8779d6fe3f5f2ca04",
+        "title": "Trump says Board of Peace will unveil $5 billion in Gaza reconstruction pledges at inaugural meeting",
+        "link": "https://apnews.com/article/trump-gaza-board-peace-reconstruction-stabilization-685251b3e8f24cf8779d6fe3f5f2ca04",
+        "published": "Sun, 15 Feb 2026 08:46:00 GMT",
+        "image_url": "https://www.bing.com/th?id=OVFT.M0zgI5W9Zz8n7Vb76_4g5S&pid=News&w=1600&h=900&c=14&rs=1"
+      }
+    },
+    {
+      "source": "Reuters",
+      "entry": {
+        "id": "https://www.reuters.com/business/aerospace-defense/europe-aims-rely-less-us-defence-after-trumps-greenland-push-2026-02-15/",
+        "title": "Europe aims to rely less on US defence after Trump's Greenland push",
+        "link": "https://www.reuters.com/business/aerospace-defense/europe-aims-rely-less-us-defence-after-trumps-greenland-push-2026-02-15/",
+        "published": "Sun, 15 Feb 2026 07:33:00 GMT",
+        "image_url": ""
+      }
+    },
+    {
+      "source": "Reuters",
+      "entry": {
+        "id": "https://www.reuters.com/world/middle-east/trump-told-netanyahu-december-he-would-support-israeli-strikes-irans-missile-2026-02-15/",
+        "title": "Trump told Netanyahu in December he would support Israeli strikes on Iran's missile program, CBS News reports",
+        "link": "https://www.reuters.com/world/middle-east/trump-told-netanyahu-december-he-would-support-israeli-strikes-irans-missile-2026-02-15/",
+        "published": "Sun, 15 Feb 2026 09:35:00 GMT",
+        "image_url": "https://www.bing.com/th?id=OVFT.3qqLA2iJDACd3CnMOpN_KC&pid=News&w=1600&h=900&c=14&rs=1"
+      }
+    },
+    {
+      "source": "SCMP",
+      "entry": {
+        "id": "https://www.scmp.com/news/world/russia-central-asia/article/3343650/us-not-disputing-troubling-european-report-navalny-poisoning-rubio-says?utm_source=rss_feed",
+        "title": "US ‘not disputing’ a ‘troubling’ European report on Navalny poisoning, Rubio says",
+        "link": "https://www.scmp.com/news/world/russia-central-asia/article/3343650/us-not-disputing-troubling-european-report-navalny-poisoning-rubio-says?utm_source=rss_feed",
+        "published": "Sun, 15 Feb 2026 17:16:17 +0000",
+        "image_url": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/02/16/668ba2df-be7d-45c5-9ac5-ff43b9a055c8_eac7d243.jpg?itok=utfpyuz2&v=1771175673"
+      }
+    },
+    {
+      "source": "AP NEWS",
+      "entry": {
+        "id": "https://apnews.com/article/homan-immigration-agents-minnesota-enforcement-operation-drawdown-5a7940eb9b5100d46efc33a97f524da0",
+        "title": "Trump’s border czar says ‘small’ security force will remain in Minnesota after enforcement drawdown",
+        "link": "https://apnews.com/article/homan-immigration-agents-minnesota-enforcement-operation-drawdown-5a7940eb9b5100d46efc33a97f524da0",
+        "published": "Sun, 15 Feb 2026 09:35:00 GMT",
+        "image_url": ""
+      }
+    },
+    {
+      "source": "Economist",
+      "entry": {
+        "id": "https://www.economist.com/finance-and-economics/2026/02/15/donald-trumps-schemes-to-juice-the-economy",
+        "title": "Donald Trump’s schemes to juice the economy",
+        "link": "https://www.economist.com/finance-and-economics/2026/02/15/donald-trumps-schemes-to-juice-the-economy",
+        "published": "Sun, 15 Feb 2026 10:14:00 GMT",
+        "image_url": "https://www.bing.com/th?id=OVFT.FwaDJqw7ucTIudk0YphXJy&pid=News&w=1600&h=900&c=14&rs=1"
+      }
+    },
+    {
+      "source": "SCMP",
+      "entry": {
+        "id": "https://www.scmp.com/news/world/middle-east/article/3343652/israel-will-begin-contentious-west-bank-land-registration-new-step-deepen-control?utm_source=rss_feed",
+        "title": "Israel will begin contentious West Bank land registration in new step to deepen control",
+        "link": "https://www.scmp.com/news/world/middle-east/article/3343652/israel-will-begin-contentious-west-bank-land-registration-new-step-deepen-control?utm_source=rss_feed",
+        "published": "Sun, 15 Feb 2026 18:26:15 +0000",
+        "image_url": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/02/16/971be426-853e-41a2-94dc-e1abfa7adc38_f18225d2.jpg?itok=UmDdFfIN&v=1771179651"
+      }
+    },
+    {
+      "source": "Reuters",
+      "entry": {
+        "id": "https://www.reuters.com/sports/games-organisers-remove-shift-staffer-who-called-out-free-palestine-israeli-2026-02-15/",
+        "title": "Games organisers remove from shift staffer who called out 'Free Palestine' at Israeli group",
+        "link": "https://www.reuters.com/sports/games-organisers-remove-shift-staffer-who-called-out-free-palestine-israeli-2026-02-15/",
+        "published": "Sun, 15 Feb 2026 07:22:00 GMT",
+        "image_url": ""
+      }
+    },
+    {
+      "source": "SCMP",
+      "entry": {
+        "id": "https://www.scmp.com/news/world/united-states-canada/article/3343653/trumps-border-tsar-homan-says-small-security-force-will-remain-minnesota?utm_source=rss_feed",
+        "title": "Trump’s border tsar Homan says ‘small’ security force will remain in Minnesota",
+        "link": "https://www.scmp.com/news/world/united-states-canada/article/3343653/trumps-border-tsar-homan-says-small-security-force-will-remain-minnesota?utm_source=rss_feed",
+        "published": "Sun, 15 Feb 2026 19:00:33 +0000",
+        "image_url": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/02/16/9013d6fe-8f6f-4a3b-9163-c939fe63d7f3_49782f9e.jpg?itok=hZw7vp3r&v=1771181849"
+      }
+    },
+    {
+      "source": "NYP",
+      "entry": {
+        "id": "https://nypost.com/?post_type=article&p=38499070",
+        "title": "Obama fires back at Trump over ‘deeply troubling’ video depicting him as an ape",
+        "link": "https://nypost.com/2026/02/15/us-news/barack-obama-fires-back-at-president-trump-over-deeply-troubling-video-depicting-him-as-an-ape/",
+        "published": "Sun, 15 Feb 2026 14:30:53 -0500",
+        "image_url": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F02%2Fnewspress-collage-o4kgdkej9-1771175558489.jpg?quality%3D90%26strip%3Dall%261771157577"
+      }
+    },
+    {
+      "source": "Politico",
+      "entry": {
+        "id": "0000019c-530c-d0f8-adde-fb5e7f4c0000",
+        "title": "Trump continues to lash out at ‘RINO’ GOP Gov. Kevin Stitt",
+        "link": "https://www.politico.com/news/2026/02/12/trump-attack-kevin-stitt-00778506",
+        "published": "Thu, 12 Feb 2026 14:10:30 EST",
+        "image_url": "https://static.politico.com/33/89/ad0638fa4a2386df248accb0a775/gettyimages-2151959536.jpg"
+      }
+    },
+    {
+      "source": "NYP",
+      "entry": {
+        "id": "https://nypost.com/?post_type=article&p=38500502",
+        "title": "Ex-San Francisco lawyer whose ‘dog of death’ killed Diane Whipple in 2001 denied parole again",
+        "link": "https://nypost.com/2026/02/15/us-news/ex-san-francisco-lawyer-whose-dog-of-death-killed-diane-whipple-denied-parole/",
+        "published": "Sun, 15 Feb 2026 15:58:23 -0500",
+        "image_url": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F02%2Fcrop-38500817.jpg?quality%3D90%26strip%3Dall"
+      }
+    },
+    {
+      "source": "NYP",
+      "entry": {
+        "id": "https://nypost.com/?post_type=article&p=38500529",
+        "title": "Trump’s Board of Peace to announce $5B in funding for Gaza reconstruction at inaugural meeting",
+        "link": "https://nypost.com/2026/02/15/world-news/trumps-board-of-peace-to-announce-5b-in-funding-for-gaza-reconstruction/",
+        "published": "Sun, 15 Feb 2026 15:39:51 -0500",
+        "image_url": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F02%2Fnewspress-collage-1jvwfakgi-1771186437893.jpg?quality%3D90%26strip%3Dall%261771168494"
+      }
+    },
+    {
+      "source": "SCMP",
+      "entry": {
+        "id": "https://www.scmp.com/opinion/china-opinion/article/3343423/can-manilas-south-china-sea-strategy-defiance-and-diplomacy-hold?utm_source=rss_feed",
+        "title": "Can Manila’s South China Sea strategy of defiance and diplomacy hold?",
+        "link": "https://www.scmp.com/opinion/china-opinion/article/3343423/can-manilas-south-china-sea-strategy-defiance-and-diplomacy-hold?utm_source=rss_feed",
+        "published": "Sun, 15 Feb 2026 21:30:08 +0000",
+        "image_url": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/02/13/cf1be01a-a8b4-439a-ab37-dda90a00dde2_e97281ab.jpg?itok=4k_c3wbi&v=1770975100"
+      }
+    },
+    {
+      "source": "Reuters",
+      "entry": {
+        "id": "https://www.reuters.com/world/asia-pacific/australian-takeover-target-bluescope-beats-estimate-with-first-half-earnings-2026-02-15/",
+        "title": "Australian takeover target BlueScope beats estimate with first-half earnings",
+        "link": "https://www.reuters.com/world/asia-pacific/australian-takeover-target-bluescope-beats-estimate-with-first-half-earnings-2026-02-15/",
+        "published": "Sun, 15 Feb 2026 12:58:00 GMT",
+        "image_url": "https://www.bing.com/th?id=OVFT.qGWV9s_BmnzjwyXadb_E-C&pid=News&w=1600&h=900&c=14&rs=1"
+      }
+    },
+    {
+      "source": "Reuters",
+      "entry": {
+        "id": "https://www.reuters.com/world/asia-pacific/new-zealands-a2-milk-posts-94-rise-interim-earnings-2026-02-15/",
+        "title": "New Zealand's a2 Milk posts 9.4% rise in interim earnings",
+        "link": "https://www.reuters.com/world/asia-pacific/new-zealands-a2-milk-posts-94-rise-interim-earnings-2026-02-15/",
+        "published": "Sun, 15 Feb 2026 10:42:00 GMT",
+        "image_url": ""
+      }
+    },
+    {
+      "source": "Reuters",
+      "entry": {
+        "id": "https://www.reuters.com/sports/alpine-skiing-african-caribbean-skiers-unite-call-more-inclusion-support-2026-02-15/",
+        "title": "African and Caribbean skiers unite at Olympics to call for more inclusion, support",
+        "link": "https://www.reuters.com/sports/alpine-skiing-african-caribbean-skiers-unite-call-more-inclusion-support-2026-02-15/",
+        "published": "Sun, 15 Feb 2026 13:46:00 GMT",
+        "image_url": "https://www.bing.com/th?id=OVFT._PMfeb0Lzy_WnR_7k4h2iy&pid=News&w=1600&h=900&c=14&rs=1"
+      }
+    },
+    {
+      "source": "NYP",
+      "entry": {
+        "id": "https://nypost.com/?post_type=article&p=38499710",
+        "title": "Pilot couple killed in plane crash caused by dirty windshield — but their dog survives",
+        "link": "https://nypost.com/2026/02/15/us-news/pilot-couple-killed-in-plane-crash-caused-by-dirty-windshield-but-their-dog-survives/",
+        "published": "Sun, 15 Feb 2026 18:12:09 -0500",
+        "image_url": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F02%2Fcomp-texas-plane-crash-121403212.jpg?quality%3D90%26strip%3Dall"
+      }
+    }
+  ],
+  "last_digest_date": "",
   "last_run": {
     "utc": "2026-02-16T03:23:13Z",
     "local": "2026-02-16T11:22:18+08:00",
