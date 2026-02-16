@@ -1,11 +1,6 @@
 {
   "initialized": true,
   "seen": {
-    "https://nypost.com/?post_type=article&p=38483186": 1771009579,
-    "https://nypost.com/?post_type=article&p=38483453": 1771009579,
-    "https://nypost.com/?post_type=article&p=38483673": 1771009579,
-    "https://apnews.com/article/trump-nfl-indultos-7753c15a10a573c870d40358400fbd91": 1771009579,
-    "https://www.reuters.com/sports/soccer/barcelona-re-admitted-european-football-clubs-body-after-super-league-withdrawal-2026-02-13/": 1771009579,
     "https://www.reuters.com/world/three-skiers-killed-avalanche-frances-val-disere-resort-2026-02-13/": 1771012213,
     "https://www.reuters.com/world/middle-east/trump-administration-ends-temporary-protected-status-yemen-2026-02-13/": 1771012213,
     "https://www.reuters.com/sustainability/climate-energy/what-drove-fall-eu-carbon-prices-why-does-it-matter-2026-02-13/": 1771012213,
@@ -260,7 +255,10 @@
     "https://nypost.com/?post_type=article&p=38506898": 1771268315,
     "https://www.washingtonpost.com/world/2026/02/16/iran-trump-nuclear-talks-protests-anger/": 1771268315,
     "https://apnews.com/article/robert-duvall-dead-6ddb67ba5e2242ba9dd96f29b4ce242a": 1771268315,
-    "https://www.reuters.com/business/energy/trump-slams-energy-deal-between-california-and-britain-politico-reports-2026-02-16/": 1771268315
+    "https://www.reuters.com/business/energy/trump-slams-energy-deal-between-california-and-britain-politico-reports-2026-02-16/": 1771268315,
+    "https://nypost.com/?post_type=article&p=38508223": 1771270725,
+    "https://www.scmp.com/news/world/middle-east/article/3343774/hamas-used-emojis-signal-start-october-7-2023-attack-israel?utm_source=rss_feed": 1771270725,
+    "https://www.scmp.com/news/world/united-states-canada/article/3343773/actor-robert-duvall-star-godfather-and-apocalypse-now-dead-95?utm_source=rss_feed": 1771270725
   },
   "night_buffer": [
     {
@@ -482,34 +480,64 @@
         "published": "Mon, 16 Feb 2026 08:35:00 GMT",
         "image_url": ""
       }
+    },
+    {
+      "source": "NYP",
+      "entry": {
+        "id": "https://nypost.com/?post_type=article&p=38508223",
+        "title": "‘Dance mom’ who killed 11-year-old daughter at Vegas cheer contest was embroiled in bitter custody battle",
+        "link": "https://nypost.com/2026/02/16/us-news/dance-mom-who-killed-11-year-old-daughter-at-vegas-cheer-contest-was-embroiled-in-bitter-custody-battle/",
+        "published": "Mon, 16 Feb 2026 14:07:56 -0500",
+        "image_url": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F02%2Fvegas-cheer-comp1.jpg?quality%3D90%26strip%3Dall"
+      }
+    },
+    {
+      "source": "SCMP",
+      "entry": {
+        "id": "https://www.scmp.com/news/world/middle-east/article/3343774/hamas-used-emojis-signal-start-october-7-2023-attack-israel?utm_source=rss_feed",
+        "title": "Hamas ‘used emojis’ to signal start of the October 7, 2023 attack on Israel",
+        "link": "https://www.scmp.com/news/world/middle-east/article/3343774/hamas-used-emojis-signal-start-october-7-2023-attack-israel?utm_source=rss_feed",
+        "published": "Mon, 16 Feb 2026 19:23:12 +0000",
+        "image_url": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/02/17/b3a41014-d560-42e4-87b3-482d23e899fc_84ad9b92.jpg?itok=IyQCXSLC&v=1771269553"
+      }
+    },
+    {
+      "source": "SCMP",
+      "entry": {
+        "id": "https://www.scmp.com/news/world/united-states-canada/article/3343773/actor-robert-duvall-star-godfather-and-apocalypse-now-dead-95?utm_source=rss_feed",
+        "title": "Actor Robert Duvall, star of The Godfather and Apocalypse Now, dead at 95",
+        "link": "https://www.scmp.com/news/world/united-states-canada/article/3343773/actor-robert-duvall-star-godfather-and-apocalypse-now-dead-95?utm_source=rss_feed",
+        "published": "Mon, 16 Feb 2026 19:02:46 +0000",
+        "image_url": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/02/17/32d4a3b7-a409-435a-8dd4-0cfae1470452_105855bb.jpg?itok=BVGribOO&v=1771268353"
+      }
     }
   ],
   "last_digest_date": "2026-02-16",
   "last_run": {
-    "utc": "2026-02-16T18:58:48Z",
-    "local": "2026-02-17T02:58:35+08:00",
+    "utc": "2026-02-16T19:38:59Z",
+    "local": "2026-02-17T03:38:45+08:00",
     "tz": "Asia/Shanghai",
-    "local_hour": 2,
+    "local_hour": 3,
     "quiet": true,
     "sources_ok": 9,
     "sources_fail": 0,
-    "entries_total": 189,
-    "new": 4,
+    "entries_total": 185,
+    "new": 3,
     "pushed_ok": 0,
     "pushed_fail": 0,
-    "skipped_seen": 45,
-    "skipped_major": 140,
-    "buffered_total": 22,
-    "buffered_added": 4,
-    "seen_size": 260,
+    "skipped_seen": 47,
+    "skipped_major": 135,
+    "buffered_total": 25,
+    "buffered_added": 3,
+    "seen_size": 258,
     "github": {
       "repo": "zixuouoscaroliver/Oscar-Oliver",
       "workflow": "Telegram News Bot",
-      "run_id": "22074497872",
-      "run_number": "236",
+      "run_id": "22075453300",
+      "run_number": "237",
       "sha": "a89f5a686d9e4f1e1c76ef89a17bd8db610de47b",
       "ref": "refs/heads/main",
-      "run_url": "https://github.com/zixuouoscaroliver/Oscar-Oliver/actions/runs/22074497872"
+      "run_url": "https://github.com/zixuouoscaroliver/Oscar-Oliver/actions/runs/22075453300"
     },
     "checkout": {
       "ref": "bot-stable",
