@@ -817,7 +817,9 @@ def maybe_send_compact_summary(
     ai_model: str,
     ai_max_items: int,
 ) -> bool:
-    if len(items) <= threshold:
+    # Trigger summary based on the actual batch size to be sent this time.
+    # `threshold=5` means "5 or more items -> summary".
+    if len(items) < threshold:
         return False
 
     summary_text = ""
@@ -937,7 +939,7 @@ def run(run_once: bool = False) -> None:
     quiet_end = int(os.getenv("QUIET_HOUR_END", "9"))
     night_digest_max = int(os.getenv("NIGHT_DIGEST_MAX", "40"))
     fetch_article_image_enabled = os.getenv("FETCH_ARTICLE_IMAGE", "true").strip().lower() == "true"
-    ai_summary_threshold = int(os.getenv("AI_SUMMARY_THRESHOLD", "10"))
+    ai_summary_threshold = int(os.getenv("AI_SUMMARY_THRESHOLD", "5"))
     ai_summary_model = (os.getenv("AI_SUMMARY_MODEL", "gpt-5-mini") or "gpt-5-mini").strip()
     ai_summary_max_items = int(os.getenv("AI_SUMMARY_MAX_ITEMS", "30"))
     openai_api_key = (os.getenv("OPENAI_API_KEY") or "").strip()

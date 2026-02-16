@@ -125,7 +125,7 @@ jobs:
           MAX_ITEMS_PER_SOURCE: "3"
           SEEN_TTL_HOURS: "72"
           MAJOR_ONLY: "true"
-          AI_SUMMARY_THRESHOLD: ${{ vars.AI_SUMMARY_THRESHOLD || '10' }}
+          AI_SUMMARY_THRESHOLD: ${{ vars.AI_SUMMARY_THRESHOLD || '5' }}
           AI_SUMMARY_MODEL: ${{ vars.AI_SUMMARY_MODEL || 'gpt-5-mini' }}
           AI_SUMMARY_MAX_ITEMS: ${{ vars.AI_SUMMARY_MAX_ITEMS || '30' }}
           MAJOR_KEYWORDS: "breaking,urgent,election,war,ceasefire,attack,missile,killed,dead,explosion,earthquake,flood,hurricane,wildfire,sanction,supreme court,white house,fed,interest rate,inflation,recession,bankruptcy,merger,acquisition,ipo,earnings,tariff,taiwan,south china sea,trump,xi jinping,习近平,巴以冲突,israel,israeli,palestine,palestinian,gaza,hamas,west bank,俄乌战争,ukraine,ukrainian,russia,russian,putin,zelensky,kyiv,moscow,乌克兰,俄罗斯,eu,europe,european,eurozone,ecb,brussels,africa,african,非洲,sudan,darfur,congo,drc,somalia,sahel,boko haram,al-shabaab,greenland,格陵兰,格陵兰岛,southeast asia,asean,东南亚,philippines,vietnam,thailand,myanmar,indonesia,malaysia,singapore,cambodia,laos"
