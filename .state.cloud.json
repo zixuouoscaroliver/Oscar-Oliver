@@ -1,8 +1,6 @@
 {
   "initialized": true,
   "seen": {
-    "https://nypost.com/?post_type=article&p=38491488": 1771081970,
-    "https://www.washingtonpost.com/world/2026/02/14/alexei-navalny-russia-death-poison-frog/": 1771081970,
     "https://nypost.com/?post_type=article&p=38472265": 1771083740,
     "https://nypost.com/?post_type=article&p=38491288": 1771083740,
     "https://www.scmp.com/news/world/article/3343596/world-artists-back-palestine-rapporteur-francesca-albanese-despite-criticism?utm_source=rss_feed": 1771083740,
@@ -215,35 +213,91 @@
     "https://www.reuters.com/business/media-telecom/bobsleigh-swiss-broadcaster-pulls-commentary-questioning-presence-israeli-2026-02-17/": 1771338436,
     "https://www.scmp.com/news/china/diplomacy/article/3343748/why-big-power-rivalry-main-threat-asean-maritime-security?utm_source=rss_feed": 1771338436,
     "https://www.scmp.com/news/people-culture/china-personalities/article/3343050/taiwan-singer-visits-200-china-cities-help-farmers-sell-produce-eateries-supermarkets?utm_source=rss_feed": 1771338436,
-    "https://www.scmp.com/news/asia/south-asia/article/3343811/indias-huge-new-megaport-southeast-asia-gets-green-go-ahead?utm_source=rss_feed": 1771338436
+    "https://www.scmp.com/news/asia/south-asia/article/3343811/indias-huge-new-megaport-southeast-asia-gets-green-go-ahead?utm_source=rss_feed": 1771338436,
+    "https://nypost.com/?p=38515210&post_type=article&preview_id=38515210": 1771342105,
+    "https://www.reuters.com/world/europe/ukraine-hits-oil-terminal-russias-krasnodar-chemicals-plant-perm-sbu-says-2026-02-17/": 1771342105,
+    "https://www.scmp.com/news/world/middle-east/article/3343844/israel-planning-first-jerusalem-border-expansion-west-bank-1967-ngos?utm_source=rss_feed": 1771342105,
+    "https://www.scmp.com/news/world/europe/article/3343803/ukraines-olympic-sign-bearer-was-russian-risking-her-safety-silent-protest?utm_source=rss_feed": 1771342105,
+    "https://www.scmp.com/week-asia/lifestyle-culture/article/3343791/singapore-aims-woo-us-singles-aunties-not-algorithms-matchmaking-push?utm_source=rss_feed": 1771342105
   },
-  "night_buffer": [],
+  "night_buffer": [
+    {
+      "source": "NYP",
+      "entry": {
+        "id": "https://nypost.com/?p=38515210&post_type=article&preview_id=38515210",
+        "title": "Stepmom’s haunting plea before cheerleader found dead in Vegas murder-suicide",
+        "link": "https://nypost.com/2026/02/17/us-news/stepmoms-haunting-plea-before-cheerleader-stepdaughter-found-dead-in-vegas-murder-suicide/",
+        "published": "Tue, 17 Feb 2026 09:52:35 -0500",
+        "image_url": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F02%2Fcrop-38515275.jpg?quality%3D90%26strip%3Dall"
+      }
+    },
+    {
+      "source": "Reuters",
+      "entry": {
+        "id": "https://www.reuters.com/world/europe/ukraine-hits-oil-terminal-russias-krasnodar-chemicals-plant-perm-sbu-says-2026-02-17/",
+        "title": "Ukraine hits oil terminal in Russia's Krasnodar, chemicals plant in Perm, SBU says",
+        "link": "https://www.reuters.com/world/europe/ukraine-hits-oil-terminal-russias-krasnodar-chemicals-plant-perm-sbu-says-2026-02-17/",
+        "published": "Tue, 17 Feb 2026 05:52:00 GMT",
+        "image_url": "https://www.bing.com/th?id=OVFT.d5qhZr6A68WHaHNpHYWO1C&pid=News&w=1600&h=900&c=14&rs=1"
+      }
+    },
+    {
+      "source": "SCMP",
+      "entry": {
+        "id": "https://www.scmp.com/news/world/middle-east/article/3343844/israel-planning-first-jerusalem-border-expansion-west-bank-1967-ngos?utm_source=rss_feed",
+        "title": "Israel planning first Jerusalem border expansion into West Bank since 1967: NGOs",
+        "link": "https://www.scmp.com/news/world/middle-east/article/3343844/israel-planning-first-jerusalem-border-expansion-west-bank-1967-ngos?utm_source=rss_feed",
+        "published": "Tue, 17 Feb 2026 15:12:43 +0000",
+        "image_url": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/02/17/34452d57-2aca-44b2-a7c8-b1499e3a24de_c384cc92.jpg?itok=ZZSl6EFn&v=1771341161"
+      }
+    },
+    {
+      "source": "SCMP",
+      "entry": {
+        "id": "https://www.scmp.com/news/world/europe/article/3343803/ukraines-olympic-sign-bearer-was-russian-risking-her-safety-silent-protest?utm_source=rss_feed",
+        "title": "Ukraine’s Olympic sign bearer was a Russian woman: ‘I have to be worried’",
+        "link": "https://www.scmp.com/news/world/europe/article/3343803/ukraines-olympic-sign-bearer-was-russian-risking-her-safety-silent-protest?utm_source=rss_feed",
+        "published": "Tue, 17 Feb 2026 05:54:45 +0000",
+        "image_url": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/02/17/ba7362d5-b002-4eb0-ae0e-debb4a46507b_64a5d446.jpg?itok=QFljwiGi&v=1771307682"
+      }
+    },
+    {
+      "source": "SCMP",
+      "entry": {
+        "id": "https://www.scmp.com/week-asia/lifestyle-culture/article/3343791/singapore-aims-woo-us-singles-aunties-not-algorithms-matchmaking-push?utm_source=rss_feed",
+        "title": "Singapore aims to woo US singles with ‘aunties, not algorithms’ matchmaking push",
+        "link": "https://www.scmp.com/week-asia/lifestyle-culture/article/3343791/singapore-aims-woo-us-singles-aunties-not-algorithms-matchmaking-push?utm_source=rss_feed",
+        "published": "Tue, 17 Feb 2026 05:00:09 +0000",
+        "image_url": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/02/17/b2477d86-d1f2-4728-940c-c88bc82d7bff_709e2ad5.jpg?itok=jxTWWTx2&v=1771300668"
+      }
+    }
+  ],
   "last_digest_date": "2026-02-17",
   "last_run": {
-    "utc": "2026-02-17T14:27:34Z",
-    "local": "2026-02-17T22:27:16+08:00",
+    "utc": "2026-02-17T15:28:37Z",
+    "local": "2026-02-17T23:28:25+08:00",
     "tz": "Asia/Shanghai",
-    "local_hour": 22,
-    "quiet": false,
+    "local_hour": 23,
+    "quiet": true,
     "sources_ok": 9,
     "sources_fail": 0,
-    "entries_total": 190,
-    "new": 6,
-    "pushed_ok": 6,
+    "entries_total": 189,
+    "new": 5,
+    "pushed_ok": 0,
     "pushed_fail": 0,
-    "skipped_seen": 44,
-    "skipped_major": 110,
-    "buffered_total": 0,
-    "buffered_added": 0,
-    "seen_size": 215,
+    "skipped_seen": 42,
+    "skipped_major": 120,
+    "buffered_total": 5,
+    "buffered_added": 5,
+    "seen_size": 218,
     "github": {
       "repo": "zixuouoscaroliver/Oscar-Oliver",
       "workflow": "Telegram News Bot",
-      "run_id": "22102309459",
-      "run_number": "259",
+      "run_id": "22104506007",
+      "run_number": "260",
       "sha": "a89f5a686d9e4f1e1c76ef89a17bd8db610de47b",
       "ref": "refs/heads/main",
-      "run_url": "https://github.com/zixuouoscaroliver/Oscar-Oliver/actions/runs/22102309459"
+      "run_url": "https://github.com/zixuouoscaroliver/Oscar-Oliver/actions/runs/22104506007"
     },
     "checkout": {
       "ref": "bot-stable",
