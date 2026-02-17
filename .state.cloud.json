@@ -1,17 +1,6 @@
 {
   "initialized": true,
   "seen": {
-    "https://nypost.com/?post_type=article&p=38472265": 1771083740,
-    "https://nypost.com/?post_type=article&p=38491288": 1771083740,
-    "https://www.scmp.com/news/world/article/3343596/world-artists-back-palestine-rapporteur-francesca-albanese-despite-criticism?utm_source=rss_feed": 1771083740,
-    "https://www.economist.com/europe/2026/02/12/the-european-onion-is-a-joke-whose-time-has-come": 1771084732,
-    "https://www.reuters.com/world/european-reaction-rubios-speech-transatlantic-ties-munich-security-conference-2026-02-14/": 1771084732,
-    "https://nypost.com/?post_type=article&p=38491717": 1771087346,
-    "https://www.reuters.com/world/europe/uk-allies-say-theyre-convinced-kremlin-critic-navalny-was-poisoned-2026-02-14/": 1771087346,
-    "https://www.reuters.com/business/finance/ecb-makes-euro-backstop-global-bolster-currencys-role-2026-02-14/": 1771087346,
-    "https://www.scmp.com/news/world/russia-central-asia/article/3343599/russia-poisoned-alexei-navalny-dart-frog-toxin-european-nations-say?utm_source=rss_feed": 1771087346,
-    "https://www.economist.com/europe/2026/02/14/america-offers-europe-warmer-words-but-a-deep-chill-remains": 1771088544,
-    "https://www.reuters.com/business/finance/ecb-opens-up-euro-lifeline-bid-boost-global-role-2026-02-14/": 1771088544,
     "https://nypost.com/?post_type=article&p=38492497": 1771091636,
     "https://nypost.com/?post_type=article&p=38492528": 1771091636,
     "https://nypost.com/?post_type=article&p=38492596": 1771093303,
@@ -218,7 +207,16 @@
     "https://www.reuters.com/world/europe/ukraine-hits-oil-terminal-russias-krasnodar-chemicals-plant-perm-sbu-says-2026-02-17/": 1771342105,
     "https://www.scmp.com/news/world/middle-east/article/3343844/israel-planning-first-jerusalem-border-expansion-west-bank-1967-ngos?utm_source=rss_feed": 1771342105,
     "https://www.scmp.com/news/world/europe/article/3343803/ukraines-olympic-sign-bearer-was-russian-risking-her-safety-silent-protest?utm_source=rss_feed": 1771342105,
-    "https://www.scmp.com/week-asia/lifestyle-culture/article/3343791/singapore-aims-woo-us-singles-aunties-not-algorithms-matchmaking-push?utm_source=rss_feed": 1771342105
+    "https://www.scmp.com/week-asia/lifestyle-culture/article/3343791/singapore-aims-woo-us-singles-aunties-not-algorithms-matchmaking-push?utm_source=rss_feed": 1771342105,
+    "https://nypost.com/?post_type=article&p=38516423": 1771349760,
+    "https://nypost.com/?post_type=article&p=38516923": 1771349760,
+    "https://nypost.com/?post_type=article&p=38516342": 1771349760,
+    "https://www.reuters.com/sustainability/society-equity/europe-squares-up-big-tech-risking-ire-washington-2026-02-17/": 1771349760,
+    "https://www.reuters.com/world/middle-east/trump-says-he-will-be-involved-indirectly-iran-talks-2026-02-17/": 1771349760,
+    "https://www.reuters.com/world/us/goldman-nasdaq-ceos-headline-mar-a-lago-crypto-forum-hosted-by-don-jr-eric-trump-2026-02-17/": 1771349760,
+    "https://www.scmp.com/news/asia/article/3343784/indonesias-tourist-visa-filipino-assaulted-singaporean-mall-7-asia-highlights?utm_source=rss_feed": 1771349760,
+    "https://www.scmp.com/news/asia/australasia/article/3343792/sydney-stabbing-man-killed-random-attack-busy-shopping-street?utm_source=rss_feed": 1771349760,
+    "https://www.scmp.com/news/asia/southeast-asia/article/3343789/indonesias-capital-drowning-waste-smell-awful?utm_source=rss_feed": 1771349760
   },
   "night_buffer": [
     {
@@ -270,34 +268,124 @@
         "published": "Tue, 17 Feb 2026 05:00:09 +0000",
         "image_url": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/02/17/b2477d86-d1f2-4728-940c-c88bc82d7bff_709e2ad5.jpg?itok=jxTWWTx2&v=1771300668"
       }
+    },
+    {
+      "source": "NYP",
+      "entry": {
+        "id": "https://nypost.com/?post_type=article&p=38516423",
+        "title": "Billionaire CA gov hopeful Tom Steyer hangs hopes on NYC socialist mayor’s strategists to win election",
+        "link": "https://nypost.com/2026/02/17/us-news/billionaire-ca-gov-hopeful-tom-steyer-hangs-hopes-on-nyc-socialist-mayors-strategists/",
+        "published": "Tue, 17 Feb 2026 12:15:57 -0500",
+        "image_url": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F02%2Fnewspress-collage-udv452gqs-1771347539215.jpg?quality%3D90%26strip%3Dall%261771329571"
+      }
+    },
+    {
+      "source": "NYP",
+      "entry": {
+        "id": "https://nypost.com/?post_type=article&p=38516923",
+        "title": "Trump pays powerful tribute to ‘force of nature’ Rev. Jesse Jackson, takes swipe at Obama",
+        "link": "https://nypost.com/2026/02/17/us-news/trump-pays-powerful-tribute-to-force-of-nature-rev-jesse-jackson-takes-swipe-at-obama/",
+        "published": "Tue, 17 Feb 2026 12:15:17 -0500",
+        "image_url": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F02%2Ftrump-jesse-jackson-death-tribute-comp-1.jpg?quality%3D90%26strip%3Dall"
+      }
+    },
+    {
+      "source": "NYP",
+      "entry": {
+        "id": "https://nypost.com/?post_type=article&p=38516342",
+        "title": "Shein faces EU investigation over illegal products and allegedly addictive design features",
+        "link": "https://nypost.com/2026/02/17/world-news/shein-faces-eu-investigation-over-illegal-products-and-addictive-design-features/",
+        "published": "Tue, 17 Feb 2026 11:51:10 -0500",
+        "image_url": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F02%2F121544739.jpg?quality%3D90%26strip%3Dall"
+      }
+    },
+    {
+      "source": "Reuters",
+      "entry": {
+        "id": "https://www.reuters.com/sustainability/society-equity/europe-squares-up-big-tech-risking-ire-washington-2026-02-17/",
+        "title": "Europe squares up to Big Tech, risking ire of Washington",
+        "link": "https://www.reuters.com/sustainability/society-equity/europe-squares-up-big-tech-risking-ire-washington-2026-02-17/",
+        "published": "Tue, 17 Feb 2026 06:42:00 GMT",
+        "image_url": "https://www.bing.com/th?id=OVFT.SpONeFTJNt5ibRDMhvUxwS&pid=News&w=1600&h=900&c=14&rs=1"
+      }
+    },
+    {
+      "source": "Reuters",
+      "entry": {
+        "id": "https://www.reuters.com/world/middle-east/trump-says-he-will-be-involved-indirectly-iran-talks-2026-02-17/",
+        "title": "Trump says he will be involved indirectly in Iran talks",
+        "link": "https://www.reuters.com/world/middle-east/trump-says-he-will-be-involved-indirectly-iran-talks-2026-02-17/",
+        "published": "Mon, 16 Feb 2026 15:38:00 GMT",
+        "image_url": "https://www.bing.com/th?id=OVFT.BGeHalkd--ZwPyNB4cLbDS&pid=News&w=1600&h=900&c=14&rs=1"
+      }
+    },
+    {
+      "source": "Reuters",
+      "entry": {
+        "id": "https://www.reuters.com/world/us/goldman-nasdaq-ceos-headline-mar-a-lago-crypto-forum-hosted-by-don-jr-eric-trump-2026-02-17/",
+        "title": "Goldman, Nasdaq CEOs to headline Mar-a-Lago crypto ‘forum’ hosted by Don Jr. and Eric Trump",
+        "link": "https://www.reuters.com/world/us/goldman-nasdaq-ceos-headline-mar-a-lago-crypto-forum-hosted-by-don-jr-eric-trump-2026-02-17/",
+        "published": "Tue, 17 Feb 2026 02:03:00 GMT",
+        "image_url": "https://www.bing.com/th?id=OVFT.ScSOoZeFeRvKXsgdBsbLQS&pid=News&w=1600&h=900&c=14&rs=1"
+      }
+    },
+    {
+      "source": "SCMP",
+      "entry": {
+        "id": "https://www.scmp.com/news/asia/article/3343784/indonesias-tourist-visa-filipino-assaulted-singaporean-mall-7-asia-highlights?utm_source=rss_feed",
+        "title": "Indonesia’s tourist visa, Filipino assaulted in Singaporean mall: 7 Asia highlights",
+        "link": "https://www.scmp.com/news/asia/article/3343784/indonesias-tourist-visa-filipino-assaulted-singaporean-mall-7-asia-highlights?utm_source=rss_feed",
+        "published": "Tue, 17 Feb 2026 04:15:07 +0000",
+        "image_url": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/02/17/0721b6e4-c013-436c-ac4d-161f26573a9c_2254fb60.jpg?itok=1q7-38ZK&v=1771298452"
+      }
+    },
+    {
+      "source": "SCMP",
+      "entry": {
+        "id": "https://www.scmp.com/news/asia/australasia/article/3343792/sydney-stabbing-man-killed-random-attack-busy-shopping-street?utm_source=rss_feed",
+        "title": "Sydney stabbing: man killed in ‘random’ attack on busy shopping street",
+        "link": "https://www.scmp.com/news/asia/australasia/article/3343792/sydney-stabbing-man-killed-random-attack-busy-shopping-street?utm_source=rss_feed",
+        "published": "Tue, 17 Feb 2026 04:05:47 +0000",
+        "image_url": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/02/17/c01f7783-91ce-461c-b4ad-d62a01eb951e_ef7da30e.jpg?itok=0dYya2lp&v=1771301145"
+      }
+    },
+    {
+      "source": "SCMP",
+      "entry": {
+        "id": "https://www.scmp.com/news/asia/southeast-asia/article/3343789/indonesias-capital-drowning-waste-smell-awful?utm_source=rss_feed",
+        "title": "Indonesia’s capital is drowning in waste: ‘the smell is awful’",
+        "link": "https://www.scmp.com/news/asia/southeast-asia/article/3343789/indonesias-capital-drowning-waste-smell-awful?utm_source=rss_feed",
+        "published": "Tue, 17 Feb 2026 03:41:07 +0000",
+        "image_url": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/02/17/174c7ae6-741f-4bb1-b78d-89e3fef290e7_ba52de2c.jpg?itok=yTZ3UQgi&v=1771299666"
+      }
     }
   ],
   "last_digest_date": "2026-02-17",
   "last_run": {
-    "utc": "2026-02-17T15:28:37Z",
-    "local": "2026-02-17T23:28:25+08:00",
+    "utc": "2026-02-17T17:36:10Z",
+    "local": "2026-02-18T01:36:00+08:00",
     "tz": "Asia/Shanghai",
-    "local_hour": 23,
+    "local_hour": 1,
     "quiet": true,
     "sources_ok": 9,
     "sources_fail": 0,
-    "entries_total": 189,
-    "new": 5,
+    "entries_total": 187,
+    "new": 9,
     "pushed_ok": 0,
     "pushed_fail": 0,
     "skipped_seen": 42,
-    "skipped_major": 120,
-    "buffered_total": 5,
-    "buffered_added": 5,
-    "seen_size": 218,
+    "skipped_major": 110,
+    "buffered_total": 14,
+    "buffered_added": 9,
+    "seen_size": 216,
     "github": {
       "repo": "zixuouoscaroliver/Oscar-Oliver",
       "workflow": "Telegram News Bot",
-      "run_id": "22104506007",
-      "run_number": "260",
+      "run_id": "22108979250",
+      "run_number": "262",
       "sha": "a89f5a686d9e4f1e1c76ef89a17bd8db610de47b",
       "ref": "refs/heads/main",
-      "run_url": "https://github.com/zixuouoscaroliver/Oscar-Oliver/actions/runs/22104506007"
+      "run_url": "https://github.com/zixuouoscaroliver/Oscar-Oliver/actions/runs/22108979250"
     },
     "checkout": {
       "ref": "bot-stable",
