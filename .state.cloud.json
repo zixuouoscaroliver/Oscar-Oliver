@@ -1,68 +1,6 @@
 {
   "initialized": true,
   "seen": {
-    "https://nypost.com/?post_type=article&p=38487584": 1771033855,
-    "https://nypost.com/?post_type=article&p=38486176": 1771033855,
-    "0000019c-497d-d647-addc-ebff108a0000": 1771033855,
-    "https://www.economist.com/united-states/2026/02/13/how-dangerous-is-donald-trumps-endangerment-decision": 1771033855,
-    "https://apnews.com/article/trump-iran-aircraft-carrier-military-8db3fab10476949acda8b973be416204": 1771033855,
-    "https://apnews.com/article/white-house-ballroom-east-wing-trump-5625b22f90a887394bf317b9d4f8e3b5": 1771033855,
-    "https://www.reuters.com/world/us/trump-says-he-will-require-voter-id-midterms-regardless-congress-2026-02-13/": 1771033855,
-    "https://www.reuters.com/sports/figure-skating-miura-kihara-eager-add-their-names-japans-olympic-roll-honour-2026-02-13/": 1771033855,
-    "https://www.reuters.com/legal/government/senate-democrats-seek-cfius-probe-reported-uae-stake-trump-familys-crypto-2026-02-13/": 1771033855,
-    "https://www.scmp.com/news/world/united-states-canada/article/3343551/us-paid-us35-million-deport-300-remote-islands-african-nations?utm_source=rss_feed": 1771033855,
-    "https://www.scmp.com/week-asia/economics/article/3343513/philippines-ai-reckoning-puts-127-million-jobs-line?utm_source=rss_feed": 1771033855,
-    "https://www.scmp.com/news/world/middle-east/article/3343549/trump-says-change-power-iran-would-be-best-thing-he-sends-second-carrier?utm_source=rss_feed": 1771033855,
-    "https://nypost.com/?post_type=article&p=38484740": 1771041448,
-    "https://apnews.com/article/trump-washington-public-golf-course-renovation-d41499083ce596b84e5f7e135a1b4e6f": 1771041448,
-    "https://apnews.com/article/immigration-agent-shootings-minneapolis-chicago-c062100e0432bff06a6f7b7b26a831e8": 1771041448,
-    "https://www.reuters.com/world/us/mistrial-declared-case-students-charged-after-stanford-pro-palestinian-protests-2026-02-14/": 1771041448,
-    "https://www.reuters.com/world/europe/separate-talks-iran-ukraine-russia-set-tuesday-geneva-source-says-2026-02-14/": 1771041448,
-    "https://www.reuters.com/business/media-telecom/paramount-taps-ex-trump-official-public-policy-vp-amid-warner-bros-bid-2026-02-13/": 1771041448,
-    "https://www.scmp.com/news/world/united-states-canada/article/3343553/3-dead-us-launches-new-strike-suspected-drug-boat-caribbean?utm_source=rss_feed": 1771041448,
-    "https://www.scmp.com/news/asia/southeast-asia/article/3343552/thailand-launches-wild-elephant-birth-control-stop-deadly-farm-raids?utm_source=rss_feed": 1771041448,
-    "https://nypost.com/?post_type=article&p=38489377": 1771045969,
-    "https://nypost.com/?post_type=article&p=38489291": 1771045969,
-    "https://apnews.com/article/africa-au-democracy-coups-addis-ababa-f5a81ca4b7fc54892d36679a37c7cd12": 1771045969,
-    "https://www.reuters.com/world/us/trump-administration-sued-attempted-overhaul-public-golf-course-washington-2026-02-14/": 1771045969,
-    "https://www.scmp.com/news/asia/east-asia/article/3343564/top-japanese-school-faces-backlash-over-palestinian-poetry-entrance-exam?utm_source=rss_feed": 1771045969,
-    "https://nypost.com/?post_type=article&p=38489725": 1771048757,
-    "https://apnews.com/article/minneapolis-renee-good-alex-pretti-memorial-114fc6189d63adb8cc06d275929652eb": 1771048757,
-    "https://nypost.com/?post_type=article&p=38490175": 1771052363,
-    "https://www.scmp.com/news/world/europe/article/3343567/indian-author-arundhati-roy-quits-berlinale-after-stay-out-politics-gaza-comments?utm_source=rss_feed": 1771052363,
-    "https://www.scmp.com/week-asia/economics/article/3343514/uae-surpassing-hong-kong-challenging-singapore-global-trade-crown?utm_source=rss_feed": 1771052363,
-    "https://www.scmp.com/news/china/military/article/3343466/taiwan-defence-budget-delays-may-push-island-down-us-priority-list-william-lai-warns?utm_source=rss_feed": 1771052363,
-    "https://www.scmp.com/news/asia/southeast-asia/article/3343572/philippine-senators-go-dela-rosa-helped-duterte-wage-drug-war-icc-prosecutors?utm_source=rss_feed": 1771054820,
-    "https://www.reuters.com/world/asia-pacific/china-implement-zero-tariffs-imports-53-african-countries-2026-02-14/": 1771055970,
-    "https://www.scmp.com/news/china/diplomacy/article/3343577/rubio-european-allies-our-destiny-will-be-intertwined-yours?utm_source=rss_feed": 1771058770,
-    "https://apnews.com/article/munich-security-conference-rubio-4a26cfa8ebb54643be98405e896433d1": 1771062435,
-    "https://www.reuters.com/business/healthcare-pharmaceuticals/msf-suspends-some-gaza-hospital-work-over-presence-gunmen-suspected-weapons-2026-02-14/": 1771062435,
-    "https://www.scmp.com/news/china/diplomacy/article/3343579/chinas-wang-yi-calls-global-governance-reform-amid-global-turbulence?utm_source=rss_feed": 1771062435,
-    "0000019c-4a98-de8a-a1fc-fbd80c7b0000": 1771063948,
-    "https://www.scmp.com/news/world/africa/article/3343583/african-union-youth-anger-mounts-over-corruption-lack-accountability?utm_source=rss_feed": 1771063948,
-    "https://www.reuters.com/business/media-telecom/rubio-tells-munich-security-forum-that-us-europe-belong-together-2026-02-14/": 1771066008,
-    "https://www.reuters.com/world/trains-italy-delayed-by-latest-suspected-sabotage-attack-during-olympics-2026-02-14/": 1771068710,
-    "https://www.reuters.com/business/ukraine-imf-ease-conditions-new-82-billion-loan-program-2026-02-14/": 1771068710,
-    "https://www.reuters.com/business/media-telecom/eu-should-bring-life-mutual-defence-pact-von-der-leyen-says-2026-02-14/": 1771068710,
-    "https://www.reuters.com/world/us/trump-vs-bad-bunny-super-bowl-feud-with-possible-midterm-consequences-2026-02-14/": 1771069728,
-    "https://www.reuters.com/legal/government/how-us-supreme-court-set-stage-partisan-gerrymandering-arms-race-2026-02-14/": 1771069728,
-    "https://nypost.com/?post_type=article&p=38463950": 1771074543,
-    "https://nypost.com/?post_type=article&p=38455185": 1771074543,
-    "https://nypost.com/?post_type=article&p=38485086": 1771074543,
-    "https://www.washingtonpost.com/politics/2026/02/14/munich-security-conference-rubio-europe/": 1771074543,
-    "https://www.reuters.com/business/media-telecom/rubio-strikes-constructive-tone-persists-us-criticism-european-allies-2026-02-14/": 1771074543,
-    "https://www.reuters.com/business/media-telecom/spacexs-starlink-gets-nod-satellite-internet-vietnam-2026-02-14/": 1771074543,
-    "https://www.reuters.com/world/france-reasonably-optimistic-g7-maritime-ban-russian-oil-minister-says-2026-02-14/": 1771074543,
-    "https://www.scmp.com/news/hong-kong/politics/article/3343589/beijing-slams-us-uk-australia-and-eu-over-jimmy-lai-sentencing-remarks?utm_source=rss_feed": 1771074543,
-    "https://nypost.com/?post_type=article&p=38491102": 1771077228,
-    "https://nypost.com/?post_type=article&p=38468539": 1771077228,
-    "https://apnews.com/article/bangladesh-yunus-election-tarique-b846e95515b73f73ebc3af746170b92b": 1771077228,
-    "https://www.reuters.com/business/media-telecom/rubio-casts-us-child-europe-critical-friend-allies-2026-02-14/": 1771077228,
-    "https://nypost.com/?post_type=article&p=38480813": 1771078717,
-    "https://apnews.com/article/russia-navalny-poisoned-europe-4d92cd67f29d37b74b0d4842ea686b03": 1771078717,
-    "https://www.reuters.com/world/middle-east/african-union-summit-clouded-by-saudi-uae-rivalry-horn-africa-2026-02-14/": 1771078717,
-    "https://www.reuters.com/world/france-navalny-poisoning-shows-putin-ready-use-nerve-agents-own-people-2026-02-14/": 1771078717,
-    "https://www.scmp.com/news/asia/diplomacy/article/3343426/trump-style-diplomacy-could-win-friends-china-harm-us-ties-beijing?utm_source=rss_feed": 1771078717,
     "https://nypost.com/?post_type=article&p=38491488": 1771081970,
     "https://www.washingtonpost.com/world/2026/02/14/alexei-navalny-russia-death-poison-frog/": 1771081970,
     "https://nypost.com/?post_type=article&p=38472265": 1771083740,
@@ -256,440 +194,54 @@
     "https://apnews.com/article/pawtucket-hockey-rink-shooting-rhode-island-c8ac3e8067ce2f2ce07e4d98009ecdaa": 1771281606,
     "https://www.scmp.com/news/world/africa/article/3343771/trumps-new-ambassador-south-africa-arrives-country-amid-strained-ties?utm_source=rss_feed": 1771281606,
     "https://nypost.com/?post_type=article&p=38509294": 1771282979,
-    "https://apnews.com/article/george-washington-slavery-exhibit-restored-trump-2a32236320f280ba3e647d900c1301b4": 1771285159
+    "https://apnews.com/article/george-washington-slavery-exhibit-restored-trump-2a32236320f280ba3e647d900c1301b4": 1771285159,
+    "https://nypost.com/?post_type=article&p=38504916": 1771338177,
+    "https://nypost.com/?post_type=article&p=38514566": 1771338177,
+    "https://nypost.com/?post_type=article&p=38514402": 1771338177,
+    "https://www.washingtonpost.com/world/2026/02/17/russia-ukraine-talks-geneva-impasse/": 1771338177,
+    "0000019c-4a98-de8a-a1fc-fbd80c7b0000": 1771338177,
+    "0000019c-497d-d647-addc-ebff108a0000": 1771338177,
+    "https://www.economist.com/europe/2026/02/17/the-war-room-newsletter-is-a-peace-deal-possible": 1771338177,
+    "https://apnews.com/article/russia-ukraine-war-geneva-talks-a2308f6af1d7817f8886013b921409eb": 1771338177,
+    "https://apnews.com/article/ireland-grok-deepfakes-eu-privacy-9d3d096a1f4dc0baddde3d5d91e050b7": 1771338177,
+    "https://www.reuters.com/business/finance/warsh-may-want-smaller-fed-balance-sheet-thats-hard-achieve-2026-02-17/": 1771338177,
+    "https://www.reuters.com/world/europe/russia-humble-cucumber-becomes-latest-symbol-rising-wartime-prices-2026-02-17/": 1771338177,
+    "https://www.reuters.com/business/energy/turkmenistans-president-visit-eu-talks-energy-eu-ambassador-says-2026-02-17/": 1771338177,
+    "https://www.scmp.com/news/asia/south-asia/article/3343839/11-soldiers-1-child-killed-pakistan-after-explosive-laden-vehicle-rams-security-post?utm_source=rss_feed": 1771338177,
+    "https://www.scmp.com/week-asia/economics/article/3343826/will-indonesias-us762-million-ramadan-stimulus-be-positive-boost-economy?utm_source=rss_feed": 1771338177,
+    "https://www.scmp.com/news/china/diplomacy/article/3340081/how-risky-punt-unknown-chinese-truck-manufacturer-paid-south-africa?utm_source=rss_feed": 1771338177
   },
-  "night_buffer": [
-    {
-      "source": "NYP",
-      "entry": {
-        "id": "https://nypost.com/?post_type=article&p=38505089",
-        "title": "Ukrainian refugee and her soldier boyfriend shot dead in bed allegedly by jealous ex",
-        "link": "https://nypost.com/2026/02/16/us-news/ukrainian-refugee-and-military-boyfriend-shot-dead-in-bed-allegedly-by-jealous-ex/",
-        "published": "Mon, 16 Feb 2026 09:44:35 -0500",
-        "image_url": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F02%2F121468745.jpg?quality%3D90%26strip%3Dall"
-      }
-    },
-    {
-      "source": "Politico",
-      "entry": {
-        "id": "0000019c-53df-d3b5-addf-f3df3c310000",
-        "title": "Fetterman on ICE, Israel and identifying as a Democrat | The Conversation",
-        "link": "https://www.politico.com/video/2026/02/13/fetterman-on-ice-israel-and-identifying-as-a-democrat-the-conversation-1910882",
-        "published": "Fri, 13 Feb 2026 09:56:10 EST",
-        "image_url": ""
-      }
-    },
-    {
-      "source": "AP NEWS",
-      "entry": {
-        "id": "https://apnews.com/article/israel-bobsled-olympics-8b13e2342765bcc47bde153cfc215021",
-        "title": "Last at halfway, smiling at the finish: Israel’s first Olympic bobsled run",
-        "link": "https://apnews.com/article/israel-bobsled-olympics-8b13e2342765bcc47bde153cfc215021",
-        "published": "Mon, 16 Feb 2026 06:04:00 GMT",
-        "image_url": "https://www.bing.com/th?id=OVFT.cvxNwUAQZOOZJcYax3TOji&pid=News&w=1600&h=900&c=14&rs=1"
-      }
-    },
-    {
-      "source": "Reuters",
-      "entry": {
-        "id": "https://www.reuters.com/commentary/breakingviews/europe-has-had-good-week-geopolitically-2026-02-16/",
-        "title": "Europe has had a good week, geopolitically",
-        "link": "https://www.reuters.com/commentary/breakingviews/europe-has-had-good-week-geopolitically-2026-02-16/",
-        "published": "Mon, 16 Feb 2026 02:31:00 GMT",
-        "image_url": ""
-      }
-    },
-    {
-      "source": "NYP",
-      "entry": {
-        "id": "https://nypost.com/?post_type=article&p=38506209",
-        "title": "Trump tells The Post he wants death penalty for Nancy Guthrie kidnappers if she isn’t returned alive",
-        "link": "https://nypost.com/2026/02/16/us-news/trump-tells-the-post-he-wants-death-penalty-for-nancy-guthrie-kidnappers-if-she-isnt-returned-alive/",
-        "published": "Mon, 16 Feb 2026 11:28:07 -0500",
-        "image_url": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F02%2Ftrump-guthrie-death-penalty-comp.jpg?quality%3D90%26strip%3Dall"
-      }
-    },
-    {
-      "source": "NYP",
-      "entry": {
-        "id": "https://nypost.com/?post_type=article&p=38505333",
-        "title": "Hamas used emojis as code for launching Oct. 7 assault, IDF claims",
-        "link": "https://nypost.com/2026/02/16/world-news/hamas-used-emojis-as-code-for-launching-oct-7-assault-idf-claims/",
-        "published": "Mon, 16 Feb 2026 11:10:57 -0500",
-        "image_url": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F02%2F2023-one-month-israel-wracked-121478449.jpg?quality%3D90%26strip%3Dall"
-      }
-    },
-    {
-      "source": "NYP",
-      "entry": {
-        "id": "https://nypost.com/?post_type=article&p=38505741",
-        "title": "LeBron James’ ‘message’ to Israel fans after All-Star Game question",
-        "link": "https://nypost.com/2026/02/16/sports/lebron-james-message-to-israel-fans-after-all-star-game-question/",
-        "published": "Mon, 16 Feb 2026 10:52:53 -0500",
-        "image_url": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F02%2Fnewspress-collage-rzyyfoaif-1771256261576.jpg?quality%3D90%26strip%3Dall%261771238314"
-      }
-    },
-    {
-      "source": "WaPo",
-      "entry": {
-        "id": "https://www.washingtonpost.com/national-security/2026/02/16/rubio-hungary-orban-trump/",
-        "title": "Rubio seeks to boost Hungary’s Orban as he faces toughest election in years",
-        "link": "https://www.washingtonpost.com/national-security/2026/02/16/rubio-hungary-orban-trump/",
-        "published": "Mon, 16 Feb 2026 16:12:11 +0000",
-        "image_url": ""
-      }
-    },
-    {
-      "source": "AP NEWS",
-      "entry": {
-        "id": "https://apnews.com/article/alexei-navalny-russia-death-putin-kremlin-anniversary-539748ce105ab9822c80245be729f8bd",
-        "title": "2 years on, Navalny’s death still casts a shadow over Russia and wider Europe",
-        "link": "https://apnews.com/article/alexei-navalny-russia-death-putin-kremlin-anniversary-539748ce105ab9822c80245be729f8bd",
-        "published": "Mon, 16 Feb 2026 08:16:00 GMT",
-        "image_url": "https://www.bing.com/th?id=OVFT.HubYKgoKkYpCd4M1DMDFoi&pid=News&w=1600&h=900&c=14&rs=1"
-      }
-    },
-    {
-      "source": "Reuters",
-      "entry": {
-        "id": "https://www.reuters.com/sustainability/climate-energy/how-europe-can-turn-cement-into-quick-win-climate--ecmii-2026-02-16/",
-        "title": "How Europe can turn cement into a quick win for climate",
-        "link": "https://www.reuters.com/sustainability/climate-energy/how-europe-can-turn-cement-into-quick-win-climate--ecmii-2026-02-16/",
-        "published": "Mon, 16 Feb 2026 07:18:00 GMT",
-        "image_url": "https://www.bing.com/th?id=OVFT.HXs8hkz1K4rhYNaRRPPXKC&pid=News&w=1600&h=900&c=14&rs=1"
-      }
-    },
-    {
-      "source": "Economist",
-      "entry": {
-        "id": "https://www.economist.com/china/2026/02/16/why-american-allies-are-flocking-to-see-xi-jinping-in-beijing",
-        "title": "Why American allies are flocking to see Xi Jinping in Beijing",
-        "link": "https://www.economist.com/china/2026/02/16/why-american-allies-are-flocking-to-see-xi-jinping-in-beijing",
-        "published": "Mon, 16 Feb 2026 09:09:00 GMT",
-        "image_url": "https://www.bing.com/th?id=OVFT.g5J1Ywy3wjJkfUwj8_rypy&pid=News&w=1600&h=900&c=14&rs=1"
-      }
-    },
-    {
-      "source": "SCMP",
-      "entry": {
-        "id": "https://www.scmp.com/news/world/europe/article/3343770/austria-files-terror-charges-against-suspect-over-planned-2024-taylor-swift-attack?utm_source=rss_feed",
-        "title": "Austria files terror charges against suspect over planned 2024 Taylor Swift attack",
-        "link": "https://www.scmp.com/news/world/europe/article/3343770/austria-files-terror-charges-against-suspect-over-planned-2024-taylor-swift-attack?utm_source=rss_feed",
-        "published": "Mon, 16 Feb 2026 17:08:09 +0000",
-        "image_url": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/02/17/2a976cec-5216-4e00-ab73-d9a17a9eb122_967f50a6.jpg?itok=J46FNGvL&v=1771261604"
-      }
-    },
-    {
-      "source": "NYP",
-      "entry": {
-        "id": "https://nypost.com/?post_type=article&p=38505916",
-        "title": "Bill Maher says Trump ‘yells’ at him via text for remaining a part of ‘lunatic left’ after their White House dinner",
-        "link": "https://nypost.com/2026/02/16/media/bill-maher-says-trump-routinely-yells-at-him-via-text-after-their-white-house-dinner/",
-        "published": "Mon, 16 Feb 2026 12:36:16 -0500",
-        "image_url": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F02%2F121477951.jpg?quality%3D90%26strip%3Dall"
-      }
-    },
-    {
-      "source": "NYP",
-      "entry": {
-        "id": "https://pagesix.com/?post_type=article&p=8753805",
-        "title": "Trump vows death penalty if Savannah Guthrie’s mom Nancy is killed as search rages on",
-        "link": "https://pagesix.com/2026/02/16/celebrity-news/trump-will-order-death-penalty-if-savannah-guthries-mom-nancy-is-killed/",
-        "published": "Mon, 16 Feb 2026 12:30:06 -0500",
-        "image_url": "https://pagesix.com/wp-content%2Fuploads%2Fsites%2F3%2F2026%2F02%2F121483106.jpg?quality%3D90%26strip%3Dall"
-      }
-    },
-    {
-      "source": "NYP",
-      "entry": {
-        "id": "https://pagesix.com/2026/02/16/celebrity-news/trump-will-order-death-penalty-if-savannah-guthries-mom-nancy-is-killed/",
-        "title": "Trump will order death penalty if Savannah Guthrie’s mom Nancy is killed as search rages on",
-        "link": "https://pagesix.com/2026/02/16/celebrity-news/trump-will-order-death-penalty-if-savannah-guthries-mom-nancy-is-killed/",
-        "published": "Mon, 16 Feb 2026 12:30:06 -0500",
-        "image_url": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F02%2F121483106.jpg?quality%3D90%26strip%3Dall"
-      }
-    },
-    {
-      "source": "AP NEWS",
-      "entry": {
-        "id": "https://apnews.com/article/taylor-swift-concerts-terrorism-vienna-islamic-state-plot-202b552f90fd58d4102bf266337b7ab7",
-        "title": "Austrian prosecutors file terrorism charges against suspect over plot to attack Taylor Swift show",
-        "link": "https://apnews.com/article/taylor-swift-concerts-terrorism-vienna-islamic-state-plot-202b552f90fd58d4102bf266337b7ab7",
-        "published": "Mon, 16 Feb 2026 09:25:00 GMT",
-        "image_url": ""
-      }
-    },
-    {
-      "source": "AP NEWS",
-      "entry": {
-        "id": "https://apnews.com/article/israel-palestinians-west-bank-settlers-86621a794e0d3828b946c753bf08a4ea",
-        "title": "Prosecutors plan to charge an Israeli settler with killing a Palestinian activist in the West Bank",
-        "link": "https://apnews.com/article/israel-palestinians-west-bank-settlers-86621a794e0d3828b946c753bf08a4ea",
-        "published": "Mon, 16 Feb 2026 09:20:00 GMT",
-        "image_url": "https://www.bing.com/th?id=OVFT.Uk1TY-nHFBdSHavVhExrwy&pid=News&w=1600&h=900&c=14&rs=1"
-      }
-    },
-    {
-      "source": "SCMP",
-      "entry": {
-        "id": "https://www.scmp.com/news/world/united-states-canada/article/3343772/trump-slams-energy-deal-between-california-and-britain-calls-governor-newsom-loser?utm_source=rss_feed",
-        "title": "Trump slams energy deal between California and Britain, calls Governor Newsom a ‘loser’",
-        "link": "https://www.scmp.com/news/world/united-states-canada/article/3343772/trump-slams-energy-deal-between-california-and-britain-calls-governor-newsom-loser?utm_source=rss_feed",
-        "published": "Mon, 16 Feb 2026 17:57:52 +0000",
-        "image_url": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/02/17/53433f25-3965-4f90-b96a-6b592d1691ef_5ccee1fb.jpg?itok=oDCrV4GD&v=1771264616"
-      }
-    },
-    {
-      "source": "NYP",
-      "entry": {
-        "id": "https://nypost.com/?post_type=article&p=38506898",
-        "title": "Trump says Board of Peace will discuss how to use $5B raised for Gaza projects: ‘Haven’t decided yet’",
-        "link": "https://nypost.com/2026/02/16/us-news/trump-says-board-of-peace-will-discuss-how-to-use-5b-raised-for-gaza-projects-havent-decided-yet/",
-        "published": "Mon, 16 Feb 2026 13:29:22 -0500",
-        "image_url": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F02%2Fnewspress-collage-83bhpw5q0-1771263903337.jpg?quality%3D90%26strip%3Dall%261771245910"
-      }
-    },
-    {
-      "source": "WaPo",
-      "entry": {
-        "id": "https://www.washingtonpost.com/world/2026/02/16/iran-trump-nuclear-talks-protests-anger/",
-        "title": "Popular anger burns in Iran after crackdown, as Trump turns up pressure",
-        "link": "https://www.washingtonpost.com/world/2026/02/16/iran-trump-nuclear-talks-protests-anger/",
-        "published": "Mon, 16 Feb 2026 18:07:29 +0000",
-        "image_url": ""
-      }
-    },
-    {
-      "source": "AP NEWS",
-      "entry": {
-        "id": "https://apnews.com/article/robert-duvall-dead-6ddb67ba5e2242ba9dd96f29b4ce242a",
-        "title": "Robert Duvall, Oscar-winning actor and ‘Godfather’ mainstay, dead at 95",
-        "link": "https://apnews.com/article/robert-duvall-dead-6ddb67ba5e2242ba9dd96f29b4ce242a",
-        "published": "Mon, 16 Feb 2026 10:50:00 GMT",
-        "image_url": "https://www.bing.com/th?id=OVFT.Y2IOLHd0rjqF_0U_RCTkLS&pid=News&w=1600&h=900&c=14&rs=1"
-      }
-    },
-    {
-      "source": "Reuters",
-      "entry": {
-        "id": "https://www.reuters.com/business/energy/trump-slams-energy-deal-between-california-and-britain-politico-reports-2026-02-16/",
-        "title": "Trump slams energy deal between California and Britain, Politico reports",
-        "link": "https://www.reuters.com/business/energy/trump-slams-energy-deal-between-california-and-britain-politico-reports-2026-02-16/",
-        "published": "Mon, 16 Feb 2026 08:35:00 GMT",
-        "image_url": ""
-      }
-    },
-    {
-      "source": "NYP",
-      "entry": {
-        "id": "https://nypost.com/?post_type=article&p=38508223",
-        "title": "‘Dance mom’ who killed 11-year-old daughter at Vegas cheer contest was embroiled in bitter custody battle",
-        "link": "https://nypost.com/2026/02/16/us-news/dance-mom-who-killed-11-year-old-daughter-at-vegas-cheer-contest-was-embroiled-in-bitter-custody-battle/",
-        "published": "Mon, 16 Feb 2026 14:07:56 -0500",
-        "image_url": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F02%2Fvegas-cheer-comp1.jpg?quality%3D90%26strip%3Dall"
-      }
-    },
-    {
-      "source": "SCMP",
-      "entry": {
-        "id": "https://www.scmp.com/news/world/middle-east/article/3343774/hamas-used-emojis-signal-start-october-7-2023-attack-israel?utm_source=rss_feed",
-        "title": "Hamas ‘used emojis’ to signal start of the October 7, 2023 attack on Israel",
-        "link": "https://www.scmp.com/news/world/middle-east/article/3343774/hamas-used-emojis-signal-start-october-7-2023-attack-israel?utm_source=rss_feed",
-        "published": "Mon, 16 Feb 2026 19:23:12 +0000",
-        "image_url": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/02/17/b3a41014-d560-42e4-87b3-482d23e899fc_84ad9b92.jpg?itok=IyQCXSLC&v=1771269553"
-      }
-    },
-    {
-      "source": "SCMP",
-      "entry": {
-        "id": "https://www.scmp.com/news/world/united-states-canada/article/3343773/actor-robert-duvall-star-godfather-and-apocalypse-now-dead-95?utm_source=rss_feed",
-        "title": "Actor Robert Duvall, star of The Godfather and Apocalypse Now, dead at 95",
-        "link": "https://www.scmp.com/news/world/united-states-canada/article/3343773/actor-robert-duvall-star-godfather-and-apocalypse-now-dead-95?utm_source=rss_feed",
-        "published": "Mon, 16 Feb 2026 19:02:46 +0000",
-        "image_url": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/02/17/32d4a3b7-a409-435a-8dd4-0cfae1470452_105855bb.jpg?itok=BVGribOO&v=1771268353"
-      }
-    },
-    {
-      "source": "NYP",
-      "entry": {
-        "id": "https://nypost.com/?post_type=article&p=38507739",
-        "title": "Dollar Tree is invading posh neighborhoods after years of catering to low-income customers— breaking ‘stigma of the dollar store’",
-        "link": "https://nypost.com/2026/02/16/lifestyle/dollar-tree-hitting-wealthier-neighborhoods-not-just-low-income-areas-breaking-stigma-of-the-dollar-store/",
-        "published": "Mon, 16 Feb 2026 15:37:47 -0500",
-        "image_url": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F02%2Fcrop-38508873.jpg?quality%3D90%26strip%3Dall"
-      }
-    },
-    {
-      "source": "NYP",
-      "entry": {
-        "id": "https://nypost.com/?post_type=article&p=38233529",
-        "title": "Inside the home where Jake Haro killed little Emmanuel — with chilling message on fresh cement",
-        "link": "https://nypost.com/2026/02/16/us-news/inside-the-fate-of-house-where-jake-haro-killed-little-emmanuel/",
-        "published": "Mon, 16 Feb 2026 15:29:51 -0500",
-        "image_url": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F01%2F119298968.jpg?quality%3D90%26strip%3Dall"
-      }
-    },
-    {
-      "source": "NYP",
-      "entry": {
-        "id": "https://nypost.com/?post_type=article&p=38507893",
-        "title": "Trump vows feds won’t pay for Gateway tunnel overruns, denies wanting to rename Penn Station after himself",
-        "link": "https://nypost.com/2026/02/16/us-news/trump-vows-feds-wont-pay-for-gateway-tunnel-overruns-denies-wanting-to-rename-penn-station-after-himself/",
-        "published": "Mon, 16 Feb 2026 15:29:12 -0500",
-        "image_url": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F02%2F121490777.jpg?quality%3D90%26strip%3Dall"
-      }
-    },
-    {
-      "source": "Reuters",
-      "entry": {
-        "id": "https://www.reuters.com/world/europe/zelenskiy-warns-new-russian-strikes-ahead-geneva-peace-talks-2026-02-16/",
-        "title": "Zelenskiy warns of new Russian strikes ahead of Geneva peace talks",
-        "link": "https://www.reuters.com/world/europe/zelenskiy-warns-new-russian-strikes-ahead-geneva-peace-talks-2026-02-16/",
-        "published": "Mon, 16 Feb 2026 11:16:00 GMT",
-        "image_url": "https://www.bing.com/th?id=OVFT.Rj0I5YOb5mgMWl1zreUrGy&pid=News&w=1600&h=900&c=14&rs=1"
-      }
-    },
-    {
-      "source": "NYP",
-      "entry": {
-        "id": "https://nypost.com/?post_type=article&p=38509051",
-        "title": "1 dead, 4 hospitalized in mass shooting at Pawtucket, RI, high school hockey game",
-        "link": "https://nypost.com/2026/02/16/us-news/pawtucket-shooting-multiple-casualties-reported-at-rhode-islands-lynch-arena/",
-        "published": "Mon, 16 Feb 2026 15:13:48 -0500",
-        "image_url": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F02%2FScreenshot-2026-02-16-at-3.48.46%E2%80%AFPM-2-1.jpg?quality%3D90%26strip%3Dall"
-      }
-    },
-    {
-      "source": "Reuters",
-      "entry": {
-        "id": "https://www.reuters.com/world/us/trump-says-federal-government-step-protect-potomac-river-amid-sewage-leak-2026-02-16/",
-        "title": "Trump says federal government to step in to 'protect' Potomac river amid sewage leak",
-        "link": "https://www.reuters.com/world/us/trump-says-federal-government-step-protect-potomac-river-amid-sewage-leak-2026-02-16/",
-        "published": "Mon, 16 Feb 2026 11:18:00 GMT",
-        "image_url": ""
-      }
-    },
-    {
-      "source": "NYP",
-      "entry": {
-        "id": "https://nypost.com/?post_type=article&p=38507024",
-        "title": "Elon Musk’s Starlink crackdown cripples attacks on Ukraine as Russian casualty rates soar",
-        "link": "https://nypost.com/2026/02/16/world-news/elon-musks-starlink-crackdown-cripples-russian-attacks-on-ukraine-as-casualty-rates-soar/",
-        "published": "Mon, 16 Feb 2026 16:24:28 -0500",
-        "image_url": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F02%2FKremlin-Starlink.jpg?quality%3D90%26strip%3Dall"
-      }
-    },
-    {
-      "source": "SCMP",
-      "entry": {
-        "id": "https://www.scmp.com/opinion/asia-opinion/article/3343612/how-bnps-bangladesh-election-victory-will-shape-policy-trends?utm_source=rss_feed",
-        "title": "How the BNP’s Bangladesh election victory will shape policy trends",
-        "link": "https://www.scmp.com/opinion/asia-opinion/article/3343612/how-bnps-bangladesh-election-victory-will-shape-policy-trends?utm_source=rss_feed",
-        "published": "Mon, 16 Feb 2026 21:30:08 +0000",
-        "image_url": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/02/15/1203c1a8-d0c8-4038-bef5-9af9565aa55f_65500819.jpg?itok=P_7B6Wht&v=1771138243"
-      }
-    },
-    {
-      "source": "NYP",
-      "entry": {
-        "id": "https://nypost.com/?post_type=article&p=38509164",
-        "title": "Trump intervenes as millions of gallons of crap sully Potomac River after sewage pipe rupture",
-        "link": "https://nypost.com/2026/02/16/us-news/president-trump-intervenes-as-millions-of-gallons-of-crap-ravage-potomac-following-sewage-pipe-rupture/",
-        "published": "Mon, 16 Feb 2026 16:53:27 -0500",
-        "image_url": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F02%2F121498428.jpg?quality%3D90%26strip%3Dall"
-      }
-    },
-    {
-      "source": "NYP",
-      "entry": {
-        "id": "https://nypost.com/?post_type=article&p=38510190",
-        "title": "Sharia law victim who fled Somalia issues key endorsement in Senate race",
-        "link": "https://nypost.com/2026/02/16/us-news/sharia-law-victim-ayaan-hirsi-ali-issues-endorsement-in-critical-senate-race/",
-        "published": "Mon, 16 Feb 2026 17:27:00 -0500",
-        "image_url": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F02%2F121506607.jpg?quality%3D90%26strip%3Dall"
-      }
-    },
-    {
-      "source": "NYP",
-      "entry": {
-        "id": "https://nypost.com/?post_type=article&p=38509912",
-        "title": "Stephen A Smith says Trump right to secure border, says ‘emergency efforts were necessary’ after Biden",
-        "link": "https://nypost.com/2026/02/16/media/stephen-a-smith-says-trump-right-to-secure-border/",
-        "published": "Mon, 16 Feb 2026 17:19:20 -0500",
-        "image_url": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F02%2Fnewspress-collage-oeoqde8mw-1771277194711.jpg?quality%3D90%26strip%3Dall%261771259216"
-      }
-    },
-    {
-      "source": "AP NEWS",
-      "entry": {
-        "id": "https://apnews.com/article/pawtucket-hockey-rink-shooting-rhode-island-c8ac3e8067ce2f2ce07e4d98009ecdaa",
-        "title": "3 killed, including suspect, in shooting during Rhode Island youth hockey game",
-        "link": "https://apnews.com/article/pawtucket-hockey-rink-shooting-rhode-island-c8ac3e8067ce2f2ce07e4d98009ecdaa",
-        "published": "Mon, 16 Feb 2026 14:22:00 GMT",
-        "image_url": "https://www.bing.com/th?id=OVFT.SjKmW-PzJARbabdgC5e37C&pid=News&w=1600&h=900&c=14&rs=1"
-      }
-    },
-    {
-      "source": "SCMP",
-      "entry": {
-        "id": "https://www.scmp.com/news/world/africa/article/3343771/trumps-new-ambassador-south-africa-arrives-country-amid-strained-ties?utm_source=rss_feed",
-        "title": "Trump’s new ambassador to South Africa arrives in country amid strained ties",
-        "link": "https://www.scmp.com/news/world/africa/article/3343771/trumps-new-ambassador-south-africa-arrives-country-amid-strained-ties?utm_source=rss_feed",
-        "published": "Mon, 16 Feb 2026 22:21:11 +0000",
-        "image_url": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/02/17/216ceb92-bd02-4232-a261-71c5bcfe2086_6ebfd0f7.jpg?itok=uRdFoHkX&v=1771279896"
-      }
-    },
-    {
-      "source": "NYP",
-      "entry": {
-        "id": "https://nypost.com/?post_type=article&p=38509294",
-        "title": "Indebted DNC bought Kamala Harris donor list for $6.5M more than a year after the 2024 election",
-        "link": "https://nypost.com/2026/02/16/us-news/indebted-dnc-bought-kamala-harris-donor-list-for-6-5m-more-than-a-year-after-the-2024-election/",
-        "published": "Mon, 16 Feb 2026 17:56:23 -0500",
-        "image_url": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F02%2Fnewspress-collage-xc2ydvt8y-1771279819273.jpg?quality%3D90%26strip%3Dall%261771261828"
-      }
-    },
-    {
-      "source": "AP NEWS",
-      "entry": {
-        "id": "https://apnews.com/article/george-washington-slavery-exhibit-restored-trump-2a32236320f280ba3e647d900c1301b4",
-        "title": "Judge orders Trump administration to restore Washington slavery exhibit it removed in Philadelphia",
-        "link": "https://apnews.com/article/george-washington-slavery-exhibit-restored-trump-2a32236320f280ba3e647d900c1301b4",
-        "published": "Mon, 16 Feb 2026 15:30:00 GMT",
-        "image_url": "https://www.bing.com/th?id=OVFT.gyJUWm12NsOVcqn-1PrBXi&pid=News&w=1600&h=900&c=14&rs=1"
-      }
-    }
-  ],
-  "last_digest_date": "2026-02-16",
+  "night_buffer": [],
+  "last_digest_date": "2026-02-17",
   "last_run": {
-    "utc": "2026-02-17T00:00:02Z",
-    "local": "2026-02-17T07:59:48+08:00",
+    "utc": "2026-02-17T14:23:10Z",
+    "local": "2026-02-17T22:22:57+08:00",
     "tz": "Asia/Shanghai",
-    "local_hour": 7,
-    "quiet": true,
+    "local_hour": 22,
+    "quiet": false,
     "sources_ok": 9,
     "sources_fail": 0,
-    "entries_total": 185,
-    "new": 3,
-    "pushed_ok": 0,
+    "entries_total": 190,
+    "new": 15,
+    "pushed_ok": 1,
     "pushed_fail": 0,
-    "skipped_seen": 52,
-    "skipped_major": 130,
-    "buffered_total": 40,
+    "skipped_seen": 30,
+    "skipped_major": 100,
+    "buffered_total": 0,
     "buffered_added": 0,
-    "seen_size": 256,
+    "seen_size": 209,
     "github": {
       "repo": "zixuouoscaroliver/Oscar-Oliver",
       "workflow": "Telegram News Bot",
-      "run_id": "22081117387",
-      "run_number": "246",
+      "run_id": "22102154500",
+      "run_number": "258",
       "sha": "a89f5a686d9e4f1e1c76ef89a17bd8db610de47b",
       "ref": "refs/heads/main",
-      "run_url": "https://github.com/zixuouoscaroliver/Oscar-Oliver/actions/runs/22081117387"
+      "run_url": "https://github.com/zixuouoscaroliver/Oscar-Oliver/actions/runs/22102154500"
     },
     "checkout": {
       "ref": "bot-stable",
-      "sha": "a89f5a686d9e4f1e1c76ef89a17bd8db610de47b"
+      "sha": "3512fe6f740d1ff9eadaf8b77b3f677d22d9c1ad"
     }
   }
 }
