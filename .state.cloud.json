@@ -1,11 +1,6 @@
 {
   "initialized": true,
   "seen": {
-    "https://nypost.com/?post_type=article&p=38492497": 1771091636,
-    "https://nypost.com/?post_type=article&p=38492528": 1771091636,
-    "https://nypost.com/?post_type=article&p=38492596": 1771093303,
-    "https://apnews.com/article/winter-olympics-milan-cortina-russia-8f399664dc4fdb8a70064fedb8b9b980": 1771093303,
-    "https://www.reuters.com/sports/cricket/markram-powers-south-africa-seven-wicket-win-over-new-zealand-t20-world-cup-2026-02-14/": 1771093303,
     "https://nypost.com/?post_type=article&p=38492835": 1771096951,
     "https://nypost.com/?post_type=article&p=38493255": 1771098868,
     "https://nypost.com/?post_type=article&p=38491849": 1771098868,
@@ -216,7 +211,16 @@
     "https://www.reuters.com/world/us/goldman-nasdaq-ceos-headline-mar-a-lago-crypto-forum-hosted-by-don-jr-eric-trump-2026-02-17/": 1771349760,
     "https://www.scmp.com/news/asia/article/3343784/indonesias-tourist-visa-filipino-assaulted-singaporean-mall-7-asia-highlights?utm_source=rss_feed": 1771349760,
     "https://www.scmp.com/news/asia/australasia/article/3343792/sydney-stabbing-man-killed-random-attack-busy-shopping-street?utm_source=rss_feed": 1771349760,
-    "https://www.scmp.com/news/asia/southeast-asia/article/3343789/indonesias-capital-drowning-waste-smell-awful?utm_source=rss_feed": 1771349760
+    "https://www.scmp.com/news/asia/southeast-asia/article/3343789/indonesias-capital-drowning-waste-smell-awful?utm_source=rss_feed": 1771349760,
+    "https://nypost.com/?post_type=article&p=38516043": 1771353101,
+    "https://www.washingtonpost.com/world/2026/02/17/iran-talks-geneva-nuclear-trump/": 1771353101,
+    "https://apnews.com/article/trump-russia-brennan-justice-department-4d2ba1d30b7a6ae54527af219c788f2f": 1771353101,
+    "https://www.reuters.com/legal/government/us-supreme-court-adopts-new-technology-help-identify-conflicts-interest-2026-02-17/": 1771353101,
+    "https://www.reuters.com/business/drop-unauthorized-immigration-slows-job-growth-sf-fed-paper-finds-2026-02-17/": 1771353101,
+    "https://www.reuters.com/world/us/dhs-spokeswoman-mclaughlin-leave-trump-administration-politico-reports-2026-02-17/": 1771353101,
+    "https://www.scmp.com/news/world/russia-central-asia/article/3343847/ukraine-and-russia-meet-geneva-trump-piles-new-pressure-kyiv?utm_source=rss_feed": 1771353101,
+    "https://www.scmp.com/news/world/united-states-canada/article/3343783/hillary-clinton-accuses-trump-epstein-cover-insists-nothing-hide?utm_source=rss_feed": 1771353101,
+    "https://www.scmp.com/week-asia/politics/article/3343763/what-next-okinawas-anti-base-alliance-after-japan-election-loss?utm_source=rss_feed": 1771353101
   },
   "night_buffer": [
     {
@@ -358,34 +362,124 @@
         "published": "Tue, 17 Feb 2026 03:41:07 +0000",
         "image_url": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/02/17/174c7ae6-741f-4bb1-b78d-89e3fef290e7_ba52de2c.jpg?itok=yTZ3UQgi&v=1771299666"
       }
+    },
+    {
+      "source": "NYP",
+      "entry": {
+        "id": "https://nypost.com/?post_type=article&p=38516043",
+        "title": "Stephen Colbert rips CBS for pulling interview with Trump critic James Talarico over regulatory concerns: ‘FCC you’",
+        "link": "https://nypost.com/2026/02/17/media/colbert-rips-cbs-for-pulling-james-talarico-interview-over-regulatory-concerns/",
+        "published": "Tue, 17 Feb 2026 12:49:41 -0500",
+        "image_url": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F02%2F121547400.jpg?quality%3D90%26strip%3Dall"
+      }
+    },
+    {
+      "source": "WaPo",
+      "entry": {
+        "id": "https://www.washingtonpost.com/world/2026/02/17/iran-talks-geneva-nuclear-trump/",
+        "title": "Amid threat of U.S. attack, Iran nuclear talks proceed without breakthrough",
+        "link": "https://www.washingtonpost.com/world/2026/02/17/iran-talks-geneva-nuclear-trump/",
+        "published": "Tue, 17 Feb 2026 18:11:11 +0000",
+        "image_url": ""
+      }
+    },
+    {
+      "source": "AP NEWS",
+      "entry": {
+        "id": "https://apnews.com/article/trump-russia-brennan-justice-department-4d2ba1d30b7a6ae54527af219c788f2f",
+        "title": "New subpoenas issued in inquiry on response to 2016 Russian election interference, AP sources say",
+        "link": "https://apnews.com/article/trump-russia-brennan-justice-department-4d2ba1d30b7a6ae54527af219c788f2f",
+        "published": "Tue, 17 Feb 2026 09:39:00 GMT",
+        "image_url": "https://www.bing.com/th?id=OVFT.ZSHLpJbBDOLx1q1hy5Y2pC&pid=News&w=1600&h=900&c=14&rs=1"
+      }
+    },
+    {
+      "source": "Reuters",
+      "entry": {
+        "id": "https://www.reuters.com/legal/government/us-supreme-court-adopts-new-technology-help-identify-conflicts-interest-2026-02-17/",
+        "title": "US Supreme Court adopts new technology to help identify conflicts of interest",
+        "link": "https://www.reuters.com/legal/government/us-supreme-court-adopts-new-technology-help-identify-conflicts-interest-2026-02-17/",
+        "published": "Tue, 17 Feb 2026 09:09:00 GMT",
+        "image_url": "https://www.bing.com/th?id=OVFT.Q0rYSfWbzHDCo_kWJJFI6C&pid=News&w=1600&h=900&c=14&rs=1"
+      }
+    },
+    {
+      "source": "Reuters",
+      "entry": {
+        "id": "https://www.reuters.com/business/drop-unauthorized-immigration-slows-job-growth-sf-fed-paper-finds-2026-02-17/",
+        "title": "Drop in unauthorized immigration slows job growth, SF Fed paper finds",
+        "link": "https://www.reuters.com/business/drop-unauthorized-immigration-slows-job-growth-sf-fed-paper-finds-2026-02-17/",
+        "published": "Tue, 17 Feb 2026 09:03:00 GMT",
+        "image_url": "https://www.bing.com/th?id=OVFT.gLEg5kMOAmRQGwcYasFIRS&pid=News&w=1600&h=900&c=14&rs=1"
+      }
+    },
+    {
+      "source": "Reuters",
+      "entry": {
+        "id": "https://www.reuters.com/world/us/dhs-spokeswoman-mclaughlin-leave-trump-administration-politico-reports-2026-02-17/",
+        "title": "Top Trump Homeland Security spokesperson to depart with immigration crackdown under scrutiny",
+        "link": "https://www.reuters.com/world/us/dhs-spokeswoman-mclaughlin-leave-trump-administration-politico-reports-2026-02-17/",
+        "published": "Tue, 17 Feb 2026 07:15:00 GMT",
+        "image_url": "https://www.bing.com/th?id=OVFT.q0RMIKr3RpZc7D9o14WTwS&pid=News&w=1600&h=900&c=14&rs=1"
+      }
+    },
+    {
+      "source": "SCMP",
+      "entry": {
+        "id": "https://www.scmp.com/news/world/russia-central-asia/article/3343847/ukraine-and-russia-meet-geneva-trump-piles-new-pressure-kyiv?utm_source=rss_feed",
+        "title": "Ukraine and Russia meet in Geneva as Trump piles new pressure on Kyiv",
+        "link": "https://www.scmp.com/news/world/russia-central-asia/article/3343847/ukraine-and-russia-meet-geneva-trump-piles-new-pressure-kyiv?utm_source=rss_feed",
+        "published": "Tue, 17 Feb 2026 18:30:01 +0000",
+        "image_url": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/02/18/cce6a751-5530-4496-8683-d196c80bc47d_ce47d1da.jpg?itok=OJYRISwC&v=1771352997"
+      }
+    },
+    {
+      "source": "SCMP",
+      "entry": {
+        "id": "https://www.scmp.com/news/world/united-states-canada/article/3343783/hillary-clinton-accuses-trump-epstein-cover-insists-nothing-hide?utm_source=rss_feed",
+        "title": "Hillary Clinton accuses Trump of Epstein cover-up, insists ‘nothing to hide’",
+        "link": "https://www.scmp.com/news/world/united-states-canada/article/3343783/hillary-clinton-accuses-trump-epstein-cover-insists-nothing-hide?utm_source=rss_feed",
+        "published": "Tue, 17 Feb 2026 03:15:27 +0000",
+        "image_url": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/02/17/1bcf0fa6-b733-4024-aec7-872e7650e121_b67b1929.jpg?itok=GQGkpVfv&v=1771298124"
+      }
+    },
+    {
+      "source": "SCMP",
+      "entry": {
+        "id": "https://www.scmp.com/week-asia/politics/article/3343763/what-next-okinawas-anti-base-alliance-after-japan-election-loss?utm_source=rss_feed",
+        "title": "What next for Okinawa’s anti-base alliance after Japan election loss?",
+        "link": "https://www.scmp.com/week-asia/politics/article/3343763/what-next-okinawas-anti-base-alliance-after-japan-election-loss?utm_source=rss_feed",
+        "published": "Tue, 17 Feb 2026 01:30:14 +0000",
+        "image_url": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/02/16/2e95ce40-3448-48c0-8d73-ae362096c97e_debf944b.jpg?itok=ehr95ebh&v=1771251551"
+      }
     }
   ],
   "last_digest_date": "2026-02-17",
   "last_run": {
-    "utc": "2026-02-17T17:36:10Z",
-    "local": "2026-02-18T01:36:00+08:00",
+    "utc": "2026-02-17T18:31:53Z",
+    "local": "2026-02-18T02:31:41+08:00",
     "tz": "Asia/Shanghai",
-    "local_hour": 1,
+    "local_hour": 2,
     "quiet": true,
     "sources_ok": 9,
     "sources_fail": 0,
-    "entries_total": 187,
+    "entries_total": 192,
     "new": 9,
     "pushed_ok": 0,
     "pushed_fail": 0,
-    "skipped_seen": 42,
-    "skipped_major": 110,
-    "buffered_total": 14,
+    "skipped_seen": 45,
+    "skipped_major": 127,
+    "buffered_total": 23,
     "buffered_added": 9,
-    "seen_size": 216,
+    "seen_size": 220,
     "github": {
       "repo": "zixuouoscaroliver/Oscar-Oliver",
       "workflow": "Telegram News Bot",
-      "run_id": "22108979250",
-      "run_number": "262",
+      "run_id": "22110769647",
+      "run_number": "263",
       "sha": "a89f5a686d9e4f1e1c76ef89a17bd8db610de47b",
       "ref": "refs/heads/main",
-      "run_url": "https://github.com/zixuouoscaroliver/Oscar-Oliver/actions/runs/22108979250"
+      "run_url": "https://github.com/zixuouoscaroliver/Oscar-Oliver/actions/runs/22110769647"
     },
     "checkout": {
       "ref": "bot-stable",
