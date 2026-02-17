@@ -62,7 +62,7 @@ Settings path: `Settings -> Secrets and variables -> Actions`
 - Beta repo recommended: `bot-beta`
 - `NEWS_TZ` (e.g., `Asia/Shanghai`)
 - `PRIMARY_HEARTBEAT_MAX_AGE_SECONDS` (default `900`)
-- `AI_SUMMARY_THRESHOLD` (default `10`)
+- `AI_SUMMARY_THRESHOLD` (default `5`)
 - `AI_SUMMARY_MODEL` (default `gpt-5-mini`)
 - `AI_SUMMARY_MAX_ITEMS` (default `30`)
 
@@ -77,7 +77,7 @@ For each news item:
 5. fallback to text `sendMessage` if all image sends fail
 
 ### 5.2 Compact Summary Trigger
-When `new_items > AI_SUMMARY_THRESHOLD`:
+When `to_send_items >= AI_SUMMARY_THRESHOLD`:
 - send one compact summary message instead of many single messages
 - with `OPENAI_API_KEY`: AI summary path
 - without key / AI failure: deterministic rule summary path
@@ -136,4 +136,3 @@ Recommended sequence:
 2. confirm bot output format / delivery / error rate
 3. fast-forward or cherry-pick validated commits into stable
 4. trigger stable run and verify summary metrics
-

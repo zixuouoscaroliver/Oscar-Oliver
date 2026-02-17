@@ -711,8 +711,8 @@ def build_rule_summary_text(items: List[dict], tz_name: str, now_local: datetime
     )
 
     lines = [
-        f"<b>【新闻汇总】本轮共 {len(items)} 条（{now_local.strftime('%Y-%m-%d %H:%M')} {tz_name}）</b>",
-        f"主要来源：{html.escape(top_sources)}",
+        f"【新闻汇总】本轮共 {len(items)} 条（{now_local.strftime('%Y-%m-%d %H:%M')} {tz_name}）",
+        f"主要来源：{top_sources}",
         "",
     ]
     idx = 1
@@ -721,7 +721,7 @@ def build_rule_summary_text(items: List[dict], tz_name: str, now_local: datetime
         if not bucket:
             continue
         avg_heat = sum(x["heat"] for x in bucket) / max(1, len(bucket))
-        lines.append(f"<b>{html.escape(topic)}（{len(bucket)}，均热度{avg_heat:.1f}）</b>")
+        lines.append(f"{topic}（{len(bucket)}，均热度{avg_heat:.1f}）")
         bucket_sorted = sorted(bucket, key=lambda x: (-x["heat"],))
         for rec in bucket_sorted:
             if idx > SUMMARY_MAX_HEADLINES:
@@ -733,12 +733,12 @@ def build_rule_summary_text(items: List[dict], tz_name: str, now_local: datetime
             if len(title) > 92:
                 title = title[:89] + "..."
             link = (entry.get("link") or "").strip()
-            safe_title = html.escape(f"[{source}] {title}")
+            line_title = f"[{source}] {title}"
             if link:
-                safe_link = html.escape(link, quote=True)
-                lines.append(f'{idx}. <a href="{safe_link}">{safe_title}</a> (🔥{rec["heat"]:.1f})')
+                lines.append(f"{idx}. {line_title} (🔥{rec['heat']:.1f})")
+                lines.append(f"   {link}")
             else:
-                lines.append(f'{idx}. {safe_title} (🔥{rec["heat"]:.1f})')
+                lines.append(f"{idx}. {line_title} (🔥{rec['heat']:.1f})")
             idx += 1
         lines.append("")
         if idx > SUMMARY_MAX_HEADLINES:
@@ -763,12 +763,13 @@ def build_ai_summary_text(
         events.append(f'{idx}. [{source}] {title}\n热度: {heat:.1f}\n链接: {link}')
 
     system_msg = (
-        "你是新闻编辑。请输出高信息密度摘要，目标是在一条消息里看到尽量多标题并能直接点标题跳转链接。"
+        "你是新闻编辑。请输出高信息密度摘要，目标是在一条消息里看到尽量多标题并能直接点击URL。"
         "输出格式："
         "1) 先给1行总体概览；"
         "2) 按主题分组（每组标题用小标题）；"
-        "3) 每条标题用HTML超链接格式：<a href=\"URL\">[来源] 标题</a> (🔥热度)；"
-        "4) 不要编造。"
+        "3) 每条标题一行，格式：[来源] 标题 (🔥热度)；下一行单独放URL；"
+        "4) 不要输出任何HTML标签；"
+        "5) 不要编造。"
     )
     user_msg = (
         f"时间: {now_local.strftime('%Y-%m-%d %H:%M')} {tz_name}\n"
@@ -817,7 +818,9 @@ def maybe_send_compact_summary(
     ai_model: str,
     ai_max_items: int,
 ) -> bool:
-    if len(items) <= threshold:
+    # Trigger summary based on the actual batch size to be sent this time.
+    # `threshold=5` means "5 or more items -> summary".
+    if len(items) < threshold:
         return False
 
     summary_text = ""
@@ -838,13 +841,7 @@ def maybe_send_compact_summary(
     if not summary_text:
         summary_text = build_rule_summary_text(items=items, tz_name=tz_name, now_local=now_local)
 
-    send_telegram_message(
-        token,
-        chat_id,
-        summary_text[:3900],
-        parse_mode="HTML",
-        disable_web_page_preview=True,
-    )
+    send_telegram_message(token, chat_id, summary_text[:3900], disable_web_page_preview=True)
     return True
 
 
@@ -866,17 +863,24 @@ def flush_night_digest(
         return
 
     logging.info("发送夜间汇总，条数=%s", len(buffered))
-    if maybe_send_compact_summary(
-        token=token,
-        chat_id=chat_id,
-        items=buffered,
-        tz_name=tz_name,
-        now_local=now_local,
-        threshold=summary_threshold,
-        ai_api_key=ai_api_key,
-        ai_model=ai_model,
-        ai_max_items=ai_max_items,
-    ):
+    sent_summary = False
+    try:
+        sent_summary = maybe_send_compact_summary(
+            token=token,
+            chat_id=chat_id,
+            items=buffered,
+            tz_name=tz_name,
+            now_local=now_local,
+            threshold=summary_threshold,
+            ai_api_key=ai_api_key,
+            ai_model=ai_model,
+            ai_max_items=ai_max_items,
+        )
+    except Exception:
+        logging.exception("夜间汇总消息发送失败，将降级为逐条补发")
+        sent_summary = False
+
+    if sent_summary:
         state["night_buffer"] = []
         state["last_digest_date"] = today_str
         logging.info("夜间缓存已汇总推送，条数=%s", len(buffered))
@@ -930,7 +934,7 @@ def run(run_once: bool = False) -> None:
     quiet_end = int(os.getenv("QUIET_HOUR_END", "9"))
     night_digest_max = int(os.getenv("NIGHT_DIGEST_MAX", "40"))
     fetch_article_image_enabled = os.getenv("FETCH_ARTICLE_IMAGE", "true").strip().lower() == "true"
-    ai_summary_threshold = int(os.getenv("AI_SUMMARY_THRESHOLD", "10"))
+    ai_summary_threshold = int(os.getenv("AI_SUMMARY_THRESHOLD", "5"))
     ai_summary_model = (os.getenv("AI_SUMMARY_MODEL", "gpt-5-mini") or "gpt-5-mini").strip()
     ai_summary_max_items = int(os.getenv("AI_SUMMARY_MAX_ITEMS", "30"))
     openai_api_key = (os.getenv("OPENAI_API_KEY") or "").strip()
